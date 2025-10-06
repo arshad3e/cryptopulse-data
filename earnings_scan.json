@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2025-10-06T00:36:10.266030",
+  "topMovers": [
+    {
+      "ticker": "APLD",
+      "earnings_date": "2025-10-07",
+      "move_score": 20.73,
+      "avg_move": 10.42,
+      "analyst_upside": -2.76,
+      "stock_runup": 85.14
+    },
+    {
+      "ticker": "ACI",
+      "earnings_date": "2025-10-14",
+      "move_score": 14.98,
+      "avg_move": 2.16,
+      "analyst_upside": 38.07,
+      "stock_runup": -9.01
+    },
+    {
+      "ticker": "BMI",
+      "earnings_date": "2025-10-16",
+      "move_score": 14.15,
+      "avg_move": 7.75,
+      "analyst_upside": 31.17,
+      "stock_runup": -1.22
+    },
+    {
+      "ticker": "CCK",
+      "earnings_date": "2025-10-20",
+      "move_score": 10.5,
+      "avg_move": 4.76,
+      "analyst_upside": 26.29,
+      "stock_runup": 4.51
+    },
+    {
+      "ticker": "ALLY",
+      "earnings_date": "2025-10-17",
+      "move_score": 9.2,
+      "avg_move": 3.67,
+      "analyst_upside": 19.19,
+      "stock_runup": -4.67
+    }
+  ]
+}
