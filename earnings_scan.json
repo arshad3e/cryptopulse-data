@@ -1,45 +1,189 @@
 {
-  "lastUpdated": "2025-10-06T00:36:10.266030",
+  "lastUpdated": "2025-10-07T00:46:09.375422",
   "topMovers": [
     {
       "ticker": "APLD",
       "earnings_date": "2025-10-07",
-      "move_score": 20.73,
+      "move_score": 23.47,
       "avg_move": 10.42,
       "analyst_upside": -2.76,
-      "stock_runup": 85.14
+      "stock_runup": 99.21
     },
     {
       "ticker": "ACI",
       "earnings_date": "2025-10-14",
-      "move_score": 14.98,
+      "move_score": 15.81,
       "avg_move": 2.16,
       "analyst_upside": 38.07,
-      "stock_runup": -9.01
+      "stock_runup": -12.73
     },
     {
       "ticker": "BMI",
       "earnings_date": "2025-10-16",
-      "move_score": 14.15,
+      "move_score": 14.18,
       "avg_move": 7.75,
       "analyst_upside": 31.17,
-      "stock_runup": -1.22
+      "stock_runup": -0.97
     },
     {
       "ticker": "CCK",
       "earnings_date": "2025-10-20",
-      "move_score": 10.5,
+      "move_score": 10.99,
       "avg_move": 4.76,
       "analyst_upside": 26.29,
-      "stock_runup": 4.51
+      "stock_runup": 0.22
     },
     {
       "ticker": "ALLY",
       "earnings_date": "2025-10-17",
-      "move_score": 9.2,
+      "move_score": 9.1,
       "avg_move": 3.67,
       "analyst_upside": 19.19,
-      "stock_runup": -4.67
+      "stock_runup": -3.75
+    },
+    {
+      "ticker": "CCI",
+      "earnings_date": "2025-10-15",
+      "move_score": 8.39,
+      "avg_move": 1.42,
+      "analyst_upside": 23.91,
+      "stock_runup": 1.25
+    },
+    {
+      "ticker": "CBSH",
+      "earnings_date": "2025-10-16",
+      "move_score": 6.48,
+      "avg_move": 1.34,
+      "analyst_upside": 15.41,
+      "stock_runup": -2.17
+    },
+    {
+      "ticker": "AOS",
+      "earnings_date": "2025-10-21",
+      "move_score": 6.28,
+      "avg_move": 4.06,
+      "analyst_upside": 10.24,
+      "stock_runup": -2.08
+    },
+    {
+      "ticker": "AUB",
+      "earnings_date": "2025-10-20",
+      "move_score": 6.18,
+      "avg_move": 1.76,
+      "analyst_upside": 16.31,
+      "stock_runup": 1.77
+    },
+    {
+      "ticker": "ASML",
+      "earnings_date": "2025-10-15",
+      "move_score": 5.17,
+      "avg_move": 8.6,
+      "analyst_upside": -15.24,
+      "stock_runup": 31.03
+    },
+    {
+      "ticker": "CADE",
+      "earnings_date": "2025-10-20",
+      "move_score": 4.66,
+      "avg_move": 3.28,
+      "analyst_upside": 9.73,
+      "stock_runup": 3.29
+    },
+    {
+      "ticker": "BAC",
+      "earnings_date": "2025-10-15",
+      "move_score": 4.4,
+      "avg_move": 2.21,
+      "analyst_upside": 9.72,
+      "stock_runup": 1.88
+    },
+    {
+      "ticker": "ALV",
+      "earnings_date": "2025-10-17",
+      "move_score": 4.17,
+      "avg_move": 5.71,
+      "analyst_upside": 2.13,
+      "stock_runup": 0.42
+    },
+    {
+      "ticker": "ABT",
+      "earnings_date": "2025-10-15",
+      "move_score": 4.1,
+      "avg_move": 3.45,
+      "analyst_upside": 6.16,
+      "stock_runup": 1.16
+    },
+    {
+      "ticker": "PFSI",
+      "earnings_date": "2025-10-21",
+      "move_score": 3.7,
+      "avg_move": 1.75,
+      "analyst_upside": 5.4,
+      "stock_runup": -2.25
+    },
+    {
+      "ticker": "BK",
+      "earnings_date": "2025-10-16",
+      "move_score": 3.12,
+      "avg_move": 3.12,
+      "analyst_upside": 4.22,
+      "stock_runup": 2.32
+    },
+    {
+      "ticker": "C",
+      "earnings_date": "2025-10-14",
+      "move_score": 3.09,
+      "avg_move": 2.73,
+      "analyst_upside": 4.74,
+      "stock_runup": 2.27
+    },
+    {
+      "ticker": "BOKF",
+      "earnings_date": "2025-10-20",
+      "move_score": 2.45,
+      "avg_move": 2.47,
+      "analyst_upside": 2.44,
+      "stock_runup": 1.37
+    },
+    {
+      "ticker": "BLK",
+      "earnings_date": "2025-10-14",
+      "move_score": 2.42,
+      "avg_move": 3.08,
+      "analyst_upside": 0.97,
+      "stock_runup": 6.73
+    },
+    {
+      "ticker": "AXP",
+      "earnings_date": "2025-10-17",
+      "move_score": 2.11,
+      "avg_move": 3.62,
+      "analyst_upside": -0.19,
+      "stock_runup": 2.02
+    },
+    {
+      "ticker": "AGNC",
+      "earnings_date": "2025-10-20",
+      "move_score": 1.64,
+      "avg_move": 2.35,
+      "analyst_upside": -3.16,
+      "stock_runup": -3.27
+    },
+    {
+      "ticker": "AMX",
+      "earnings_date": "2025-10-21",
+      "move_score": 1.39,
+      "avg_move": 1.56,
+      "analyst_upside": 0.47,
+      "stock_runup": 6.15
+    },
+    {
+      "ticker": "BHP",
+      "earnings_date": "2025-10-20",
+      "move_score": -1.95,
+      "avg_move": 1.35,
+      "analyst_upside": -9.11,
+      "stock_runup": 3.27
     }
   ]
 }
