@@ -1,247 +1,335 @@
 {
-  "lastUpdated": "2025-10-07T23:08:49.502367",
+  "lastUpdated": "2025-10-08T23:55:38.998821",
   "topMovers": [
     {
-      "ticker": "DAL",
-      "company_name": "Delta Air Lines, Inc.",
-      "earnings_date": "2025-10-09",
-      "move_score": 12.73,
-      "avg_move": 7.71,
-      "analyst_upside": 21.78,
-      "stock_runup": -8.31,
-      "win_rate": 28.57,
-      "avg_pre_earnings_runup": -2.4
+      "ticker": "BSX",
+      "company_name": "Boston Scientific Corporation",
+      "earnings_date": "2025-10-22",
+      "move_score": 12.85,
+      "avg_move": 2.59,
+      "analyst_upside": 29.03,
+      "stock_runup": -10.45,
+      "win_rate": 62.5,
+      "avg_pre_earnings_runup": 2.17,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "CCK",
       "company_name": "Crown Holdings, Inc.",
       "earnings_date": "2025-10-20",
-      "move_score": 11.35,
+      "move_score": 11.59,
       "avg_move": 4.76,
       "analyst_upside": 26.29,
-      "stock_runup": -1.98,
+      "stock_runup": -2.79,
       "win_rate": 62.5,
-      "avg_pre_earnings_runup": -0.38
-    },
-    {
-      "ticker": "DPZ",
-      "company_name": "Domino's Pizza Inc",
-      "earnings_date": "2025-10-14",
-      "move_score": 9.62,
-      "avg_move": 3.34,
-      "analyst_upside": 16.64,
-      "stock_runup": -11.39,
-      "win_rate": 50.0,
-      "avg_pre_earnings_runup": -0.66
+      "avg_pre_earnings_runup": -0.38,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "ALLY",
       "company_name": "Ally Financial Inc.",
       "earnings_date": "2025-10-17",
-      "move_score": 8.96,
+      "move_score": 9.48,
       "avg_move": 3.67,
       "analyst_upside": 19.19,
-      "stock_runup": -3.43,
+      "stock_runup": -5.63,
       "win_rate": 50.0,
-      "avg_pre_earnings_runup": 0.86
+      "avg_pre_earnings_runup": 0.86,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
+    },
+    {
+      "ticker": "AGI",
+      "company_name": "Alamos Gold Inc.",
+      "earnings_date": "2025-10-22",
+      "move_score": 8.19,
+      "avg_move": 1.32,
+      "analyst_upside": 24.09,
+      "stock_runup": 5.32,
+      "win_rate": 37.5,
+      "avg_pre_earnings_runup": 5.5,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "CCI",
       "company_name": "Crown Castle Inc.",
       "earnings_date": "2025-10-15",
-      "move_score": 8.07,
+      "move_score": 8.0,
       "avg_move": 1.42,
       "analyst_upside": 23.91,
-      "stock_runup": 2.48,
+      "stock_runup": 3.18,
       "win_rate": 37.5,
-      "avg_pre_earnings_runup": -0.8
+      "avg_pre_earnings_runup": -0.8,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
-      "ticker": "COF",
-      "company_name": "Capital One Financial Corporati",
-      "earnings_date": "2025-10-21",
-      "move_score": 7.84,
-      "avg_move": 1.54,
-      "analyst_upside": 19.35,
-      "stock_runup": -2.91,
-      "win_rate": 75.0,
-      "avg_pre_earnings_runup": 1.52
-    },
-    {
-      "ticker": "DHR",
-      "company_name": "Danaher Corporation",
-      "earnings_date": "2025-10-21",
-      "move_score": 7.34,
-      "avg_move": 4.91,
-      "analyst_upside": 15.02,
-      "stock_runup": 5.29,
-      "win_rate": 62.5,
-      "avg_pre_earnings_runup": -3.14
+      "ticker": "AVY",
+      "company_name": "Avery Dennison Corporation",
+      "earnings_date": "2025-10-22",
+      "move_score": 7.77,
+      "avg_move": 2.19,
+      "analyst_upside": 17.78,
+      "stock_runup": -2.95,
+      "win_rate": 25.0,
+      "avg_pre_earnings_runup": -1.33,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "AOS",
       "company_name": "A.O. Smith Corporation",
       "earnings_date": "2025-10-21",
-      "move_score": 6.48,
+      "move_score": 6.12,
       "avg_move": 4.06,
       "analyst_upside": 10.24,
-      "stock_runup": -3.46,
+      "stock_runup": -1.29,
       "win_rate": 37.5,
-      "avg_pre_earnings_runup": 1.02
-    },
-    {
-      "ticker": "EWBC",
-      "company_name": "East West Bancorp, Inc.",
-      "earnings_date": "2025-10-21",
-      "move_score": 6.3,
-      "avg_move": 1.73,
-      "analyst_upside": 14.16,
-      "stock_runup": -2.5,
-      "win_rate": 100.0,
-      "avg_pre_earnings_runup": 1.59
-    },
-    {
-      "ticker": "DGX",
-      "company_name": "Quest Diagnostics Incorporated",
-      "earnings_date": "2025-10-21",
-      "move_score": 4.76,
-      "avg_move": 4.81,
-      "analyst_upside": 5.64,
-      "stock_runup": 0.09,
-      "win_rate": 75.0,
-      "avg_pre_earnings_runup": -1.65
+      "avg_pre_earnings_runup": 1.02,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "CFG",
       "company_name": "Citizens Financial Group, Inc.",
       "earnings_date": "2025-10-15",
-      "move_score": 4.55,
+      "move_score": 5.06,
       "avg_move": 2.78,
       "analyst_upside": 10.09,
-      "stock_runup": 2.77,
+      "stock_runup": 0.58,
       "win_rate": 62.5,
-      "avg_pre_earnings_runup": 3.23
+      "avg_pre_earnings_runup": 3.23,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "BAC",
       "company_name": "Bank of America Corporation",
       "earnings_date": "2025-10-15",
-      "move_score": 4.37,
+      "move_score": 4.96,
       "avg_move": 2.21,
       "analyst_upside": 9.72,
-      "stock_runup": 1.68,
+      "stock_runup": -0.89,
       "win_rate": 50.0,
-      "avg_pre_earnings_runup": 0.91
+      "avg_pre_earnings_runup": 0.91,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
-      "ticker": "ASML",
-      "company_name": "ASML Holding N.V. - New York Re",
-      "earnings_date": "2025-10-15",
-      "move_score": 4.22,
-      "avg_move": 8.6,
-      "analyst_upside": -15.24,
-      "stock_runup": 25.88,
-      "win_rate": 25.0,
-      "avg_pre_earnings_runup": 1.96
-    },
-    {
-      "ticker": "CSX",
-      "company_name": "CSX Corporation",
-      "earnings_date": "2025-10-16",
-      "move_score": 4.19,
-      "avg_move": 1.31,
-      "analyst_upside": 6.75,
-      "stock_runup": 10.98,
-      "win_rate": 25.0,
-      "avg_pre_earnings_runup": 0.28
+      "ticker": "CACI",
+      "company_name": "CACI International, Inc.",
+      "earnings_date": "2025-10-22",
+      "move_score": 4.62,
+      "avg_move": 1.44,
+      "analyst_upside": 8.96,
+      "stock_runup": 9.82,
+      "win_rate": 62.5,
+      "avg_pre_earnings_runup": 5.6,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "ABT",
       "company_name": "Abbott Laboratories",
       "earnings_date": "2025-10-15",
-      "move_score": 4.13,
+      "move_score": 3.98,
       "avg_move": 3.45,
       "analyst_upside": 6.16,
-      "stock_runup": 0.62,
+      "stock_runup": 1.76,
       "win_rate": 50.0,
-      "avg_pre_earnings_runup": -0.42
+      "avg_pre_earnings_runup": -0.42,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "C",
       "company_name": "Citigroup, Inc.",
       "earnings_date": "2025-10-14",
-      "move_score": 3.07,
+      "move_score": 3.67,
       "avg_move": 2.73,
       "analyst_upside": 4.74,
-      "stock_runup": 2.01,
+      "stock_runup": -0.66,
       "win_rate": 50.0,
-      "avg_pre_earnings_runup": 4.56
+      "avg_pre_earnings_runup": 4.56,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
+    },
+    {
+      "ticker": "ASML",
+      "company_name": "ASML Holding N.V. - New York Re",
+      "earnings_date": "2025-10-15",
+      "move_score": 3.51,
+      "avg_move": 8.6,
+      "analyst_upside": -15.24,
+      "stock_runup": 22.69,
+      "win_rate": 25.0,
+      "avg_pre_earnings_runup": 1.96,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "BK",
       "company_name": "The Bank of New York Mellon Cor",
       "earnings_date": "2025-10-16",
-      "move_score": 2.95,
+      "move_score": 3.35,
       "avg_move": 3.12,
       "analyst_upside": 4.22,
-      "stock_runup": 2.8,
+      "stock_runup": 1.18,
       "win_rate": 62.5,
-      "avg_pre_earnings_runup": 0.94
+      "avg_pre_earnings_runup": 0.94,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
+    },
+    {
+      "ticker": "CME",
+      "company_name": "CME Group Inc.",
+      "earnings_date": "2025-10-22",
+      "move_score": 3.25,
+      "avg_move": 1.43,
+      "analyst_upside": 6.77,
+      "stock_runup": 1.3,
+      "win_rate": 50.0,
+      "avg_pre_earnings_runup": 3.11,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
+    },
+    {
+      "ticker": "BCS",
+      "company_name": "Barclays PLC",
+      "earnings_date": "2025-10-22",
+      "move_score": 2.57,
+      "avg_move": 4.49,
+      "analyst_upside": -0.88,
+      "stock_runup": 0.84,
+      "win_rate": 50.0,
+      "avg_pre_earnings_runup": 4.35,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "AXP",
       "company_name": "American Express Company",
       "earnings_date": "2025-10-17",
-      "move_score": 2.28,
+      "move_score": 2.54,
       "avg_move": 3.62,
       "analyst_upside": -0.19,
-      "stock_runup": 0.79,
+      "stock_runup": -0.16,
       "win_rate": 25.0,
-      "avg_pre_earnings_runup": 2.59
+      "avg_pre_earnings_runup": 2.59,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "BLK",
       "company_name": "BlackRock, Inc.",
       "earnings_date": "2025-10-14",
-      "move_score": 2.26,
+      "move_score": 2.15,
       "avg_move": 3.08,
       "analyst_upside": 0.97,
-      "stock_runup": 5.55,
+      "stock_runup": 5.37,
       "win_rate": 62.5,
-      "avg_pre_earnings_runup": 0.23
+      "avg_pre_earnings_runup": 0.23,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
-      "ticker": "AGNC",
-      "company_name": "AGNC Investment Corp.",
-      "earnings_date": "2025-10-20",
-      "move_score": 1.35,
-      "avg_move": 2.35,
-      "analyst_upside": -3.16,
-      "stock_runup": -2.19,
-      "win_rate": 87.5,
-      "avg_pre_earnings_runup": -3.86
+      "ticker": "APH",
+      "company_name": "Amphenol Corporation",
+      "earnings_date": "2025-10-22",
+      "move_score": 2.01,
+      "avg_move": 3.78,
+      "analyst_upside": -2.31,
+      "stock_runup": 7.86,
+      "win_rate": 75.0,
+      "avg_pre_earnings_runup": -0.23,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "AMX",
       "company_name": "America Movil, S.A.B. de C.V.",
       "earnings_date": "2025-10-21",
-      "move_score": 1.27,
+      "move_score": 1.63,
       "avg_move": 1.56,
       "analyst_upside": 0.47,
-      "stock_runup": 5.18,
+      "stock_runup": 7.34,
       "win_rate": 37.5,
-      "avg_pre_earnings_runup": 2.15
+      "avg_pre_earnings_runup": 2.15,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
+    },
+    {
+      "ticker": "AGNC",
+      "company_name": "AGNC Investment Corp.",
+      "earnings_date": "2025-10-20",
+      "move_score": 1.11,
+      "avg_move": 2.35,
+      "analyst_upside": -3.16,
+      "stock_runup": -0.62,
+      "win_rate": 87.5,
+      "avg_pre_earnings_runup": -3.86,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     },
     {
       "ticker": "BHP",
       "company_name": "BHP Group Limited",
       "earnings_date": "2025-10-20",
-      "move_score": -1.74,
+      "move_score": -1.72,
       "avg_move": 1.35,
       "analyst_upside": -9.11,
-      "stock_runup": 1.85,
+      "stock_runup": 5.48,
       "win_rate": 71.43,
-      "avg_pre_earnings_runup": 1.98
+      "avg_pre_earnings_runup": 1.98,
+      "favorable_entry": {
+        "entry_price": "N/A",
+        "rationale": "AI analysis failed."
+      }
     }
   ]
 }
