@@ -1,0 +1,205 @@
+{
+  "scan_timestamp": "2025-12-13 00:03:09",
+  "matches_found": 16,
+  "data": [
+    {
+      "symbol": "MCHP",
+      "price": 67.18,
+      "rsi": 88.28,
+      "stoch_k": 95.19,
+      "extension": "+11.3%",
+      "volume": 12826959,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (88)"
+      ]
+    },
+    {
+      "symbol": "DECK",
+      "price": 101.18,
+      "rsi": 86.63,
+      "stoch_k": 93.71,
+      "extension": "+10.8%",
+      "volume": 2458763,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (86)"
+      ]
+    },
+    {
+      "symbol": "TPR",
+      "price": 123.21,
+      "rsi": 82.34,
+      "stoch_k": 94.59,
+      "extension": "+11.2%",
+      "volume": 2732110,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "DD",
+      "price": 40.93,
+      "rsi": 77.94,
+      "stoch_k": 87.01,
+      "extension": "+11.1%",
+      "volume": 4805704,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "TER",
+      "price": 193.37,
+      "rsi": 76.03,
+      "stoch_k": 90.22,
+      "extension": "+15.8%",
+      "volume": 4004958,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "GFS",
+      "price": 38.73,
+      "rsi": 75.7,
+      "stoch_k": 87.31,
+      "extension": "+9.3%",
+      "volume": 4213549,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "ROST",
+      "price": 182.09,
+      "rsi": 75.62,
+      "stoch_k": 89.66,
+      "extension": "+11.4%",
+      "volume": 2490588,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "PCAR",
+      "price": 111.56,
+      "rsi": 72.21,
+      "stoch_k": 87.33,
+      "extension": "+11.3%",
+      "volume": 3136454,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "TRGP",
+      "price": 183.19,
+      "rsi": 69.43,
+      "stoch_k": 87.94,
+      "extension": "+11.1%",
+      "volume": 1262999,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "price": 671.71,
+      "rsi": 69.38,
+      "stoch_k": 83.11,
+      "extension": "+12.5%",
+      "volume": 5177004,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "KEY",
+      "price": 20.66,
+      "rsi": 94.62,
+      "stoch_k": 95.36,
+      "extension": "+15.3%",
+      "volume": 17144873,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (94)"
+      ]
+    },
+    {
+      "symbol": "FITB",
+      "price": 48.15,
+      "rsi": 90.75,
+      "stoch_k": 95.47,
+      "extension": "+11.7%",
+      "volume": 6211832,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (90)"
+      ]
+    },
+    {
+      "symbol": "MGM",
+      "price": 37.4,
+      "rsi": 83.36,
+      "stoch_k": 91.63,
+      "extension": "+12.8%",
+      "volume": 3296826,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (83)"
+      ]
+    },
+    {
+      "symbol": "BMY",
+      "price": 52.41,
+      "rsi": 77.55,
+      "stoch_k": 84.2,
+      "extension": "+12.2%",
+      "volume": 19024102,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "UAL",
+      "price": 106.84,
+      "rsi": 76.31,
+      "stoch_k": 89.03,
+      "extension": "+8.4%",
+      "volume": 3686110,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "CNC",
+      "price": 40.85,
+      "rsi": 72.13,
+      "stoch_k": 80.92,
+      "extension": "+10.8%",
+      "volume": 6310826,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    }
+  ]
+}
