@@ -1,0 +1,131 @@
+{
+  "scan_timestamp": "2025-12-27 00:05:17",
+  "matches_found": 10,
+  "data": [
+    {
+      "symbol": "VTRS",
+      "price": 12.32,
+      "rsi": 87.98,
+      "stoch_k": 88.9,
+      "extension": "+14.1%",
+      "volume": 4130981,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (87)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "TFC",
+      "price": 50.61,
+      "rsi": 86.15,
+      "stoch_k": 93.11,
+      "extension": "+10.0%",
+      "volume": 3094411,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (86)"
+      ]
+    },
+    {
+      "symbol": "ABNB",
+      "price": 136.82,
+      "rsi": 84.65,
+      "stoch_k": 90.07,
+      "extension": "+9.8%",
+      "volume": 1708069,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (84)"
+      ]
+    },
+    {
+      "symbol": "CFG",
+      "price": 59.83,
+      "rsi": 84.19,
+      "stoch_k": 92.68,
+      "extension": "+11.4%",
+      "volume": 1890540,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (84)"
+      ]
+    },
+    {
+      "symbol": "NDAQ",
+      "price": 99.35,
+      "rsi": 88.65,
+      "stoch_k": 98.32,
+      "extension": "+11.0%",
+      "volume": 1642743,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (88)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "FITB",
+      "price": 48.41,
+      "rsi": 77.23,
+      "stoch_k": 87.85,
+      "extension": "+10.2%",
+      "volume": 3997235,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (77)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WFC",
+      "price": 95.26,
+      "rsi": 73.63,
+      "stoch_k": 94.03,
+      "extension": "+8.8%",
+      "volume": 5068759,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "APO",
+      "price": 148.52,
+      "rsi": 73.31,
+      "stoch_k": 80.74,
+      "extension": "+11.3%",
+      "volume": 1291027,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "HBAN",
+      "price": 17.74,
+      "rsi": 75.55,
+      "stoch_k": 75.75,
+      "extension": "+9.5%",
+      "volume": 7710347,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "LUV",
+      "price": 41.28,
+      "rsi": 72.42,
+      "stoch_k": 70.15,
+      "extension": "+18.1%",
+      "volume": 4846848,
+      "score": 0,
+      "bonus_factors": []
+    }
+  ]
+}
