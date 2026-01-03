@@ -1,0 +1,16 @@
+{
+  "scan_timestamp": "2026-01-03 00:04:18",
+  "matches_found": 1,
+  "data": [
+    {
+      "symbol": "LULU",
+      "price": 210.81,
+      "rsi": 72.88,
+      "stoch_k": 56.31,
+      "extension": "+14.3%",
+      "volume": 2415688,
+      "score": 0,
+      "bonus_factors": []
+    }
+  ]
+}
