@@ -1,0 +1,824 @@
+{
+  "scan_timestamp": "2026-01-10 00:05:20",
+  "matches_found": 57,
+  "data": [
+    {
+      "symbol": "SNDK",
+      "price": 377.41,
+      "news_sentiment": "Somewhat Bullish (0.34)",
+      "chart_close": 377.41,
+      "rsi": 85.3,
+      "stoch_k": 92.35,
+      "extension": "+57.9%",
+      "volume": 19198973,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (85)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "MU",
+      "price": 345.09,
+      "news_sentiment": "Somewhat Bullish (0.24)",
+      "chart_close": 345.09,
+      "rsi": 80.52,
+      "stoch_k": 91.42,
+      "extension": "+35.8%",
+      "volume": 33157587,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "NBY",
+      "price": 19.16,
+      "news_sentiment": "Neutral (0.14)",
+      "chart_close": 19.16,
+      "rsi": 87.86,
+      "stoch_k": 88.53,
+      "extension": "+524.7%",
+      "volume": 10222482,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (87)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "MCHP",
+      "price": 75.22,
+      "news_sentiment": "Bullish (0.35)",
+      "chart_close": 75.22,
+      "rsi": 79.43,
+      "stoch_k": 88.94,
+      "extension": "+22.7%",
+      "volume": 9088523,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (79)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ADI",
+      "price": 300.93,
+      "news_sentiment": "Somewhat Bullish (0.3)",
+      "chart_close": 300.93,
+      "rsi": 82.68,
+      "stoch_k": 95.52,
+      "extension": "+15.7%",
+      "volume": 3088141,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (82)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "FDX",
+      "price": 312.36,
+      "news_sentiment": "Somewhat Bullish (0.25)",
+      "chart_close": 312.36,
+      "rsi": 80.5,
+      "stoch_k": 87.96,
+      "extension": "+13.2%",
+      "volume": 2242194,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "BEN",
+      "price": 25.66,
+      "news_sentiment": "Somewhat Bullish (0.19)",
+      "chart_close": 25.66,
+      "rsi": 80.24,
+      "stoch_k": 87.37,
+      "extension": "+11.8%",
+      "volume": 5149203,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "SWK",
+      "price": 82.35,
+      "news_sentiment": "Somewhat Bullish (0.16)",
+      "chart_close": 82.35,
+      "rsi": 77.02,
+      "stoch_k": 84.99,
+      "extension": "+15.6%",
+      "volume": 1845946,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (77)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "MAR",
+      "price": 328.18,
+      "news_sentiment": "Somewhat Bullish (0.25)",
+      "chart_close": 328.18,
+      "rsi": 75.43,
+      "stoch_k": 89.0,
+      "extension": "+10.4%",
+      "volume": 1463108,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "FCX",
+      "price": 56.53,
+      "news_sentiment": "Neutral (-0.12)",
+      "chart_close": 56.53,
+      "rsi": 75.37,
+      "stoch_k": 82.45,
+      "extension": "+24.1%",
+      "volume": 19272707,
+      "score": 4,
+      "bonus_factors": [
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CNC",
+      "price": 46.61,
+      "news_sentiment": "Neutral (0.11)",
+      "chart_close": 46.61,
+      "rsi": 90.03,
+      "stoch_k": 91.02,
+      "extension": "+19.8%",
+      "volume": 6090084,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (90)"
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "price": 65.7,
+      "news_sentiment": "Neutral (0.08)",
+      "chart_close": 65.7,
+      "rsi": 89.16,
+      "stoch_k": 84.29,
+      "extension": "+8.3%",
+      "volume": 2466613,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (89)"
+      ]
+    },
+    {
+      "symbol": "MRK",
+      "price": 110.53,
+      "news_sentiment": "Somewhat Bullish (0.22)",
+      "chart_close": 110.53,
+      "rsi": 84.31,
+      "stoch_k": 82.17,
+      "extension": "+12.9%",
+      "volume": 11038938,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (84)"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1273.88,
+      "news_sentiment": "Bullish (0.41)",
+      "chart_close": 1273.88,
+      "rsi": 83.81,
+      "stoch_k": 88.13,
+      "extension": "+18.4%",
+      "volume": 2394482,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (83)"
+      ]
+    },
+    {
+      "symbol": "LRCX",
+      "price": 218.36,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 218.36,
+      "rsi": 83.69,
+      "stoch_k": 88.38,
+      "extension": "+32.0%",
+      "volume": 16737061,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (83)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "LUV",
+      "price": 44.52,
+      "news_sentiment": "Somewhat Bullish (0.15)",
+      "chart_close": 44.52,
+      "rsi": 83.62,
+      "stoch_k": 83.15,
+      "extension": "+21.5%",
+      "volume": 12318354,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (83)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "BIIB",
+      "price": 187.62,
+      "news_sentiment": "Somewhat Bullish (0.21)",
+      "chart_close": 187.62,
+      "rsi": 81.3,
+      "stoch_k": 92.4,
+      "extension": "+9.5%",
+      "volume": 1416702,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "APTV",
+      "price": 88.67,
+      "news_sentiment": "Somewhat Bullish (0.29)",
+      "chart_close": 88.67,
+      "rsi": 81.26,
+      "stoch_k": 93.22,
+      "extension": "+12.5%",
+      "volume": 2515527,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "SNPS",
+      "price": 525.18,
+      "news_sentiment": "Somewhat Bullish (0.29)",
+      "chart_close": 525.18,
+      "rsi": 81.18,
+      "stoch_k": 90.78,
+      "extension": "+18.0%",
+      "volume": 2091987,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "IQV",
+      "price": 242.41,
+      "news_sentiment": "Somewhat Bullish (0.27)",
+      "chart_close": 242.41,
+      "rsi": 81.13,
+      "stoch_k": 86.97,
+      "extension": "+8.4%",
+      "volume": 1282467,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "BAX",
+      "price": 21.07,
+      "news_sentiment": "Neutral (0.11)",
+      "chart_close": 21.07,
+      "rsi": 80.67,
+      "stoch_k": 89.52,
+      "extension": "+11.6%",
+      "volume": 11530211,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "UPS",
+      "price": 108.06,
+      "news_sentiment": "Neutral (0.06)",
+      "chart_close": 108.06,
+      "rsi": 73.54,
+      "stoch_k": 87.83,
+      "extension": "+11.1%",
+      "volume": 5498153,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "TPR",
+      "price": 134.35,
+      "news_sentiment": "Somewhat Bullish (0.31)",
+      "chart_close": 134.35,
+      "rsi": 70.8,
+      "stoch_k": 84.8,
+      "extension": "+15.9%",
+      "volume": 1667502,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 328.57,
+      "news_sentiment": "Somewhat Bullish (0.24)",
+      "chart_close": 328.57,
+      "rsi": 88.52,
+      "stoch_k": 87.62,
+      "extension": "+8.1%",
+      "volume": 26214166,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (88)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "GOOG",
+      "price": 329.14,
+      "news_sentiment": "No News Data",
+      "chart_close": 329.14,
+      "rsi": 86.26,
+      "stoch_k": 87.64,
+      "extension": "+8.1%",
+      "volume": 17917732,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (86)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "BA",
+      "price": 234.53,
+      "news_sentiment": "No News Data",
+      "chart_close": 234.53,
+      "rsi": 85.13,
+      "stoch_k": 84.71,
+      "extension": "+15.1%",
+      "volume": 8621614,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (85)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "VTRS",
+      "price": 12.76,
+      "news_sentiment": "Neutral (0.14)",
+      "chart_close": 12.76,
+      "rsi": 84.17,
+      "stoch_k": 89.72,
+      "extension": "+13.8%",
+      "volume": 10166949,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (84)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "BALL",
+      "price": 55.62,
+      "news_sentiment": "Somewhat Bullish (0.19)",
+      "chart_close": 55.62,
+      "rsi": 75.28,
+      "stoch_k": 76.57,
+      "extension": "+11.5%",
+      "volume": 1711161,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (75)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "DD",
+      "price": 43.81,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 43.81,
+      "rsi": 74.55,
+      "stoch_k": 88.01,
+      "extension": "+10.1%",
+      "volume": 2851154,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ALB",
+      "price": 161.29,
+      "news_sentiment": "Somewhat Bullish (0.23)",
+      "chart_close": 161.29,
+      "rsi": 72.88,
+      "stoch_k": 84.13,
+      "extension": "+27.8%",
+      "volume": 2824363,
+      "score": 2,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CCL",
+      "price": 32.13,
+      "news_sentiment": "Somewhat Bullish (0.25)",
+      "chart_close": 32.13,
+      "rsi": 72.11,
+      "stoch_k": 81.47,
+      "extension": "+14.8%",
+      "volume": 14978574,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "BMY",
+      "price": 55.86,
+      "news_sentiment": "Somewhat Bullish (0.25)",
+      "chart_close": 55.86,
+      "rsi": 69.35,
+      "stoch_k": 85.06,
+      "extension": "+11.9%",
+      "volume": 9478865,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "LHX",
+      "price": 335.77,
+      "news_sentiment": "No News Data",
+      "chart_close": 335.77,
+      "rsi": 87.04,
+      "stoch_k": 83.14,
+      "extension": "+15.8%",
+      "volume": 1894486,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (87)"
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "price": 45.55,
+      "news_sentiment": "Somewhat Bullish (0.21)",
+      "chart_close": 45.55,
+      "rsi": 82.08,
+      "stoch_k": 80.74,
+      "extension": "+18.9%",
+      "volume": 185619624,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "price": 45.2,
+      "news_sentiment": "Somewhat Bullish (0.27)",
+      "chart_close": 45.2,
+      "rsi": 80.87,
+      "stoch_k": 84.47,
+      "extension": "+19.4%",
+      "volume": 18252246,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "price": 32.63,
+      "news_sentiment": "Somewhat Bullish (0.26)",
+      "chart_close": 32.63,
+      "rsi": 78.19,
+      "stoch_k": 77.11,
+      "extension": "+17.5%",
+      "volume": 11457498,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "DOW",
+      "price": 26.33,
+      "news_sentiment": "Somewhat Bullish (0.18)",
+      "chart_close": 26.33,
+      "rsi": 77.28,
+      "stoch_k": 84.33,
+      "extension": "+13.5%",
+      "volume": 8765061,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "price": 301.18,
+      "news_sentiment": "Somewhat Bullish (0.18)",
+      "chart_close": 301.18,
+      "rsi": 76.93,
+      "stoch_k": 82.99,
+      "extension": "+19.4%",
+      "volume": 9427640,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "ON",
+      "price": 62.16,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 62.16,
+      "rsi": 76.6,
+      "stoch_k": 88.01,
+      "extension": "+18.2%",
+      "volume": 8904668,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "LYB",
+      "price": 48.71,
+      "news_sentiment": "Neutral (-0.06)",
+      "chart_close": 48.71,
+      "rsi": 76.04,
+      "stoch_k": 80.24,
+      "extension": "+10.5%",
+      "volume": 5323992,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "SW",
+      "price": 42.98,
+      "news_sentiment": "Neutral (0.07)",
+      "chart_close": 42.98,
+      "rsi": 75.0,
+      "stoch_k": 77.86,
+      "extension": "+17.0%",
+      "volume": 4526522,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "IP",
+      "price": 43.34,
+      "news_sentiment": "Neutral (0.12)",
+      "chart_close": 43.34,
+      "rsi": 74.89,
+      "stoch_k": 77.77,
+      "extension": "+12.1%",
+      "volume": 4422857,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ODFL",
+      "price": 173.13,
+      "news_sentiment": "Neutral (0.11)",
+      "chart_close": 173.13,
+      "rsi": 74.22,
+      "stoch_k": 86.58,
+      "extension": "+17.1%",
+      "volume": 1787601,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "NCLH",
+      "price": 24.53,
+      "news_sentiment": "Somewhat Bullish (0.31)",
+      "chart_close": 24.53,
+      "rsi": 69.44,
+      "stoch_k": 87.1,
+      "extension": "+19.8%",
+      "volume": 19332416,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "price": 25.73,
+      "news_sentiment": "Somewhat Bullish (0.17)",
+      "chart_close": 25.73,
+      "rsi": 69.4,
+      "stoch_k": 53.6,
+      "extension": "+13.0%",
+      "volume": 11408312,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "IVZ",
+      "price": 28.57,
+      "news_sentiment": "Somewhat Bullish (0.21)",
+      "chart_close": 28.57,
+      "rsi": 68.69,
+      "stoch_k": 84.88,
+      "extension": "+13.2%",
+      "volume": 5561754,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "NOC",
+      "price": 618.82,
+      "news_sentiment": "Somewhat Bullish (0.25)",
+      "chart_close": 618.82,
+      "rsi": 68.28,
+      "stoch_k": 49.11,
+      "extension": "+8.6%",
+      "volume": 1449518,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ROST",
+      "price": 191.44,
+      "news_sentiment": "Somewhat Bullish (0.35)",
+      "chart_close": 191.44,
+      "rsi": 74.09,
+      "stoch_k": 84.63,
+      "extension": "+10.1%",
+      "volume": 2658706,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "BLDR",
+      "price": 124.66,
+      "news_sentiment": "Somewhat Bullish (0.17)",
+      "chart_close": 124.66,
+      "rsi": 74.05,
+      "stoch_k": 71.61,
+      "extension": "+16.3%",
+      "volume": 4627318,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "MS",
+      "price": 186.32,
+      "news_sentiment": "Somewhat Bullish (0.15)",
+      "chart_close": 186.32,
+      "rsi": 73.28,
+      "stoch_k": 77.81,
+      "extension": "+8.2%",
+      "volume": 4624558,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "MOH",
+      "price": 181.5,
+      "news_sentiment": "Neutral (0.01)",
+      "chart_close": 181.5,
+      "rsi": 73.13,
+      "stoch_k": 72.72,
+      "extension": "+16.1%",
+      "volume": 1330913,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "PCAR",
+      "price": 118.8,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 118.8,
+      "rsi": 72.37,
+      "stoch_k": 82.6,
+      "extension": "+13.0%",
+      "volume": 1994861,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "LOW",
+      "price": 267.21,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 267.21,
+      "rsi": 71.68,
+      "stoch_k": 77.39,
+      "extension": "+11.0%",
+      "volume": 4091874,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "TER",
+      "price": 217.26,
+      "news_sentiment": "Somewhat Bullish (0.29)",
+      "chart_close": 217.26,
+      "rsi": 71.43,
+      "stoch_k": 73.11,
+      "extension": "+14.9%",
+      "volume": 2542704,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "GS",
+      "price": 938.98,
+      "news_sentiment": "Neutral (0.13)",
+      "chart_close": 938.98,
+      "rsi": 68.71,
+      "stoch_k": 73.4,
+      "extension": "+11.0%",
+      "volume": 1334087,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "TXN",
+      "price": 190.31,
+      "news_sentiment": "Somewhat Bullish (0.24)",
+      "chart_close": 190.31,
+      "rsi": 68.4,
+      "stoch_k": 75.55,
+      "extension": "+11.3%",
+      "volume": 6018028,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "GEHC",
+      "price": 87.28,
+      "news_sentiment": "Somewhat Bullish (0.2)",
+      "chart_close": 87.28,
+      "rsi": 68.16,
+      "stoch_k": 72.87,
+      "extension": "+9.2%",
+      "volume": 2991496,
+      "score": 0,
+      "bonus_factors": []
+    }
+  ]
+}
