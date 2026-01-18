@@ -1,0 +1,80 @@
+{
+  "scan_timestamp": "2026-01-18 18:18:39",
+  "matches_found": 6,
+  "data": [
+    {
+      "symbol": "SLB",
+      "price": 46.73,
+      "rsi": 84.28,
+      "stoch_k": 90.4,
+      "extension": "+20.2%",
+      "volume": 17373076,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (84)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CNC",
+      "price": 45.75,
+      "rsi": 74.44,
+      "stoch_k": 83.93,
+      "extension": "+14.4%",
+      "volume": 7084420,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "price": 65.18,
+      "rsi": 73.53,
+      "stoch_k": 90.3,
+      "extension": "+10.0%",
+      "volume": 3660749,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "EBAY",
+      "price": 93.03,
+      "rsi": 71.75,
+      "stoch_k": 82.33,
+      "extension": "+9.1%",
+      "volume": 4992044,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "price": 57.89,
+      "rsi": 98.08,
+      "stoch_k": 96.99,
+      "extension": "+15.2%",
+      "volume": 2689056,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (98)"
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "price": 68.67,
+      "rsi": 82.16,
+      "stoch_k": 90.8,
+      "extension": "+12.0%",
+      "volume": 3533956,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
+    }
+  ]
+}
