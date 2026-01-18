@@ -1,0 +1,205 @@
+{
+  "lastUpdated": "2026-01-18T18:32:12.760694",
+  "stocks": [
+    {
+      "ticker": "IBKR",
+      "company_name": "Interactive Brokers Group Inc",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$124.7B",
+      "price": "73.3600",
+      "change_pct": "-0.4343%",
+      "rsi": 66.88,
+      "move_score": 39.67
+    },
+    {
+      "ticker": "BANC",
+      "company_name": "Banc of California, Inc.",
+      "earnings_date": "2026-01-21",
+      "market_cap": "$3.3B",
+      "price": "20.8000",
+      "change_pct": "-0.3354%",
+      "rsi": 70.75,
+      "move_score": 35.54
+    },
+    {
+      "ticker": "FAST",
+      "company_name": "Fastenal Company",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$50.2B",
+      "price": "43.7400",
+      "change_pct": "0.4824%",
+      "rsi": 65.53,
+      "move_score": 35.28
+    },
+    {
+      "ticker": "BKU",
+      "company_name": "BankUnited Inc",
+      "earnings_date": "2026-01-21",
+      "market_cap": "$3.5B",
+      "price": "47.0800",
+      "change_pct": "0.8353%",
+      "rsi": 70.21,
+      "move_score": 35.28
+    },
+    {
+      "ticker": "HWC",
+      "company_name": "Hancock Whitney Corp",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$5.8B",
+      "price": "68.3400",
+      "change_pct": "-0.1169%",
+      "rsi": 67.32,
+      "move_score": 33.95
+    },
+    {
+      "ticker": "SFBS",
+      "company_name": "ServisFirst Bancshares Inc",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$4.3B",
+      "price": "78.2600",
+      "change_pct": "-0.0638%",
+      "rsi": 66.24,
+      "move_score": 33.33
+    },
+    {
+      "ticker": "USB",
+      "company_name": "U.S. Bancorp",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$84.7B",
+      "price": "54.4000",
+      "change_pct": "0.8341%",
+      "rsi": 57.21,
+      "move_score": 32.84
+    },
+    {
+      "ticker": "FITB",
+      "company_name": "Fifth Third Bancorp",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$32.5B",
+      "price": "49.1600",
+      "change_pct": "0.2856%",
+      "rsi": 62.18,
+      "move_score": 32.72
+    },
+    {
+      "ticker": "NFLX",
+      "company_name": "Netflix Inc",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$372.9B",
+      "price": "88.0000",
+      "change_pct": "-0.0568%",
+      "rsi": 26.98,
+      "move_score": 32.13
+    },
+    {
+      "ticker": "MMM",
+      "company_name": "3M Company",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$89.4B",
+      "price": "167.8000",
+      "change_pct": "-1.9287%",
+      "rsi": 55.22,
+      "move_score": 32.08
+    },
+    {
+      "ticker": "KEY",
+      "company_name": "KeyCorp",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$23.1B",
+      "price": "21.1700",
+      "change_pct": "-0.2826%",
+      "rsi": 59.91,
+      "move_score": 31.11
+    },
+    {
+      "ticker": "OZK",
+      "company_name": "Bank Ozk",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$5.4B",
+      "price": "48.5000",
+      "change_pct": "-0.0206%",
+      "rsi": 60.84,
+      "move_score": 30.69
+    },
+    {
+      "ticker": "WTFC",
+      "company_name": "Wintrust Financial Corporation",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$9.8B",
+      "price": "145.9300",
+      "change_pct": "-0.3210%",
+      "rsi": 58.97,
+      "move_score": 29.98
+    },
+    {
+      "ticker": "DHI",
+      "company_name": "DR Horton Inc",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$45.5B",
+      "price": "155.9600",
+      "change_pct": "-3.1304%",
+      "rsi": 55.33,
+      "move_score": 29.94
+    },
+    {
+      "ticker": "ZION",
+      "company_name": "Zions Bancorporation",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$8.8B",
+      "price": "59.6200",
+      "change_pct": "0.1848%",
+      "rsi": 56.84,
+      "move_score": 28.86
+    },
+    {
+      "ticker": "UAL",
+      "company_name": "United Airlines Holdings Inc",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$36.7B",
+      "price": "113.4900",
+      "change_pct": "-2.1807%",
+      "rsi": 53.07,
+      "move_score": 28.37
+    },
+    {
+      "ticker": "SFNC",
+      "company_name": "Simmons First National Corporation",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$2.8B",
+      "price": "19.2400",
+      "change_pct": "-0.2075%",
+      "rsi": 54.32,
+      "move_score": 27.3
+    },
+    {
+      "ticker": "FNB",
+      "company_name": "F.N.B. Corp",
+      "earnings_date": "2026-01-20",
+      "market_cap": "$6.2B",
+      "price": "17.3600",
+      "change_pct": "-0.6297%",
+      "rsi": 52.57,
+      "move_score": 26.6
+    },
+    {
+      "ticker": "BANR",
+      "company_name": "Banner Corporation",
+      "earnings_date": "2026-01-21",
+      "market_cap": "$2.2B",
+      "price": "64.8700",
+      "change_pct": "-1.6525%",
+      "rsi": 52.42,
+      "move_score": 26.32
+    },
+    {
+      "ticker": "ALLY",
+      "company_name": "Ally Financial Inc",
+      "earnings_date": "2026-01-21",
+      "market_cap": "$13.4B",
+      "price": "43.6100",
+      "change_pct": "-0.0916%",
+      "rsi": 42.81,
+      "move_score": 22.08
+    }
+  ]
+}
