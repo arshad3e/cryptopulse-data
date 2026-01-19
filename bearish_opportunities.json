@@ -1,31 +1,19 @@
 {
-  "scan_timestamp": "2026-01-19 14:33:47",
+  "scan_timestamp": "2026-01-19 15:34:00",
   "matches_found": 7,
   "data": [
     {
-      "symbol": "MRNA",
-      "price": 41.83,
-      "rsi": 74.76,
-      "stoch_k": 88.23,
-      "extension": "+42.7%",
-      "volume": 11891053,
-      "score": 4,
+      "symbol": "INTC",
+      "price": 46.96,
+      "rsi": 75.47,
+      "stoch_k": 86.75,
+      "extension": "+20.3%",
+      "volume": 127314711,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
+        "Extreme RSI (75)",
         "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "BLDR",
-      "price": 126.79,
-      "rsi": 76.56,
-      "stoch_k": 90.0,
-      "extension": "+16.9%",
-      "volume": 2466482,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)"
       ]
     },
     {
@@ -67,6 +55,18 @@
       ]
     },
     {
+      "symbol": "ADI",
+      "price": 300.25,
+      "rsi": 72.24,
+      "stoch_k": 83.68,
+      "extension": "+12.6%",
+      "volume": 4261143,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
       "symbol": "XOM",
       "price": 129.89,
       "rsi": 68.51,
@@ -79,14 +79,16 @@
       ]
     },
     {
-      "symbol": "IR",
-      "price": 88.16,
-      "rsi": 72.02,
-      "stoch_k": 93.1,
-      "extension": "+10.1%",
-      "volume": 2535868,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "HON",
+      "price": 219.39,
+      "rsi": 79.41,
+      "stoch_k": 95.29,
+      "extension": "+11.2%",
+      "volume": 8529705,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (79)"
+      ]
     }
   ]
 }
