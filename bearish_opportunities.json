@@ -1,63 +1,41 @@
 {
-  "scan_timestamp": "2026-01-18 18:21:40",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-19 00:01:53",
+  "matches_found": 3,
   "data": [
     {
-      "symbol": "DLTR",
-      "price": 139.95,
-      "rsi": 81.97,
-      "stoch_k": 93.63,
-      "extension": "+17.6%",
-      "volume": 2205300,
+      "symbol": "INTC",
+      "price": 46.96,
+      "rsi": 75.47,
+      "stoch_k": 86.75,
+      "extension": "+20.3%",
+      "volume": 127314711,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ROST",
+      "price": 192.36,
+      "rsi": 76.19,
+      "stoch_k": 88.64,
+      "extension": "+8.5%",
+      "volume": 3269731,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (81)"
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "TER",
-      "price": 228.14,
-      "rsi": 70.9,
-      "stoch_k": 83.06,
-      "extension": "+17.6%",
-      "volume": 2298165,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "BA",
-      "price": 247.68,
-      "rsi": 86.39,
-      "stoch_k": 93.0,
-      "extension": "+19.1%",
-      "volume": 5944233,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (86)"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 219.39,
-      "rsi": 79.41,
-      "stoch_k": 95.29,
-      "extension": "+11.2%",
-      "volume": 8529705,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "CAT",
-      "price": 646.89,
-      "rsi": 73.17,
-      "stoch_k": 91.66,
-      "extension": "+10.3%",
-      "volume": 2554861,
+      "symbol": "WY",
+      "price": 27.06,
+      "rsi": 74.85,
+      "stoch_k": 96.92,
+      "extension": "+17.0%",
+      "volume": 10374334,
       "score": 0,
       "bonus_factors": []
     }
