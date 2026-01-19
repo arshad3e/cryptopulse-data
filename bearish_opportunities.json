@@ -1,5 +1,5 @@
 {
-  "scan_timestamp": "2026-01-19 13:33:35",
+  "scan_timestamp": "2026-01-19 14:33:47",
   "matches_found": 7,
   "data": [
     {
@@ -16,6 +16,19 @@
       ]
     },
     {
+      "symbol": "BLDR",
+      "price": 126.79,
+      "rsi": 76.56,
+      "stoch_k": 90.0,
+      "extension": "+16.9%",
+      "volume": 2466482,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
+      ]
+    },
+    {
       "symbol": "ROST",
       "price": 192.36,
       "rsi": 76.19,
@@ -29,51 +42,41 @@
       ]
     },
     {
-      "symbol": "EMR",
-      "price": 149.46,
-      "rsi": 75.4,
-      "stoch_k": 90.16,
-      "extension": "+10.6%",
-      "volume": 3438503,
-      "score": 3,
+      "symbol": "TGT",
+      "price": 111.28,
+      "rsi": 81.11,
+      "stoch_k": 95.44,
+      "extension": "+16.4%",
+      "volume": 5253188,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (75)"
+        "Extreme RSI (81)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "STZ",
-      "price": 156.64,
-      "rsi": 74.04,
-      "stoch_k": 90.75,
-      "extension": "+12.4%",
-      "volume": 2231631,
+      "symbol": "SW",
+      "price": 42.71,
+      "rsi": 72.33,
+      "stoch_k": 88.74,
+      "extension": "+14.2%",
+      "volume": 4286023,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "RTX",
-      "price": 201.92,
-      "rsi": 78.27,
-      "stoch_k": 98.64,
-      "extension": "+12.2%",
-      "volume": 4825922,
-      "score": 1,
+      "symbol": "XOM",
+      "price": 129.89,
+      "rsi": 68.51,
+      "stoch_k": 85.27,
+      "extension": "+9.1%",
+      "volume": 16592354,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (78)"
+        "Stoch Hook Down"
       ]
-    },
-    {
-      "symbol": "WY",
-      "price": 27.06,
-      "rsi": 74.85,
-      "stoch_k": 96.92,
-      "extension": "+17.0%",
-      "volume": 10374334,
-      "score": 0,
-      "bonus_factors": []
     },
     {
       "symbol": "IR",
