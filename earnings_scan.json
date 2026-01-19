@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T18:32:12.760694",
+  "lastUpdated": "2026-01-19T18:03:14.889226",
   "stocks": [
     {
       "ticker": "IBKR",
@@ -10,6 +10,16 @@
       "change_pct": "-0.4343%",
       "rsi": 66.88,
       "move_score": 39.67
+    },
+    {
+      "ticker": "CACI",
+      "company_name": "CACI International Inc",
+      "earnings_date": "2026-01-21",
+      "market_cap": "$14.0B",
+      "price": "635.4000",
+      "change_pct": "1.2590%",
+      "rsi": 74.39,
+      "move_score": 37.9
     },
     {
       "ticker": "BANC",
