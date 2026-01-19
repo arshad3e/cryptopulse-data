@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-19 12:33:22",
-  "matches_found": 13,
+  "scan_timestamp": "2026-01-19 13:33:35",
+  "matches_found": 7,
   "data": [
     {
       "symbol": "MRNA",
@@ -16,128 +16,53 @@
       ]
     },
     {
-      "symbol": "BG",
-      "price": 107.81,
-      "rsi": 86.71,
-      "stoch_k": 96.16,
-      "extension": "+13.9%",
-      "volume": 1976561,
+      "symbol": "ROST",
+      "price": 192.36,
+      "rsi": 76.19,
+      "stoch_k": 88.64,
+      "extension": "+8.5%",
+      "volume": 3269731,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (86)"
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "LMT",
-      "price": 582.43,
-      "rsi": 81.04,
-      "stoch_k": 97.54,
-      "extension": "+20.9%",
-      "volume": 2375721,
+      "symbol": "EMR",
+      "price": 149.46,
+      "rsi": 75.4,
+      "stoch_k": 90.16,
+      "extension": "+10.6%",
+      "volume": 3438503,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (81)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 346.46,
-      "rsi": 85.31,
-      "stoch_k": 74.01,
-      "extension": "+17.3%",
-      "volume": 1535236,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (85)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "TGT",
-      "price": 111.28,
-      "rsi": 81.11,
-      "stoch_k": 95.44,
-      "extension": "+16.4%",
-      "volume": 5253188,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (81)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "BALL",
-      "price": 56.08,
-      "rsi": 78.13,
-      "stoch_k": 92.47,
-      "extension": "+10.6%",
-      "volume": 2401006,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (78)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "EBAY",
-      "price": 93.03,
-      "rsi": 71.75,
-      "stoch_k": 82.33,
-      "extension": "+9.1%",
-      "volume": 4992044,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "TER",
-      "price": 228.14,
-      "rsi": 70.9,
-      "stoch_k": 83.06,
-      "extension": "+17.6%",
-      "volume": 2298165,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "BA",
-      "price": 247.68,
-      "rsi": 86.39,
-      "stoch_k": 93.0,
-      "extension": "+19.1%",
-      "volume": 5944233,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (86)"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 219.39,
-      "rsi": 79.41,
-      "stoch_k": 95.29,
-      "extension": "+11.2%",
-      "volume": 8529705,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "RVTY",
-      "price": 112.5,
-      "rsi": 75.97,
-      "stoch_k": 87.28,
-      "extension": "+13.1%",
-      "volume": 1603640,
-      "score": 1,
-      "bonus_factors": [
+        "Stoch Hook Down",
         "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "STZ",
+      "price": 156.64,
+      "rsi": 74.04,
+      "stoch_k": 90.75,
+      "extension": "+12.4%",
+      "volume": 2231631,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "RTX",
+      "price": 201.92,
+      "rsi": 78.27,
+      "stoch_k": 98.64,
+      "extension": "+12.2%",
+      "volume": 4825922,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
       ]
     },
     {
@@ -151,12 +76,12 @@
       "bonus_factors": []
     },
     {
-      "symbol": "PM",
-      "price": 173.62,
-      "rsi": 74.02,
-      "stoch_k": 96.08,
-      "extension": "+11.2%",
-      "volume": 5068244,
+      "symbol": "IR",
+      "price": 88.16,
+      "rsi": 72.02,
+      "stoch_k": 93.1,
+      "extension": "+10.1%",
+      "volume": 2535868,
       "score": 0,
       "bonus_factors": []
     }
