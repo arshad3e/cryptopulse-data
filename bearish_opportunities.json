@@ -1,77 +1,55 @@
 {
-  "scan_timestamp": "2026-01-19 09:32:06",
-  "matches_found": 7,
+  "scan_timestamp": "2026-01-19 10:32:26",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "SW",
-      "price": 42.71,
-      "rsi": 72.33,
-      "stoch_k": 88.74,
-      "extension": "+14.2%",
-      "volume": 4286023,
+      "symbol": "INTC",
+      "price": 46.96,
+      "rsi": 75.47,
+      "stoch_k": 86.75,
+      "extension": "+20.3%",
+      "volume": 127314711,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CNC",
+      "price": 45.75,
+      "rsi": 74.44,
+      "stoch_k": 83.93,
+      "extension": "+14.4%",
+      "volume": 7084420,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "ODFL",
-      "price": 175.65,
-      "rsi": 71.86,
-      "stoch_k": 92.67,
-      "extension": "+16.0%",
-      "volume": 2495001,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "price": 32.57,
-      "rsi": 71.85,
-      "stoch_k": 84.25,
-      "extension": "+14.9%",
-      "volume": 10404904,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "EBAY",
-      "price": 93.03,
-      "rsi": 71.75,
-      "stoch_k": 82.33,
-      "extension": "+9.1%",
-      "volume": 4992044,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "XOM",
-      "price": 129.89,
-      "rsi": 68.51,
-      "stoch_k": 85.27,
-      "extension": "+9.1%",
-      "volume": 16592354,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "BEN",
-      "price": 26.0,
-      "rsi": 80.97,
-      "stoch_k": 91.29,
-      "extension": "+11.7%",
-      "volume": 4395093,
+      "symbol": "HON",
+      "price": 219.39,
+      "rsi": 79.41,
+      "stoch_k": 95.29,
+      "extension": "+11.2%",
+      "volume": 8529705,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (80)"
+        "Extreme RSI (79)"
+      ]
+    },
+    {
+      "symbol": "IVZ",
+      "price": 29.44,
+      "rsi": 70.67,
+      "stoch_k": 89.06,
+      "extension": "+14.2%",
+      "volume": 4823554,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -81,6 +59,16 @@
       "stoch_k": 96.92,
       "extension": "+17.0%",
       "volume": 10374334,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "IR",
+      "price": 88.16,
+      "rsi": 72.02,
+      "stoch_k": 93.1,
+      "extension": "+10.1%",
+      "volume": 2535868,
       "score": 0,
       "bonus_factors": []
     }
