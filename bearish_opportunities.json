@@ -1,51 +1,27 @@
 {
-  "scan_timestamp": "2026-01-20 14:35:31",
-  "matches_found": 11,
+  "scan_timestamp": "2026-01-20 15:35:44",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "LHX",
-      "price": 346.46,
-      "rsi": 85.31,
-      "stoch_k": 74.01,
-      "extension": "+17.3%",
-      "volume": 1535236,
-      "score": 2,
+      "symbol": "BLDR",
+      "price": 126.79,
+      "rsi": 76.56,
+      "stoch_k": 90.0,
+      "extension": "+16.9%",
+      "volume": 2466482,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (85)",
-        "Bearish RSI Divergence"
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "EXPD",
-      "price": 162.41,
-      "rsi": 73.77,
-      "stoch_k": 93.52,
-      "extension": "+9.1%",
-      "volume": 3831710,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "SBUX",
-      "price": 92.99,
-      "rsi": 72.95,
-      "stoch_k": 92.36,
-      "extension": "+8.3%",
-      "volume": 8958234,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "price": 32.57,
-      "rsi": 71.85,
-      "stoch_k": 84.25,
-      "extension": "+14.9%",
-      "volume": 10404904,
+      "symbol": "ODFL",
+      "price": 175.65,
+      "rsi": 71.86,
+      "stoch_k": 92.67,
+      "extension": "+16.0%",
+      "volume": 2495001,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -122,12 +98,12 @@
       "bonus_factors": []
     },
     {
-      "symbol": "IR",
-      "price": 88.16,
-      "rsi": 72.02,
-      "stoch_k": 93.1,
-      "extension": "+10.1%",
-      "volume": 2535868,
+      "symbol": "UPS",
+      "price": 106.91,
+      "rsi": 70.61,
+      "stoch_k": 82.0,
+      "extension": "+8.3%",
+      "volume": 4669304,
       "score": 0,
       "bonus_factors": []
     }
