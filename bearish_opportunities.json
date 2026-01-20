@@ -1,19 +1,42 @@
 {
-  "scan_timestamp": "2026-01-20 13:35:17",
-  "matches_found": 4,
+  "scan_timestamp": "2026-01-20 14:35:31",
+  "matches_found": 11,
   "data": [
     {
-      "symbol": "INTC",
-      "price": 46.96,
-      "rsi": 75.47,
-      "stoch_k": 86.75,
-      "extension": "+20.3%",
-      "volume": 127314711,
-      "score": 5,
+      "symbol": "LHX",
+      "price": 346.46,
+      "rsi": 85.31,
+      "stoch_k": 74.01,
+      "extension": "+17.3%",
+      "volume": 1535236,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (75)",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (85)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "EXPD",
+      "price": 162.41,
+      "rsi": 73.77,
+      "stoch_k": 93.52,
+      "extension": "+9.1%",
+      "volume": 3831710,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "SBUX",
+      "price": 92.99,
+      "rsi": 72.95,
+      "stoch_k": 92.36,
+      "extension": "+8.3%",
+      "volume": 8958234,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
       ]
     },
     {
@@ -29,24 +52,82 @@
       ]
     },
     {
-      "symbol": "RVTY",
-      "price": 112.5,
-      "rsi": 75.97,
-      "stoch_k": 87.28,
-      "extension": "+13.1%",
-      "volume": 1603640,
+      "symbol": "ARE",
+      "price": 57.89,
+      "rsi": 98.08,
+      "stoch_k": 96.99,
+      "extension": "+15.2%",
+      "volume": 2689056,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (98)"
+      ]
+    },
+    {
+      "symbol": "BEN",
+      "price": 26.0,
+      "rsi": 80.97,
+      "stoch_k": 91.29,
+      "extension": "+11.7%",
+      "volume": 4395093,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 219.39,
+      "rsi": 79.41,
+      "stoch_k": 95.29,
+      "extension": "+11.2%",
+      "volume": 8529705,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (79)"
+      ]
+    },
+    {
+      "symbol": "MCHP",
+      "price": 74.7,
+      "rsi": 75.6,
+      "stoch_k": 88.33,
+      "extension": "+19.3%",
+      "volume": 7005513,
       "score": 1,
       "bonus_factors": [
         "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "WY",
-      "price": 27.06,
-      "rsi": 74.85,
-      "stoch_k": 96.92,
-      "extension": "+17.0%",
-      "volume": 10374334,
+      "symbol": "PPG",
+      "price": 110.22,
+      "rsi": 71.04,
+      "stoch_k": 92.35,
+      "extension": "+8.7%",
+      "volume": 5937905,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "PM",
+      "price": 173.62,
+      "rsi": 74.02,
+      "stoch_k": 96.08,
+      "extension": "+11.2%",
+      "volume": 5068244,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "IR",
+      "price": 88.16,
+      "rsi": 72.02,
+      "stoch_k": 93.1,
+      "extension": "+10.1%",
+      "volume": 2535868,
       "score": 0,
       "bonus_factors": []
     }
