@@ -1,88 +1,105 @@
 {
-  "scan_timestamp": "2026-01-20 10:34:39",
-  "matches_found": 8,
+  "scan_timestamp": "2026-01-20 11:34:52",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "INTC",
-      "price": 46.96,
-      "rsi": 75.47,
-      "stoch_k": 86.75,
-      "extension": "+20.3%",
-      "volume": 127314711,
-      "score": 5,
+      "symbol": "DOW",
+      "price": 27.57,
+      "rsi": 79.08,
+      "stoch_k": 89.25,
+      "extension": "+16.8%",
+      "volume": 14028388,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "SW",
-      "price": 42.71,
-      "rsi": 72.33,
-      "stoch_k": 88.74,
-      "extension": "+14.2%",
-      "volume": 4286023,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "MAS",
-      "price": 70.47,
-      "rsi": 69.64,
-      "stoch_k": 90.41,
-      "extension": "+9.9%",
-      "volume": 3345757,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "XOM",
-      "price": 129.89,
-      "rsi": 68.51,
-      "stoch_k": 85.27,
-      "extension": "+9.1%",
-      "volume": 16592354,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 219.39,
-      "rsi": 79.41,
-      "stoch_k": 95.29,
-      "extension": "+11.2%",
-      "volume": 8529705,
-      "score": 1,
-      "bonus_factors": [
         "Extreme RSI (79)"
       ]
     },
     {
-      "symbol": "WY",
-      "price": 27.06,
-      "rsi": 74.85,
-      "stoch_k": 96.92,
-      "extension": "+17.0%",
-      "volume": 10374334,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "AMAT",
+      "price": 327.01,
+      "rsi": 77.9,
+      "stoch_k": 87.6,
+      "extension": "+25.8%",
+      "volume": 11399265,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (77)",
+        "Parabolic (+20% vs SMA)"
+      ]
     },
     {
-      "symbol": "CF",
-      "price": 86.75,
-      "rsi": 73.37,
-      "stoch_k": 83.51,
-      "extension": "+8.5%",
-      "volume": 2844675,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "BLDR",
+      "price": 126.79,
+      "rsi": 76.56,
+      "stoch_k": 90.0,
+      "extension": "+16.9%",
+      "volume": 2466482,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "CNC",
+      "price": 45.75,
+      "rsi": 74.44,
+      "stoch_k": 83.93,
+      "extension": "+14.4%",
+      "volume": 7084420,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "PCAR",
+      "price": 121.36,
+      "rsi": 73.51,
+      "stoch_k": 90.64,
+      "extension": "+12.9%",
+      "volume": 3325891,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "price": 57.89,
+      "rsi": 98.08,
+      "stoch_k": 96.99,
+      "extension": "+15.2%",
+      "volume": 2689056,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (98)"
+      ]
+    },
+    {
+      "symbol": "BA",
+      "price": 247.68,
+      "rsi": 86.39,
+      "stoch_k": 93.0,
+      "extension": "+19.1%",
+      "volume": 5944233,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (86)"
+      ]
+    },
+    {
+      "symbol": "IVZ",
+      "price": 29.44,
+      "rsi": 70.67,
+      "stoch_k": 89.06,
+      "extension": "+14.2%",
+      "volume": 4823554,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     },
     {
       "symbol": "IR",
