@@ -1,65 +1,41 @@
 {
-  "scan_timestamp": "2026-01-20 11:34:52",
-  "matches_found": 9,
+  "scan_timestamp": "2026-01-20 12:35:05",
+  "matches_found": 7,
   "data": [
     {
-      "symbol": "DOW",
-      "price": 27.57,
-      "rsi": 79.08,
-      "stoch_k": 89.25,
-      "extension": "+16.8%",
-      "volume": 14028388,
-      "score": 3,
+      "symbol": "LOW",
+      "price": 277.55,
+      "rsi": 87.57,
+      "stoch_k": 95.43,
+      "extension": "+13.5%",
+      "volume": 2916044,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)"
+        "Extreme RSI (87)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "AMAT",
-      "price": 327.01,
-      "rsi": 77.9,
-      "stoch_k": 87.6,
-      "extension": "+25.8%",
-      "volume": 11399265,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (77)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "BLDR",
-      "price": 126.79,
-      "rsi": 76.56,
-      "stoch_k": 90.0,
-      "extension": "+16.9%",
-      "volume": 2466482,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "CNC",
-      "price": 45.75,
-      "rsi": 74.44,
-      "stoch_k": 83.93,
-      "extension": "+14.4%",
-      "volume": 7084420,
+      "symbol": "LHX",
+      "price": 346.46,
+      "rsi": 85.31,
+      "stoch_k": 74.01,
+      "extension": "+17.3%",
+      "volume": 1535236,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (85)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PCAR",
-      "price": 121.36,
-      "rsi": 73.51,
-      "stoch_k": 90.64,
-      "extension": "+12.9%",
-      "volume": 3325891,
+      "symbol": "SBUX",
+      "price": 92.99,
+      "rsi": 72.95,
+      "stoch_k": 92.36,
+      "extension": "+8.3%",
+      "volume": 8958234,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -78,38 +54,40 @@
       ]
     },
     {
-      "symbol": "BA",
-      "price": 247.68,
-      "rsi": 86.39,
-      "stoch_k": 93.0,
-      "extension": "+19.1%",
-      "volume": 5944233,
+      "symbol": "BEN",
+      "price": 26.0,
+      "rsi": 80.97,
+      "stoch_k": 91.29,
+      "extension": "+11.7%",
+      "volume": 4395093,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (86)"
+        "Extreme RSI (80)"
       ]
     },
     {
-      "symbol": "IVZ",
-      "price": 29.44,
-      "rsi": 70.67,
-      "stoch_k": 89.06,
-      "extension": "+14.2%",
-      "volume": 4823554,
+      "symbol": "HON",
+      "price": 219.39,
+      "rsi": 79.41,
+      "stoch_k": 95.29,
+      "extension": "+11.2%",
+      "volume": 8529705,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (79)"
       ]
     },
     {
-      "symbol": "IR",
-      "price": 88.16,
-      "rsi": 72.02,
-      "stoch_k": 93.1,
-      "extension": "+10.1%",
-      "volume": 2535868,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "MCHP",
+      "price": 74.7,
+      "rsi": 75.6,
+      "stoch_k": 88.33,
+      "extension": "+19.3%",
+      "volume": 7005513,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (75)"
+      ]
     }
   ]
 }
