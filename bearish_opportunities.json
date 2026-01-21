@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-21 10:31:24",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-21 11:31:45",
+  "matches_found": 6,
   "data": [
     {
       "symbol": "ARE",
@@ -16,25 +16,37 @@
       ]
     },
     {
-      "symbol": "BA",
-      "price": 249.0,
-      "rsi": 86.55,
-      "stoch_k": 97.43,
-      "extension": "+19.2%",
-      "volume": 11148018,
+      "symbol": "BG",
+      "price": 110.06,
+      "rsi": 87.66,
+      "stoch_k": 97.8,
+      "extension": "+15.9%",
+      "volume": 2107737,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (86)",
+        "Extreme RSI (87)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "LOW",
-      "price": 268.4,
-      "rsi": 73.4,
-      "stoch_k": 89.48,
-      "extension": "+9.5%",
-      "volume": 3915628,
+      "symbol": "DRI",
+      "price": 208.88,
+      "rsi": 74.7,
+      "stoch_k": 90.76,
+      "extension": "+13.3%",
+      "volume": 2075915,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "RVTY",
+      "price": 111.89,
+      "rsi": 74.18,
+      "stoch_k": 86.71,
+      "extension": "+12.1%",
+      "volume": 1521054,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
