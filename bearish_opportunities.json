@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-21 13:32:21",
-  "matches_found": 8,
+  "scan_timestamp": "2026-01-21 14:32:34",
+  "matches_found": 6,
   "data": [
     {
       "symbol": "ARE",
@@ -16,51 +16,24 @@
       ]
     },
     {
-      "symbol": "TECH",
-      "price": 69.56,
-      "rsi": 83.17,
-      "stoch_k": 89.71,
-      "extension": "+13.1%",
-      "volume": 2278060,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (83)"
-      ]
-    },
-    {
-      "symbol": "SLB",
-      "price": 46.45,
-      "rsi": 82.36,
-      "stoch_k": 88.5,
-      "extension": "+18.9%",
-      "volume": 22089434,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (82)"
-      ]
-    },
-    {
-      "symbol": "BG",
-      "price": 110.06,
-      "rsi": 87.66,
-      "stoch_k": 97.8,
-      "extension": "+15.9%",
-      "volume": 2107737,
+      "symbol": "LOW",
+      "price": 268.4,
+      "rsi": 73.4,
+      "stoch_k": 89.48,
+      "extension": "+9.5%",
+      "volume": 3915628,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (87)",
-        "Bearish RSI Divergence"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "DRI",
-      "price": 208.88,
-      "rsi": 74.7,
-      "stoch_k": 90.76,
-      "extension": "+13.3%",
-      "volume": 2075915,
+      "symbol": "CHRW",
+      "price": 175.1,
+      "rsi": 72.89,
+      "stoch_k": 93.35,
+      "extension": "+9.3%",
+      "volume": 1783941,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -79,28 +52,26 @@
       ]
     },
     {
-      "symbol": "MCHP",
-      "price": 73.17,
-      "rsi": 70.99,
-      "stoch_k": 84.28,
-      "extension": "+16.4%",
-      "volume": 10217664,
-      "score": 2,
+      "symbol": "LHX",
+      "price": 342.33,
+      "rsi": 81.5,
+      "stoch_k": 73.76,
+      "extension": "+15.5%",
+      "volume": 1820371,
+      "score": 1,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (81)"
       ]
     },
     {
-      "symbol": "STZ",
-      "price": 163.64,
-      "rsi": 79.97,
-      "stoch_k": 92.82,
-      "extension": "+16.9%",
-      "volume": 3916093,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (79)"
-      ]
+      "symbol": "DOW",
+      "price": 26.58,
+      "rsi": 69.48,
+      "stoch_k": 78.54,
+      "extension": "+12.3%",
+      "volume": 11355134,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
