@@ -1,20 +1,7 @@
 {
-  "scan_timestamp": "2026-01-21 09:31:11",
-  "matches_found": 4,
+  "scan_timestamp": "2026-01-21 10:31:24",
+  "matches_found": 5,
   "data": [
-    {
-      "symbol": "AMAT",
-      "price": 318.23,
-      "rsi": 72.2,
-      "stoch_k": 87.26,
-      "extension": "+21.6%",
-      "volume": 9227009,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
     {
       "symbol": "ARE",
       "price": 57.52,
@@ -29,12 +16,37 @@
       ]
     },
     {
-      "symbol": "PCAR",
-      "price": 119.38,
-      "rsi": 68.06,
-      "stoch_k": 87.08,
-      "extension": "+10.6%",
-      "volume": 2014524,
+      "symbol": "BA",
+      "price": 249.0,
+      "rsi": 86.55,
+      "stoch_k": 97.43,
+      "extension": "+19.2%",
+      "volume": 11148018,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (86)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "LOW",
+      "price": 268.4,
+      "rsi": 73.4,
+      "stoch_k": 89.48,
+      "extension": "+9.5%",
+      "volume": 3915628,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 215.07,
+      "rsi": 71.67,
+      "stoch_k": 90.9,
+      "extension": "+8.8%",
+      "volume": 8210916,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
