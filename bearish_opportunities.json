@@ -1,70 +1,54 @@
 {
-  "scan_timestamp": "2026-01-21 00:00:57",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-21 09:31:11",
+  "matches_found": 4,
   "data": [
     {
-      "symbol": "SLB",
-      "price": 46.45,
-      "rsi": 82.36,
-      "stoch_k": 88.5,
-      "extension": "+18.9%",
-      "volume": 22089434,
+      "symbol": "AMAT",
+      "price": 318.23,
+      "rsi": 72.2,
+      "stoch_k": 87.26,
+      "extension": "+21.6%",
+      "volume": 9227009,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "price": 57.52,
+      "rsi": 94.41,
+      "stoch_k": 95.44,
+      "extension": "+14.3%",
+      "volume": 3125875,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (82)"
+        "Extreme RSI (94)"
       ]
     },
     {
-      "symbol": "LMT",
-      "price": 576.06,
-      "rsi": 77.13,
-      "stoch_k": 96.03,
-      "extension": "+19.1%",
-      "volume": 1517862,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (77)"
-      ]
-    },
-    {
-      "symbol": "SBUX",
-      "price": 93.66,
-      "rsi": 73.23,
-      "stoch_k": 92.29,
-      "extension": "+8.8%",
-      "volume": 13364570,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "MU",
-      "price": 365.0,
-      "rsi": 73.09,
-      "stoch_k": 86.47,
-      "extension": "+35.9%",
-      "volume": 48666296,
-      "score": 3,
-      "bonus_factors": [
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WY",
-      "price": 26.96,
-      "rsi": 73.47,
-      "stoch_k": 94.18,
-      "extension": "+16.1%",
-      "volume": 6255207,
+      "symbol": "PCAR",
+      "price": 119.38,
+      "rsi": 68.06,
+      "stoch_k": 87.08,
+      "extension": "+10.6%",
+      "volume": 2014524,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
+    },
+    {
+      "symbol": "DOW",
+      "price": 26.58,
+      "rsi": 69.48,
+      "stoch_k": 78.54,
+      "extension": "+12.3%",
+      "volume": 11355134,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
