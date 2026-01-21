@@ -1,7 +1,33 @@
 {
-  "scan_timestamp": "2026-01-21 12:32:07",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-21 13:32:21",
+  "matches_found": 8,
   "data": [
+    {
+      "symbol": "ARE",
+      "price": 57.52,
+      "rsi": 94.41,
+      "stoch_k": 95.44,
+      "extension": "+14.3%",
+      "volume": 3125875,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (94)"
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "price": 69.56,
+      "rsi": 83.17,
+      "stoch_k": 89.71,
+      "extension": "+13.1%",
+      "volume": 2278060,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (83)"
+      ]
+    },
     {
       "symbol": "SLB",
       "price": 46.45,
@@ -41,27 +67,39 @@
       ]
     },
     {
-      "symbol": "RVTY",
-      "price": 111.89,
-      "rsi": 74.18,
-      "stoch_k": 86.71,
-      "extension": "+12.1%",
-      "volume": 1521054,
+      "symbol": "HON",
+      "price": 215.07,
+      "rsi": 71.67,
+      "stoch_k": 90.9,
+      "extension": "+8.8%",
+      "volume": 8210916,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "BLDR",
-      "price": 122.52,
-      "rsi": 70.44,
-      "stoch_k": 82.76,
-      "extension": "+12.7%",
-      "volume": 1793225,
+      "symbol": "MCHP",
+      "price": 73.17,
+      "rsi": 70.99,
+      "stoch_k": 84.28,
+      "extension": "+16.4%",
+      "volume": 10217664,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "STZ",
+      "price": 163.64,
+      "rsi": 79.97,
+      "stoch_k": 92.82,
+      "extension": "+16.9%",
+      "volume": 3916093,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (79)"
       ]
     }
   ]
