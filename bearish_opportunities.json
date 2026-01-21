@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-21 14:32:34",
-  "matches_found": 6,
+  "scan_timestamp": "2026-01-21 15:32:49",
+  "matches_found": 5,
   "data": [
     {
       "symbol": "ARE",
@@ -16,60 +16,50 @@
       ]
     },
     {
-      "symbol": "LOW",
-      "price": 268.4,
-      "rsi": 73.4,
-      "stoch_k": 89.48,
-      "extension": "+9.5%",
-      "volume": 3915628,
+      "symbol": "HSY",
+      "price": 198.87,
+      "rsi": 78.82,
+      "stoch_k": 88.88,
+      "extension": "+8.2%",
+      "volume": 2228360,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1326.07,
+      "rsi": 78.24,
+      "stoch_k": 89.89,
+      "extension": "+20.0%",
+      "volume": 2944195,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "BLDR",
+      "price": 122.52,
+      "rsi": 70.44,
+      "stoch_k": 82.76,
+      "extension": "+12.7%",
+      "volume": 1793225,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "CHRW",
-      "price": 175.1,
-      "rsi": 72.89,
-      "stoch_k": 93.35,
-      "extension": "+9.3%",
-      "volume": 1783941,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 215.07,
-      "rsi": 71.67,
-      "stoch_k": 90.9,
-      "extension": "+8.8%",
-      "volume": 8210916,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 342.33,
-      "rsi": 81.5,
-      "stoch_k": 73.76,
-      "extension": "+15.5%",
-      "volume": 1820371,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (81)"
-      ]
-    },
-    {
-      "symbol": "DOW",
-      "price": 26.58,
-      "rsi": 69.48,
-      "stoch_k": 78.54,
-      "extension": "+12.3%",
-      "volume": 11355134,
+      "symbol": "MOS",
+      "price": 27.03,
+      "rsi": 69.83,
+      "stoch_k": 72.33,
+      "extension": "+9.0%",
+      "volume": 7090629,
       "score": 0,
       "bonus_factors": []
     }
