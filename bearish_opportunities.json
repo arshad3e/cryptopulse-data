@@ -1,20 +1,18 @@
 {
-  "scan_timestamp": "2026-01-22 13:34:48",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-22 14:35:03",
+  "matches_found": 7,
   "data": [
     {
-      "symbol": "FCX",
-      "price": 60.58,
-      "rsi": 76.77,
-      "stoch_k": 86.75,
-      "extension": "+25.9%",
-      "volume": 25719783,
-      "score": 6,
+      "symbol": "CHRW",
+      "price": 179.38,
+      "rsi": 82.65,
+      "stoch_k": 92.23,
+      "extension": "+11.6%",
+      "volume": 1290777,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (76)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
+        "Extreme RSI (82)"
       ]
     },
     {
@@ -31,37 +29,60 @@
       ]
     },
     {
-      "symbol": "LOW",
-      "price": 277.11,
-      "rsi": 78.45,
-      "stoch_k": 87.34,
-      "extension": "+13.1%",
-      "volume": 4022055,
-      "score": 2,
+      "symbol": "BKR",
+      "price": 53.59,
+      "rsi": 73.95,
+      "stoch_k": 91.35,
+      "extension": "+11.1%",
+      "volume": 10701911,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (78)",
+        "Stoch Hook Down",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "EXPD",
-      "price": 162.51,
-      "rsi": 73.87,
-      "stoch_k": 80.07,
-      "extension": "+8.5%",
-      "volume": 891228,
-      "score": 2,
+      "symbol": "IR",
+      "price": 89.82,
+      "rsi": 70.24,
+      "stoch_k": 85.06,
+      "extension": "+11.6%",
+      "volume": 3672930,
+      "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "NUE",
-      "price": 180.23,
-      "rsi": 70.56,
-      "stoch_k": 90.78,
-      "extension": "+12.4%",
-      "volume": 1774668,
+      "symbol": "TER",
+      "price": 231.89,
+      "rsi": 72.06,
+      "stoch_k": 76.02,
+      "extension": "+18.5%",
+      "volume": 3005912,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "price": 112.54,
+      "rsi": 74.45,
+      "stoch_k": 91.37,
+      "extension": "+10.3%",
+      "volume": 1923909,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "BLDR",
+      "price": 126.82,
+      "rsi": 73.31,
+      "stoch_k": 78.98,
+      "extension": "+16.3%",
+      "volume": 1832196,
       "score": 0,
       "bonus_factors": []
     }
