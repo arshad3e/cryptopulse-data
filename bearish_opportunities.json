@@ -1,112 +1,80 @@
 {
-  "scan_timestamp": "2026-01-22 09:33:25",
-  "matches_found": 9,
+  "scan_timestamp": "2026-01-22 10:33:45",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "MU",
-      "price": 389.11,
-      "rsi": 77.52,
-      "stoch_k": 91.62,
-      "extension": "+43.3%",
-      "volume": 56712817,
+      "symbol": "INTC",
+      "price": 54.25,
+      "rsi": 81.03,
+      "stoch_k": 87.35,
+      "extension": "+37.0%",
+      "volume": 220565312,
       "score": 4,
       "bonus_factors": [
-        "Extreme RSI (77)",
+        "Extreme RSI (81)",
         "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "MRNA",
-      "price": 49.81,
-      "rsi": 83.85,
-      "stoch_k": 98.2,
-      "extension": "+64.8%",
-      "volume": 22612253,
+      "symbol": "RVTY",
+      "price": 116.53,
+      "rsi": 77.36,
+      "stoch_k": 86.63,
+      "extension": "+16.1%",
+      "volume": 2252854,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (77)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "price": 27.07,
+      "rsi": 73.19,
+      "stoch_k": 92.45,
+      "extension": "+16.1%",
+      "volume": 7825922,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (83)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "ARE",
-      "price": 58.45,
-      "rsi": 94.74,
-      "stoch_k": 95.71,
-      "extension": "+15.9%",
-      "volume": 3889751,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (94)",
+        "Stoch Hook Down",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "SBUX",
-      "price": 96.43,
-      "rsi": 78.15,
-      "stoch_k": 94.73,
+      "symbol": "IR",
+      "price": 89.82,
+      "rsi": 70.24,
+      "stoch_k": 85.06,
       "extension": "+11.6%",
-      "volume": 17118139,
-      "score": 1,
+      "volume": 3672930,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (78)"
-      ]
-    },
-    {
-      "symbol": "PCAR",
-      "price": 123.26,
-      "rsi": 74.23,
-      "stoch_k": 87.24,
-      "extension": "+13.6%",
-      "volume": 3005833,
-      "score": 1,
-      "bonus_factors": [
+        "Stoch Hook Down",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HWM",
-      "price": 225.0,
-      "rsi": 70.37,
-      "stoch_k": 84.8,
-      "extension": "+9.5%",
-      "volume": 2288699,
+      "symbol": "CF",
+      "price": 91.86,
+      "rsi": 80.99,
+      "stoch_k": 92.98,
+      "extension": "+14.5%",
+      "volume": 2572753,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (80)"
       ]
     },
     {
-      "symbol": "EMR",
-      "price": 149.57,
-      "rsi": 70.34,
-      "stoch_k": 82.58,
+      "symbol": "TGT",
+      "price": 106.04,
+      "rsi": 69.59,
+      "stoch_k": 79.9,
       "extension": "+10.1%",
-      "volume": 2396498,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "MNST",
-      "price": 81.6,
-      "rsi": 73.1,
-      "stoch_k": 91.72,
-      "extension": "+8.7%",
-      "volume": 8643477,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "AMD",
-      "price": 249.8,
-      "rsi": 72.26,
-      "stoch_k": 86.05,
-      "extension": "+13.4%",
-      "volume": 62385578,
+      "volume": 6547286,
       "score": 0,
       "bonus_factors": []
     }
