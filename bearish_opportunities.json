@@ -1,55 +1,27 @@
 {
-  "scan_timestamp": "2026-01-22 10:33:45",
-  "matches_found": 6,
+  "scan_timestamp": "2026-01-22 11:33:59",
+  "matches_found": 5,
   "data": [
     {
-      "symbol": "INTC",
-      "price": 54.25,
-      "rsi": 81.03,
-      "stoch_k": 87.35,
-      "extension": "+37.0%",
-      "volume": 220565312,
-      "score": 4,
-      "bonus_factors": [
-        "Extreme RSI (81)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "RVTY",
-      "price": 116.53,
-      "rsi": 77.36,
-      "stoch_k": 86.63,
-      "extension": "+16.1%",
-      "volume": 2252854,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (77)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WY",
-      "price": 27.07,
-      "rsi": 73.19,
-      "stoch_k": 92.45,
-      "extension": "+16.1%",
-      "volume": 7825922,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "IR",
-      "price": 89.82,
-      "rsi": 70.24,
-      "stoch_k": 85.06,
+      "symbol": "CHRW",
+      "price": 179.38,
+      "rsi": 82.65,
+      "stoch_k": 92.23,
       "extension": "+11.6%",
-      "volume": 3672930,
+      "volume": 1290777,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "ODFL",
+      "price": 178.4,
+      "rsi": 68.83,
+      "stoch_k": 80.41,
+      "extension": "+16.7%",
+      "volume": 2266571,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
@@ -57,24 +29,37 @@
       ]
     },
     {
-      "symbol": "CF",
-      "price": 91.86,
-      "rsi": 80.99,
-      "stoch_k": 92.98,
-      "extension": "+14.5%",
-      "volume": 2572753,
+      "symbol": "ARE",
+      "price": 58.45,
+      "rsi": 94.74,
+      "stoch_k": 95.71,
+      "extension": "+15.9%",
+      "volume": 3889751,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (94)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "DOW",
+      "price": 28.41,
+      "rsi": 74.6,
+      "stoch_k": 81.13,
+      "extension": "+19.3%",
+      "volume": 12572274,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (80)"
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "TGT",
-      "price": 106.04,
-      "rsi": 69.59,
-      "stoch_k": 79.9,
-      "extension": "+10.1%",
-      "volume": 6547286,
+      "symbol": "EL",
+      "price": 117.87,
+      "rsi": 72.15,
+      "stoch_k": 76.82,
+      "extension": "+15.4%",
+      "volume": 2899547,
       "score": 0,
       "bonus_factors": []
     }
