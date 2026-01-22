@@ -1,40 +1,29 @@
 {
-  "scan_timestamp": "2026-01-22 12:34:25",
-  "matches_found": 13,
+  "scan_timestamp": "2026-01-22 13:34:48",
+  "matches_found": 5,
   "data": [
     {
-      "symbol": "SNDK",
-      "price": 501.29,
-      "rsi": 91.96,
-      "stoch_k": 96.16,
-      "extension": "+86.1%",
-      "volume": 21365036,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (91)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "COST",
-      "price": 982.86,
-      "rsi": 87.85,
-      "stoch_k": 96.35,
-      "extension": "+9.3%",
-      "volume": 4073664,
-      "score": 3,
+      "symbol": "FCX",
+      "price": 60.58,
+      "rsi": 76.77,
+      "stoch_k": 86.75,
+      "extension": "+25.9%",
+      "volume": 25719783,
+      "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (87)"
+        "Extreme RSI (76)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "DRI",
-      "price": 207.34,
-      "rsi": 75.35,
-      "stoch_k": 82.89,
-      "extension": "+12.1%",
-      "volume": 1590465,
+      "symbol": "HON",
+      "price": 219.17,
+      "rsi": 75.43,
+      "stoch_k": 89.91,
+      "extension": "+10.6%",
+      "volume": 5655906,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
@@ -42,115 +31,37 @@
       ]
     },
     {
-      "symbol": "MCHP",
-      "price": 76.2,
-      "rsi": 74.72,
-      "stoch_k": 87.22,
-      "extension": "+20.5%",
-      "volume": 11834317,
-      "score": 3,
+      "symbol": "LOW",
+      "price": 277.11,
+      "rsi": 78.45,
+      "stoch_k": 87.34,
+      "extension": "+13.1%",
+      "volume": 4022055,
+      "score": 2,
       "bonus_factors": [
-        "Parabolic (+20% vs SMA)",
+        "Extreme RSI (78)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "CAT",
-      "price": 645.38,
-      "rsi": 71.06,
-      "stoch_k": 81.14,
-      "extension": "+9.8%",
-      "volume": 2490744,
+      "symbol": "EXPD",
+      "price": 162.51,
+      "rsi": 73.87,
+      "stoch_k": 80.07,
+      "extension": "+8.5%",
+      "volume": 891228,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "TER",
-      "price": 231.89,
-      "rsi": 72.06,
-      "stoch_k": 76.02,
-      "extension": "+18.5%",
-      "volume": 3005912,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "CMG",
-      "price": 40.72,
-      "rsi": 70.91,
-      "stoch_k": 73.03,
-      "extension": "+14.7%",
-      "volume": 27628080,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "price": 33.36,
-      "rsi": 70.58,
-      "stoch_k": 80.76,
-      "extension": "+16.7%",
-      "volume": 26694706,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "EMR",
-      "price": 149.57,
-      "rsi": 70.34,
-      "stoch_k": 82.58,
-      "extension": "+10.1%",
-      "volume": 2396498,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "PPG",
-      "price": 112.54,
-      "rsi": 74.45,
-      "stoch_k": 91.37,
-      "extension": "+10.3%",
-      "volume": 1923909,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "XOM",
-      "price": 133.61,
-      "rsi": 70.38,
-      "stoch_k": 91.61,
-      "extension": "+11.5%",
-      "volume": 18879887,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "CVX",
-      "price": 166.73,
-      "rsi": 70.14,
-      "stoch_k": 82.28,
-      "extension": "+8.3%",
-      "volume": 10918539,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "CFG",
-      "price": 64.06,
-      "rsi": 69.05,
-      "stoch_k": 67.38,
-      "extension": "+12.6%",
-      "volume": 11726812,
+      "symbol": "NUE",
+      "price": 180.23,
+      "rsi": 70.56,
+      "stoch_k": 90.78,
+      "extension": "+12.4%",
+      "volume": 1774668,
       "score": 0,
       "bonus_factors": []
     }
