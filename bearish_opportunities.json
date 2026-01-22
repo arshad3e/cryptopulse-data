@@ -1,67 +1,110 @@
 {
-  "scan_timestamp": "2026-01-21 15:32:49",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-22 00:03:07",
+  "matches_found": 8,
   "data": [
     {
-      "symbol": "ARE",
-      "price": 57.52,
-      "rsi": 94.41,
-      "stoch_k": 95.44,
-      "extension": "+14.3%",
-      "volume": 3125875,
-      "score": 3,
+      "symbol": "BA",
+      "price": 250.07,
+      "rsi": 86.5,
+      "stoch_k": 97.29,
+      "extension": "+19.1%",
+      "volume": 8024264,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (94)"
-      ]
-    },
-    {
-      "symbol": "HSY",
-      "price": 198.87,
-      "rsi": 78.82,
-      "stoch_k": 88.88,
-      "extension": "+8.2%",
-      "volume": 2228360,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (78)"
+        "Extreme RSI (86)",
+        "Bearish RSI Divergence"
       ]
     },
     {
       "symbol": "ASML",
-      "price": 1326.07,
-      "rsi": 78.24,
-      "stoch_k": 89.89,
-      "extension": "+20.0%",
-      "volume": 2944195,
+      "price": 1360.09,
+      "rsi": 79.49,
+      "stoch_k": 91.19,
+      "extension": "+22.3%",
+      "volume": 2313201,
+      "score": 4,
+      "bonus_factors": [
+        "Extreme RSI (79)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 219.17,
+      "rsi": 75.43,
+      "stoch_k": 89.91,
+      "extension": "+10.6%",
+      "volume": 5210808,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (78)"
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "BLDR",
-      "price": 122.52,
-      "rsi": 70.44,
-      "stoch_k": 82.76,
-      "extension": "+12.7%",
-      "volume": 1793225,
+      "symbol": "ARE",
+      "price": 58.45,
+      "rsi": 94.74,
+      "stoch_k": 95.71,
+      "extension": "+15.9%",
+      "volume": 3623034,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (94)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "MOS",
-      "price": 27.03,
-      "rsi": 69.83,
-      "stoch_k": 72.33,
-      "extension": "+9.0%",
-      "volume": 7090629,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "LHX",
+      "price": 347.81,
+      "rsi": 83.26,
+      "stoch_k": 77.25,
+      "extension": "+16.8%",
+      "volume": 2252711,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (83)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "LOW",
+      "price": 277.11,
+      "rsi": 78.45,
+      "stoch_k": 87.34,
+      "extension": "+13.1%",
+      "volume": 3957453,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (78)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "TER",
+      "price": 231.89,
+      "rsi": 72.06,
+      "stoch_k": 76.02,
+      "extension": "+18.5%",
+      "volume": 2874913,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 194.41,
+      "rsi": 68.08,
+      "stoch_k": 79.4,
+      "extension": "+11.0%",
+      "volume": 7262648,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     }
   ]
 }
