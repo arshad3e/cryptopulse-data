@@ -1,44 +1,46 @@
 {
-  "scan_timestamp": "2026-01-23 11:32:11",
-  "matches_found": 11,
+  "scan_timestamp": "2026-01-23 12:32:36",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "ARE",
-      "price": 58.09,
-      "rsi": 91.55,
-      "stoch_k": 92.99,
-      "extension": "+15.0%",
-      "volume": 2833623,
-      "score": 3,
+      "symbol": "LMT",
+      "price": 593.91,
+      "rsi": 81.8,
+      "stoch_k": 95.36,
+      "extension": "+21.5%",
+      "volume": 1493620,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (91)"
+        "Extreme RSI (81)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "CHRW",
-      "price": 177.9,
-      "rsi": 81.79,
-      "stoch_k": 89.24,
-      "extension": "+10.2%",
-      "volume": 1551089,
+      "symbol": "ALB",
+      "price": 188.32,
+      "rsi": 78.44,
+      "stoch_k": 92.85,
+      "extension": "+35.4%",
+      "volume": 4220350,
+      "score": 4,
+      "bonus_factors": [
+        "Extreme RSI (78)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "price": 113.91,
+      "rsi": 81.34,
+      "stoch_k": 91.22,
+      "extension": "+11.2%",
+      "volume": 2062944,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
         "Extreme RSI (81)"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 355.75,
-      "rsi": 86.7,
-      "stoch_k": 81.64,
-      "extension": "+18.9%",
-      "volume": 1356627,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (86)",
-        "Bearish RSI Divergence"
       ]
     },
     {
@@ -78,52 +80,32 @@
       ]
     },
     {
-      "symbol": "Q",
-      "price": 98.76,
-      "rsi": 74.45,
-      "stoch_k": 77.74,
-      "extension": "+16.5%",
-      "volume": 3652324,
+      "symbol": "FAST",
+      "price": 44.78,
+      "rsi": 74.97,
+      "stoch_k": 86.29,
+      "extension": "+8.3%",
+      "volume": 9296965,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "ON",
-      "price": 63.07,
-      "rsi": 73.47,
-      "stoch_k": 78.82,
-      "extension": "+16.1%",
-      "volume": 8657275,
+      "symbol": "ICE",
+      "price": 174.35,
+      "rsi": 70.26,
+      "stoch_k": 81.67,
+      "extension": "+8.8%",
+      "volume": 2967915,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "DRI",
-      "price": 205.16,
-      "rsi": 73.38,
-      "stoch_k": 73.19,
-      "extension": "+10.5%",
-      "volume": 894793,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "DXCM",
-      "price": 73.92,
-      "rsi": 72.98,
-      "stoch_k": 82.5,
-      "extension": "+12.9%",
-      "volume": 11335555,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "BEN",
-      "price": 25.77,
-      "rsi": 68.29,
-      "stoch_k": 65.83,
-      "extension": "+9.9%",
-      "volume": 5826090,
+      "symbol": "PNC",
+      "price": 222.0,
+      "rsi": 69.09,
+      "stoch_k": 75.35,
+      "extension": "+9.7%",
+      "volume": 5372665,
       "score": 0,
       "bonus_factors": []
     }
