@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-23 12:32:36",
-  "matches_found": 9,
+  "scan_timestamp": "2026-01-23 13:32:50",
+  "matches_found": 10,
   "data": [
     {
       "symbol": "LMT",
@@ -31,6 +31,32 @@
       ]
     },
     {
+      "symbol": "SNDK",
+      "price": 503.44,
+      "rsi": 92.85,
+      "stoch_k": 98.52,
+      "extension": "+83.3%",
+      "volume": 20607486,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (92)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "COST",
+      "price": 976.17,
+      "rsi": 85.97,
+      "stoch_k": 93.48,
+      "extension": "+8.4%",
+      "volume": 2074413,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (85)"
+      ]
+    },
+    {
       "symbol": "PPG",
       "price": 113.91,
       "rsi": 81.34,
@@ -44,58 +70,46 @@
       ]
     },
     {
-      "symbol": "CF",
-      "price": 89.23,
-      "rsi": 72.6,
-      "stoch_k": 89.63,
-      "extension": "+11.0%",
-      "volume": 2350991,
+      "symbol": "STX",
+      "price": 346.53,
+      "rsi": 69.55,
+      "stoch_k": 90.54,
+      "extension": "+21.0%",
+      "volume": 2796255,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "STZ",
-      "price": 160.72,
-      "rsi": 77.72,
-      "stoch_k": 93.26,
-      "extension": "+13.7%",
-      "volume": 2292775,
+      "symbol": "EL",
+      "price": 119.49,
+      "rsi": 76.71,
+      "stoch_k": 84.55,
+      "extension": "+16.2%",
+      "volume": 3602706,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (77)"
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "HAL",
-      "price": 33.72,
-      "rsi": 72.83,
-      "stoch_k": 86.21,
-      "extension": "+17.5%",
-      "volume": 16173938,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "FAST",
-      "price": 44.78,
+      "symbol": "DOW",
+      "price": 28.33,
       "rsi": 74.97,
-      "stoch_k": 86.29,
-      "extension": "+8.3%",
-      "volume": 9296965,
+      "stoch_k": 82.5,
+      "extension": "+18.4%",
+      "volume": 11409365,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "ICE",
-      "price": 174.35,
-      "rsi": 70.26,
-      "stoch_k": 81.67,
-      "extension": "+8.8%",
-      "volume": 2967915,
+      "symbol": "ODFL",
+      "price": 178.25,
+      "rsi": 72.19,
+      "stoch_k": 80.79,
+      "extension": "+16.0%",
+      "volume": 1650753,
       "score": 0,
       "bonus_factors": []
     },
