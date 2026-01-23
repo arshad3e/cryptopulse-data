@@ -1,70 +1,68 @@
 {
-  "scan_timestamp": "2026-01-23 10:31:52",
-  "matches_found": 8,
+  "scan_timestamp": "2026-01-23 11:32:11",
+  "matches_found": 11,
   "data": [
     {
-      "symbol": "LRCX",
-      "price": 220.7,
-      "rsi": 74.46,
-      "stoch_k": 84.76,
-      "extension": "+26.2%",
-      "volume": 11958641,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "SNDK",
-      "price": 503.44,
-      "rsi": 92.85,
-      "stoch_k": 98.52,
-      "extension": "+83.3%",
-      "volume": 20607486,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (92)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "COST",
-      "price": 976.17,
-      "rsi": 85.97,
-      "stoch_k": 93.48,
-      "extension": "+8.4%",
-      "volume": 2074413,
+      "symbol": "ARE",
+      "price": 58.09,
+      "rsi": 91.55,
+      "stoch_k": 92.99,
+      "extension": "+15.0%",
+      "volume": 2833623,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (85)"
+        "Extreme RSI (91)"
       ]
     },
     {
-      "symbol": "WDC",
-      "price": 243.29,
-      "rsi": 76.19,
-      "stoch_k": 92.24,
-      "extension": "+35.4%",
-      "volume": 8926901,
+      "symbol": "CHRW",
+      "price": 177.9,
+      "rsi": 81.79,
+      "stoch_k": 89.24,
+      "extension": "+10.2%",
+      "volume": 1551089,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (76)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
       ]
     },
     {
-      "symbol": "ADI",
-      "price": 308.52,
-      "rsi": 78.97,
-      "stoch_k": 81.11,
-      "extension": "+13.9%",
-      "volume": 2793663,
+      "symbol": "LHX",
+      "price": 355.75,
+      "rsi": 86.7,
+      "stoch_k": 81.64,
+      "extension": "+18.9%",
+      "volume": 1356627,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (78)",
+        "Extreme RSI (86)",
         "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CF",
+      "price": 89.23,
+      "rsi": 72.6,
+      "stoch_k": 89.63,
+      "extension": "+11.0%",
+      "volume": 2350991,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "STZ",
+      "price": 160.72,
+      "rsi": 77.72,
+      "stoch_k": 93.26,
+      "extension": "+13.7%",
+      "volume": 2292775,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
       ]
     },
     {
@@ -80,12 +78,42 @@
       ]
     },
     {
-      "symbol": "ODFL",
-      "price": 178.25,
-      "rsi": 72.19,
-      "stoch_k": 80.79,
-      "extension": "+16.0%",
-      "volume": 1650753,
+      "symbol": "Q",
+      "price": 98.76,
+      "rsi": 74.45,
+      "stoch_k": 77.74,
+      "extension": "+16.5%",
+      "volume": 3652324,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "ON",
+      "price": 63.07,
+      "rsi": 73.47,
+      "stoch_k": 78.82,
+      "extension": "+16.1%",
+      "volume": 8657275,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "DRI",
+      "price": 205.16,
+      "rsi": 73.38,
+      "stoch_k": 73.19,
+      "extension": "+10.5%",
+      "volume": 894793,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "DXCM",
+      "price": 73.92,
+      "rsi": 72.98,
+      "stoch_k": 82.5,
+      "extension": "+12.9%",
+      "volume": 11335555,
       "score": 0,
       "bonus_factors": []
     },
