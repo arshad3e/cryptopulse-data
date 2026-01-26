@@ -1,31 +1,31 @@
 {
-  "scan_timestamp": "2026-01-26 09:30:37",
-  "matches_found": 20,
+  "scan_timestamp": "2026-01-26 10:31:24",
+  "matches_found": 16,
   "data": [
     {
-      "symbol": "NEM",
-      "price": 124.31,
-      "rsi": 89.93,
-      "stoch_k": 94.05,
-      "extension": "+24.9%",
-      "volume": 8035799,
+      "symbol": "MOVE",
+      "price": 16.74,
+      "rsi": 80.7,
+      "stoch_k": 38.14,
+      "extension": "+86.9%",
+      "volume": 42211293,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (89)",
+        "Extreme RSI (80)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "LMT",
-      "price": 590.82,
-      "rsi": 78.76,
-      "stoch_k": 96.82,
-      "extension": "+20.1%",
-      "volume": 1271698,
+      "symbol": "MNST",
+      "price": 82.0,
+      "rsi": 80.29,
+      "stoch_k": 93.94,
+      "extension": "+8.6%",
+      "volume": 4393816,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (78)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
       ]
     },
     {
@@ -68,19 +68,6 @@
       ]
     },
     {
-      "symbol": "IBKR",
-      "price": 77.58,
-      "rsi": 75.21,
-      "stoch_k": 92.42,
-      "extension": "+15.6%",
-      "volume": 8053385,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (75)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
       "symbol": "FCX",
       "price": 60.41,
       "rsi": 72.78,
@@ -90,6 +77,18 @@
       "score": 2,
       "bonus_factors": [
         "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "price": 53.92,
+      "rsi": 72.72,
+      "stoch_k": 92.63,
+      "extension": "+11.3%",
+      "volume": 15013810,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
       ]
     },
     {
@@ -105,24 +104,24 @@
       ]
     },
     {
+      "symbol": "LHX",
+      "price": 354.73,
+      "rsi": 83.58,
+      "stoch_k": 86.53,
+      "extension": "+18.1%",
+      "volume": 1473648,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (83)"
+      ]
+    },
+    {
       "symbol": "IRM",
       "price": 93.59,
       "rsi": 76.94,
       "stoch_k": 81.37,
       "extension": "+8.6%",
       "volume": 1197395,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "RVTY",
-      "price": 116.73,
-      "rsi": 76.5,
-      "stoch_k": 95.69,
-      "extension": "+15.1%",
-      "volume": 1396239,
       "score": 1,
       "bonus_factors": [
         "Extreme RSI (76)"
@@ -153,22 +152,22 @@
       ]
     },
     {
-      "symbol": "CVNA",
-      "price": 473.31,
-      "rsi": 73.3,
-      "stoch_k": 86.8,
-      "extension": "+14.7%",
-      "volume": 2460863,
+      "symbol": "ADI",
+      "price": 305.6,
+      "rsi": 74.58,
+      "stoch_k": 86.08,
+      "extension": "+12.2%",
+      "volume": 2907157,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "PPG",
-      "price": 112.29,
-      "rsi": 72.06,
-      "stoch_k": 91.28,
-      "extension": "+9.3%",
-      "volume": 1965279,
+      "symbol": "MCHP",
+      "price": 74.71,
+      "rsi": 71.49,
+      "stoch_k": 78.63,
+      "extension": "+16.7%",
+      "volume": 7546291,
       "score": 0,
       "bonus_factors": []
     },
@@ -183,52 +182,12 @@
       "bonus_factors": []
     },
     {
-      "symbol": "UPS",
-      "price": 107.98,
-      "rsi": 70.81,
-      "stoch_k": 87.09,
-      "extension": "+8.0%",
-      "volume": 4049648,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "CNC",
-      "price": 46.09,
-      "rsi": 70.2,
-      "stoch_k": 67.71,
-      "extension": "+13.2%",
-      "volume": 3792259,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "EL",
-      "price": 117.69,
-      "rsi": 69.94,
-      "stoch_k": 89.91,
-      "extension": "+13.9%",
-      "volume": 2725269,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "GILD",
-      "price": 135.93,
-      "rsi": 69.3,
-      "stoch_k": 94.59,
-      "extension": "+10.1%",
-      "volume": 13180915,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "EMR",
-      "price": 147.68,
+      "symbol": "LYB",
+      "price": 50.99,
       "rsi": 68.13,
-      "stoch_k": 84.41,
-      "extension": "+8.1%",
-      "volume": 3027644,
+      "stoch_k": 85.66,
+      "extension": "+12.5%",
+      "volume": 4424329,
       "score": 0,
       "bonus_factors": []
     }
