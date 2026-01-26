@@ -1,31 +1,57 @@
 {
-  "scan_timestamp": "2026-01-26 12:32:58",
-  "matches_found": 14,
+  "scan_timestamp": "2026-01-26 13:33:41",
+  "matches_found": 12,
   "data": [
     {
-      "symbol": "ALB",
-      "price": 189.51,
-      "rsi": 78.09,
-      "stoch_k": 96.83,
-      "extension": "+34.6%",
-      "volume": 3022607,
+      "symbol": "BG",
+      "price": 113.6,
+      "rsi": 89.49,
+      "stoch_k": 98.37,
+      "extension": "+18.3%",
+      "volume": 1486652,
       "score": 4,
       "bonus_factors": [
-        "Extreme RSI (78)",
-        "Parabolic (+20% vs SMA)",
+        "Stoch Hook Down",
+        "Extreme RSI (89)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "AMAT",
-      "price": 322.38,
-      "rsi": 71.68,
-      "stoch_k": 84.22,
-      "extension": "+20.7%",
-      "volume": 6200984,
-      "score": 4,
+      "symbol": "COST",
+      "price": 983.25,
+      "rsi": 90.88,
+      "stoch_k": 93.43,
+      "extension": "+9.0%",
+      "volume": 1680580,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
+        "Extreme RSI (90)"
+      ]
+    },
+    {
+      "symbol": "LMT",
+      "price": 590.82,
+      "rsi": 78.76,
+      "stoch_k": 96.82,
+      "extension": "+20.1%",
+      "volume": 1271698,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (78)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1389.04,
+      "rsi": 76.02,
+      "stoch_k": 96.4,
+      "extension": "+23.3%",
+      "volume": 1556330,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (76)",
         "Parabolic (+20% vs SMA)"
       ]
     },
@@ -43,88 +69,39 @@
       ]
     },
     {
-      "symbol": "STZ",
-      "price": 158.78,
-      "rsi": 72.13,
-      "stoch_k": 86.17,
-      "extension": "+11.9%",
-      "volume": 2250480,
+      "symbol": "IBKR",
+      "price": 77.58,
+      "rsi": 75.21,
+      "stoch_k": 92.42,
+      "extension": "+15.6%",
+      "volume": 8053385,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "CL",
-      "price": 86.66,
-      "rsi": 89.45,
-      "stoch_k": 95.27,
-      "extension": "+9.1%",
-      "volume": 5345518,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (89)"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 354.73,
-      "rsi": 83.58,
-      "stoch_k": 86.53,
-      "extension": "+18.1%",
-      "volume": 1473648,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (83)"
-      ]
-    },
-    {
-      "symbol": "IRM",
-      "price": 93.59,
-      "rsi": 76.94,
-      "stoch_k": 81.37,
-      "extension": "+8.6%",
-      "volume": 1197395,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 259.68,
-      "rsi": 73.57,
-      "stoch_k": 93.05,
-      "extension": "+17.5%",
-      "volume": 47525928,
-      "score": 1,
-      "bonus_factors": [
+        "Extreme RSI (75)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "CF",
-      "price": 92.38,
-      "rsi": 72.97,
-      "stoch_k": 91.74,
-      "extension": "+14.6%",
-      "volume": 1965193,
+      "symbol": "HON",
+      "price": 221.46,
+      "rsi": 77.07,
+      "stoch_k": 94.9,
+      "extension": "+11.1%",
+      "volume": 3819883,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (77)"
       ]
     },
     {
-      "symbol": "XOM",
-      "price": 134.97,
-      "rsi": 70.98,
-      "stoch_k": 96.72,
-      "extension": "+12.0%",
-      "volume": 17758214,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
+      "symbol": "CVNA",
+      "price": 473.31,
+      "rsi": 73.3,
+      "stoch_k": 86.8,
+      "extension": "+14.7%",
+      "volume": 2460863,
+      "score": 0,
+      "bonus_factors": []
     },
     {
       "symbol": "DOW",
@@ -137,32 +114,32 @@
       "bonus_factors": []
     },
     {
-      "symbol": "MCHP",
-      "price": 74.71,
-      "rsi": 71.49,
-      "stoch_k": 78.63,
-      "extension": "+16.7%",
-      "volume": 7546291,
+      "symbol": "UPS",
+      "price": 107.98,
+      "rsi": 70.81,
+      "stoch_k": 87.09,
+      "extension": "+8.0%",
+      "volume": 4049648,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "IFF",
-      "price": 73.23,
-      "rsi": 70.97,
-      "stoch_k": 88.49,
-      "extension": "+8.9%",
-      "volume": 1461537,
+      "symbol": "EMR",
+      "price": 147.68,
+      "rsi": 68.13,
+      "stoch_k": 84.41,
+      "extension": "+8.1%",
+      "volume": 3027644,
       "score": 0,
       "bonus_factors": []
     },
     {
-      "symbol": "EL",
-      "price": 117.69,
-      "rsi": 69.94,
-      "stoch_k": 89.91,
-      "extension": "+13.9%",
-      "volume": 2725269,
+      "symbol": "TGT",
+      "price": 108.1,
+      "rsi": 68.11,
+      "stoch_k": 64.32,
+      "extension": "+11.4%",
+      "volume": 4594123,
       "score": 0,
       "bonus_factors": []
     }
