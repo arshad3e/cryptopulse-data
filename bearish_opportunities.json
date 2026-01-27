@@ -1,42 +1,119 @@
 {
-  "scan_timestamp": "2026-01-27 00:00:48",
-  "matches_found": 3,
+  "scan_timestamp": "2026-01-27 09:31:17",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "WDC",
-      "price": 240.85,
-      "rsi": 70.16,
-      "stoch_k": 87.51,
-      "extension": "+32.1%",
-      "volume": 7101492,
+      "symbol": "HD",
+      "price": 386.53,
+      "rsi": 81.29,
+      "stoch_k": 87.1,
+      "extension": "+8.4%",
+      "volume": 3984977,
       "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
+        "Extreme RSI (81)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "BA",
+      "price": 248.43,
+      "rsi": 77.69,
+      "stoch_k": 88.82,
+      "extension": "+16.4%",
+      "volume": 8469160,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "price": 57.16,
+      "rsi": 76.2,
+      "stoch_k": 87.56,
+      "extension": "+12.7%",
+      "volume": 4462561,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "MRNA",
+      "price": 47.99,
+      "rsi": 75.52,
+      "stoch_k": 76.1,
+      "extension": "+51.5%",
+      "volume": 11291458,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (75)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "SBUX",
-      "price": 96.33,
-      "rsi": 74.83,
-      "stoch_k": 90.51,
-      "extension": "+10.6%",
-      "volume": 13996917,
+      "symbol": "ASML",
+      "price": 1413.35,
+      "rsi": 73.57,
+      "stoch_k": 97.16,
+      "extension": "+24.6%",
+      "volume": 2001284,
+      "score": 3,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "price": 67.37,
+      "rsi": 74.42,
+      "stoch_k": 93.04,
+      "extension": "+11.7%",
+      "volume": 2752205,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "PCAR",
-      "price": 122.11,
-      "rsi": 70.43,
-      "stoch_k": 84.34,
-      "extension": "+11.0%",
-      "volume": 3136080,
+      "symbol": "HON",
+      "price": 221.16,
+      "rsi": 73.71,
+      "stoch_k": 93.64,
+      "extension": "+10.7%",
+      "volume": 3704168,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "price": 26.6,
+      "rsi": 68.75,
+      "stoch_k": 80.61,
+      "extension": "+12.9%",
+      "volume": 6527244,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "MO",
+      "price": 62.98,
+      "rsi": 79.56,
+      "stoch_k": 93.67,
+      "extension": "+8.5%",
+      "volume": 11043859,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (79)"
       ]
     }
   ]
