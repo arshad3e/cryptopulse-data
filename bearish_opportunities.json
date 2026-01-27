@@ -1,31 +1,33 @@
 {
-  "scan_timestamp": "2026-01-27 11:32:52",
-  "matches_found": 7,
+  "scan_timestamp": "2026-01-27 12:33:31",
+  "matches_found": 5,
   "data": [
     {
-      "symbol": "MU",
-      "price": 389.09,
-      "rsi": 74.67,
-      "stoch_k": 87.55,
-      "extension": "+38.6%",
-      "volume": 29193925,
-      "score": 4,
+      "symbol": "SLB",
+      "price": 49.7,
+      "rsi": 77.94,
+      "stoch_k": 83.44,
+      "extension": "+24.0%",
+      "volume": 25377215,
+      "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (77)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "WDC",
-      "price": 240.85,
-      "rsi": 70.16,
-      "stoch_k": 87.51,
-      "extension": "+32.1%",
-      "volume": 7128274,
-      "score": 4,
+      "symbol": "CLX",
+      "price": 112.87,
+      "rsi": 83.52,
+      "stoch_k": 87.44,
+      "extension": "+8.5%",
+      "volume": 2167978,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (83)"
       ]
     },
     {
@@ -55,39 +57,16 @@
       ]
     },
     {
-      "symbol": "APH",
-      "price": 155.56,
-      "rsi": 68.79,
-      "stoch_k": 83.2,
-      "extension": "+11.7%",
-      "volume": 10563887,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 221.16,
-      "rsi": 73.71,
-      "stoch_k": 93.64,
-      "extension": "+10.7%",
-      "volume": 3704168,
+      "symbol": "LMT",
+      "price": 581.66,
+      "rsi": 72.23,
+      "stoch_k": 92.79,
+      "extension": "+17.7%",
+      "volume": 1460532,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
-    },
-    {
-      "symbol": "AKAM",
-      "price": 98.66,
-      "rsi": 68.05,
-      "stoch_k": 90.71,
-      "extension": "+11.2%",
-      "volume": 4142117,
-      "score": 0,
-      "bonus_factors": []
     }
   ]
 }
