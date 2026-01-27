@@ -1,20 +1,32 @@
 {
-  "scan_timestamp": "2026-01-27 12:33:31",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-27 13:35:13",
+  "matches_found": 15,
   "data": [
     {
-      "symbol": "SLB",
-      "price": 49.7,
-      "rsi": 77.94,
-      "stoch_k": 83.44,
-      "extension": "+24.0%",
-      "volume": 25377215,
-      "score": 6,
+      "symbol": "LOW",
+      "price": 277.91,
+      "rsi": 80.14,
+      "stoch_k": 88.32,
+      "extension": "+12.2%",
+      "volume": 2021973,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (77)",
-        "Parabolic (+20% vs SMA)",
+        "Extreme RSI (80)",
         "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "price": 240.85,
+      "rsi": 70.16,
+      "stoch_k": 87.51,
+      "extension": "+32.1%",
+      "volume": 7128274,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -28,6 +40,19 @@
       "bonus_factors": [
         "Stoch Hook Down",
         "Extreme RSI (83)"
+      ]
+    },
+    {
+      "symbol": "IRM",
+      "price": 93.84,
+      "rsi": 76.72,
+      "stoch_k": 80.65,
+      "extension": "+9.0%",
+      "volume": 1154841,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
       ]
     },
     {
@@ -57,16 +82,109 @@
       ]
     },
     {
-      "symbol": "LMT",
-      "price": 581.66,
-      "rsi": 72.23,
-      "stoch_k": 92.79,
-      "extension": "+17.7%",
-      "volume": 1460532,
+      "symbol": "APH",
+      "price": 155.56,
+      "rsi": 68.79,
+      "stoch_k": 83.2,
+      "extension": "+11.7%",
+      "volume": 10563887,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "price": 67.37,
+      "rsi": 74.42,
+      "stoch_k": 93.04,
+      "extension": "+11.7%",
+      "volume": 2752205,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
+    },
+    {
+      "symbol": "HON",
+      "price": 221.16,
+      "rsi": 73.71,
+      "stoch_k": 93.64,
+      "extension": "+10.7%",
+      "volume": 3704168,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "price": 112.65,
+      "rsi": 71.26,
+      "stoch_k": 87.14,
+      "extension": "+9.3%",
+      "volume": 1821347,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "MOS",
+      "price": 28.33,
+      "rsi": 70.4,
+      "stoch_k": 87.18,
+      "extension": "+13.2%",
+      "volume": 5731670,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "DOW",
+      "price": 28.18,
+      "rsi": 69.2,
+      "stoch_k": 83.52,
+      "extension": "+16.5%",
+      "volume": 8707085,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "price": 26.6,
+      "rsi": 68.75,
+      "stoch_k": 80.61,
+      "extension": "+12.9%",
+      "volume": 6527244,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "MCHP",
+      "price": 74.79,
+      "rsi": 68.79,
+      "stoch_k": 62.44,
+      "extension": "+16.1%",
+      "volume": 7784056,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "AKAM",
+      "price": 98.66,
+      "rsi": 68.05,
+      "stoch_k": 90.71,
+      "extension": "+11.2%",
+      "volume": 4142117,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
