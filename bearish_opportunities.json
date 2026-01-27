@@ -1,118 +1,91 @@
 {
-  "scan_timestamp": "2026-01-27 14:36:18",
-  "matches_found": 9,
+  "scan_timestamp": "2026-01-27 15:36:52",
+  "matches_found": 7,
   "data": [
     {
-      "symbol": "SNDK",
-      "price": 470.8,
-      "rsi": 82.35,
-      "stoch_k": 88.51,
-      "extension": "+66.5%",
-      "volume": 13435182,
-      "score": 5,
+      "symbol": "ALB",
+      "price": 189.75,
+      "rsi": 77.55,
+      "stoch_k": 95.51,
+      "extension": "+33.1%",
+      "volume": 3002651,
+      "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (82)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "HD",
-      "price": 386.53,
-      "rsi": 81.29,
-      "stoch_k": 87.1,
-      "extension": "+8.4%",
-      "volume": 3984977,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (81)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "MU",
-      "price": 389.09,
-      "rsi": 74.67,
-      "stoch_k": 87.55,
-      "extension": "+38.6%",
-      "volume": 29193925,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "WDC",
-      "price": 240.85,
-      "rsi": 70.16,
-      "stoch_k": 87.51,
-      "extension": "+32.1%",
-      "volume": 7128274,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "price": 56.29,
-      "rsi": 73.5,
-      "stoch_k": 91.29,
-      "extension": "+15.8%",
-      "volume": 18022061,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "FCX",
-      "price": 61.17,
-      "rsi": 70.06,
-      "stoch_k": 75.93,
-      "extension": "+24.1%",
-      "volume": 31620210,
-      "score": 3,
-      "bonus_factors": [
+        "Extreme RSI (77)",
         "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PPG",
-      "price": 112.65,
-      "rsi": 71.26,
-      "stoch_k": 87.14,
-      "extension": "+9.3%",
-      "volume": 1821347,
+      "symbol": "CLX",
+      "price": 112.87,
+      "rsi": 83.52,
+      "stoch_k": 87.44,
+      "extension": "+8.5%",
+      "volume": 2167978,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (83)"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 196.59,
+      "rsi": 68.76,
+      "stoch_k": 80.02,
+      "extension": "+10.9%",
+      "volume": 9169319,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "RVTY",
+      "price": 114.7,
+      "rsi": 69.08,
+      "stoch_k": 89.72,
+      "extension": "+12.7%",
+      "volume": 1271774,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 251.31,
-      "rsi": 68.26,
-      "stoch_k": 87.23,
-      "extension": "+13.6%",
-      "volume": 30672461,
-      "score": 2,
+      "symbol": "TSN",
+      "price": 63.73,
+      "rsi": 78.75,
+      "stoch_k": 96.87,
+      "extension": "+10.6%",
+      "volume": 3996532,
+      "score": 1,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (78)"
       ]
     },
     {
-      "symbol": "AKAM",
-      "price": 98.66,
-      "rsi": 68.05,
-      "stoch_k": 90.71,
-      "extension": "+11.2%",
-      "volume": 4142117,
+      "symbol": "PM",
+      "price": 175.76,
+      "rsi": 70.81,
+      "stoch_k": 90.63,
+      "extension": "+11.1%",
+      "volume": 5300359,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CTVA",
+      "price": 72.63,
+      "rsi": 68.47,
+      "stoch_k": 92.17,
+      "extension": "+8.0%",
+      "volume": 5351260,
       "score": 0,
       "bonus_factors": []
     }
