@@ -1,45 +1,18 @@
 {
-  "scan_timestamp": "2026-01-27 09:31:17",
+  "scan_timestamp": "2026-01-27 10:31:47",
   "matches_found": 9,
   "data": [
     {
-      "symbol": "HD",
-      "price": 386.53,
-      "rsi": 81.29,
-      "stoch_k": 87.1,
-      "extension": "+8.4%",
-      "volume": 3984977,
+      "symbol": "MU",
+      "price": 389.09,
+      "rsi": 74.67,
+      "stoch_k": 87.55,
+      "extension": "+38.6%",
+      "volume": 29193925,
       "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (81)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "BA",
-      "price": 248.43,
-      "rsi": 77.69,
-      "stoch_k": 88.82,
-      "extension": "+16.4%",
-      "volume": 8469160,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (77)"
-      ]
-    },
-    {
-      "symbol": "ARE",
-      "price": 57.16,
-      "rsi": 76.2,
-      "stoch_k": 87.56,
-      "extension": "+12.7%",
-      "volume": 4462561,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)"
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -81,40 +54,62 @@
       ]
     },
     {
-      "symbol": "HON",
-      "price": 221.16,
-      "rsi": 73.71,
-      "stoch_k": 93.64,
-      "extension": "+10.7%",
-      "volume": 3704168,
+      "symbol": "AMD",
+      "price": 251.31,
+      "rsi": 68.26,
+      "stoch_k": 87.23,
+      "extension": "+13.6%",
+      "volume": 30672461,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "WY",
-      "price": 26.6,
-      "rsi": 68.75,
-      "stoch_k": 80.61,
-      "extension": "+12.9%",
-      "volume": 6527244,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "MO",
-      "price": 62.98,
-      "rsi": 79.56,
-      "stoch_k": 93.67,
-      "extension": "+8.5%",
-      "volume": 11043859,
+      "symbol": "LHX",
+      "price": 354.2,
+      "rsi": 81.27,
+      "stoch_k": 88.37,
+      "extension": "+17.5%",
+      "volume": 1217172,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (79)"
+        "Extreme RSI (81)"
       ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 63.73,
+      "rsi": 78.75,
+      "stoch_k": 96.87,
+      "extension": "+10.6%",
+      "volume": 3996532,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "PM",
+      "price": 175.76,
+      "rsi": 70.81,
+      "stoch_k": 90.63,
+      "extension": "+11.1%",
+      "volume": 5300359,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CTVA",
+      "price": 72.63,
+      "rsi": 68.47,
+      "stoch_k": 92.17,
+      "extension": "+8.0%",
+      "volume": 5351260,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
