@@ -1,93 +1,133 @@
 {
-  "scan_timestamp": "2026-01-27 15:36:52",
-  "matches_found": 7,
+  "scan_timestamp": "2026-01-28 00:02:23",
+  "matches_found": 10,
   "data": [
     {
-      "symbol": "ALB",
-      "price": 189.75,
-      "rsi": 77.55,
-      "stoch_k": 95.51,
-      "extension": "+33.1%",
-      "volume": 3002651,
+      "symbol": "NEM",
+      "price": 127.0,
+      "rsi": 87.68,
+      "stoch_k": 92.02,
+      "extension": "+25.8%",
+      "volume": 12212286,
       "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (77)",
+        "Extreme RSI (87)",
         "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "CLX",
-      "price": 112.87,
-      "rsi": 83.52,
-      "stoch_k": 87.44,
-      "extension": "+8.5%",
-      "volume": 2167978,
-      "score": 3,
+      "symbol": "ALB",
+      "price": 194.18,
+      "rsi": 75.17,
+      "stoch_k": 94.87,
+      "extension": "+34.7%",
+      "volume": 2520150,
+      "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (83)"
-      ]
-    },
-    {
-      "symbol": "TXN",
-      "price": 196.59,
-      "rsi": 68.76,
-      "stoch_k": 80.02,
-      "extension": "+10.9%",
-      "volume": 9169319,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "RVTY",
-      "price": 114.7,
-      "rsi": 69.08,
-      "stoch_k": 89.72,
-      "extension": "+12.7%",
-      "volume": 1271774,
+      "symbol": "KMI",
+      "price": 29.59,
+      "rsi": 81.41,
+      "stoch_k": 80.89,
+      "extension": "+8.2%",
+      "volume": 14894778,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 252.03,
+      "rsi": 74.54,
+      "stoch_k": 81.21,
+      "extension": "+14.0%",
+      "volume": 25414573,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "TSN",
-      "price": 63.73,
-      "rsi": 78.75,
-      "stoch_k": 96.87,
-      "extension": "+10.6%",
-      "volume": 3996532,
-      "score": 1,
+      "symbol": "ARE",
+      "price": 58.14,
+      "rsi": 72.71,
+      "stoch_k": 84.67,
+      "extension": "+14.4%",
+      "volume": 3859269,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (78)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "PM",
-      "price": 175.76,
-      "rsi": 70.81,
-      "stoch_k": 90.63,
-      "extension": "+11.1%",
-      "volume": 5300359,
+      "symbol": "HON",
+      "price": 220.91,
+      "rsi": 70.62,
+      "stoch_k": 91.25,
+      "extension": "+10.4%",
+      "volume": 3517758,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "AKAM",
+      "price": 103.26,
+      "rsi": 69.58,
+      "stoch_k": 89.18,
+      "extension": "+16.1%",
+      "volume": 7648244,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "price": 140.97,
+      "rsi": 77.38,
+      "stoch_k": 97.84,
+      "extension": "+13.5%",
+      "volume": 10498628,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "price": 68.23,
+      "rsi": 74.34,
+      "stoch_k": 95.19,
+      "extension": "+12.7%",
+      "volume": 2556735,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "CTVA",
-      "price": 72.63,
-      "rsi": 68.47,
-      "stoch_k": 92.17,
-      "extension": "+8.0%",
-      "volume": 5351260,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "LMT",
+      "price": 594.95,
+      "rsi": 72.71,
+      "stoch_k": 92.93,
+      "extension": "+19.7%",
+      "volume": 1702021,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     }
   ]
 }
