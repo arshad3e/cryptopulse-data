@@ -1,64 +1,16 @@
 {
-  "lastUpdated": "2026-01-26T01:52:05.135721",
+  "lastUpdated": "2026-01-27T19:55:42.300822",
   "stocks": [
     {
       "ticker": "AAPL",
       "company_name": "Apple Inc",
       "earnings_date": "2026-01-29",
       "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": "248.04",
-        "rationale": "Very oversold RSI and significant target upside suggest a strong rebound potential for pre-earnings accumulation."
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company_name": "Microsoft Corporation",
-      "earnings_date": "2026-01-28",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 3.0,
-        "favorable_entry_price": "465.95",
-        "rationale": "Substantial target upside and neutral RSI offer room for a pre-earnings run-up driven by strong company fundamentals and AI narrative."
-      }
-    },
-    {
-      "ticker": "GOOG",
-      "company_name": "Alphabet Inc Class C",
-      "earnings_date": "2026-02-04",
-      "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "328.43",
-        "rationale": "Extremely limited target upside and elevated RSI make a pre-earnings run-up highly unattractive despite some positive news."
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "company_name": "Alphabet Inc Class A",
-      "earnings_date": "2026-02-04",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "327.93",
-        "rationale": "Strong, relevant bullish news provides momentum for a modest run-up despite moderately elevated RSI and moderate target upside."
-      }
-    },
-    {
-      "ticker": "MA",
-      "company_name": "Mastercard Inc",
-      "earnings_date": "2026-01-29",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 3.5,
-        "favorable_entry_price": "524.74",
-        "rationale": "Near-oversold RSI and significant target upside create a favorable technical setup for a pre-earnings accumulation."
+        "confidence_score": 3,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "258.27",
+        "rationale": "Mixed news and moderate RSI do not strongly support a pre-earnings run-up from current levels."
       }
     },
     {
@@ -68,45 +20,81 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": 5.0,
-        "favorable_entry_price": "407.61",
-        "rationale": "Excellent combination of very oversold RSI, substantial target upside, and positive earnings-related news."
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "369.27",
+        "rationale": "Extremely oversold RSI and substantial target upside make it a strong bounce candidate despite mixed news."
       }
     },
     {
-      "ticker": "V",
-      "company_name": "Visa Inc. Class A",
+      "ticker": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "earnings_date": "2026-01-28",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 3,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "480.58",
+        "rationale": "High RSI and lack of specific strong catalysts make it less suitable for a short-term pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "GOOG",
+      "company_name": "Alphabet Inc Class C",
+      "earnings_date": "2026-02-04",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 2,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "335.00",
+        "rationale": "High RSI and virtually no upside to the target price make a pre-earnings run-up highly unlikely."
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet Inc Class A",
+      "earnings_date": "2026-02-04",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 2,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "334.55",
+        "rationale": "High RSI and very limited target upside do not support a significant pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "FIS",
+      "company_name": "Fidelity National Information Services Inc",
+      "earnings_date": "2026-02-10",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "58.06",
+        "rationale": "Deeply oversold RSI and significant target upside present a strong opportunity for a pre-earnings bounce."
+      }
+    },
+    {
+      "ticker": "MA",
+      "company_name": "Mastercard Inc",
       "earnings_date": "2026-01-29",
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 8,
         "runup_percentage": 4.0,
-        "favorable_entry_price": "326.18",
-        "rationale": "Approaching oversold RSI, substantial target upside, and positive sector news support a pre-earnings run-up."
+        "favorable_entry_price": "520.24",
+        "rationale": "Oversold RSI and substantial target upside suggest a strong potential for a pre-earnings recovery."
       }
     },
     {
-      "ticker": "BR",
-      "company_name": "Broadridge Financial Solutions Inc",
-      "earnings_date": "2026-02-03",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": -1.0,
-        "favorable_entry_price": "207.54",
-        "rationale": "Recent analyst target price cut significantly dampens pre-earnings sentiment, outweighing the oversold RSI."
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "company_name": "Amazon.com Inc",
-      "earnings_date": "2026-02-05",
+      "ticker": "UNH",
+      "company_name": "UnitedHealth Group Incorporated",
+      "earnings_date": "2026-01-27",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 3.0,
-        "favorable_entry_price": "239.16",
-        "rationale": "Strong bullish news directly relevant to AWS's AI growth and substantial target upside outweigh slightly elevated RSI."
+        "confidence_score": 9,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "282.83",
+        "rationale": "Heavily oversold RSI and significant target upside indicate strong recovery potential from depressed levels."
       }
     },
     {
@@ -115,10 +103,46 @@
       "earnings_date": "2026-02-04",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
+        "confidence_score": 3,
         "runup_percentage": 0.0,
-        "favorable_entry_price": "2029.21",
-        "rationale": "Extremely negligible target upside renders any pre-earnings run-up potential non-existent."
+        "favorable_entry_price": "2012.36",
+        "rationale": "Despite being oversold with positive news, the minimal target upside severely limits run-up potential."
+      }
+    },
+    {
+      "ticker": "SHOP",
+      "company_name": "Shopify Inc",
+      "earnings_date": "2026-02-10",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "137.50",
+        "rationale": "Strong oversold RSI, significant target upside, and positive direct news create a compelling run-up scenario."
+      }
+    },
+    {
+      "ticker": "V",
+      "company_name": "Visa Inc. Class A",
+      "earnings_date": "2026-01-29",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 4,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "325.33",
+        "rationale": "Moderate RSI and lack of strong direct catalysts make it less compelling for a short-term pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "BR",
+      "company_name": "Broadridge Financial Solutions Inc",
+      "earnings_date": "2026-02-03",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "206.42",
+        "rationale": "Very oversold RSI and substantial target upside, combined with neutral news, suggest a strong rebound potential."
       }
     },
     {
@@ -127,58 +151,34 @@
       "earnings_date": "2026-02-04",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "155.82",
-        "rationale": "Favorable RSI and good target upside suggest potential, but mixed sector news warrants cautious optimism for a run-up."
-      }
-    },
-    {
-      "ticker": "HIG",
-      "company_name": "Hartford Financial Services Group",
-      "earnings_date": "2026-01-29",
-      "ai_decision": {
-        "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 2.5,
-        "favorable_entry_price": "128.62",
-        "rationale": "Approaching oversold RSI, decent target upside, and positive historical performance suggest a stable run-up."
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "153.04",
+        "rationale": "Favorable RSI, strong target upside, and general tech bullishness support a potential pre-earnings run-up."
       }
     },
     {
-      "ticker": "PTC",
-      "company_name": "PTC Inc",
-      "earnings_date": "2026-02-04",
+      "ticker": "ARES",
+      "company_name": "Ares Management LP",
+      "earnings_date": "2026-02-05",
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": 5.0,
-        "favorable_entry_price": "162.14",
-        "rationale": "Highly attractive technicals (low RSI, huge target upside) combined with strong bullish analyst sentiment make this a prime candidate."
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "149.38",
+        "rationale": "Oversold RSI, significant target upside, and strong positive direct news make this a promising pre-earnings play."
       }
     },
     {
-      "ticker": "IBN",
-      "company_name": "ICICI Bank Limited",
-      "earnings_date": "2026-01-26",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": -0.5,
-        "favorable_entry_price": "29.15",
-        "rationale": "A recent earnings miss, even if labeled neutral, will likely suppress pre-earnings run-up potential despite favorable technicals."
-      }
-    },
-    {
-      "ticker": "NOW",
-      "company_name": "ServiceNow Inc",
-      "earnings_date": "2026-01-28",
+      "ticker": "KKR",
+      "company_name": "KKR & Co LP",
+      "earnings_date": "2026-02-05",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 10,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": "133.11",
-        "rationale": "Exceptional target upside, favorable RSI, and highly bullish news regarding OpenAI integration point to a significant run-up."
+        "confidence_score": 8,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "116.00",
+        "rationale": "Good RSI, excellent target upside, and explicit 'oversold' news sentiment bolster a pre-earnings run-up case."
       }
     }
   ]
