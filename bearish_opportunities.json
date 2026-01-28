@@ -1,7 +1,79 @@
 {
-  "scan_timestamp": "2026-01-28 11:34:12",
-  "matches_found": 11,
+  "scan_timestamp": "2026-01-28 12:35:29",
+  "matches_found": 14,
   "data": [
+    {
+      "symbol": "SLB",
+      "price": 50.66,
+      "rsi": 80.97,
+      "stoch_k": 80.64,
+      "extension": "+25.5%",
+      "volume": 17290833,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1454.59,
+      "rsi": 75.28,
+      "stoch_k": 95.51,
+      "extension": "+27.3%",
+      "volume": 3450784,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ALB",
+      "price": 194.18,
+      "rsi": 75.17,
+      "stoch_k": 94.87,
+      "extension": "+34.7%",
+      "volume": 2520150,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "price": 481.43,
+      "rsi": 77.56,
+      "stoch_k": 84.57,
+      "extension": "+67.9%",
+      "volume": 13455886,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (77)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "FCX",
+      "price": 62.87,
+      "rsi": 70.0,
+      "stoch_k": 83.46,
+      "extension": "+26.5%",
+      "volume": 19818044,
+      "score": 3,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
     {
       "symbol": "LHX",
       "price": 360.54,
@@ -16,37 +88,12 @@
       ]
     },
     {
-      "symbol": "SYY",
-      "price": 83.92,
-      "rsi": 76.43,
-      "stoch_k": 70.97,
-      "extension": "+12.3%",
-      "volume": 11001701,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (76)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
       "symbol": "LOW",
       "price": 273.94,
       "rsi": 74.17,
       "stoch_k": 86.88,
       "extension": "+10.3%",
       "volume": 2427591,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "ARE",
-      "price": 58.14,
-      "rsi": 72.71,
-      "stoch_k": 84.67,
-      "extension": "+14.4%",
-      "volume": 3859269,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -65,24 +112,24 @@
       ]
     },
     {
-      "symbol": "IFF",
-      "price": 73.21,
-      "rsi": 69.66,
-      "stoch_k": 93.15,
-      "extension": "+8.3%",
-      "volume": 1633041,
+      "symbol": "MOS",
+      "price": 28.44,
+      "rsi": 69.76,
+      "stoch_k": 86.38,
+      "extension": "+13.3%",
+      "volume": 4143408,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "AKAM",
-      "price": 103.26,
-      "rsi": 69.58,
-      "stoch_k": 89.18,
-      "extension": "+16.1%",
-      "volume": 7648244,
+      "symbol": "BALL",
+      "price": 57.01,
+      "rsi": 69.5,
+      "stoch_k": 92.23,
+      "extension": "+10.1%",
+      "volume": 1266404,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -101,18 +148,6 @@
       ]
     },
     {
-      "symbol": "XOM",
-      "price": 136.83,
-      "rsi": 82.26,
-      "stoch_k": 94.15,
-      "extension": "+12.9%",
-      "volume": 14484283,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (82)"
-      ]
-    },
-    {
       "symbol": "ADM",
       "price": 68.23,
       "rsi": 74.34,
@@ -125,12 +160,24 @@
       ]
     },
     {
-      "symbol": "STZ",
-      "price": 161.25,
-      "rsi": 71.79,
-      "stoch_k": 83.49,
-      "extension": "+12.6%",
-      "volume": 2234646,
+      "symbol": "LMT",
+      "price": 594.95,
+      "rsi": 72.71,
+      "stoch_k": 92.93,
+      "extension": "+19.7%",
+      "volume": 1702021,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "APH",
+      "price": 166.25,
+      "rsi": 74.43,
+      "stoch_k": 88.64,
+      "extension": "+18.9%",
+      "volume": 18169625,
       "score": 0,
       "bonus_factors": []
     }
