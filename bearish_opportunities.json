@@ -1,35 +1,7 @@
 {
-  "scan_timestamp": "2026-01-28 10:33:45",
+  "scan_timestamp": "2026-01-28 11:34:12",
   "matches_found": 11,
   "data": [
-    {
-      "symbol": "GLW",
-      "price": 109.74,
-      "rsi": 80.36,
-      "stoch_k": 86.59,
-      "extension": "+24.8%",
-      "volume": 25208647,
-      "score": 5,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "BG",
-      "price": 116.15,
-      "rsi": 89.81,
-      "stoch_k": 97.23,
-      "extension": "+20.0%",
-      "volume": 1348564,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (89)",
-        "Bearish RSI Divergence"
-      ]
-    },
     {
       "symbol": "LHX",
       "price": 360.54,
@@ -57,12 +29,24 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 252.03,
-      "rsi": 74.54,
-      "stoch_k": 81.21,
-      "extension": "+14.0%",
-      "volume": 25414573,
+      "symbol": "LOW",
+      "price": 273.94,
+      "rsi": 74.17,
+      "stoch_k": 86.88,
+      "extension": "+10.3%",
+      "volume": 2427591,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "price": 58.14,
+      "rsi": 72.71,
+      "stoch_k": 84.67,
+      "extension": "+14.4%",
+      "volume": 3859269,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -81,6 +65,18 @@
       ]
     },
     {
+      "symbol": "IFF",
+      "price": 73.21,
+      "rsi": 69.66,
+      "stoch_k": 93.15,
+      "extension": "+8.3%",
+      "volume": 1633041,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
       "symbol": "AKAM",
       "price": 103.26,
       "rsi": 69.58,
@@ -93,39 +89,39 @@
       ]
     },
     {
-      "symbol": "BALL",
-      "price": 57.01,
-      "rsi": 69.5,
-      "stoch_k": 92.23,
-      "extension": "+10.1%",
-      "volume": 1266404,
-      "score": 2,
+      "symbol": "PM",
+      "price": 178.88,
+      "rsi": 82.39,
+      "stoch_k": 96.92,
+      "extension": "+12.8%",
+      "volume": 3862829,
+      "score": 1,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (82)"
       ]
     },
     {
-      "symbol": "MO",
-      "price": 63.62,
-      "rsi": 89.17,
-      "stoch_k": 98.1,
-      "extension": "+9.3%",
-      "volume": 8731446,
+      "symbol": "XOM",
+      "price": 136.83,
+      "rsi": 82.26,
+      "stoch_k": 94.15,
+      "extension": "+12.9%",
+      "volume": 14484283,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (89)"
+        "Extreme RSI (82)"
       ]
     },
     {
-      "symbol": "WMB",
-      "price": 65.48,
-      "rsi": 76.18,
-      "stoch_k": 90.56,
-      "extension": "+8.3%",
-      "volume": 8714657,
+      "symbol": "ADM",
+      "price": 68.23,
+      "rsi": 74.34,
+      "stoch_k": 95.19,
+      "extension": "+12.7%",
+      "volume": 2556735,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (76)"
+        "Bearish RSI Divergence"
       ]
     },
     {
