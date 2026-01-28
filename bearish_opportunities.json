@@ -1,47 +1,18 @@
 {
-  "scan_timestamp": "2026-01-28 14:36:39",
-  "matches_found": 9,
+  "scan_timestamp": "2026-01-28 15:37:19",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "ASML",
-      "price": 1454.59,
-      "rsi": 75.28,
-      "stoch_k": 95.51,
-      "extension": "+27.3%",
-      "volume": 3450784,
-      "score": 6,
+      "symbol": "CLX",
+      "price": 113.19,
+      "rsi": 87.13,
+      "stoch_k": 85.82,
+      "extension": "+8.7%",
+      "volume": 1922966,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "GLW",
-      "price": 109.74,
-      "rsi": 80.36,
-      "stoch_k": 86.59,
-      "extension": "+24.8%",
-      "volume": 25208647,
-      "score": 5,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 360.54,
-      "rsi": 82.12,
-      "stoch_k": 89.95,
-      "extension": "+19.2%",
-      "volume": 1276373,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (82)",
-        "Bearish RSI Divergence"
+        "Extreme RSI (87)"
       ]
     },
     {
@@ -57,39 +28,27 @@
       ]
     },
     {
-      "symbol": "ARE",
-      "price": 58.14,
-      "rsi": 72.71,
-      "stoch_k": 84.67,
-      "extension": "+14.4%",
-      "volume": 3859269,
+      "symbol": "BALL",
+      "price": 57.01,
+      "rsi": 69.5,
+      "stoch_k": 92.23,
+      "extension": "+10.1%",
+      "volume": 1266404,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "IFF",
-      "price": 73.21,
-      "rsi": 69.66,
-      "stoch_k": 93.15,
-      "extension": "+8.3%",
-      "volume": 1633041,
+      "symbol": "SBUX",
+      "price": 95.72,
+      "rsi": 68.01,
+      "stoch_k": 88.89,
+      "extension": "+9.7%",
+      "volume": 16233021,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "PM",
-      "price": 178.88,
-      "rsi": 82.39,
-      "stoch_k": 96.92,
-      "extension": "+12.8%",
-      "volume": 3862829,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (82)"
       ]
     },
     {
@@ -105,12 +64,12 @@
       ]
     },
     {
-      "symbol": "HAL",
-      "price": 34.26,
-      "rsi": 72.13,
-      "stoch_k": 73.48,
-      "extension": "+17.7%",
-      "volume": 9714894,
+      "symbol": "LMT",
+      "price": 594.95,
+      "rsi": 72.71,
+      "stoch_k": 92.93,
+      "extension": "+19.7%",
+      "volume": 1702021,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
