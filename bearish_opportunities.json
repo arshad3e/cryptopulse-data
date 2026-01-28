@@ -1,48 +1,32 @@
 {
-  "scan_timestamp": "2026-01-28 00:02:23",
-  "matches_found": 10,
+  "scan_timestamp": "2026-01-28 09:33:18",
+  "matches_found": 13,
   "data": [
     {
-      "symbol": "NEM",
-      "price": 127.0,
-      "rsi": 87.68,
-      "stoch_k": 92.02,
-      "extension": "+25.8%",
-      "volume": 12212286,
-      "score": 6,
+      "symbol": "MU",
+      "price": 410.24,
+      "rsi": 72.91,
+      "stoch_k": 85.44,
+      "extension": "+44.5%",
+      "volume": 34251357,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (87)",
         "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "ALB",
-      "price": 194.18,
-      "rsi": 75.17,
-      "stoch_k": 94.87,
-      "extension": "+34.7%",
-      "volume": 2520150,
-      "score": 6,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (75)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "price": 29.59,
-      "rsi": 81.41,
-      "stoch_k": 80.89,
-      "extension": "+8.2%",
-      "volume": 14894778,
+      "symbol": "CLX",
+      "price": 113.19,
+      "rsi": 87.13,
+      "stoch_k": 85.82,
+      "extension": "+8.7%",
+      "volume": 1922966,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (81)"
+        "Extreme RSI (87)"
       ]
     },
     {
@@ -52,6 +36,18 @@
       "stoch_k": 81.21,
       "extension": "+14.0%",
       "volume": 25414573,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "LOW",
+      "price": 273.94,
+      "rsi": 74.17,
+      "stoch_k": 86.88,
+      "extension": "+10.3%",
+      "volume": 2427591,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -82,6 +78,18 @@
       ]
     },
     {
+      "symbol": "IFF",
+      "price": 73.21,
+      "rsi": 69.66,
+      "stoch_k": 93.15,
+      "extension": "+8.3%",
+      "volume": 1633041,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
       "symbol": "AKAM",
       "price": 103.26,
       "rsi": 69.58,
@@ -91,6 +99,42 @@
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 65.75,
+      "rsi": 89.63,
+      "stoch_k": 98.4,
+      "extension": "+13.6%",
+      "volume": 3548149,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (89)"
+      ]
+    },
+    {
+      "symbol": "XOM",
+      "price": 136.83,
+      "rsi": 82.26,
+      "stoch_k": 94.15,
+      "extension": "+12.9%",
+      "volume": 14484283,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 169.05,
+      "rsi": 82.23,
+      "stoch_k": 88.85,
+      "extension": "+9.0%",
+      "volume": 9729410,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
       ]
     },
     {
@@ -106,24 +150,12 @@
       ]
     },
     {
-      "symbol": "ADM",
-      "price": 68.23,
-      "rsi": 74.34,
-      "stoch_k": 95.19,
-      "extension": "+12.7%",
-      "volume": 2556735,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "LMT",
-      "price": 594.95,
-      "rsi": 72.71,
-      "stoch_k": 92.93,
-      "extension": "+19.7%",
-      "volume": 1702021,
+      "symbol": "HAL",
+      "price": 34.26,
+      "rsi": 72.13,
+      "stoch_k": 73.48,
+      "extension": "+17.7%",
+      "volume": 9714894,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
