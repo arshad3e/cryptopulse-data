@@ -1,53 +1,56 @@
 {
-  "scan_timestamp": "2026-01-29 14:35:14",
-  "matches_found": 12,
+  "scan_timestamp": "2026-01-29 15:35:29",
+  "matches_found": 8,
   "data": [
     {
-      "symbol": "MO",
-      "price": 63.13,
-      "rsi": 88.76,
-      "stoch_k": 95.01,
-      "extension": "+8.3%",
-      "volume": 11620056,
-      "score": 3,
+      "symbol": "NEM",
+      "price": 131.95,
+      "rsi": 93.72,
+      "stoch_k": 91.98,
+      "extension": "+29.6%",
+      "volume": 10481480,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (88)"
+        "Extreme RSI (93)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "TXN",
-      "price": 216.17,
-      "rsi": 80.45,
-      "stoch_k": 89.17,
-      "extension": "+20.7%",
-      "volume": 19603428,
-      "score": 3,
+      "symbol": "SNDK",
+      "price": 527.63,
+      "rsi": 80.93,
+      "stoch_k": 88.88,
+      "extension": "+80.5%",
+      "volume": 16486255,
+      "score": 4,
       "bonus_factors": [
         "Extreme RSI (80)",
-        "Parabolic (+20% vs SMA)"
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "SLB",
-      "price": 48.87,
-      "rsi": 77.36,
-      "stoch_k": 79.15,
-      "extension": "+20.3%",
-      "volume": 24530992,
-      "score": 3,
+      "symbol": "CF",
+      "price": 93.17,
+      "rsi": 80.13,
+      "stoch_k": 92.93,
+      "extension": "+14.9%",
+      "volume": 1753602,
+      "score": 4,
       "bonus_factors": [
-        "Extreme RSI (77)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "AMAT",
-      "price": 336.75,
-      "rsi": 69.77,
-      "stoch_k": 85.6,
-      "extension": "+23.3%",
-      "volume": 8470041,
+      "symbol": "MCHP",
+      "price": 80.28,
+      "rsi": 68.3,
+      "stoch_k": 59.97,
+      "extension": "+22.8%",
+      "volume": 14809645,
       "score": 3,
       "bonus_factors": [
         "Parabolic (+20% vs SMA)",
@@ -67,80 +70,34 @@
       ]
     },
     {
-      "symbol": "GLW",
-      "price": 104.28,
-      "rsi": 71.46,
-      "stoch_k": 82.52,
-      "extension": "+18.0%",
-      "volume": 18534418,
+      "symbol": "STZ",
+      "price": 157.74,
+      "rsi": 71.18,
+      "stoch_k": 80.57,
+      "extension": "+9.8%",
+      "volume": 1859114,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "BALL",
-      "price": 56.26,
-      "rsi": 69.7,
-      "stoch_k": 83.92,
-      "extension": "+8.2%",
-      "volume": 1584014,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
+      "symbol": "DOW",
+      "price": 27.78,
+      "rsi": 69.61,
+      "stoch_k": 75.39,
+      "extension": "+13.8%",
+      "volume": 17825474,
+      "score": 0,
+      "bonus_factors": []
     },
     {
-      "symbol": "AMD",
-      "price": 252.74,
-      "rsi": 79.2,
-      "stoch_k": 77.76,
-      "extension": "+14.2%",
-      "volume": 27061187,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "WY",
-      "price": 26.05,
-      "rsi": 75.13,
-      "stoch_k": 72.26,
-      "extension": "+9.9%",
-      "volume": 5893688,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "CAT",
-      "price": 643.28,
-      "rsi": 69.27,
-      "stoch_k": 73.36,
+      "symbol": "LOW",
+      "price": 269.42,
+      "rsi": 68.58,
+      "stoch_k": 79.99,
       "extension": "+8.1%",
-      "volume": 2720670,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "FFIV",
-      "price": 292.3,
-      "rsi": 68.79,
-      "stoch_k": 58.28,
-      "extension": "+14.4%",
-      "volume": 2875237,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "HAL",
-      "price": 33.36,
-      "rsi": 68.17,
-      "stoch_k": 68.22,
-      "extension": "+14.1%",
-      "volume": 16317746,
+      "volume": 2952407,
       "score": 0,
       "bonus_factors": []
     }
