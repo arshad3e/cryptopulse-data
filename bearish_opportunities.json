@@ -1,79 +1,118 @@
 {
-  "scan_timestamp": "2026-01-28 15:37:19",
-  "matches_found": 6,
+  "scan_timestamp": "2026-01-29 00:02:37",
+  "matches_found": 10,
   "data": [
     {
-      "symbol": "CLX",
-      "price": 113.19,
-      "rsi": 87.13,
-      "stoch_k": 85.82,
-      "extension": "+8.7%",
-      "volume": 1922966,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (87)"
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 252.03,
-      "rsi": 74.54,
-      "stoch_k": 81.21,
-      "extension": "+14.0%",
-      "volume": 25414573,
+      "symbol": "HON",
+      "price": 216.64,
+      "rsi": 72.8,
+      "stoch_k": 84.46,
+      "extension": "+8.1%",
+      "volume": 5107460,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "BALL",
-      "price": 57.01,
-      "rsi": 69.5,
-      "stoch_k": 92.23,
-      "extension": "+10.1%",
-      "volume": 1266404,
+      "symbol": "GILD",
+      "price": 139.72,
+      "rsi": 72.56,
+      "stoch_k": 95.52,
+      "extension": "+12.2%",
+      "volume": 7317700,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "SBUX",
-      "price": 95.72,
-      "rsi": 68.01,
-      "stoch_k": 88.89,
-      "extension": "+9.7%",
-      "volume": 16233021,
+      "symbol": "STZ",
+      "price": 157.74,
+      "rsi": 71.18,
+      "stoch_k": 80.57,
+      "extension": "+9.8%",
+      "volume": 1833994,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "WMB",
-      "price": 65.48,
-      "rsi": 76.18,
-      "stoch_k": 90.56,
-      "extension": "+8.3%",
-      "volume": 8714657,
+      "symbol": "XOM",
+      "price": 137.58,
+      "rsi": 92.14,
+      "stoch_k": 95.31,
+      "extension": "+13.1%",
+      "volume": 15388018,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (76)"
+        "Extreme RSI (92)"
       ]
     },
     {
-      "symbol": "LMT",
-      "price": 594.95,
-      "rsi": 72.71,
-      "stoch_k": 92.93,
-      "extension": "+19.7%",
-      "volume": 1702021,
+      "symbol": "SYY",
+      "price": 83.51,
+      "rsi": 78.29,
+      "stoch_k": 79.09,
+      "extension": "+11.5%",
+      "volume": 5694686,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (78)"
       ]
+    },
+    {
+      "symbol": "WY",
+      "price": 26.05,
+      "rsi": 75.13,
+      "stoch_k": 72.26,
+      "extension": "+9.9%",
+      "volume": 5840618,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "RTX",
+      "price": 199.46,
+      "rsi": 69.49,
+      "stoch_k": 71.61,
+      "extension": "+9.1%",
+      "volume": 6475904,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "FFIV",
+      "price": 292.3,
+      "rsi": 68.79,
+      "stoch_k": 58.28,
+      "extension": "+14.4%",
+      "volume": 2875237,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "ANET",
+      "price": 150.15,
+      "rsi": 68.29,
+      "stoch_k": 91.94,
+      "extension": "+15.8%",
+      "volume": 8568182,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "HAL",
+      "price": 33.36,
+      "rsi": 68.17,
+      "stoch_k": 68.22,
+      "extension": "+14.1%",
+      "volume": 16317746,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
