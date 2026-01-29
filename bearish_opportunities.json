@@ -1,17 +1,30 @@
 {
-  "scan_timestamp": "2026-01-29 13:34:48",
-  "matches_found": 5,
+  "scan_timestamp": "2026-01-29 14:35:14",
+  "matches_found": 12,
   "data": [
     {
-      "symbol": "STX",
-      "price": 442.93,
-      "rsi": 83.34,
-      "stoch_k": 90.5,
-      "extension": "+50.5%",
-      "volume": 14749753,
+      "symbol": "MO",
+      "price": 63.13,
+      "rsi": 88.76,
+      "stoch_k": 95.01,
+      "extension": "+8.3%",
+      "volume": 11620056,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (83)",
+        "Stoch Hook Down",
+        "Extreme RSI (88)"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 216.17,
+      "rsi": 80.45,
+      "stoch_k": 89.17,
+      "extension": "+20.7%",
+      "volume": 19603428,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (80)",
         "Parabolic (+20% vs SMA)"
       ]
     },
@@ -29,16 +42,40 @@
       ]
     },
     {
-      "symbol": "CHRW",
-      "price": 184.28,
-      "rsi": 81.35,
-      "stoch_k": 93.91,
-      "extension": "+12.6%",
-      "volume": 3111261,
+      "symbol": "AMAT",
+      "price": 336.75,
+      "rsi": 69.77,
+      "stoch_k": 85.6,
+      "extension": "+23.3%",
+      "volume": 8470041,
+      "score": 3,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 216.64,
+      "rsi": 72.8,
+      "stoch_k": 84.46,
+      "extension": "+8.1%",
+      "volume": 5107460,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (81)",
-        "Bearish RSI Divergence"
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "GLW",
+      "price": 104.28,
+      "rsi": 71.46,
+      "stoch_k": 82.52,
+      "extension": "+18.0%",
+      "volume": 18534418,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
       ]
     },
     {
@@ -54,12 +91,56 @@
       ]
     },
     {
-      "symbol": "PCAR",
-      "price": 123.06,
-      "rsi": 69.3,
-      "stoch_k": 74.58,
-      "extension": "+10.8%",
-      "volume": 3930880,
+      "symbol": "AMD",
+      "price": 252.74,
+      "rsi": 79.2,
+      "stoch_k": 77.76,
+      "extension": "+14.2%",
+      "volume": 27061187,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (79)"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "price": 26.05,
+      "rsi": 75.13,
+      "stoch_k": 72.26,
+      "extension": "+9.9%",
+      "volume": 5893688,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "price": 643.28,
+      "rsi": 69.27,
+      "stoch_k": 73.36,
+      "extension": "+8.1%",
+      "volume": 2720670,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "FFIV",
+      "price": 292.3,
+      "rsi": 68.79,
+      "stoch_k": 58.28,
+      "extension": "+14.4%",
+      "volume": 2875237,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "HAL",
+      "price": 33.36,
+      "rsi": 68.17,
+      "stoch_k": 68.22,
+      "extension": "+14.1%",
+      "volume": 16317746,
       "score": 0,
       "bonus_factors": []
     }
