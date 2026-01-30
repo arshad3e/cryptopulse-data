@@ -1,43 +1,136 @@
 {
-  "scan_timestamp": "2026-01-30 09:31:21",
-  "matches_found": 6,
+  "scan_timestamp": "2026-01-30 10:31:57",
+  "matches_found": 14,
   "data": [
     {
-      "symbol": "SYY",
-      "price": 84.11,
-      "rsi": 76.48,
-      "stoch_k": 91.95,
-      "extension": "+12.0%",
-      "volume": 4081914,
-      "score": 2,
+      "symbol": "TCGL",
+      "price": 86.36,
+      "rsi": 99.12,
+      "stoch_k": 80.69,
+      "extension": "+1008.6%",
+      "volume": 4120723,
+      "score": 5,
       "bonus_factors": [
-        "Extreme RSI (76)",
+        "Stoch Hook Down",
+        "Extreme RSI (99)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 171.19,
+      "rsi": 86.94,
+      "stoch_k": 89.89,
+      "extension": "+10.0%",
+      "volume": 16786612,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (86)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "WMB",
-      "price": 67.24,
-      "rsi": 76.41,
+      "symbol": "MU",
+      "price": 435.79,
+      "rsi": 85.1,
       "stoch_k": 94.28,
-      "extension": "+10.7%",
-      "volume": 7018318,
-      "score": 2,
+      "extension": "+49.4%",
+      "volume": 42675710,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (76)",
+        "Extreme RSI (85)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 65.22,
+      "rsi": 80.88,
+      "stoch_k": 92.01,
+      "extension": "+11.8%",
+      "volume": 2767550,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 218.97,
+      "rsi": 80.47,
+      "stoch_k": 91.14,
+      "extension": "+21.5%",
+      "volume": 14120032,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (80)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "PM",
+      "price": 177.89,
+      "rsi": 78.11,
+      "stoch_k": 91.54,
+      "extension": "+11.4%",
+      "volume": 7578894,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "price": 39.94,
+      "rsi": 73.91,
+      "stoch_k": 90.52,
+      "extension": "+8.8%",
+      "volume": 14530477,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 227.24,
-      "rsi": 75.92,
-      "stoch_k": 86.66,
-      "extension": "+13.0%",
-      "volume": 6945194,
+      "symbol": "CTVA",
+      "price": 73.84,
+      "rsi": 68.14,
+      "stoch_k": 95.27,
+      "extension": "+9.1%",
+      "volume": 3614109,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "XOM",
+      "price": 140.51,
+      "rsi": 91.59,
+      "stoch_k": 95.98,
+      "extension": "+15.1%",
+      "volume": 35760620,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (75)",
+        "Extreme RSI (91)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "price": 30.24,
+      "rsi": 82.21,
+      "stoch_k": 89.31,
+      "extension": "+10.1%",
+      "volume": 18864581,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (82)",
         "Bearish RSI Divergence"
       ]
     },
@@ -54,15 +147,15 @@
       ]
     },
     {
-      "symbol": "MRNA",
-      "price": 46.86,
-      "rsi": 72.03,
-      "stoch_k": 59.13,
-      "extension": "+42.4%",
-      "volume": 10768671,
-      "score": 2,
+      "symbol": "CARR",
+      "price": 59.79,
+      "rsi": 77.3,
+      "stoch_k": 89.75,
+      "extension": "+10.6%",
+      "volume": 9329243,
+      "score": 1,
       "bonus_factors": [
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (77)"
       ]
     },
     {
@@ -72,6 +165,16 @@
       "stoch_k": 63.72,
       "extension": "+9.0%",
       "volume": 7812403,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "RTX",
+      "price": 199.88,
+      "rsi": 68.58,
+      "stoch_k": 78.8,
+      "extension": "+9.0%",
+      "volume": 8870790,
       "score": 0,
       "bonus_factors": []
     }
