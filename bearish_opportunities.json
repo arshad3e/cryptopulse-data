@@ -1,33 +1,72 @@
 {
-  "scan_timestamp": "2026-01-30 11:32:23",
-  "matches_found": 7,
+  "scan_timestamp": "2026-01-30 12:32:59",
+  "matches_found": 13,
   "data": [
     {
-      "symbol": "ASML",
-      "price": 1455.16,
-      "rsi": 79.9,
-      "stoch_k": 85.78,
-      "extension": "+25.5%",
-      "volume": 2818923,
-      "score": 6,
+      "symbol": "CVX",
+      "price": 171.19,
+      "rsi": 86.94,
+      "stoch_k": 89.89,
+      "extension": "+10.0%",
+      "volume": 16786612,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)",
+        "Extreme RSI (86)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "LRCX",
+      "price": 248.17,
+      "rsi": 75.54,
+      "stoch_k": 94.02,
+      "extension": "+36.0%",
+      "volume": 16801621,
+      "score": 4,
+      "bonus_factors": [
+        "Extreme RSI (75)",
         "Parabolic (+20% vs SMA)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "AMAT",
-      "price": 341.34,
-      "rsi": 77.98,
-      "stoch_k": 92.17,
-      "extension": "+23.9%",
-      "volume": 7350542,
+      "symbol": "WDC",
+      "price": 278.41,
+      "rsi": 91.89,
+      "stoch_k": 94.57,
+      "extension": "+47.4%",
+      "volume": 15770454,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (77)",
+        "Extreme RSI (91)",
         "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 65.22,
+      "rsi": 80.88,
+      "stoch_k": 92.01,
+      "extension": "+11.8%",
+      "volume": 2767550,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "CTVA",
+      "price": 73.84,
+      "rsi": 68.14,
+      "stoch_k": 95.27,
+      "extension": "+9.1%",
+      "volume": 3614109,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -44,6 +83,31 @@
       ]
     },
     {
+      "symbol": "HON",
+      "price": 227.24,
+      "rsi": 75.92,
+      "stoch_k": 86.66,
+      "extension": "+13.0%",
+      "volume": 6945194,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (75)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "price": 148.15,
+      "rsi": 74.18,
+      "stoch_k": 91.51,
+      "extension": "+14.0%",
+      "volume": 8915281,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
       "symbol": "ADM",
       "price": 66.92,
       "rsi": 72.79,
@@ -56,15 +120,15 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 252.18,
-      "rsi": 84.73,
-      "stoch_k": 78.2,
-      "extension": "+13.9%",
-      "volume": 31685168,
+      "symbol": "CARR",
+      "price": 59.79,
+      "rsi": 77.3,
+      "stoch_k": 89.75,
+      "extension": "+10.6%",
+      "volume": 9329243,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (84)"
+        "Extreme RSI (77)"
       ]
     },
     {
@@ -77,6 +141,18 @@
       "score": 1,
       "bonus_factors": [
         "Extreme RSI (75)"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "price": 116.51,
+      "rsi": 74.88,
+      "stoch_k": 82.76,
+      "extension": "+12.0%",
+      "volume": 2797564,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
       ]
     },
     {
