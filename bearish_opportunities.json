@@ -1,81 +1,28 @@
 {
-  "scan_timestamp": "2026-01-30 13:33:50",
-  "matches_found": 16,
+  "scan_timestamp": "2026-01-30 14:34:16",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "ASML",
-      "price": 1455.16,
-      "rsi": 79.9,
-      "stoch_k": 85.78,
-      "extension": "+25.5%",
-      "volume": 2818923,
-      "score": 6,
+      "symbol": "NEM",
+      "price": 126.93,
+      "rsi": 82.03,
+      "stoch_k": 87.18,
+      "extension": "+23.7%",
+      "volume": 15085289,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WDC",
-      "price": 278.41,
-      "rsi": 91.89,
-      "stoch_k": 94.57,
-      "extension": "+47.4%",
-      "volume": 15770454,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (91)",
+        "Extreme RSI (82)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "JNJ",
-      "price": 227.29,
-      "rsi": 88.14,
-      "stoch_k": 93.77,
-      "extension": "+8.6%",
-      "volume": 9645348,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (88)"
-      ]
-    },
-    {
-      "symbol": "TSN",
-      "price": 65.22,
-      "rsi": 80.88,
-      "stoch_k": 92.01,
-      "extension": "+11.8%",
-      "volume": 2767550,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)"
-      ]
-    },
-    {
-      "symbol": "LHX",
-      "price": 356.02,
-      "rsi": 77.26,
-      "stoch_k": 86.36,
-      "extension": "+16.6%",
-      "volume": 2110021,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (77)"
-      ]
-    },
-    {
-      "symbol": "CTVA",
-      "price": 73.84,
-      "rsi": 68.14,
-      "stoch_k": 95.27,
-      "extension": "+9.1%",
-      "volume": 3614109,
+      "symbol": "BKR",
+      "price": 56.73,
+      "rsi": 74.03,
+      "stoch_k": 87.72,
+      "extension": "+15.5%",
+      "volume": 13650895,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
@@ -83,28 +30,15 @@
       ]
     },
     {
-      "symbol": "XOM",
-      "price": 140.51,
-      "rsi": 91.59,
-      "stoch_k": 95.98,
-      "extension": "+15.1%",
-      "volume": 35760620,
+      "symbol": "CF",
+      "price": 94.03,
+      "rsi": 77.56,
+      "stoch_k": 93.25,
+      "extension": "+15.7%",
+      "volume": 3110353,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (91)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "price": 67.24,
-      "rsi": 76.41,
-      "stoch_k": 94.28,
-      "extension": "+10.7%",
-      "volume": 7018318,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (76)",
+        "Extreme RSI (77)",
         "Bearish RSI Divergence"
       ]
     },
@@ -122,84 +56,22 @@
       ]
     },
     {
-      "symbol": "ANET",
-      "price": 148.15,
-      "rsi": 74.18,
-      "stoch_k": 91.51,
-      "extension": "+14.0%",
-      "volume": 8915281,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
+      "symbol": "WY",
+      "price": 25.93,
+      "rsi": 69.32,
+      "stoch_k": 63.72,
+      "extension": "+9.0%",
+      "volume": 7812403,
+      "score": 0,
+      "bonus_factors": []
     },
     {
-      "symbol": "ADM",
-      "price": 66.92,
-      "rsi": 72.79,
-      "stoch_k": 81.82,
-      "extension": "+9.9%",
-      "volume": 5621602,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 738.31,
-      "rsi": 72.05,
-      "stoch_k": 93.17,
-      "extension": "+14.4%",
-      "volume": 59852903,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "LUV",
-      "price": 48.5,
-      "rsi": 68.43,
-      "stoch_k": 33.48,
-      "extension": "+22.4%",
-      "volume": 34535323,
-      "score": 2,
-      "bonus_factors": [
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 717.39,
-      "rsi": 75.47,
-      "stoch_k": 91.34,
-      "extension": "+11.6%",
-      "volume": 3490954,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "DXCM",
-      "price": 74.0,
-      "rsi": 70.11,
-      "stoch_k": 77.81,
-      "extension": "+10.5%",
-      "volume": 5100856,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "SLB",
-      "price": 48.45,
-      "rsi": 69.63,
-      "stoch_k": 71.54,
-      "extension": "+18.6%",
-      "volume": 32023070,
+      "symbol": "IBKR",
+      "price": 75.66,
+      "rsi": 68.63,
+      "stoch_k": 65.47,
+      "extension": "+11.9%",
+      "volume": 3984831,
       "score": 0,
       "bonus_factors": []
     }
