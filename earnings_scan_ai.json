@@ -1,16 +1,28 @@
 {
-  "lastUpdated": "2026-01-28T19:42:48.596669",
+  "lastUpdated": "2026-01-29T19:42:05.713823",
   "stocks": [
     {
       "ticker": "AAPL",
       "company_name": "Apple Inc",
       "earnings_date": "2026-01-29",
       "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "256.44",
-        "rationale": "Earnings are too close (Thursday), limiting safe pre-earnings run-up potential and increasing event risk for a short-term trade."
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "250.53",
+        "rationale": "Bullish AI acquisition news provides a strong catalyst for a pre-earnings run-up, despite a neutral RSI, suggesting a dip entry for optimal risk-reward."
+      }
+    },
+    {
+      "ticker": "SONY",
+      "company_name": "Sony Group Corp",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 8.0,
+        "favorable_entry_price": "22.29",
+        "rationale": "Heavily oversold RSI and a significant bullish music rights acquisition deal create strong potential for an immediate pre-earnings bounce."
       }
     },
     {
@@ -18,23 +30,11 @@
       "company_name": "Roper Technologies, Inc.",
       "earnings_date": "2026-01-29",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": -2.0,
-        "favorable_entry_price": "360.37",
-        "rationale": "Overwhelmingly negative news and analyst downgrades, including price target cuts, suggest continued bearish pressure despite deeply oversold RSI."
-      }
-    },
-    {
-      "ticker": "HUM",
-      "company_name": "Humana Inc",
-      "earnings_date": "2026-02-11",
-      "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 8,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "194.01",
-        "rationale": "Recent significant drop due to the Medicare payment update makes pre-earnings sentiment uncertain and risky, despite oversold conditions."
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "365.00",
+        "rationale": "Deeply oversold RSI combined with a new analyst 'Buy Rating' provides a strong setup for a pre-earnings bounce from current levels."
       }
     },
     {
@@ -43,58 +43,10 @@
       "earnings_date": "2026-02-10",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": "56.19",
-        "rationale": "Deeply oversold RSI combined with institutional buying and a high price target suggests potential for a pre-earnings recovery."
-      }
-    },
-    {
-      "ticker": "MSFT",
-      "company_name": "Microsoft Corporation",
-      "earnings_date": "2026-01-28",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 1.5,
-        "favorable_entry_price": "481.63",
-        "rationale": "Current RSI is neutral to high, suggesting much of the positive sentiment may already be priced in, limiting pre-earnings run-up potential."
-      }
-    },
-    {
-      "ticker": "GOOG",
-      "company_name": "Alphabet Inc Class C",
-      "earnings_date": "2026-02-04",
-      "ai_decision": {
-        "decision": "Bad Idea",
         "confidence_score": 9,
-        "runup_percentage": -3.0,
-        "favorable_entry_price": "336.28",
-        "rationale": "Current price is already above the analyst target and RSI is in overbought territory, indicating potential for a pullback, not a run-up."
-      }
-    },
-    {
-      "ticker": "GOOGL",
-      "company_name": "Alphabet Inc Class A",
-      "earnings_date": "2026-02-04",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "336.01",
-        "rationale": "High RSI and limited upside to the price target suggest the stock is already fairly valued or slightly overbought, with little room for a pre-earnings run."
-      }
-    },
-    {
-      "ticker": "MA",
-      "company_name": "Mastercard Inc",
-      "earnings_date": "2026-01-29",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 3.5,
-        "favorable_entry_price": "521.30",
-        "rationale": "RSI is at a favorable level for a bounce, and a substantial price target provides room for a pre-earnings run-up."
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "55.20",
+        "rationale": "Extremely oversold RSI and a significant dividend increase signal strong management confidence, pointing to a likely pre-earnings rebound."
       }
     },
     {
@@ -104,9 +56,33 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 8,
-        "runup_percentage": 5.0,
-        "favorable_entry_price": "204.89",
-        "rationale": "Deeply oversold RSI near 52-week lows, combined with positive earnings sentiment and strategic initiatives, positions it well for a pre-earnings run-up."
+        "runup_percentage": 6.5,
+        "favorable_entry_price": "195.87",
+        "rationale": "The stock is deeply oversold and recently hit a 52-week low, which, combined with bullish reassessment news, presents a strong bounce potential."
+      }
+    },
+    {
+      "ticker": "RELX",
+      "company_name": "Relx PLC ADR",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 6,
+        "runup_percentage": 4.5,
+        "favorable_entry_price": "36.17",
+        "rationale": "While deeply oversold with high target upside, mixed news including recent 12-month lows and institutional selling temper run-up expectations."
+      }
+    },
+    {
+      "ticker": "HUM",
+      "company_name": "Humana Inc",
+      "earnings_date": "2026-02-11",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 5.5,
+        "favorable_entry_price": "196.67",
+        "rationale": "Extremely oversold RSI and significant institutional buying, despite neutral general news, suggest a strong potential for a pre-earnings recovery."
       }
     },
     {
@@ -116,21 +92,33 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": 6.0,
-        "favorable_entry_price": "117.28",
-        "rationale": "Deeply oversold RSI, strong institutional buying, and significant price target upside create a compelling pre-earnings run-up opportunity."
+        "runup_percentage": 7.5,
+        "favorable_entry_price": "112.76",
+        "rationale": "The stock is deeply oversold with uniformly positive news, including new institutional investment and a 'Moderate Buy' rating, setting up a strong run-up."
       }
     },
     {
-      "ticker": "MKL",
-      "company_name": "Markel Corporation",
-      "earnings_date": "2026-02-04",
+      "ticker": "TYL",
+      "company_name": "Tyler Technologies Inc",
+      "earnings_date": "2026-02-11",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 7,
+        "confidence_score": 4,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "342.00",
+        "rationale": "Despite being deeply oversold with high target upside, institutional selling and hitting 52-week lows without positive catalysts make a pre-earnings run-up unlikely."
+      }
+    },
+    {
+      "ticker": "SAP",
+      "company_name": "SAP SE ADR",
+      "earnings_date": "2026-01-29",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 3,
         "runup_percentage": 1.0,
-        "favorable_entry_price": "2010.58",
-        "rationale": "Despite an oversold RSI, the very limited upside to the price target curtails significant pre-earnings run-up potential."
+        "favorable_entry_price": "180.12",
+        "rationale": "Recent significant stock fall due to cloud outlook concerns creates strong negative sentiment, making a pre-earnings run-up improbable despite being oversold."
       }
     },
     {
@@ -138,47 +126,59 @@
       "company_name": "Palantir Technologies Inc.",
       "earnings_date": "2026-02-02",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "157.35",
-        "rationale": "While there's decent upside to target, neutral RSI and absence of specific bullish pre-earnings news make a significant run-up less probable."
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "151.86",
+        "rationale": "Oversold RSI combined with bullish news on an AI platform data services partnership provides a strong catalyst for a pre-earnings run-up."
       }
     },
     {
-      "ticker": "QCOM",
-      "company_name": "Qualcomm Incorporated",
+      "ticker": "GOOG",
+      "company_name": "Alphabet Inc Class C",
       "earnings_date": "2026-02-04",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
+        "confidence_score": 9,
         "runup_percentage": -1.0,
-        "favorable_entry_price": "152.70",
-        "rationale": "Despite a favorable RSI and institutional buying, the explicit news of expected earnings decline creates a bearish sentiment overriding run-up potential."
+        "favorable_entry_price": "304.79",
+        "rationale": "High RSI indicates it's not oversold, and the target price is below the current price, suggesting downside risk rather than a pre-earnings run-up."
       }
     },
     {
-      "ticker": "TTD",
-      "company_name": "Trade Desk Inc",
+      "ticker": "GOOGL",
+      "company_name": "Alphabet Inc Class A",
+      "earnings_date": "2026-02-04",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 9,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "304.43",
+        "rationale": "High RSI and minimal target upside, coupled with mixed to slightly negative news, provide little room for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "GEN",
+      "company_name": "Gen Digital Inc.",
+      "earnings_date": "2026-02-05",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 4,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "21.51",
+        "rationale": "While oversold with good target upside, institutional selling and a lack of specific positive catalysts for sentiment make a strong pre-earnings run-up less likely."
+      }
+    },
+    {
+      "ticker": "HUBS",
+      "company_name": "HubSpot Inc",
       "earnings_date": "2026-02-11",
       "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 5.5,
-        "favorable_entry_price": "31.87",
-        "rationale": "Deeply oversold RSI combined with a significant upside to the analyst target creates a strong technical setup for a pre-earnings bounce."
-      }
-    },
-    {
-      "ticker": "RACE",
-      "company_name": "Ferrari NV",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": "333.46",
-        "rationale": "Oversold RSI, strong price target upside, and explicit bullish news regarding share buybacks make this a compelling pre-earnings run-up candidate."
+        "decision": "Bad Idea",
+        "confidence_score": 4,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "253.38",
+        "rationale": "Despite being deeply oversold with massive target upside, the lack of positive news catalysts and some bearish sentiment make a strong pre-earnings run-up unlikely."
       }
     }
   ]
