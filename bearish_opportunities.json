@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-01-31 00:05:09",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-01 00:00:37",
+  "matches_found": 7,
   "data": [
     {
       "symbol": "STX",
@@ -8,64 +8,12 @@
       "rsi": 75.77,
       "stoch_k": 86.14,
       "extension": "+35.5%",
-      "volume": 9185141,
+      "volume": 9224411,
       "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
         "Extreme RSI (75)",
         "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "JNJ",
-      "price": 227.25,
-      "rsi": 92.46,
-      "stoch_k": 91.89,
-      "extension": "+8.3%",
-      "volume": 11045529,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (92)"
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "price": 67.26,
-      "rsi": 82.37,
-      "stoch_k": 92.23,
-      "extension": "+10.5%",
-      "volume": 7982289,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (82)"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 726.37,
-      "rsi": 79.22,
-      "stoch_k": 88.31,
-      "extension": "+12.5%",
-      "volume": 3865733,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "CL",
-      "price": 90.29,
-      "rsi": 82.0,
-      "stoch_k": 84.02,
-      "extension": "+12.6%",
-      "volume": 13920058,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (82)",
-        "Bearish RSI Divergence"
       ]
     },
     {
@@ -75,6 +23,18 @@
       "stoch_k": 91.6,
       "extension": "+14.3%",
       "volume": 1865926,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "price": 56.04,
+      "rsi": 71.6,
+      "stoch_k": 83.78,
+      "extension": "+13.7%",
+      "volume": 8618365,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -93,12 +53,34 @@
       ]
     },
     {
-      "symbol": "ADM",
-      "price": 67.31,
-      "rsi": 71.99,
-      "stoch_k": 72.25,
-      "extension": "+10.2%",
-      "volume": 5377467,
+      "symbol": "GILD",
+      "price": 141.95,
+      "rsi": 82.05,
+      "stoch_k": 93.45,
+      "extension": "+13.4%",
+      "volume": 9460236,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "price": 115.63,
+      "rsi": 69.3,
+      "stoch_k": 88.69,
+      "extension": "+10.7%",
+      "volume": 2736990,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "RTX",
+      "price": 200.93,
+      "rsi": 68.32,
+      "stoch_k": 72.67,
+      "extension": "+9.2%",
+      "volume": 7228370,
       "score": 0,
       "bonus_factors": []
     }
