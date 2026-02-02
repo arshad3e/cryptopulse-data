@@ -1,19 +1,35 @@
 {
-  "scan_timestamp": "2026-02-02 09:31:33",
-  "matches_found": 9,
+  "scan_timestamp": "2026-02-02 10:32:00",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "STX",
-      "price": 407.69,
-      "rsi": 75.77,
-      "stoch_k": 86.14,
-      "extension": "+35.5%",
-      "volume": 9224411,
-      "score": 5,
+      "symbol": "SNDK",
+      "price": 576.25,
+      "rsi": 87.08,
+      "stoch_k": 87.19,
+      "extension": "+89.4%",
+      "volume": 40932131,
+      "score": 6,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (87)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "LMT",
+      "price": 634.22,
+      "rsi": 85.51,
+      "stoch_k": 89.14,
+      "extension": "+25.2%",
+      "volume": 2099633,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (85)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -31,81 +47,37 @@
       ]
     },
     {
-      "symbol": "PM",
-      "price": 179.44,
-      "rsi": 76.55,
-      "stoch_k": 89.31,
-      "extension": "+12.0%",
-      "volume": 8239609,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "ANL",
-      "price": 10.63,
-      "rsi": 98.08,
-      "stoch_k": 91.61,
-      "extension": "+456.2%",
-      "volume": 7577290,
+      "symbol": "SYY",
+      "price": 83.85,
+      "rsi": 75.41,
+      "stoch_k": 87.71,
+      "extension": "+11.4%",
+      "volume": 5243189,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (98)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 227.52,
-      "rsi": 74.82,
-      "stoch_k": 87.28,
-      "extension": "+12.8%",
-      "volume": 6719516,
+      "symbol": "CLX",
+      "price": 112.79,
+      "rsi": 71.26,
+      "stoch_k": 58.79,
+      "extension": "+9.0%",
+      "volume": 3289934,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "ADM",
-      "price": 67.31,
-      "rsi": 71.99,
-      "stoch_k": 72.25,
-      "extension": "+10.2%",
-      "volume": 5377467,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "DXCM",
-      "price": 73.04,
-      "rsi": 70.46,
-      "stoch_k": 75.49,
-      "extension": "+8.6%",
-      "volume": 3825652,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "CARR",
-      "price": 59.58,
-      "rsi": 69.6,
-      "stoch_k": 93.75,
-      "extension": "+10.0%",
-      "volume": 10553454,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "RTX",
-      "price": 200.93,
-      "rsi": 68.32,
-      "stoch_k": 72.67,
-      "extension": "+9.2%",
-      "volume": 7228370,
+      "symbol": "PPG",
+      "price": 115.63,
+      "rsi": 69.3,
+      "stoch_k": 88.69,
+      "extension": "+10.7%",
+      "volume": 2736990,
       "score": 0,
       "bonus_factors": []
     }
