@@ -1,225 +1,255 @@
 {
-  "lastUpdated": "2026-02-01T18:05:00.835222",
+  "lastUpdated": "2026-02-02T18:04:06.477039",
   "stocks": [
+    {
+      "ticker": "AMD",
+      "company_name": "Advanced Micro Devices Inc",
+      "earnings_date": "2026-02-03",
+      "market_cap": "$385.4B",
+      "price": "246.2700",
+      "change_pct": "4.0299%",
+      "rsi": 58.76,
+      "move_score": 48.65
+    },
     {
       "ticker": "MFG",
       "company_name": "Mizuho Financial Group Inc.",
       "earnings_date": "2026-02-02",
       "market_cap": "$106.8B",
-      "price": "8.6300",
-      "change_pct": "-0.1157%",
-      "rsi": 74.27,
-      "move_score": 42.47
-    },
-    {
-      "ticker": "TSN",
-      "company_name": "Tyson Foods Inc",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$23.1B",
-      "price": "65.3300",
-      "change_pct": "0.1687%",
-      "rsi": 71.55,
-      "move_score": 36.93
-    },
-    {
-      "ticker": "SPG",
-      "company_name": "Simon Property Group Inc",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$72.2B",
-      "price": "191.3100",
-      "change_pct": "0.7956%",
-      "rsi": 66.45,
-      "move_score": 36.83
-    },
-    {
-      "ticker": "DIS",
-      "company_name": "Walt Disney Company",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$201.4B",
-      "price": "112.8000",
-      "change_pct": "1.0934%",
-      "rsi": 53.05,
-      "move_score": 36.59
+      "price": "8.8350",
+      "change_pct": "2.3754%",
+      "rsi": 78.46,
+      "move_score": 44.57
     },
     {
       "ticker": "NJR",
       "company_name": "NewJersey Resources Corporation",
       "earnings_date": "2026-02-02",
       "market_cap": "$5.0B",
-      "price": "49.4800",
-      "change_pct": "0.4466%",
-      "rsi": 71.72,
-      "move_score": 36.11
+      "price": "50.0400",
+      "change_pct": "1.1318%",
+      "rsi": 74.92,
+      "move_score": 37.71
     },
     {
-      "ticker": "ADM",
-      "company_name": "Archer-Daniels-Midland Company",
-      "earnings_date": "2026-02-03",
-      "market_cap": "$32.3B",
-      "price": "67.3100",
-      "change_pct": "0.5828%",
-      "rsi": 65.77,
-      "move_score": 34.5
-    },
-    {
-      "ticker": "TER",
-      "company_name": "Teradyne Inc",
+      "ticker": "TSN",
+      "company_name": "Tyson Foods Inc",
       "earnings_date": "2026-02-02",
-      "market_cap": "$38.3B",
-      "price": "241.0500",
-      "change_pct": "-4.2959%",
-      "rsi": 64.04,
-      "move_score": 33.94
+      "market_cap": "$23.1B",
+      "price": "65.7200",
+      "change_pct": "0.5970%",
+      "rsi": 72.57,
+      "move_score": 37.44
     },
     {
-      "ticker": "AMCR",
-      "company_name": "Amcor PLC",
-      "earnings_date": "2026-02-03",
-      "market_cap": "$20.4B",
-      "price": "44.2500",
-      "change_pct": "0.8202%",
-      "rsi": 58.52,
-      "move_score": 30.28
-    },
-    {
-      "ticker": "PLTR",
-      "company_name": "Palantir Technologies Inc.",
+      "ticker": "SPG",
+      "company_name": "Simon Property Group Inc",
       "earnings_date": "2026-02-02",
-      "market_cap": "$349.4B",
-      "price": "146.5900",
-      "change_pct": "-3.4703%",
-      "rsi": 25.32,
-      "move_score": 30.13
-    },
-    {
-      "ticker": "HESM",
-      "company_name": "Hess Midstream Partners LP",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$7.5B",
-      "price": "35.4700",
-      "change_pct": "-1.5816%",
-      "rsi": 58.93,
-      "move_score": 29.84
+      "market_cap": "$72.2B",
+      "price": "191.2450",
+      "change_pct": "-0.0340%",
+      "rsi": 66.21,
+      "move_score": 36.71
     },
     {
       "ticker": "TWST",
       "company_name": "Twist Bioscience Corp",
       "earnings_date": "2026-02-02",
       "market_cap": "$2.5B",
-      "price": "41.0700",
-      "change_pct": "-1.2266%",
-      "rsi": 59.36,
-      "move_score": 29.81
+      "price": "46.8100",
+      "change_pct": "13.9761%",
+      "rsi": 72.31,
+      "move_score": 36.28
     },
     {
-      "ticker": "RMBS",
-      "company_name": "Rambus Inc",
+      "ticker": "TER",
+      "company_name": "Teradyne Inc",
       "earnings_date": "2026-02-02",
-      "market_cap": "$12.3B",
-      "price": "113.8300",
-      "change_pct": "-6.3898%",
-      "rsi": 56.03,
-      "move_score": 28.63
+      "market_cap": "$38.3B",
+      "price": "249.5300",
+      "change_pct": "3.5179%",
+      "rsi": 68.24,
+      "move_score": 36.04
     },
     {
-      "ticker": "FN",
-      "company_name": "Fabrinet",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$17.5B",
-      "price": "489.4400",
-      "change_pct": "-1.3743%",
-      "rsi": 53.81,
-      "move_score": 27.78
+      "ticker": "ADM",
+      "company_name": "Archer-Daniels-Midland Company",
+      "earnings_date": "2026-02-03",
+      "market_cap": "$32.3B",
+      "price": "68.0800",
+      "change_pct": "1.1440%",
+      "rsi": 68.09,
+      "move_score": 35.66
     },
     {
-      "ticker": "AGNC",
-      "company_name": "AGNC Investment Corp",
+      "ticker": "PLTR",
+      "company_name": "Palantir Technologies Inc.",
       "earnings_date": "2026-02-02",
-      "market_cap": "$12.6B",
-      "price": "11.4000",
-      "change_pct": "-3.7594%",
-      "rsi": 53.51,
-      "move_score": 27.38
+      "market_cap": "$349.4B",
+      "price": "147.7600",
+      "change_pct": "0.7981%",
+      "rsi": 27.09,
+      "move_score": 31.02
     },
     {
       "ticker": "ACT",
       "company_name": "Enact Holdings Inc",
       "earnings_date": "2026-02-03",
       "market_cap": "$5.9B",
-      "price": "39.7700",
-      "change_pct": "-0.9218%",
-      "rsi": 53.34,
-      "move_score": 26.96
+      "price": "40.4500",
+      "change_pct": "1.7098%",
+      "rsi": 57.93,
+      "move_score": 29.26
     },
     {
-      "ticker": "RVTY",
-      "company_name": "Revvity Inc.",
+      "ticker": "FN",
+      "company_name": "Fabrinet",
       "earnings_date": "2026-02-02",
-      "market_cap": "$12.6B",
-      "price": "108.8000",
-      "change_pct": "0.2857%",
-      "rsi": 51.94,
-      "move_score": 26.6
+      "market_cap": "$17.5B",
+      "price": "499.0700",
+      "change_pct": "1.9676%",
+      "rsi": 56.51,
+      "move_score": 29.13
     },
     {
-      "ticker": "DOC",
-      "company_name": "Healthpeak Properties Inc",
+      "ticker": "ARLP",
+      "company_name": "Alliance Resource Partners LP",
       "earnings_date": "2026-02-02",
-      "market_cap": "$12.0B",
-      "price": "17.2400",
-      "change_pct": "0.5834%",
-      "rsi": 51.86,
-      "move_score": 26.53
-    },
-    {
-      "ticker": "NXPI",
-      "company_name": "NXP Semiconductors NV",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$57.0B",
-      "price": "226.1400",
-      "change_pct": "-3.1520%",
-      "rsi": 45.73,
-      "move_score": 25.72
-    },
-    {
-      "ticker": "ASH",
-      "company_name": "Ashland Global Holdings Inc",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$2.8B",
-      "price": "61.1600",
-      "change_pct": "-0.9234%",
-      "rsi": 49.97,
-      "move_score": 25.13
+      "market_cap": "$3.1B",
+      "price": "24.6900",
+      "change_pct": "3.6524%",
+      "rsi": 57.59,
+      "move_score": 28.95
     },
     {
       "ticker": "WWD",
       "company_name": "Woodward Inc",
       "earnings_date": "2026-02-02",
       "market_cap": "$19.1B",
-      "price": "317.8400",
-      "change_pct": "-0.4915%",
-      "rsi": 48.31,
-      "move_score": 25.11
+      "price": "327.2500",
+      "change_pct": "2.9606%",
+      "rsi": 55.91,
+      "move_score": 28.91
+    },
+    {
+      "ticker": "RMBS",
+      "company_name": "Rambus Inc",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$12.3B",
+      "price": "113.7100",
+      "change_pct": "-0.1054%",
+      "rsi": 55.9,
+      "move_score": 28.56
+    },
+    {
+      "ticker": "AMCR",
+      "company_name": "Amcor PLC",
+      "earnings_date": "2026-02-03",
+      "market_cap": "$20.4B",
+      "price": "43.7500",
+      "change_pct": "-1.1299%",
+      "rsi": 54.77,
+      "move_score": 28.41
+    },
+    {
+      "ticker": "NXPI",
+      "company_name": "NXP Semiconductors NV",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$57.0B",
+      "price": "231.0800",
+      "change_pct": "2.1845%",
+      "rsi": 50.14,
+      "move_score": 27.92
+    },
+    {
+      "ticker": "DIS",
+      "company_name": "Walt Disney Company",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$201.4B",
+      "price": "104.5600",
+      "change_pct": "-7.3050%",
+      "rsi": 35.11,
+      "move_score": 27.62
     },
     {
       "ticker": "DVA",
       "company_name": "DaVita HealthCare Partners Inc",
       "earnings_date": "2026-02-02",
       "market_cap": "$7.8B",
-      "price": "109.3400",
-      "change_pct": "1.9582%",
-      "rsi": 48.45,
-      "move_score": 24.62
+      "price": "111.1200",
+      "change_pct": "1.6279%",
+      "rsi": 52.86,
+      "move_score": 26.82
+    },
+    {
+      "ticker": "HESM",
+      "company_name": "Hess Midstream Partners LP",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$7.5B",
+      "price": "34.9700",
+      "change_pct": "-1.4096%",
+      "rsi": 52.26,
+      "move_score": 26.5
+    },
+    {
+      "ticker": "ASH",
+      "company_name": "Ashland Global Holdings Inc",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$2.8B",
+      "price": "61.5700",
+      "change_pct": "0.6704%",
+      "rsi": 52.01,
+      "move_score": 26.14
+    },
+    {
+      "ticker": "MTG",
+      "company_name": "MGIC Investment Corp",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$6.2B",
+      "price": "27.5100",
+      "change_pct": "2.1917%",
+      "rsi": 50.67,
+      "move_score": 25.64
+    },
+    {
+      "ticker": "RVTY",
+      "company_name": "Revvity Inc.",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$12.6B",
+      "price": "107.0800",
+      "change_pct": "-1.5809%",
+      "rsi": 48.52,
+      "move_score": 24.89
+    },
+    {
+      "ticker": "APTV",
+      "company_name": "Aptiv PLC",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$16.5B",
+      "price": "78.0300",
+      "change_pct": "3.0099%",
+      "rsi": 47.37,
+      "move_score": 24.51
+    },
+    {
+      "ticker": "AGNC",
+      "company_name": "AGNC Investment Corp",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$12.6B",
+      "price": "11.1700",
+      "change_pct": "-2.0175%",
+      "rsi": 47.57,
+      "move_score": 24.42
     },
     {
       "ticker": "WHR",
       "company_name": "Whirlpool Corporation",
       "earnings_date": "2026-02-02",
       "market_cap": "$4.5B",
-      "price": "79.9900",
-      "change_pct": "3.9371%",
-      "rsi": 48.09,
-      "move_score": 24.27
+      "price": "79.9100",
+      "change_pct": "-0.1000%",
+      "rsi": 47.93,
+      "move_score": 24.19
     },
     {
       "ticker": "PCH",
@@ -232,104 +262,84 @@
       "move_score": 23.74
     },
     {
+      "ticker": "DOC",
+      "company_name": "Healthpeak Properties Inc",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$12.0B",
+      "price": "16.9300",
+      "change_pct": "-1.7981%",
+      "rsi": 46.05,
+      "move_score": 23.62
+    },
+    {
       "ticker": "AFG",
       "company_name": "American Financial Group Inc",
       "earnings_date": "2026-02-03",
       "market_cap": "$10.9B",
-      "price": "130.2700",
-      "change_pct": "1.1335%",
-      "rsi": 45.92,
-      "move_score": 23.5
-    },
-    {
-      "ticker": "DX",
-      "company_name": "Dynex Capital Inc",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$2.8B",
-      "price": "13.8800",
-      "change_pct": "-4.7358%",
-      "rsi": 44.35,
-      "move_score": 22.31
-    },
-    {
-      "ticker": "MTG",
-      "company_name": "MGIC Investment Corp",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$6.2B",
-      "price": "26.9200",
-      "change_pct": "-0.3332%",
-      "rsi": 43.56,
-      "move_score": 22.09
-    },
-    {
-      "ticker": "APTV",
-      "company_name": "Aptiv PLC",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$16.5B",
-      "price": "75.7500",
-      "change_pct": "-3.9071%",
-      "rsi": 41.77,
-      "move_score": 21.71
-    },
-    {
-      "ticker": "ARLP",
-      "company_name": "Alliance Resource Partners LP",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$3.1B",
-      "price": "23.8200",
-      "change_pct": "-1.8541%",
-      "rsi": 43.02,
-      "move_score": 21.66
-    },
-    {
-      "ticker": "IDXX",
-      "company_name": "IDEXX Laboratories Inc",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$53.6B",
-      "price": "670.4600",
-      "change_pct": "-0.9236%",
-      "rsi": 37.15,
-      "move_score": 21.26
-    },
-    {
-      "ticker": "SANM",
-      "company_name": "Sanmina Corporation",
-      "earnings_date": "2026-02-02",
-      "market_cap": "$7.7B",
-      "price": "141.6800",
-      "change_pct": "-8.2562%",
-      "rsi": 39.15,
-      "move_score": 19.96
+      "price": "130.0350",
+      "change_pct": "-0.1804%",
+      "rsi": 45.13,
+      "move_score": 23.11
     },
     {
       "ticker": "USLM",
       "company_name": "United States Lime & Minerals Inc",
       "earnings_date": "2026-02-02",
       "market_cap": "$3.4B",
-      "price": "120.5300",
-      "change_pct": "-2.6571%",
-      "rsi": 39.53,
-      "move_score": 19.94
+      "price": "123.6100",
+      "change_pct": "2.5554%",
+      "rsi": 45.62,
+      "move_score": 22.98
+    },
+    {
+      "ticker": "SANM",
+      "company_name": "Sanmina Corporation",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$7.7B",
+      "price": "150.4700",
+      "change_pct": "6.2041%",
+      "rsi": 44.69,
+      "move_score": 22.73
+    },
+    {
+      "ticker": "DX",
+      "company_name": "Dynex Capital Inc",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$2.8B",
+      "price": "13.8250",
+      "change_pct": "-0.3963%",
+      "rsi": 43.02,
+      "move_score": 21.65
     },
     {
       "ticker": "CR",
       "company_name": "Crane Company",
       "earnings_date": "2026-02-02",
       "market_cap": "$10.5B",
-      "price": "182.6400",
-      "change_pct": "1.8174%",
-      "rsi": 38.36,
-      "move_score": 19.71
+      "price": "185.2650",
+      "change_pct": "1.4373%",
+      "rsi": 41.36,
+      "move_score": 21.21
+    },
+    {
+      "ticker": "IDXX",
+      "company_name": "IDEXX Laboratories Inc",
+      "earnings_date": "2026-02-02",
+      "market_cap": "$53.6B",
+      "price": "639.6000",
+      "change_pct": "-4.6028%",
+      "rsi": 28.22,
+      "move_score": 16.79
     },
     {
       "ticker": "FICO",
       "company_name": "Fair Isaac Corporation",
       "earnings_date": "2026-02-02",
       "market_cap": "$34.7B",
-      "price": "1463.1700",
-      "change_pct": "-2.5690%",
-      "rsi": 29.81,
-      "move_score": 16.64
+      "price": "1451.0000",
+      "change_pct": "-0.8318%",
+      "rsi": 28.76,
+      "move_score": 16.12
     }
   ]
 }
