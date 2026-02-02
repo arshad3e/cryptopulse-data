@@ -1,19 +1,31 @@
 {
-  "scan_timestamp": "2026-02-02 12:32:53",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-02 13:33:19",
+  "matches_found": 13,
   "data": [
     {
-      "symbol": "DVN",
-      "price": 40.21,
-      "rsi": 77.85,
-      "stoch_k": 85.04,
-      "extension": "+9.2%",
-      "volume": 11349023,
+      "symbol": "MU",
+      "price": 414.88,
+      "rsi": 72.12,
+      "stoch_k": 85.82,
+      "extension": "+40.5%",
+      "volume": 51022881,
       "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (77)",
-        "Bearish RSI Divergence"
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 176.9,
+      "rsi": 88.9,
+      "stoch_k": 89.83,
+      "extension": "+13.3%",
+      "volume": 22946582,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (88)"
       ]
     },
     {
@@ -66,6 +78,18 @@
       ]
     },
     {
+      "symbol": "KMI",
+      "price": 30.49,
+      "rsi": 85.77,
+      "stoch_k": 94.26,
+      "extension": "+10.7%",
+      "volume": 18926726,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (85)"
+      ]
+    },
+    {
       "symbol": "CHD",
       "price": 96.25,
       "rsi": 84.92,
@@ -88,6 +112,40 @@
       "bonus_factors": [
         "Extreme RSI (76)"
       ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 215.55,
+      "rsi": 76.54,
+      "stoch_k": 87.68,
+      "extension": "+19.6%",
+      "volume": 9086826,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 227.52,
+      "rsi": 74.82,
+      "stoch_k": 87.28,
+      "extension": "+12.8%",
+      "volume": 6719516,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "price": 67.31,
+      "rsi": 71.99,
+      "stoch_k": 72.25,
+      "extension": "+10.2%",
+      "volume": 5377467,
+      "score": 0,
+      "bonus_factors": []
     },
     {
       "symbol": "CARR",
