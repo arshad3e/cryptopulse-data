@@ -1,31 +1,58 @@
 {
-  "scan_timestamp": "2026-02-01 00:00:37",
-  "matches_found": 7,
+  "scan_timestamp": "2026-02-02 00:01:05",
+  "matches_found": 12,
   "data": [
     {
-      "symbol": "STX",
-      "price": 407.69,
-      "rsi": 75.77,
-      "stoch_k": 86.14,
-      "extension": "+35.5%",
-      "volume": 9224411,
-      "score": 5,
+      "symbol": "XOM",
+      "price": 141.4,
+      "rsi": 91.25,
+      "stoch_k": 94.59,
+      "extension": "+15.4%",
+      "volume": 29657667,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)",
+        "Extreme RSI (91)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "price": 250.23,
+      "rsi": 70.12,
+      "stoch_k": 83.5,
+      "extension": "+31.2%",
+      "volume": 21695142,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "CF",
-      "price": 93.23,
-      "rsi": 73.55,
-      "stoch_k": 91.6,
-      "extension": "+14.3%",
-      "volume": 1865926,
-      "score": 2,
+      "symbol": "TCGL",
+      "price": 172.84,
+      "rsi": 99.57,
+      "stoch_k": 65.57,
+      "extension": "+1451.1%",
+      "volume": 1104733,
+      "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (99)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ANL",
+      "price": 10.63,
+      "rsi": 98.08,
+      "stoch_k": 91.61,
+      "extension": "+456.2%",
+      "volume": 7577290,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (98)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -41,12 +68,12 @@
       ]
     },
     {
-      "symbol": "DECK",
-      "price": 119.34,
-      "rsi": 68.65,
-      "stoch_k": 42.72,
-      "extension": "+20.5%",
-      "volume": 9768810,
+      "symbol": "ASML",
+      "price": 1423.0,
+      "rsi": 69.18,
+      "stoch_k": 78.27,
+      "extension": "+21.8%",
+      "volume": 2358843,
       "score": 2,
       "bonus_factors": [
         "Parabolic (+20% vs SMA)"
@@ -65,22 +92,54 @@
       ]
     },
     {
+      "symbol": "HON",
+      "price": 227.52,
+      "rsi": 74.82,
+      "stoch_k": 87.28,
+      "extension": "+12.8%",
+      "volume": 6719516,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "GLW",
+      "price": 103.25,
+      "rsi": 74.54,
+      "stoch_k": 64.71,
+      "extension": "+15.7%",
+      "volume": 13378658,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "ADM",
+      "price": 67.31,
+      "rsi": 71.99,
+      "stoch_k": 72.25,
+      "extension": "+10.2%",
+      "volume": 5377467,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "CARR",
+      "price": 59.58,
+      "rsi": 69.6,
+      "stoch_k": 93.75,
+      "extension": "+10.0%",
+      "volume": 10553454,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
       "symbol": "PPG",
       "price": 115.63,
       "rsi": 69.3,
       "stoch_k": 88.69,
       "extension": "+10.7%",
       "volume": 2736990,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "RTX",
-      "price": 200.93,
-      "rsi": 68.32,
-      "stoch_k": 72.67,
-      "extension": "+9.2%",
-      "volume": 7228370,
       "score": 0,
       "bonus_factors": []
     }
