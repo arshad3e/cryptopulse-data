@@ -1,52 +1,101 @@
 {
-  "scan_timestamp": "2026-02-02 11:32:26",
-  "matches_found": 4,
+  "scan_timestamp": "2026-02-02 12:32:53",
+  "matches_found": 8,
   "data": [
     {
-      "symbol": "GEV",
-      "price": 726.37,
-      "rsi": 79.22,
-      "stoch_k": 88.31,
-      "extension": "+12.5%",
-      "volume": 3865733,
-      "score": 3,
+      "symbol": "DVN",
+      "price": 40.21,
+      "rsi": 77.85,
+      "stoch_k": 85.04,
+      "extension": "+9.2%",
+      "volume": 11349023,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "SYY",
-      "price": 83.85,
-      "rsi": 75.41,
-      "stoch_k": 87.71,
-      "extension": "+11.4%",
-      "volume": 5243189,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 227.52,
-      "rsi": 74.82,
-      "stoch_k": 87.28,
-      "extension": "+12.8%",
-      "volume": 6719516,
-      "score": 1,
-      "bonus_factors": [
+        "Extreme RSI (77)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "ADM",
-      "price": 67.31,
-      "rsi": 71.99,
-      "stoch_k": 72.25,
-      "extension": "+10.2%",
-      "volume": 5377467,
+      "symbol": "CL",
+      "price": 90.29,
+      "rsi": 82.0,
+      "stoch_k": 84.02,
+      "extension": "+12.6%",
+      "volume": 13920058,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (82)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CF",
+      "price": 93.23,
+      "rsi": 73.55,
+      "stoch_k": 91.6,
+      "extension": "+14.3%",
+      "volume": 1865926,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1423.0,
+      "rsi": 69.18,
+      "stoch_k": 78.27,
+      "extension": "+21.8%",
+      "volume": 2358843,
+      "score": 2,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "TER",
+      "price": 241.05,
+      "rsi": 68.52,
+      "stoch_k": 85.68,
+      "extension": "+17.8%",
+      "volume": 3704527,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "CHD",
+      "price": 96.25,
+      "rsi": 84.92,
+      "stoch_k": 77.78,
+      "extension": "+11.6%",
+      "volume": 4994276,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (84)"
+      ]
+    },
+    {
+      "symbol": "VZ",
+      "price": 44.52,
+      "rsi": 76.83,
+      "stoch_k": 62.52,
+      "extension": "+11.6%",
+      "volume": 123584682,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "CARR",
+      "price": 59.58,
+      "rsi": 69.6,
+      "stoch_k": 93.75,
+      "extension": "+10.0%",
+      "volume": 10553454,
       "score": 0,
       "bonus_factors": []
     }
