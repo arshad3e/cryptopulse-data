@@ -1,161 +1,18 @@
 {
-  "scan_timestamp": "2026-02-02 13:33:19",
-  "matches_found": 13,
+  "scan_timestamp": "2026-02-02 14:34:03",
+  "matches_found": 1,
   "data": [
     {
-      "symbol": "MU",
-      "price": 414.88,
-      "rsi": 72.12,
-      "stoch_k": 85.82,
-      "extension": "+40.5%",
-      "volume": 51022881,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "price": 176.9,
-      "rsi": 88.9,
-      "stoch_k": 89.83,
-      "extension": "+13.3%",
-      "volume": 22946582,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (88)"
-      ]
-    },
-    {
-      "symbol": "CL",
-      "price": 90.29,
-      "rsi": 82.0,
-      "stoch_k": 84.02,
-      "extension": "+12.6%",
-      "volume": 13920058,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (82)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "CF",
-      "price": 93.23,
-      "rsi": 73.55,
-      "stoch_k": 91.6,
-      "extension": "+14.3%",
-      "volume": 1865926,
+      "symbol": "BKR",
+      "price": 56.04,
+      "rsi": 71.6,
+      "stoch_k": 83.78,
+      "extension": "+13.7%",
+      "volume": 8618365,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
-    },
-    {
-      "symbol": "ASML",
-      "price": 1423.0,
-      "rsi": 69.18,
-      "stoch_k": 78.27,
-      "extension": "+21.8%",
-      "volume": 2358843,
-      "score": 2,
-      "bonus_factors": [
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "TER",
-      "price": 241.05,
-      "rsi": 68.52,
-      "stoch_k": 85.68,
-      "extension": "+17.8%",
-      "volume": 3704527,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "price": 30.49,
-      "rsi": 85.77,
-      "stoch_k": 94.26,
-      "extension": "+10.7%",
-      "volume": 18926726,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (85)"
-      ]
-    },
-    {
-      "symbol": "CHD",
-      "price": 96.25,
-      "rsi": 84.92,
-      "stoch_k": 77.78,
-      "extension": "+11.6%",
-      "volume": 4994276,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (84)"
-      ]
-    },
-    {
-      "symbol": "VZ",
-      "price": 44.52,
-      "rsi": 76.83,
-      "stoch_k": 62.52,
-      "extension": "+11.6%",
-      "volume": 123584682,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "TXN",
-      "price": 215.55,
-      "rsi": 76.54,
-      "stoch_k": 87.68,
-      "extension": "+19.6%",
-      "volume": 9086826,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 227.52,
-      "rsi": 74.82,
-      "stoch_k": 87.28,
-      "extension": "+12.8%",
-      "volume": 6719516,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "ADM",
-      "price": 67.31,
-      "rsi": 71.99,
-      "stoch_k": 72.25,
-      "extension": "+10.2%",
-      "volume": 5377467,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "CARR",
-      "price": 59.58,
-      "rsi": 69.6,
-      "stoch_k": 93.75,
-      "extension": "+10.0%",
-      "volume": 10553454,
-      "score": 0,
-      "bonus_factors": []
     }
   ]
 }
