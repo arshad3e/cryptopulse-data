@@ -1,18 +1,181 @@
 {
-  "scan_timestamp": "2026-02-02 14:34:03",
-  "matches_found": 1,
+  "scan_timestamp": "2026-02-02 15:34:29",
+  "matches_found": 14,
   "data": [
     {
-      "symbol": "BKR",
-      "price": 56.04,
-      "rsi": 71.6,
-      "stoch_k": 83.78,
-      "extension": "+13.7%",
-      "volume": 8618365,
+      "symbol": "SNDK",
+      "price": 576.25,
+      "rsi": 87.08,
+      "stoch_k": 87.19,
+      "extension": "+89.4%",
+      "volume": 40932131,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (87)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "XOM",
+      "price": 141.4,
+      "rsi": 91.25,
+      "stoch_k": 94.59,
+      "extension": "+15.4%",
+      "volume": 29657667,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (91)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "PM",
+      "price": 179.44,
+      "rsi": 76.55,
+      "stoch_k": 89.31,
+      "extension": "+12.0%",
+      "volume": 8239609,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "price": 250.23,
+      "rsi": 70.12,
+      "stoch_k": 83.5,
+      "extension": "+31.2%",
+      "volume": 21695142,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 176.9,
+      "rsi": 88.9,
+      "stoch_k": 89.83,
+      "extension": "+13.3%",
+      "volume": 22946582,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (88)"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 65.33,
+      "rsi": 80.02,
+      "stoch_k": 89.75,
+      "extension": "+11.5%",
+      "volume": 4432795,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "price": 726.37,
+      "rsi": 79.22,
+      "stoch_k": 88.31,
+      "extension": "+12.5%",
+      "volume": 3865733,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (79)"
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "price": 1423.0,
+      "rsi": 69.18,
+      "stoch_k": 78.27,
+      "extension": "+21.8%",
+      "volume": 2358843,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Parabolic (+20% vs SMA)"
       ]
+    },
+    {
+      "symbol": "CTRA",
+      "price": 28.85,
+      "rsi": 98.79,
+      "stoch_k": 84.74,
+      "extension": "+9.7%",
+      "volume": 13851719,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (98)"
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "price": 30.49,
+      "rsi": 85.77,
+      "stoch_k": 94.26,
+      "extension": "+10.7%",
+      "volume": 18926726,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (85)"
+      ]
+    },
+    {
+      "symbol": "VZ",
+      "price": 44.52,
+      "rsi": 76.83,
+      "stoch_k": 62.52,
+      "extension": "+11.6%",
+      "volume": 123584682,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "CLX",
+      "price": 112.79,
+      "rsi": 71.26,
+      "stoch_k": 58.79,
+      "extension": "+9.0%",
+      "volume": 3289934,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "DXCM",
+      "price": 73.04,
+      "rsi": 70.46,
+      "stoch_k": 75.49,
+      "extension": "+8.6%",
+      "volume": 3825652,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "RTX",
+      "price": 200.93,
+      "rsi": 68.32,
+      "stoch_k": 72.67,
+      "extension": "+9.2%",
+      "volume": 7228370,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
