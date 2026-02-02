@@ -1,49 +1,18 @@
 {
-  "scan_timestamp": "2026-02-02 10:32:00",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-02 11:32:26",
+  "matches_found": 4,
   "data": [
     {
-      "symbol": "SNDK",
-      "price": 576.25,
-      "rsi": 87.08,
-      "stoch_k": 87.19,
-      "extension": "+89.4%",
-      "volume": 40932131,
-      "score": 6,
+      "symbol": "GEV",
+      "price": 726.37,
+      "rsi": 79.22,
+      "stoch_k": 88.31,
+      "extension": "+12.5%",
+      "volume": 3865733,
+      "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (87)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "LMT",
-      "price": 634.22,
-      "rsi": 85.51,
-      "stoch_k": 89.14,
-      "extension": "+25.2%",
-      "volume": 2099633,
-      "score": 6,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (85)",
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "CHRW",
-      "price": 194.95,
-      "rsi": 86.44,
-      "stoch_k": 86.87,
-      "extension": "+17.9%",
-      "volume": 4240344,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (86)",
-        "Bearish RSI Divergence"
+        "Extreme RSI (79)"
       ]
     },
     {
@@ -60,24 +29,24 @@
       ]
     },
     {
-      "symbol": "CLX",
-      "price": 112.79,
-      "rsi": 71.26,
-      "stoch_k": 58.79,
-      "extension": "+9.0%",
-      "volume": 3289934,
+      "symbol": "HON",
+      "price": 227.52,
+      "rsi": 74.82,
+      "stoch_k": 87.28,
+      "extension": "+12.8%",
+      "volume": 6719516,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PPG",
-      "price": 115.63,
-      "rsi": 69.3,
-      "stoch_k": 88.69,
-      "extension": "+10.7%",
-      "volume": 2736990,
+      "symbol": "ADM",
+      "price": 67.31,
+      "rsi": 71.99,
+      "stoch_k": 72.25,
+      "extension": "+10.2%",
+      "volume": 5377467,
       "score": 0,
       "bonus_factors": []
     }
