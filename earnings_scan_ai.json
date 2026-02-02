@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T19:34:39.435849",
+  "lastUpdated": "2026-02-01T19:50:34.719927",
   "stocks": [
     {
       "ticker": "SONY",
@@ -7,9 +7,10 @@
       "earnings_date": "2026-02-12",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 6.5,
-        "rationale": "Extremely oversold RSI and a new growth initiative provide a strong setup for a short-term bounce before earnings."
+        "confidence_score": 8,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "22.10",
+        "rationale": "Extremely oversold RSI and positive strategic news indicate strong potential for a pre-earnings bounce."
       }
     },
     {
@@ -18,20 +19,10 @@
       "earnings_date": "2026-02-10",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 7.5,
-        "rationale": "Deeply oversold RSI combined with significant institutional backing suggests strong potential for a pre-earnings bounce."
-      }
-    },
-    {
-      "ticker": "RELX",
-      "company_name": "Relx PLC ADR",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 5.5,
-        "rationale": "Low RSI and active share buybacks indicate management confidence and potential for a pre-earnings short squeeze or bounce from oversold levels."
+        "confidence_score": 8,
+        "runup_percentage": 4.5,
+        "favorable_entry_price": "55.25",
+        "rationale": "Deeply oversold RSI combined with positive fintech sector sentiment suggests a strong rebound potential before earnings."
       }
     },
     {
@@ -40,9 +31,10 @@
       "earnings_date": "2026-02-05",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 8.5,
-        "rationale": "Strong analyst endorsement, strategic AI expansion, and very low RSI make it an attractive pre-earnings play ahead of Thursday's announcement."
+        "confidence_score": 9,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "110.63",
+        "rationale": "Low RSI, strong analyst sentiment for AI expansion, and significant target upside make it a compelling pre-earnings candidate."
       }
     },
     {
@@ -52,8 +44,9 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 8,
-        "runup_percentage": 8.5,
-        "rationale": "Deeply oversold RSI combined with strong bullish news about its market position and increasing attention points to a significant pre-earnings rebound potential."
+        "runup_percentage": 4.5,
+        "favorable_entry_price": "369.40",
+        "rationale": "Oversold RSI, significant target price potential, and bullish government software market trends support a pre-earnings run-up."
       }
     },
     {
@@ -61,10 +54,11 @@
       "company_name": "Humana Inc",
       "earnings_date": "2026-02-11",
       "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 5.5,
-        "rationale": "Oversold RSI and recent institutional accumulation suggest a value play for a pre-earnings bounce, despite mixed broader sector news."
+        "decision": "Bad Idea",
+        "confidence_score": 4,
+        "runup_percentage": 1.5,
+        "favorable_entry_price": "195.20",
+        "rationale": "Despite being oversold, prevailing bearish sentiment from Wall Street makes a pre-earnings run-up less likely."
       }
     },
     {
@@ -73,9 +67,10 @@
       "earnings_date": "2026-02-02",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 4,
-        "runup_percentage": 3.0,
-        "rationale": "Despite a low RSI, the complete absence of relevant news or positive catalysts makes a pre-earnings run-up highly speculative."
+        "confidence_score": 3,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "146.59",
+        "rationale": "The absence of relevant bullish news for Palantir, despite a slightly oversold RSI, reduces confidence in a pre-earnings run-up."
       }
     },
     {
@@ -84,9 +79,10 @@
       "earnings_date": "2026-02-03",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 7.5,
-        "rationale": "The low RSI combined with news reinforcing its essential market position and recovery potential makes it a strong candidate for a pre-earnings run-up."
+        "confidence_score": 7,
+        "runup_percentage": 3.5,
+        "favorable_entry_price": "197.11",
+        "rationale": "Oversold RSI, positive analyst rating, and institutional interest suggest potential for a pre-earnings price recovery."
       }
     },
     {
@@ -94,10 +90,11 @@
       "company_name": "Take-Two Interactive Software Inc",
       "earnings_date": "2026-02-03",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 3,
-        "runup_percentage": 1.5,
-        "rationale": "Despite a low RSI, strong recent bearish news about AI disruption and a losing streak create too much negative sentiment for a reliable pre-earnings run-up."
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 3.0,
+        "favorable_entry_price": "220.30",
+        "rationale": "Institutional investment and overall positive sector sentiment provide a solid foundation for a pre-earnings run-up from an oversold position."
       }
     },
     {
@@ -108,7 +105,8 @@
         "decision": "Bad Idea",
         "confidence_score": 2,
         "runup_percentage": 0.5,
-        "rationale": "The high RSI suggests the stock is already extended, leaving limited room for a pre-earnings run-up, especially with a target price so close to the current price."
+        "favorable_entry_price": "338.00",
+        "rationale": "High RSI and very limited upside to the target price make a pre-earnings run-up highly improbable."
       }
     },
     {
@@ -116,10 +114,11 @@
       "company_name": "Coinbase Global Inc",
       "earnings_date": "2026-02-12",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 3,
-        "runup_percentage": 2.0,
-        "rationale": "Despite an oversold RSI, the recent bearish news regarding crypto outflows and a Bitcoin slide create too strong a headwind for a pre-earnings run-up."
+        "decision": "Good Idea",
+        "confidence_score": 6,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "194.74",
+        "rationale": "Despite mixed crypto news, the significantly oversold RSI and high target price suggest a potential for a volatile pre-earnings bounce."
       }
     },
     {
@@ -129,8 +128,9 @@
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 1,
-        "runup_percentage": -0.5,
-        "rationale": "High RSI and a target price below the current price suggest overvaluation or limited upside, making it unsuitable for a pre-earnings run-up."
+        "runup_percentage": -1.0,
+        "favorable_entry_price": "338.53",
+        "rationale": "Overbought RSI and a target price below the current price indicate strong downward pressure, making a pre-earnings run-up highly unlikely."
       }
     },
     {
@@ -139,20 +139,10 @@
       "earnings_date": "2026-02-10",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 6.5,
-        "rationale": "Oversold RSI combined with positive news regarding new partnerships and network expansion provides a solid foundation for a pre-earnings bounce."
-      }
-    },
-    {
-      "ticker": "TTD",
-      "company_name": "Trade Desk Inc",
-      "earnings_date": "2026-02-11",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 4,
-        "runup_percentage": 3.0,
-        "rationale": "Despite a low RSI, the absence of relevant positive news or a clear catalyst makes a pre-earnings run-up less reliable for TTD."
+        "confidence_score": 8,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "67.60",
+        "rationale": "Oversold RSI combined with positive partnership news and favorable earnings expectations suggest a solid pre-earnings run-up."
       }
     },
     {
@@ -161,9 +151,34 @@
       "earnings_date": "2026-02-12",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 2,
+        "confidence_score": 3,
         "runup_percentage": 1.0,
-        "rationale": "Significant negative news regarding investor investigations and layoffs overshadows the oversold RSI, making a pre-earnings run-up unlikely."
+        "favorable_entry_price": "22.13",
+        "rationale": "Recent negative news regarding layoffs and legal investigations likely outweigh the oversold RSI for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "WST",
+      "company_name": "West Pharmaceutical Services Inc",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 3.5,
+        "favorable_entry_price": "231.12",
+        "rationale": "Oversold RSI, institutional interest, and 'buy the bottom' sentiment point to a potential pre-earnings recovery."
+      }
+    },
+    {
+      "ticker": "RIVN",
+      "company_name": "Rivian Automotive Inc",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 6,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "14.75",
+        "rationale": "Oversold RSI and positive R2 validation news provide a speculative opportunity for a pre-earnings bounce in a volatile sector."
       }
     }
   ]
