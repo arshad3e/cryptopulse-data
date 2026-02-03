@@ -1,19 +1,19 @@
 {
-  "scan_timestamp": "2026-02-03 10:35:53",
-  "matches_found": 10,
+  "scan_timestamp": "2026-02-03 11:36:18",
+  "matches_found": 14,
   "data": [
     {
-      "symbol": "STX",
-      "price": 432.95,
-      "rsi": 76.67,
-      "stoch_k": 81.84,
-      "extension": "+42.2%",
-      "volume": 6062819,
-      "score": 5,
+      "symbol": "GLW",
+      "price": 110.36,
+      "rsi": 77.29,
+      "stoch_k": 70.82,
+      "extension": "+22.9%",
+      "volume": 11926271,
+      "score": 4,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (77)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -30,16 +30,16 @@
       ]
     },
     {
-      "symbol": "BKR",
-      "price": 56.45,
-      "rsi": 84.16,
-      "stoch_k": 80.39,
-      "extension": "+14.1%",
-      "volume": 7591550,
+      "symbol": "TXN",
+      "price": 225.01,
+      "rsi": 81.98,
+      "stoch_k": 89.25,
+      "extension": "+23.9%",
+      "volume": 11194865,
       "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (84)"
+        "Extreme RSI (81)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -56,41 +56,52 @@
       ]
     },
     {
-      "symbol": "KMI",
-      "price": 29.61,
-      "rsi": 79.25,
-      "stoch_k": 82.23,
-      "extension": "+8.4%",
-      "volume": 15786020,
+      "symbol": "CVX",
+      "price": 174.03,
+      "rsi": 77.0,
+      "stoch_k": 83.11,
+      "extension": "+11.2%",
+      "volume": 14235347,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)"
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "LUV",
-      "price": 49.64,
-      "rsi": 68.13,
-      "stoch_k": 88.32,
-      "extension": "+23.1%",
-      "volume": 13003246,
-      "score": 3,
-      "bonus_factors": [
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WDC",
-      "price": 270.23,
-      "rsi": 72.0,
-      "stoch_k": 78.31,
-      "extension": "+40.0%",
-      "volume": 16019328,
+      "symbol": "ASML",
+      "price": 1441.39,
+      "rsi": 70.03,
+      "stoch_k": 78.56,
+      "extension": "+22.5%",
+      "volume": 1766645,
       "score": 2,
       "bonus_factors": [
         "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "CHD",
+      "price": 97.34,
+      "rsi": 85.13,
+      "stoch_k": 82.58,
+      "extension": "+12.5%",
+      "volume": 3421934,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (85)"
+      ]
+    },
+    {
+      "symbol": "CARR",
+      "price": 60.36,
+      "rsi": 78.9,
+      "stoch_k": 94.9,
+      "extension": "+11.1%",
+      "volume": 6550265,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
       ]
     },
     {
@@ -106,24 +117,60 @@
       ]
     },
     {
-      "symbol": "FDX",
-      "price": 335.3,
-      "rsi": 68.23,
-      "stoch_k": 99.01,
-      "extension": "+14.7%",
-      "volume": 2604263,
+      "symbol": "PM",
+      "price": 179.94,
+      "rsi": 74.93,
+      "stoch_k": 90.49,
+      "extension": "+12.0%",
+      "volume": 6387051,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HAS",
-      "price": 93.84,
-      "rsi": 72.42,
-      "stoch_k": 90.13,
-      "extension": "+11.7%",
-      "volume": 1833935,
+      "symbol": "HON",
+      "price": 227.56,
+      "rsi": 74.06,
+      "stoch_k": 93.2,
+      "extension": "+12.4%",
+      "volume": 4514464,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CLX",
+      "price": 113.29,
+      "rsi": 70.81,
+      "stoch_k": 65.83,
+      "extension": "+9.1%",
+      "volume": 2380399,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "price": 690.91,
+      "rsi": 70.18,
+      "stoch_k": 81.68,
+      "extension": "+14.7%",
+      "volume": 4450010,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 246.27,
+      "rsi": 72.09,
+      "stoch_k": 64.39,
+      "extension": "+11.1%",
+      "volume": 36308106,
       "score": 0,
       "bonus_factors": []
     }
