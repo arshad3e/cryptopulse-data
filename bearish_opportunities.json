@@ -1,7 +1,22 @@
 {
-  "scan_timestamp": "2026-02-03 12:36:44",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-03 13:37:34",
+  "matches_found": 16,
   "data": [
+    {
+      "symbol": "MU",
+      "price": 437.8,
+      "rsi": 75.55,
+      "stoch_k": 82.22,
+      "extension": "+46.2%",
+      "volume": 37771237,
+      "score": 6,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
+      ]
+    },
     {
       "symbol": "WMB",
       "price": 66.34,
@@ -13,6 +28,32 @@
       "bonus_factors": [
         "Stoch Hook Down",
         "Extreme RSI (81)"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 174.03,
+      "rsi": 77.0,
+      "stoch_k": 83.11,
+      "extension": "+11.2%",
+      "volume": 14235347,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "LUV",
+      "price": 49.64,
+      "rsi": 68.13,
+      "stoch_k": 88.32,
+      "extension": "+23.1%",
+      "volume": 13003246,
+      "score": 3,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -29,36 +70,121 @@
       ]
     },
     {
-      "symbol": "SYY",
-      "price": 82.86,
-      "rsi": 71.57,
-      "stoch_k": 84.67,
-      "extension": "+9.8%",
-      "volume": 5313390,
+      "symbol": "GILD",
+      "price": 142.89,
+      "rsi": 81.73,
+      "stoch_k": 95.13,
+      "extension": "+13.8%",
+      "volume": 6898220,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (81)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 227.56,
-      "rsi": 74.06,
-      "stoch_k": 93.2,
-      "extension": "+12.4%",
-      "volume": 4514464,
+      "symbol": "CHD",
+      "price": 97.34,
+      "rsi": 85.13,
+      "stoch_k": 82.58,
+      "extension": "+12.5%",
+      "volume": 3421934,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (85)"
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "price": 754.97,
+      "rsi": 80.46,
+      "stoch_k": 89.93,
+      "extension": "+16.2%",
+      "volume": 4074379,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "price": 65.74,
+      "rsi": 78.26,
+      "stoch_k": 92.68,
+      "extension": "+11.8%",
+      "volume": 4205654,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "price": 40.14,
+      "rsi": 77.56,
+      "stoch_k": 78.71,
+      "extension": "+8.7%",
+      "volume": 21885327,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "CLX",
+      "price": 113.29,
+      "rsi": 70.81,
+      "stoch_k": 65.83,
+      "extension": "+9.1%",
+      "volume": 2380399,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "ADM",
-      "price": 68.08,
-      "rsi": 73.11,
-      "stoch_k": 71.82,
-      "extension": "+11.2%",
-      "volume": 5608041,
+      "symbol": "CAT",
+      "price": 690.91,
+      "rsi": 70.18,
+      "stoch_k": 81.68,
+      "extension": "+14.7%",
+      "volume": 4450010,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "WMT",
+      "price": 124.06,
+      "rsi": 69.07,
+      "stoch_k": 71.02,
+      "extension": "+8.7%",
+      "volume": 31210059,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "FDX",
+      "price": 335.3,
+      "rsi": 68.23,
+      "stoch_k": 99.01,
+      "extension": "+14.7%",
+      "volume": 2604263,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "HAS",
+      "price": 93.84,
+      "rsi": 72.42,
+      "stoch_k": 90.13,
+      "extension": "+11.7%",
+      "volume": 1833935,
       "score": 0,
       "bonus_factors": []
     },
