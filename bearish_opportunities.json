@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-02-04 09:33:59",
-  "matches_found": 7,
+  "scan_timestamp": "2026-02-04 10:34:11",
+  "matches_found": 6,
   "data": [
     {
       "symbol": "HON",
@@ -17,75 +17,67 @@
       ]
     },
     {
-      "symbol": "CL",
-      "price": 93.15,
-      "rsi": 83.57,
-      "stoch_k": 95.63,
-      "extension": "+15.3%",
-      "volume": 8898581,
+      "symbol": "TXN",
+      "price": 225.21,
+      "rsi": 82.81,
+      "stoch_k": 90.64,
+      "extension": "+23.0%",
+      "volume": 15143252,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (82)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "ETN",
+      "price": 362.53,
+      "rsi": 73.43,
+      "stoch_k": 80.76,
+      "extension": "+8.6%",
+      "volume": 5750608,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "price": 41.11,
+      "rsi": 77.13,
+      "stoch_k": 83.92,
+      "extension": "+11.0%",
+      "volume": 23382983,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (83)",
+        "Extreme RSI (77)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "WMB",
-      "price": 68.5,
-      "rsi": 83.07,
-      "stoch_k": 88.09,
-      "extension": "+11.9%",
-      "volume": 8662311,
-      "score": 1,
+      "symbol": "ITW",
+      "price": 278.91,
+      "rsi": 72.81,
+      "stoch_k": 84.47,
+      "extension": "+10.3%",
+      "volume": 3596911,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (83)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "BALL",
-      "price": 61.77,
-      "rsi": 79.77,
-      "stoch_k": 76.15,
-      "extension": "+16.9%",
-      "volume": 5747658,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (79)"
-      ]
-    },
-    {
-      "symbol": "NUE",
-      "price": 186.5,
-      "rsi": 71.74,
-      "stoch_k": 82.88,
-      "extension": "+12.1%",
-      "volume": 2354607,
+      "symbol": "TT",
+      "price": 435.36,
+      "rsi": 74.04,
+      "stoch_k": 89.93,
+      "extension": "+9.5%",
+      "volume": 1787378,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
-    },
-    {
-      "symbol": "CLX",
-      "price": 114.98,
-      "rsi": 70.54,
-      "stoch_k": 79.5,
-      "extension": "+10.4%",
-      "volume": 2701227,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "FITB",
-      "price": 52.75,
-      "rsi": 69.81,
-      "stoch_k": 69.55,
-      "extension": "+11.0%",
-      "volume": 17365319,
-      "score": 0,
-      "bonus_factors": []
     }
   ]
 }
