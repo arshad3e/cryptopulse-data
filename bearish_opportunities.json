@@ -1,106 +1,144 @@
 {
-  "scan_timestamp": "2026-02-05 11:30:57",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-05 12:31:10",
+  "matches_found": 11,
   "data": [
     {
-      "symbol": "T",
-      "price": 27.22,
-      "rsi": 83.74,
-      "stoch_k": 93.67,
-      "extension": "+11.3%",
-      "volume": 52448303,
+      "symbol": "KO",
+      "price": 77.35,
+      "rsi": 80.12,
+      "stoch_k": 92.28,
+      "extension": "+8.6%",
+      "volume": 28607287,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "price": 181.23,
+      "rsi": 79.21,
+      "stoch_k": 87.86,
+      "extension": "+14.9%",
+      "volume": 16170478,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (79)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "PG",
+      "price": 156.87,
+      "rsi": 75.49,
+      "stoch_k": 91.81,
+      "extension": "+8.4%",
+      "volume": 12178463,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (75)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "price": 584.55,
+      "rsi": 70.33,
+      "stoch_k": 81.56,
+      "extension": "+77.4%",
+      "volume": 29007556,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "price": 146.23,
+      "rsi": 84.45,
+      "stoch_k": 94.52,
+      "extension": "+15.8%",
+      "volume": 7440114,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (83)"
+        "Extreme RSI (84)"
       ]
     },
     {
-      "symbol": "TXN",
-      "price": 222.92,
-      "rsi": 77.85,
-      "stoch_k": 92.05,
-      "extension": "+20.9%",
-      "volume": 14542521,
+      "symbol": "KMI",
+      "price": 30.06,
+      "rsi": 75.85,
+      "stoch_k": 83.09,
+      "extension": "+9.4%",
+      "volume": 18763691,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (77)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "ODFL",
-      "price": 208.54,
-      "rsi": 77.38,
-      "stoch_k": 98.75,
-      "extension": "+28.5%",
-      "volume": 6487943,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (77)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "SLB",
-      "price": 51.35,
-      "rsi": 69.38,
-      "stoch_k": 67.55,
-      "extension": "+22.3%",
-      "volume": 23745396,
-      "score": 3,
-      "bonus_factors": [
-        "Parabolic (+20% vs SMA)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 746.22,
-      "rsi": 72.36,
-      "stoch_k": 84.99,
-      "extension": "+13.5%",
-      "volume": 5057996,
+      "symbol": "TRGP",
+      "price": 204.44,
+      "rsi": 88.33,
+      "stoch_k": 82.72,
+      "extension": "+11.8%",
+      "volume": 1399889,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (88)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HAS",
-      "price": 96.59,
-      "rsi": 82.6,
-      "stoch_k": 93.9,
-      "extension": "+13.9%",
-      "volume": 1810660,
+      "symbol": "DE",
+      "price": 567.26,
+      "rsi": 76.99,
+      "stoch_k": 94.02,
+      "extension": "+15.6%",
+      "volume": 3209306,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (82)"
+        "Extreme RSI (76)"
       ]
     },
     {
-      "symbol": "PNC",
-      "price": 237.25,
-      "rsi": 78.41,
-      "stoch_k": 95.18,
+      "symbol": "PCAR",
+      "price": 128.78,
+      "rsi": 72.85,
+      "stoch_k": 89.01,
       "extension": "+12.9%",
-      "volume": 3816887,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (78)"
-      ]
-    },
-    {
-      "symbol": "SYY",
-      "price": 84.65,
-      "rsi": 70.07,
-      "stoch_k": 86.93,
-      "extension": "+11.6%",
-      "volume": 4249802,
+      "volume": 6078120,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
+    },
+    {
+      "symbol": "VTRS",
+      "price": 14.36,
+      "rsi": 71.84,
+      "stoch_k": 92.91,
+      "extension": "+18.1%",
+      "volume": 14861770,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "BEN",
+      "price": 27.83,
+      "rsi": 69.37,
+      "stoch_k": 91.6,
+      "extension": "+14.7%",
+      "volume": 8426430,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
