@@ -1,56 +1,71 @@
 {
-  "scan_timestamp": "2026-02-05 00:00:16",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-05 09:30:31",
+  "matches_found": 10,
   "data": [
     {
-      "symbol": "CAG",
-      "price": 19.8,
-      "rsi": 82.61,
-      "stoch_k": 94.8,
-      "extension": "+15.2%",
-      "volume": 19914985,
+      "symbol": "FDX",
+      "price": 362.54,
+      "rsi": 78.74,
+      "stoch_k": 97.27,
+      "extension": "+22.4%",
+      "volume": 2531516,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (78)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "DVA",
+      "price": 142.06,
+      "rsi": 88.87,
+      "stoch_k": 91.07,
+      "extension": "+23.9%",
+      "volume": 3046226,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (88)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "price": 146.23,
+      "rsi": 84.45,
+      "stoch_k": 94.52,
+      "extension": "+15.8%",
+      "volume": 7440114,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (82)"
+        "Extreme RSI (84)"
       ]
     },
     {
-      "symbol": "TRGP",
-      "price": 204.44,
-      "rsi": 88.33,
-      "stoch_k": 82.72,
-      "extension": "+11.8%",
-      "volume": 1399693,
+      "symbol": "JNJ",
+      "price": 234.47,
+      "rsi": 89.84,
+      "stoch_k": 94.72,
+      "extension": "+10.7%",
+      "volume": 8641449,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (88)",
+        "Extreme RSI (89)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "NEE",
-      "price": 89.97,
-      "rsi": 82.09,
-      "stoch_k": 85.02,
-      "extension": "+8.5%",
-      "volume": 12175677,
+      "symbol": "HON",
+      "price": 235.35,
+      "rsi": 76.09,
+      "stoch_k": 94.11,
+      "extension": "+15.3%",
+      "volume": 5943096,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (82)",
+        "Extreme RSI (76)",
         "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "price": 66.46,
-      "rsi": 70.64,
-      "stoch_k": 82.32,
-      "extension": "+8.2%",
-      "volume": 12602400,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
       ]
     },
     {
@@ -59,47 +74,57 @@
       "rsi": 79.87,
       "stoch_k": 93.09,
       "extension": "+10.7%",
-      "volume": 2779776,
+      "volume": 2787917,
       "score": 1,
       "bonus_factors": [
         "Extreme RSI (79)"
       ]
     },
     {
-      "symbol": "AMGN",
-      "price": 366.2,
-      "rsi": 75.03,
-      "stoch_k": 74.16,
+      "symbol": "PNC",
+      "price": 237.25,
+      "rsi": 78.41,
+      "stoch_k": 95.18,
+      "extension": "+12.9%",
+      "volume": 3816887,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "CTVA",
+      "price": 75.12,
+      "rsi": 74.76,
+      "stoch_k": 88.34,
       "extension": "+9.7%",
-      "volume": 5899557,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "NUE",
-      "price": 189.95,
-      "rsi": 72.2,
-      "stoch_k": 90.64,
-      "extension": "+13.6%",
-      "volume": 2298457,
+      "volume": 7132860,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "UPS",
-      "price": 116.74,
-      "rsi": 68.56,
-      "stoch_k": 83.1,
-      "extension": "+14.0%",
-      "volume": 11272631,
+      "symbol": "AOS",
+      "price": 78.37,
+      "rsi": 70.34,
+      "stoch_k": 93.36,
+      "extension": "+13.7%",
+      "volume": 3422188,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
+    },
+    {
+      "symbol": "BEN",
+      "price": 27.83,
+      "rsi": 69.37,
+      "stoch_k": 91.6,
+      "extension": "+14.7%",
+      "volume": 8426430,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
