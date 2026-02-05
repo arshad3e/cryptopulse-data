@@ -1,128 +1,61 @@
 {
-  "scan_timestamp": "2026-02-05 09:30:31",
-  "matches_found": 10,
+  "scan_timestamp": "2026-02-05 10:30:44",
+  "matches_found": 5,
   "data": [
     {
-      "symbol": "FDX",
-      "price": 362.54,
-      "rsi": 78.74,
-      "stoch_k": 97.27,
-      "extension": "+22.4%",
-      "volume": 2531516,
-      "score": 5,
+      "symbol": "ODFL",
+      "price": 208.54,
+      "rsi": 77.38,
+      "stoch_k": 98.75,
+      "extension": "+28.5%",
+      "volume": 6487943,
+      "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (78)",
+        "Extreme RSI (77)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "DVA",
-      "price": 142.06,
-      "rsi": 88.87,
-      "stoch_k": 91.07,
-      "extension": "+23.9%",
-      "volume": 3046226,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (88)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "GILD",
-      "price": 146.23,
-      "rsi": 84.45,
-      "stoch_k": 94.52,
-      "extension": "+15.8%",
-      "volume": 7440114,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (84)"
-      ]
-    },
-    {
-      "symbol": "JNJ",
-      "price": 234.47,
-      "rsi": 89.84,
-      "stoch_k": 94.72,
-      "extension": "+10.7%",
-      "volume": 8641449,
+      "symbol": "GEV",
+      "price": 746.22,
+      "rsi": 72.36,
+      "stoch_k": 84.99,
+      "extension": "+13.5%",
+      "volume": 5057996,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (89)",
-        "Bearish RSI Divergence"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 235.35,
-      "rsi": 76.09,
-      "stoch_k": 94.11,
-      "extension": "+15.3%",
-      "volume": 5943096,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (76)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "TT",
-      "price": 441.2,
-      "rsi": 79.87,
-      "stoch_k": 93.09,
-      "extension": "+10.7%",
-      "volume": 2787917,
+      "symbol": "UPS",
+      "price": 116.74,
+      "rsi": 68.56,
+      "stoch_k": 83.1,
+      "extension": "+14.0%",
+      "volume": 11371502,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (79)"
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PNC",
-      "price": 237.25,
-      "rsi": 78.41,
-      "stoch_k": 95.18,
+      "symbol": "CFG",
+      "price": 66.6,
+      "rsi": 74.37,
+      "stoch_k": 86.21,
       "extension": "+12.9%",
-      "volume": 3816887,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (78)"
-      ]
+      "volume": 6787976,
+      "score": 0,
+      "bonus_factors": []
     },
     {
-      "symbol": "CTVA",
-      "price": 75.12,
-      "rsi": 74.76,
-      "stoch_k": 88.34,
-      "extension": "+9.7%",
-      "volume": 7132860,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "AOS",
-      "price": 78.37,
-      "rsi": 70.34,
-      "stoch_k": 93.36,
-      "extension": "+13.7%",
-      "volume": 3422188,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "BEN",
-      "price": 27.83,
-      "rsi": 69.37,
-      "stoch_k": 91.6,
-      "extension": "+14.7%",
-      "volume": 8426430,
+      "symbol": "FITB",
+      "price": 54.09,
+      "rsi": 71.97,
+      "stoch_k": 82.28,
+      "extension": "+13.2%",
+      "volume": 22395886,
       "score": 0,
       "bonus_factors": []
     }
