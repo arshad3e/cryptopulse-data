@@ -1,7 +1,33 @@
 {
-  "scan_timestamp": "2026-02-05 10:30:44",
-  "matches_found": 5,
+  "scan_timestamp": "2026-02-05 11:30:57",
+  "matches_found": 8,
   "data": [
+    {
+      "symbol": "T",
+      "price": 27.22,
+      "rsi": 83.74,
+      "stoch_k": 93.67,
+      "extension": "+11.3%",
+      "volume": 52448303,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (83)"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "price": 222.92,
+      "rsi": 77.85,
+      "stoch_k": 92.05,
+      "extension": "+20.9%",
+      "volume": 14542521,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (77)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
     {
       "symbol": "ODFL",
       "price": 208.54,
@@ -13,6 +39,19 @@
       "bonus_factors": [
         "Extreme RSI (77)",
         "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "price": 51.35,
+      "rsi": 69.38,
+      "stoch_k": 67.55,
+      "extension": "+22.3%",
+      "volume": 23745396,
+      "score": 3,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -28,36 +67,40 @@
       ]
     },
     {
-      "symbol": "UPS",
-      "price": 116.74,
-      "rsi": 68.56,
-      "stoch_k": 83.1,
-      "extension": "+14.0%",
-      "volume": 11371502,
+      "symbol": "HAS",
+      "price": 96.59,
+      "rsi": 82.6,
+      "stoch_k": 93.9,
+      "extension": "+13.9%",
+      "volume": 1810660,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "PNC",
+      "price": 237.25,
+      "rsi": 78.41,
+      "stoch_k": 95.18,
+      "extension": "+12.9%",
+      "volume": 3816887,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "SYY",
+      "price": 84.65,
+      "rsi": 70.07,
+      "stoch_k": 86.93,
+      "extension": "+11.6%",
+      "volume": 4249802,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
-    },
-    {
-      "symbol": "CFG",
-      "price": 66.6,
-      "rsi": 74.37,
-      "stoch_k": 86.21,
-      "extension": "+12.9%",
-      "volume": 6787976,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "FITB",
-      "price": 54.09,
-      "rsi": 71.97,
-      "stoch_k": 82.28,
-      "extension": "+13.2%",
-      "volume": 22395886,
-      "score": 0,
-      "bonus_factors": []
     }
   ]
 }
