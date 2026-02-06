@@ -1,65 +1,54 @@
 {
-  "scan_timestamp": "2026-02-06 11:32:53",
+  "scan_timestamp": "2026-02-06 12:33:05",
   "matches_found": 6,
   "data": [
     {
-      "symbol": "CHRW",
-      "price": 197.44,
-      "rsi": 83.07,
-      "stoch_k": 86.55,
-      "extension": "+16.7%",
-      "volume": 2129603,
-      "score": 3,
+      "symbol": "MTB",
+      "price": 233.94,
+      "rsi": 80.55,
+      "stoch_k": 91.97,
+      "extension": "+12.7%",
+      "volume": 1676769,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (83)"
-      ]
-    },
-    {
-      "symbol": "TFC",
-      "price": 55.14,
-      "rsi": 74.9,
-      "stoch_k": 93.71,
-      "extension": "+10.8%",
-      "volume": 9738105,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
+        "Extreme RSI (80)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "KEY",
-      "price": 22.7,
-      "rsi": 71.3,
-      "stoch_k": 92.6,
-      "extension": "+9.8%",
-      "volume": 15453266,
+      "symbol": "DE",
+      "price": 565.73,
+      "rsi": 75.15,
+      "stoch_k": 93.08,
+      "extension": "+14.9%",
+      "volume": 1913079,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Bearish RSI Divergence"
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "BKR",
-      "price": 57.36,
-      "rsi": 70.74,
-      "stoch_k": 88.79,
-      "extension": "+14.6%",
-      "volume": 13430131,
+      "symbol": "KMI",
+      "price": 30.33,
+      "rsi": 78.65,
+      "stoch_k": 89.71,
+      "extension": "+10.1%",
+      "volume": 11523245,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (78)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "JBHT",
-      "price": 225.25,
-      "rsi": 68.22,
-      "stoch_k": 94.14,
-      "extension": "+13.3%",
-      "volume": 1154063,
+      "symbol": "HON",
+      "price": 233.85,
+      "rsi": 72.27,
+      "stoch_k": 93.54,
+      "extension": "+14.1%",
+      "volume": 5017468,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
@@ -76,6 +65,16 @@
       "bonus_factors": [
         "Extreme RSI (90)"
       ]
+    },
+    {
+      "symbol": "GEV",
+      "price": 737.53,
+      "rsi": 70.29,
+      "stoch_k": 74.09,
+      "extension": "+11.6%",
+      "volume": 3608563,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
