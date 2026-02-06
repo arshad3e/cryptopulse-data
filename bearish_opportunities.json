@@ -1,77 +1,58 @@
 {
-  "scan_timestamp": "2026-02-06 00:02:00",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-06 09:32:14",
+  "matches_found": 4,
   "data": [
     {
-      "symbol": "QBTZ",
-      "price": 17.2,
-      "rsi": 83.24,
-      "stoch_k": 86.22,
-      "extension": "+49.7%",
-      "volume": 2868319,
-      "score": 3,
+      "symbol": "MTB",
+      "price": 233.94,
+      "rsi": 80.55,
+      "stoch_k": 91.97,
+      "extension": "+12.7%",
+      "volume": 1676769,
+      "score": 4,
       "bonus_factors": [
-        "Extreme RSI (83)",
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "ODFL",
+      "price": 202.14,
+      "rsi": 68.22,
+      "stoch_k": 93.72,
+      "extension": "+23.6%",
+      "volume": 4258825,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "WMT",
-      "price": 126.94,
-      "rsi": 72.22,
-      "stoch_k": 89.15,
-      "extension": "+9.9%",
-      "volume": 30396359,
-      "score": 2,
+      "symbol": "HAS",
+      "price": 95.43,
+      "rsi": 75.39,
+      "stoch_k": 89.1,
+      "extension": "+12.1%",
+      "volume": 2161942,
+      "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "price": 195.83,
-      "rsi": 75.89,
-      "stoch_k": 95.75,
-      "extension": "+9.5%",
-      "volume": 1886084,
-      "score": 1,
-      "bonus_factors": [
+        "Stoch Hook Down",
         "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "ED",
-      "price": 108.87,
-      "rsi": 74.59,
-      "stoch_k": 88.91,
-      "extension": "+8.2%",
-      "volume": 1811491,
+      "symbol": "VZ",
+      "price": 47.1,
+      "rsi": 91.88,
+      "stoch_k": 94.09,
+      "extension": "+16.7%",
+      "volume": 42866476,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (91)"
       ]
-    },
-    {
-      "symbol": "CMCSA",
-      "price": 30.85,
-      "rsi": 71.11,
-      "stoch_k": 85.2,
-      "extension": "+16.0%",
-      "volume": 30243794,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 737.53,
-      "rsi": 70.29,
-      "stoch_k": 74.09,
-      "extension": "+11.6%",
-      "volume": 3608563,
-      "score": 0,
-      "bonus_factors": []
     }
   ]
 }
