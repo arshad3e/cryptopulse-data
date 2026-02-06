@@ -1,120 +1,77 @@
 {
-  "scan_timestamp": "2026-02-05 15:31:47",
-  "matches_found": 9,
+  "scan_timestamp": "2026-02-06 00:02:00",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "GILD",
-      "price": 146.23,
-      "rsi": 84.45,
-      "stoch_k": 94.52,
-      "extension": "+15.8%",
-      "volume": 7440114,
+      "symbol": "QBTZ",
+      "price": 17.2,
+      "rsi": 83.24,
+      "stoch_k": 86.22,
+      "extension": "+49.7%",
+      "volume": 2868319,
       "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (84)"
+        "Extreme RSI (83)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "CAG",
-      "price": 19.8,
-      "rsi": 82.61,
-      "stoch_k": 94.8,
-      "extension": "+15.2%",
-      "volume": 19914985,
-      "score": 3,
+      "symbol": "WMT",
+      "price": 126.94,
+      "rsi": 72.22,
+      "stoch_k": 89.15,
+      "extension": "+9.9%",
+      "volume": 30396359,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (82)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "MTB",
-      "price": 232.26,
-      "rsi": 81.15,
-      "stoch_k": 93.08,
-      "extension": "+12.4%",
-      "volume": 1709414,
-      "score": 3,
+      "symbol": "MPC",
+      "price": 195.83,
+      "rsi": 75.89,
+      "stoch_k": 95.75,
+      "extension": "+9.5%",
+      "volume": 1886084,
+      "score": 1,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (81)"
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "price": 30.06,
-      "rsi": 75.85,
-      "stoch_k": 83.09,
-      "extension": "+9.4%",
-      "volume": 18763691,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
         "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "TRGP",
-      "price": 204.44,
-      "rsi": 88.33,
-      "stoch_k": 82.72,
-      "extension": "+11.8%",
-      "volume": 1399889,
-      "score": 2,
+      "symbol": "ED",
+      "price": 108.87,
+      "rsi": 74.59,
+      "stoch_k": 88.91,
+      "extension": "+8.2%",
+      "volume": 1811491,
+      "score": 1,
       "bonus_factors": [
-        "Extreme RSI (88)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 235.35,
-      "rsi": 76.09,
-      "stoch_k": 94.11,
-      "extension": "+15.3%",
-      "volume": 5943096,
-      "score": 2,
+      "symbol": "CMCSA",
+      "price": 30.85,
+      "rsi": 71.11,
+      "stoch_k": 85.2,
+      "extension": "+16.0%",
+      "volume": 30243794,
+      "score": 1,
       "bonus_factors": [
-        "Extreme RSI (76)",
         "Bearish RSI Divergence"
       ]
     },
     {
       "symbol": "GEV",
-      "price": 746.22,
-      "rsi": 72.36,
-      "stoch_k": 84.99,
-      "extension": "+13.5%",
-      "volume": 5057996,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "price": 66.46,
-      "rsi": 70.64,
-      "stoch_k": 82.32,
-      "extension": "+8.2%",
-      "volume": 12624696,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "price": 59.17,
-      "rsi": 85.0,
-      "stoch_k": 90.35,
-      "extension": "+18.6%",
-      "volume": 10731710,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (84)"
-      ]
+      "price": 737.53,
+      "rsi": 70.29,
+      "stoch_k": 74.09,
+      "extension": "+11.6%",
+      "volume": 3608563,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
