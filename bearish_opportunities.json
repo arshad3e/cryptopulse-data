@@ -1,7 +1,21 @@
 {
-  "scan_timestamp": "2026-02-06 09:32:14",
+  "scan_timestamp": "2026-02-06 10:32:27",
   "matches_found": 4,
   "data": [
+    {
+      "symbol": "DVA",
+      "price": 149.22,
+      "rsi": 89.93,
+      "stoch_k": 90.66,
+      "extension": "+29.5%",
+      "volume": 2227383,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (89)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
     {
       "symbol": "MTB",
       "price": 233.94,
@@ -17,42 +31,26 @@
       ]
     },
     {
-      "symbol": "ODFL",
-      "price": 202.14,
-      "rsi": 68.22,
-      "stoch_k": 93.72,
-      "extension": "+23.6%",
-      "volume": 4258825,
-      "score": 4,
+      "symbol": "HON",
+      "price": 233.85,
+      "rsi": 72.27,
+      "stoch_k": 93.54,
+      "extension": "+14.1%",
+      "volume": 5017468,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "HAS",
-      "price": 95.43,
-      "rsi": 75.39,
-      "stoch_k": 89.1,
-      "extension": "+12.1%",
-      "volume": 2161942,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "VZ",
-      "price": 47.1,
-      "rsi": 91.88,
-      "stoch_k": 94.09,
-      "extension": "+16.7%",
-      "volume": 42866476,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (91)"
-      ]
+      "symbol": "HSY",
+      "price": 224.38,
+      "rsi": 72.52,
+      "stoch_k": 92.34,
+      "extension": "+18.9%",
+      "volume": 5700300,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
