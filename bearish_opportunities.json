@@ -1,28 +1,27 @@
 {
-  "scan_timestamp": "2026-02-06 12:33:05",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-06 13:33:18",
+  "matches_found": 5,
   "data": [
     {
-      "symbol": "MTB",
-      "price": 233.94,
-      "rsi": 80.55,
-      "stoch_k": 91.97,
-      "extension": "+12.7%",
-      "volume": 1676769,
+      "symbol": "ODFL",
+      "price": 202.14,
+      "rsi": 68.22,
+      "stoch_k": 93.72,
+      "extension": "+23.6%",
+      "volume": 4258825,
       "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (80)",
-        "Bearish RSI Divergence"
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "DE",
-      "price": 565.73,
-      "rsi": 75.15,
-      "stoch_k": 93.08,
-      "extension": "+14.9%",
-      "volume": 1913079,
+      "symbol": "HAS",
+      "price": 95.43,
+      "rsi": 75.39,
+      "stoch_k": 89.1,
+      "extension": "+12.1%",
+      "volume": 2161942,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
@@ -30,51 +29,40 @@
       ]
     },
     {
-      "symbol": "KMI",
-      "price": 30.33,
-      "rsi": 78.65,
-      "stoch_k": 89.71,
-      "extension": "+10.1%",
-      "volume": 11523245,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (78)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 233.85,
-      "rsi": 72.27,
-      "stoch_k": 93.54,
-      "extension": "+14.1%",
-      "volume": 5017468,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "CB",
-      "price": 331.28,
-      "rsi": 90.69,
-      "stoch_k": 90.78,
-      "extension": "+8.3%",
-      "volume": 2113344,
+      "symbol": "VZ",
+      "price": 47.1,
+      "rsi": 91.88,
+      "stoch_k": 94.09,
+      "extension": "+16.7%",
+      "volume": 42866476,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (90)"
+        "Extreme RSI (91)"
       ]
     },
     {
-      "symbol": "GEV",
-      "price": 737.53,
-      "rsi": 70.29,
-      "stoch_k": 74.09,
-      "extension": "+11.6%",
-      "volume": 3608563,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "PSX",
+      "price": 154.43,
+      "rsi": 77.82,
+      "stoch_k": 95.01,
+      "extension": "+11.8%",
+      "volume": 2501431,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "ED",
+      "price": 108.87,
+      "rsi": 74.59,
+      "stoch_k": 88.91,
+      "extension": "+8.2%",
+      "volume": 1811491,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     }
   ]
 }
