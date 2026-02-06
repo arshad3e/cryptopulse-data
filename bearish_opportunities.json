@@ -1,142 +1,80 @@
 {
-  "scan_timestamp": "2026-02-06 14:33:55",
-  "matches_found": 11,
+  "scan_timestamp": "2026-02-06 15:34:08",
+  "matches_found": 6,
   "data": [
     {
-      "symbol": "DVA",
-      "price": 149.22,
-      "rsi": 89.93,
-      "stoch_k": 90.66,
-      "extension": "+29.5%",
-      "volume": 2227383,
-      "score": 5,
+      "symbol": "BALL",
+      "price": 66.19,
+      "rsi": 86.06,
+      "stoch_k": 92.79,
+      "extension": "+23.7%",
+      "volume": 3976290,
+      "score": 3,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (89)",
+        "Extreme RSI (86)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "TXN",
-      "price": 223.98,
-      "rsi": 84.75,
-      "stoch_k": 88.31,
-      "extension": "+20.6%",
-      "volume": 11044162,
-      "score": 5,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (84)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "MTB",
-      "price": 233.94,
-      "rsi": 80.55,
-      "stoch_k": 91.97,
-      "extension": "+12.7%",
-      "volume": 1676769,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "JCI",
-      "price": 132.52,
-      "rsi": 87.71,
-      "stoch_k": 83.49,
-      "extension": "+13.2%",
-      "volume": 7252346,
+      "symbol": "DE",
+      "price": 565.73,
+      "rsi": 75.15,
+      "stoch_k": 93.08,
+      "extension": "+14.9%",
+      "volume": 1913079,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (87)"
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "VTRS",
-      "price": 14.34,
-      "rsi": 80.24,
-      "stoch_k": 90.26,
-      "extension": "+17.2%",
-      "volume": 7620912,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)"
-      ]
-    },
-    {
-      "symbol": "CSX",
-      "price": 39.87,
-      "rsi": 73.96,
-      "stoch_k": 94.2,
-      "extension": "+9.2%",
-      "volume": 14302299,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "price": 30.33,
-      "rsi": 78.65,
-      "stoch_k": 89.71,
-      "extension": "+10.1%",
-      "volume": 11523245,
-      "score": 2,
-      "bonus_factors": [
-        "Extreme RSI (78)",
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 233.85,
-      "rsi": 72.27,
-      "stoch_k": 93.54,
-      "extension": "+14.1%",
-      "volume": 5017468,
+      "symbol": "BKR",
+      "price": 57.36,
+      "rsi": 70.74,
+      "stoch_k": 88.79,
+      "extension": "+14.6%",
+      "volume": 13430131,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "REG",
-      "price": 75.48,
-      "rsi": 74.93,
-      "stoch_k": 86.83,
-      "extension": "+8.1%",
-      "volume": 1729769,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "TSN",
+      "price": 65.2,
+      "rsi": 70.61,
+      "stoch_k": 82.32,
+      "extension": "+9.5%",
+      "volume": 1945668,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
     },
     {
-      "symbol": "PPG",
-      "price": 124.42,
-      "rsi": 74.26,
-      "stoch_k": 91.25,
-      "extension": "+16.8%",
-      "volume": 2469001,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "PEP",
+      "price": 167.53,
+      "rsi": 86.72,
+      "stoch_k": 96.04,
+      "extension": "+13.9%",
+      "volume": 11038833,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (86)"
+      ]
     },
     {
-      "symbol": "RCL",
-      "price": 326.09,
-      "rsi": 68.09,
-      "stoch_k": 71.83,
+      "symbol": "CTRA",
+      "price": 30.31,
+      "rsi": 82.16,
+      "stoch_k": 95.6,
       "extension": "+14.0%",
-      "volume": 1954105,
-      "score": 0,
-      "bonus_factors": []
+      "volume": 10493230,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (82)"
+      ]
     }
   ]
 }
