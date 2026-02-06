@@ -1,68 +1,142 @@
 {
-  "scan_timestamp": "2026-02-06 13:33:18",
-  "matches_found": 5,
+  "scan_timestamp": "2026-02-06 14:33:55",
+  "matches_found": 11,
   "data": [
     {
-      "symbol": "ODFL",
-      "price": 202.14,
-      "rsi": 68.22,
-      "stoch_k": 93.72,
-      "extension": "+23.6%",
-      "volume": 4258825,
-      "score": 4,
+      "symbol": "DVA",
+      "price": 149.22,
+      "rsi": 89.93,
+      "stoch_k": 90.66,
+      "extension": "+29.5%",
+      "volume": 2227383,
+      "score": 5,
       "bonus_factors": [
         "Stoch Hook Down",
+        "Extreme RSI (89)",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "HAS",
-      "price": 95.43,
-      "rsi": 75.39,
-      "stoch_k": 89.1,
-      "extension": "+12.1%",
-      "volume": 2161942,
+      "symbol": "TXN",
+      "price": 223.98,
+      "rsi": 84.75,
+      "stoch_k": 88.31,
+      "extension": "+20.6%",
+      "volume": 11044162,
+      "score": 5,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (84)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "MTB",
+      "price": 233.94,
+      "rsi": 80.55,
+      "stoch_k": 91.97,
+      "extension": "+12.7%",
+      "volume": 1676769,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "JCI",
+      "price": 132.52,
+      "rsi": 87.71,
+      "stoch_k": 83.49,
+      "extension": "+13.2%",
+      "volume": 7252346,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)"
+        "Extreme RSI (87)"
       ]
     },
     {
-      "symbol": "VZ",
-      "price": 47.1,
-      "rsi": 91.88,
-      "stoch_k": 94.09,
-      "extension": "+16.7%",
-      "volume": 42866476,
-      "score": 1,
+      "symbol": "VTRS",
+      "price": 14.34,
+      "rsi": 80.24,
+      "stoch_k": 90.26,
+      "extension": "+17.2%",
+      "volume": 7620912,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (91)"
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
       ]
     },
     {
-      "symbol": "PSX",
-      "price": 154.43,
-      "rsi": 77.82,
-      "stoch_k": 95.01,
-      "extension": "+11.8%",
-      "volume": 2501431,
-      "score": 1,
+      "symbol": "CSX",
+      "price": 39.87,
+      "rsi": 73.96,
+      "stoch_k": 94.2,
+      "extension": "+9.2%",
+      "volume": 14302299,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (77)"
-      ]
-    },
-    {
-      "symbol": "ED",
-      "price": 108.87,
-      "rsi": 74.59,
-      "stoch_k": 88.91,
-      "extension": "+8.2%",
-      "volume": 1811491,
-      "score": 1,
-      "bonus_factors": [
+        "Stoch Hook Down",
         "Bearish RSI Divergence"
       ]
+    },
+    {
+      "symbol": "KMI",
+      "price": 30.33,
+      "rsi": 78.65,
+      "stoch_k": 89.71,
+      "extension": "+10.1%",
+      "volume": 11523245,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (78)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "price": 233.85,
+      "rsi": 72.27,
+      "stoch_k": 93.54,
+      "extension": "+14.1%",
+      "volume": 5017468,
+      "score": 2,
+      "bonus_factors": [
+        "Stoch Hook Down"
+      ]
+    },
+    {
+      "symbol": "REG",
+      "price": 75.48,
+      "rsi": 74.93,
+      "stoch_k": 86.83,
+      "extension": "+8.1%",
+      "volume": 1729769,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "PPG",
+      "price": 124.42,
+      "rsi": 74.26,
+      "stoch_k": 91.25,
+      "extension": "+16.8%",
+      "volume": 2469001,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "RCL",
+      "price": 326.09,
+      "rsi": 68.09,
+      "stoch_k": 71.83,
+      "extension": "+14.0%",
+      "volume": 1954105,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
