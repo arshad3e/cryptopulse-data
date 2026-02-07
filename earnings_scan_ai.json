@@ -1,112 +1,16 @@
 {
-  "lastUpdated": "2026-02-05T19:30:45.999248",
+  "lastUpdated": "2026-02-06T19:16:27.249615",
   "stocks": [
-    {
-      "ticker": "AMZN",
-      "company_name": "Amazon.com Inc",
-      "earnings_date": "2026-02-05",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "222.69",
-        "rationale": "RSI is not oversold and Q4 earnings have already been announced, closing the pre-earnings run-up window."
-      }
-    },
-    {
-      "ticker": "SONY",
-      "company_name": "Sony Group Corp",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 11.5,
-        "favorable_entry_price": "21.24",
-        "rationale": "Extremely oversold RSI combined with strong bullish news, including expanded buybacks and raised profit outlook, suggests a significant rebound."
-      }
-    },
     {
       "ticker": "RELX",
       "company_name": "Relx PLC ADR",
       "earnings_date": "2026-02-12",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 10.0,
-        "favorable_entry_price": "30.09",
-        "rationale": "Very oversold RSI and news indicating stabilization after a selloff, coupled with ongoing share buybacks, support a strong bounce."
-      }
-    },
-    {
-      "ticker": "TRI",
-      "company_name": "Thomson Reuters Corporation Common Shares",
-      "earnings_date": "2026-02-05",
-      "ai_decision": {
-        "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": 12.0,
-        "favorable_entry_price": "88.31",
-        "rationale": "Extremely oversold RSI, significant target upside, and positive sentiment around AI gains and analyst price target upgrades create strong run-up potential."
-      }
-    },
-    {
-      "ticker": "COIN",
-      "company_name": "Coinbase Global Inc",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 4,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "146.12",
-        "rationale": "Despite being oversold, the provided news is largely irrelevant to Coinbase (COIN), lacking a direct catalyst for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "HOOD",
-      "company_name": "Robinhood Markets Inc",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 5,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "72.68",
-        "rationale": "While oversold, the news flow is weak and lacks a strong, direct bullish catalyst to drive a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "TTWO",
-      "company_name": "Take-Two Interactive Software Inc",
-      "earnings_date": "2026-02-05",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 8.5,
-        "favorable_entry_price": "193.24",
-        "rationale": "Very oversold RSI and a significant analyst price target raise following Q3 bookings beat offer a strong rebound opportunity despite a reported loss."
-      }
-    },
-    {
-      "ticker": "SPOT",
-      "company_name": "Spotify Technology SA",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 4,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "412.66",
-        "rationale": "The stock is oversold due to recent negative sentiment and post-earnings slides, not an ideal setup for a pre-earnings run-up trade."
-      }
-    },
-    {
-      "ticker": "IQV",
-      "company_name": "IQVIA Holdings Inc",
-      "earnings_date": "2026-02-05",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 9.5,
-        "favorable_entry_price": "180.44",
-        "rationale": "Very oversold despite beating Q4 earnings estimates and issuing bullish guidance, indicating a potential technical rebound from an overdone sell-off."
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "29.37",
+        "rationale": "Extremely oversold RSI (12.292) with substantial upside to target and ongoing share buybacks suggest a strong bounce potential."
       }
     },
     {
@@ -114,59 +18,47 @@
       "company_name": "Verisk Analytics Inc",
       "earnings_date": "2026-02-18",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 5,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "184.68",
-        "rationale": "Mixed and unclear news, combined with broader sector jitters, weakens the case for a confident pre-earnings run-up despite oversold technicals."
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "179.10",
+        "rationale": "Heavily oversold RSI combined with bullish industry-specific news related to reduced catastrophe losses makes a pre-earnings bounce likely."
       }
     },
     {
-      "ticker": "FIS",
-      "company_name": "Fidelity National Information Services Inc",
+      "ticker": "SPGI",
+      "company_name": "S&P Global Inc",
       "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 4,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "50.83",
-        "rationale": "The provided news is about other companies and not directly relevant to FIS, leaving no clear catalyst for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "KKR",
-      "company_name": "KKR & Co LP",
-      "earnings_date": "2026-02-05",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 5,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "99.12",
-        "rationale": "Mixed sentiment on recent acquisitions and a negative outlook for a related entity create uncertainty, diminishing appeal for a clear run-up despite oversold RSI."
-      }
-    },
-    {
-      "ticker": "PANW",
-      "company_name": "Palo Alto Networks Inc",
-      "earnings_date": "2026-02-12",
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 7.5,
-        "favorable_entry_price": "154.77",
-        "rationale": "Oversold RSI and positive earnings beats from multiple cybersecurity peers suggest strong sector tailwinds could lift PANW."
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "439.205",
+        "rationale": "Oversold RSI with a decent target upside, supported by a somewhat bullish broader market outlook from BMO Capital Markets."
       }
     },
     {
-      "ticker": "OWL",
-      "company_name": "Blue Owl Capital Inc",
-      "earnings_date": "2026-02-05",
+      "ticker": "PODD",
+      "company_name": "Insulet Corporation",
+      "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 10.5,
-        "favorable_entry_price": "11.65",
-        "rationale": "Very oversold despite reporting bullish Q4 results and declaring a dividend, indicating an undervalued rebound opportunity."
+        "confidence_score": 9,
+        "runup_percentage": 8.0,
+        "favorable_entry_price": "243.15",
+        "rationale": "Deeply oversold RSI combined with multiple consistently bullish news items about new product launches suggests strong pre-earnings momentum."
+      }
+    },
+    {
+      "ticker": "MCO",
+      "company_name": "Moodys Corporation",
+      "earnings_date": "2026-02-18",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "452.49",
+        "rationale": "While oversold, the mixed and somewhat bearish general economic news regarding Moody's rating actions could temper any significant pre-earnings run-up."
       }
     },
     {
@@ -175,10 +67,118 @@
       "earnings_date": "2026-02-11",
       "ai_decision": {
         "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "112.05",
+        "rationale": "Despite mixed/neutral recent news, a deeply oversold RSI and significant target upside provide strong potential for a pre-earnings rebound."
+      }
+    },
+    {
+      "ticker": "SPOT",
+      "company_name": "Spotify Technology SA",
+      "earnings_date": "2026-02-10",
+      "ai_decision": {
+        "decision": "Good Idea",
         "confidence_score": 8,
-        "runup_percentage": 8.5,
-        "favorable_entry_price": "111.24",
-        "rationale": "Oversold RSI combined with consistent bullish news regarding AI commerce initiatives and rising GMV provides a strong narrative for a run-up."
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "422.405",
+        "rationale": "A deeply oversold RSI and substantial target upside, combined with potential new revenue streams from physical books and implied undervaluation, make a strong case for a rebound."
+      }
+    },
+    {
+      "ticker": "DASH",
+      "company_name": "DoorDash, Inc. Class A Common Stock",
+      "earnings_date": "2026-02-18",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.5,
+        "favorable_entry_price": "182.47",
+        "rationale": "While oversold with significant target upside, a somewhat bearish news item regarding a city settlement could dampen pre-earnings enthusiasm."
+      }
+    },
+    {
+      "ticker": "CSGP",
+      "company_name": "CoStar Group Inc",
+      "earnings_date": "2026-02-17",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 7,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "50.28",
+        "rationale": "Despite being oversold, recent negative news about below-expected net new sales and ongoing defense of a past investment present headwinds for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "BKNG",
+      "company_name": "Booking Holdings Inc",
+      "earnings_date": "2026-02-18",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "4457.17",
+        "rationale": "Significant recent dip, oversold RSI, and strong bullish 'buy the dip' sentiment suggest a high probability of a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "FIG",
+      "company_name": "Figma, Inc.",
+      "earnings_date": "2026-02-18",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 5,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "21.99",
+        "rationale": "While deeply oversold with massive target upside, the 'somewhat-bullish' categorization of CFO selling stock is questionable and the overall news flow lacks strong positive catalysts."
+      }
+    },
+    {
+      "ticker": "FIS",
+      "company_name": "Fidelity National Information Services Inc",
+      "earnings_date": "2026-02-10",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": "51.91",
+        "rationale": "Despite an oversold RSI and good target upside, predominantly neutral to somewhat bearish news regarding analyst recommendations and strategic uncertainty makes a pre-earnings run-up less probable."
+      }
+    },
+    {
+      "ticker": "HUM",
+      "company_name": "Humana Inc",
+      "earnings_date": "2026-02-11",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 7,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "193.90",
+        "rationale": "Despite an oversold RSI, the direct news regarding potential declining medical membership points to negative sentiment leading into earnings, making a pre-earnings run-up unlikely."
+      }
+    },
+    {
+      "ticker": "CYBR",
+      "company_name": "CyberArk Software Ltd",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.5,
+        "favorable_entry_price": "391.77",
+        "rationale": "While revenue topped forecasts, ongoing losses challenge the bullish narrative, making a significant pre-earnings run-up unlikely despite the oversold RSI."
+      }
+    },
+    {
+      "ticker": "COIN",
+      "company_name": "Coinbase Global Inc",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "165.12",
+        "rationale": "Oversold RSI and strong target upside, combined with a generally bullish sentiment in the broader crypto market, support a pre-earnings run-up for Coinbase."
       }
     }
   ]
