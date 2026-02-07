@@ -1,80 +1,113 @@
 {
-  "scan_timestamp": "2026-02-06 15:34:08",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-07 00:04:21",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "BALL",
-      "price": 66.19,
-      "rsi": 86.06,
-      "stoch_k": 92.79,
-      "extension": "+23.7%",
-      "volume": 3976290,
-      "score": 3,
+      "symbol": "ODFL",
+      "price": 202.47,
+      "rsi": 71.14,
+      "stoch_k": 89.31,
+      "extension": "+22.7%",
+      "volume": 2895460,
+      "score": 4,
       "bonus_factors": [
-        "Extreme RSI (86)",
+        "Stoch Hook Down",
         "Parabolic (+20% vs SMA)"
       ]
     },
     {
-      "symbol": "DE",
-      "price": 565.73,
-      "rsi": 75.15,
-      "stoch_k": 93.08,
-      "extension": "+14.9%",
-      "volume": 1913079,
+      "symbol": "RF",
+      "price": 30.93,
+      "rsi": 77.24,
+      "stoch_k": 91.09,
+      "extension": "+11.6%",
+      "volume": 10974827,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (75)"
+        "Extreme RSI (77)"
       ]
     },
     {
-      "symbol": "BKR",
-      "price": 57.36,
-      "rsi": 70.74,
-      "stoch_k": 88.79,
-      "extension": "+14.6%",
-      "volume": 13430131,
+      "symbol": "KMI",
+      "price": 30.5,
+      "rsi": 77.1,
+      "stoch_k": 91.21,
+      "extension": "+10.4%",
+      "volume": 11757912,
       "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down"
+        "Extreme RSI (77)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "TSN",
-      "price": 65.2,
-      "rsi": 70.61,
-      "stoch_k": 82.32,
-      "extension": "+9.5%",
-      "volume": 1945668,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "PEP",
-      "price": 167.53,
-      "rsi": 86.72,
-      "stoch_k": 96.04,
-      "extension": "+13.9%",
-      "volume": 11038833,
+      "symbol": "MTB",
+      "price": 238.01,
+      "rsi": 83.2,
+      "stoch_k": 93.51,
+      "extension": "+14.1%",
+      "volume": 1248492,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (86)"
+        "Extreme RSI (83)"
       ]
     },
     {
-      "symbol": "CTRA",
-      "price": 30.31,
-      "rsi": 82.16,
-      "stoch_k": 95.6,
-      "extension": "+14.0%",
-      "volume": 10493230,
+      "symbol": "VTRS",
+      "price": 14.58,
+      "rsi": 81.85,
+      "stoch_k": 94.72,
+      "extension": "+18.4%",
+      "volume": 8458539,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (82)"
+        "Extreme RSI (81)"
       ]
+    },
+    {
+      "symbol": "CHTR",
+      "price": 231.14,
+      "rsi": 76.04,
+      "stoch_k": 94.84,
+      "extension": "+13.3%",
+      "volume": 3342504,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "FITB",
+      "price": 55.08,
+      "rsi": 71.83,
+      "stoch_k": 85.39,
+      "extension": "+14.1%",
+      "volume": 16248340,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "UPS",
+      "price": 117.34,
+      "rsi": 72.47,
+      "stoch_k": 97.66,
+      "extension": "+13.6%",
+      "volume": 6721497,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "GEV",
+      "price": 779.35,
+      "rsi": 70.6,
+      "stoch_k": 73.03,
+      "extension": "+17.2%",
+      "volume": 3161819,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
