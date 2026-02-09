@@ -1,20 +1,7 @@
 {
-  "scan_timestamp": "2026-02-09 00:04:53",
-  "matches_found": 10,
+  "scan_timestamp": "2026-02-09 09:35:07",
+  "matches_found": 9,
   "data": [
-    {
-      "symbol": "ODFL",
-      "price": 202.47,
-      "rsi": 71.14,
-      "stoch_k": 89.31,
-      "extension": "+22.7%",
-      "volume": 2906477,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
     {
       "symbol": "PSX",
       "price": 157.8,
@@ -26,19 +13,6 @@
       "bonus_factors": [
         "Stoch Hook Down",
         "Extreme RSI (85)"
-      ]
-    },
-    {
-      "symbol": "CHD",
-      "price": 100.53,
-      "rsi": 84.02,
-      "stoch_k": 89.69,
-      "extension": "+14.4%",
-      "volume": 1946599,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (84)"
       ]
     },
     {
@@ -55,28 +29,41 @@
       ]
     },
     {
-      "symbol": "KMI",
-      "price": 30.5,
-      "rsi": 77.1,
-      "stoch_k": 91.21,
-      "extension": "+10.4%",
-      "volume": 11765947,
-      "score": 2,
+      "symbol": "CVX",
+      "price": 180.86,
+      "rsi": 77.65,
+      "stoch_k": 87.68,
+      "extension": "+13.8%",
+      "volume": 9901816,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (77)",
-        "Bearish RSI Divergence"
+        "Stoch Hook Down",
+        "Extreme RSI (77)"
       ]
     },
     {
-      "symbol": "VTRS",
-      "price": 14.58,
-      "rsi": 81.85,
-      "stoch_k": 94.72,
-      "extension": "+18.4%",
-      "volume": 8459267,
-      "score": 1,
+      "symbol": "RF",
+      "price": 30.93,
+      "rsi": 77.24,
+      "stoch_k": 91.09,
+      "extension": "+11.6%",
+      "volume": 10975847,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (81)"
+        "Stoch Hook Down",
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "TPR",
+      "price": 152.1,
+      "rsi": 72.86,
+      "stoch_k": 77.99,
+      "extension": "+20.6%",
+      "volume": 3250375,
+      "score": 2,
+      "bonus_factors": [
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -104,14 +91,16 @@
       ]
     },
     {
-      "symbol": "CCL",
-      "price": 33.99,
-      "rsi": 72.18,
-      "stoch_k": 82.72,
-      "extension": "+15.9%",
-      "volume": 27375421,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "FITB",
+      "price": 55.08,
+      "rsi": 71.83,
+      "stoch_k": 85.39,
+      "extension": "+14.1%",
+      "volume": 16323670,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     },
     {
       "symbol": "GEV",
