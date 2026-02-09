@@ -1,31 +1,30 @@
 {
-  "scan_timestamp": "2026-02-09 14:40:35",
-  "matches_found": 6,
+  "scan_timestamp": "2026-02-09 15:40:48",
+  "matches_found": 4,
   "data": [
     {
-      "symbol": "PSX",
-      "price": 157.8,
-      "rsi": 85.41,
-      "stoch_k": 93.02,
-      "extension": "+13.8%",
-      "volume": 2414620,
-      "score": 3,
+      "symbol": "CME",
+      "price": 302.27,
+      "rsi": 93.81,
+      "stoch_k": 91.46,
+      "extension": "+9.2%",
+      "volume": 2927444,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (85)"
+        "Extreme RSI (93)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "KMI",
-      "price": 30.5,
-      "rsi": 77.1,
-      "stoch_k": 91.21,
-      "extension": "+10.4%",
-      "volume": 11765947,
-      "score": 2,
+      "symbol": "JNJ",
+      "price": 239.99,
+      "rsi": 95.25,
+      "stoch_k": 95.12,
+      "extension": "+12.5%",
+      "volume": 8274034,
+      "score": 1,
       "bonus_factors": [
-        "Extreme RSI (77)",
-        "Bearish RSI Divergence"
+        "Extreme RSI (95)"
       ]
     },
     {
@@ -41,36 +40,12 @@
       ]
     },
     {
-      "symbol": "VTRS",
-      "price": 14.58,
-      "rsi": 81.85,
-      "stoch_k": 94.72,
-      "extension": "+18.4%",
-      "volume": 8459267,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (81)"
-      ]
-    },
-    {
-      "symbol": "HON",
-      "price": 238.38,
-      "rsi": 72.38,
-      "stoch_k": 93.97,
-      "extension": "+15.7%",
-      "volume": 3976516,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 779.35,
-      "rsi": 70.6,
-      "stoch_k": 73.03,
-      "extension": "+17.2%",
-      "volume": 3283908,
+      "symbol": "WMB",
+      "price": 66.92,
+      "rsi": 69.58,
+      "stoch_k": 75.66,
+      "extension": "+8.4%",
+      "volume": 13880658,
       "score": 0,
       "bonus_factors": []
     }
