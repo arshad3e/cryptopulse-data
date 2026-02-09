@@ -1,100 +1,128 @@
 {
-  "scan_timestamp": "2026-02-09 12:40:08",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-09 13:40:23",
+  "matches_found": 10,
   "data": [
     {
-      "symbol": "LUV",
-      "price": 54.26,
-      "rsi": 79.5,
-      "stoch_k": 97.23,
-      "extension": "+29.4%",
-      "volume": 14795364,
-      "score": 5,
+      "symbol": "TER",
+      "price": 300.11,
+      "rsi": 76.6,
+      "stoch_k": 76.95,
+      "extension": "+39.1%",
+      "volume": 5021074,
+      "score": 4,
       "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (79)",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (76)",
+        "Parabolic (+20% vs SMA)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "BALL",
-      "price": 66.47,
-      "rsi": 86.15,
-      "stoch_k": 95.66,
-      "extension": "+23.4%",
-      "volume": 3374976,
+      "symbol": "CHD",
+      "price": 100.53,
+      "rsi": 84.02,
+      "stoch_k": 89.69,
+      "extension": "+14.4%",
+      "volume": 1946599,
       "score": 3,
       "bonus_factors": [
-        "Extreme RSI (86)",
-        "Parabolic (+20% vs SMA)"
+        "Stoch Hook Down",
+        "Extreme RSI (84)"
       ]
     },
     {
-      "symbol": "GILD",
-      "price": 152.5,
-      "rsi": 93.15,
-      "stoch_k": 97.35,
-      "extension": "+19.8%",
-      "volume": 8510037,
+      "symbol": "CL",
+      "price": 94.41,
+      "rsi": 82.19,
+      "stoch_k": 92.52,
+      "extension": "+15.6%",
+      "volume": 5789651,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (82)"
+      ]
+    },
+    {
+      "symbol": "CHRW",
+      "price": 200.59,
+      "rsi": 84.34,
+      "stoch_k": 86.9,
+      "extension": "+17.9%",
+      "volume": 2531781,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (93)",
+        "Extreme RSI (84)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PEP",
-      "price": 170.49,
-      "rsi": 88.67,
-      "stoch_k": 96.69,
-      "extension": "+15.5%",
-      "volume": 10960439,
-      "score": 1,
+      "symbol": "XOM",
+      "price": 149.05,
+      "rsi": 83.68,
+      "stoch_k": 95.59,
+      "extension": "+19.0%",
+      "volume": 17216025,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (88)"
+        "Extreme RSI (83)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "PFG",
-      "price": 97.34,
-      "rsi": 78.43,
-      "stoch_k": 88.5,
-      "extension": "+8.1%",
-      "volume": 1530645,
+      "symbol": "SJM",
+      "price": 109.51,
+      "rsi": 77.39,
+      "stoch_k": 90.63,
+      "extension": "+8.0%",
+      "volume": 1272171,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (78)"
+        "Extreme RSI (77)"
       ]
     },
     {
-      "symbol": "AOS",
-      "price": 78.98,
-      "rsi": 68.66,
-      "stoch_k": 94.61,
-      "extension": "+13.6%",
-      "volume": 1103290,
+      "symbol": "KEY",
+      "price": 23.21,
+      "rsi": 76.15,
+      "stoch_k": 93.43,
+      "extension": "+11.7%",
+      "volume": 15101448,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (76)"
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "price": 81.84,
+      "rsi": 73.37,
+      "stoch_k": 91.62,
+      "extension": "+11.0%",
+      "volume": 3846145,
       "score": 1,
       "bonus_factors": [
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "TSN",
-      "price": 65.26,
-      "rsi": 73.03,
-      "stoch_k": 83.76,
-      "extension": "+9.3%",
-      "volume": 2766547,
-      "score": 0,
-      "bonus_factors": []
+      "symbol": "NUE",
+      "price": 192.84,
+      "rsi": 69.77,
+      "stoch_k": 92.3,
+      "extension": "+14.3%",
+      "volume": 1671020,
+      "score": 1,
+      "bonus_factors": [
+        "Bearish RSI Divergence"
+      ]
     },
     {
-      "symbol": "UNP",
-      "price": 252.62,
-      "rsi": 72.3,
-      "stoch_k": 96.63,
-      "extension": "+8.2%",
-      "volume": 4344998,
+      "symbol": "BG",
+      "price": 115.86,
+      "rsi": 71.0,
+      "stoch_k": 62.21,
+      "extension": "+15.7%",
+      "volume": 1671986,
       "score": 0,
       "bonus_factors": []
     }
