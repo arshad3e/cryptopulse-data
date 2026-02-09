@@ -1,28 +1,16 @@
 {
-  "lastUpdated": "2026-02-07T19:15:57.172199",
+  "lastUpdated": "2026-02-08T19:15:16.695786",
   "stocks": [
-    {
-      "ticker": "RELX",
-      "company_name": "Relx PLC ADR",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 5.0,
-        "favorable_entry_price": "29.38",
-        "rationale": "Extremely oversold RSI, significant target upside, and positive buyback news provide a strong setup for a pre-earnings bounce."
-      }
-    },
     {
       "ticker": "VRSK",
       "company_name": "Verisk Analytics Inc",
       "earnings_date": "2026-02-18",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "179.10",
-        "rationale": "Despite being oversold, a recent significant drop attributed to storm loss estimates makes a pre-earnings run-up highly risky."
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 7.5,
+        "favorable_entry_price": 179.1,
+        "rationale": "Extremely oversold RSI (16.02) and significant target upside (38.7%) present a strong opportunity for a short-term pre-earnings bounce, with mild positive news."
       }
     },
     {
@@ -30,11 +18,11 @@
       "company_name": "S&P Global Inc",
       "earnings_date": "2026-02-10",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "439.28",
-        "rationale": "While oversold with significant target upside, a lack of direct positive catalysts and reported institutional selling make a pre-earnings run-up less likely."
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 6.5,
+        "favorable_entry_price": 439.28,
+        "rationale": "Very low RSI (19.54) and substantial target upside (41.7%) are coupled with generally positive institutional and strategic partnership news for a solid pre-earnings setup."
       }
     },
     {
@@ -43,10 +31,10 @@
       "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 6.0,
-        "favorable_entry_price": "241.93",
-        "rationale": "Highly oversold RSI combined with significant product expansion news creates a strong setup for a pre-earnings run-up."
+        "confidence_score": 10,
+        "runup_percentage": 10.0,
+        "favorable_entry_price": 241.93,
+        "rationale": "Critically oversold RSI (20.57) combined with massive target upside (52.7%) and a strong bullish catalyst from a major product launch make this a high-conviction pre-earnings play."
       }
     },
     {
@@ -54,11 +42,11 @@
       "company_name": "Moodys Corporation",
       "earnings_date": "2026-02-18",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 1.5,
-        "favorable_entry_price": "452.49",
-        "rationale": "Despite being oversold with good target upside, mixed news and a lack of strong positive catalysts for earnings make a significant run-up less probable."
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": 452.49,
+        "rationale": "Oversold RSI (21.89) and decent target upside (27.2%) are supported by institutional investment, suggesting a modest pre-earnings run-up despite some mixed sentiment."
       }
     },
     {
@@ -66,11 +54,11 @@
       "company_name": "Shopify Inc",
       "earnings_date": "2026-02-11",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "112.05",
-        "rationale": "While significantly oversold with high target upside, the news lacks specific positive catalysts for an earnings-driven run-up."
+        "decision": "Good Idea",
+        "confidence_score": 6,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": 112.05,
+        "rationale": "While oversold (RSI 22.63) with significant target upside (60.7%), the news is more strategic and cautious on AI rather than providing immediate strong catalysts for a sharp pre-earnings run-up."
       }
     },
     {
@@ -78,11 +66,11 @@
       "company_name": "Spotify Technology SA",
       "earnings_date": "2026-02-10",
       "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 1.5,
-        "favorable_entry_price": "422.61",
-        "rationale": "Despite being oversold with massive target upside, the news is not providing a strong, specific catalyst for a pre-earnings run-up."
+        "runup_percentage": 6.5,
+        "favorable_entry_price": 422.61,
+        "rationale": "Deeply oversold (RSI 22.46) with massive target upside (72.7%) offers strong bounce potential, though recent bearish sentiment on highly valued stocks adds a layer of caution."
       }
     },
     {
@@ -91,10 +79,10 @@
       "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "182.47",
-        "rationale": "While oversold, repeated negative news regarding a city settlement presents a significant headwind for a pre-earnings run-up."
+        "confidence_score": 4,
+        "runup_percentage": 1.5,
+        "favorable_entry_price": 182.47,
+        "rationale": "Despite being oversold (RSI 23.32) with good target upside, recent direct negative news regarding a city settlement could significantly dampen pre-earnings enthusiasm."
       }
     },
     {
@@ -102,11 +90,11 @@
       "company_name": "Booking Holdings Inc",
       "earnings_date": "2026-02-18",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "4457.17",
-        "rationale": "Despite being oversold with good target upside, mixed news dominated by 'AI fears' and split analyst opinions reduce the likelihood of a strong pre-earnings run-up."
+        "decision": "Good Idea",
+        "confidence_score": 6,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": 4457.17,
+        "rationale": "Oversold RSI (25.19) and decent target upside (38.8%) offer an opportunity, but mixed sentiment due to AI worries might temper the magnitude of the pre-earnings run-up."
       }
     },
     {
@@ -115,10 +103,10 @@
       "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "21.99",
-        "rationale": "Despite being highly oversold with massive target upside, significant insider selling is a major negative signal for a pre-earnings run-up."
+        "confidence_score": 3,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": 21.99,
+        "rationale": "Although deeply oversold (RSI 24.82) with an extremely high target, the news of CFO stock selling creates uncertainty and is a potential red flag that could deter pre-earnings upward movement."
       }
     },
     {
@@ -126,11 +114,11 @@
       "company_name": "Fidelity National Information Services Inc",
       "earnings_date": "2026-02-10",
       "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "51.93",
-        "rationale": "While oversold with good target upside, a lack of specific positive catalysts and neutral analyst sentiment makes a pre-earnings run-up unlikely."
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": 51.93,
+        "rationale": "Oversold RSI (25.19) and substantial target upside (51.5%) provide a favorable technical setup for a pre-earnings bounce, with strategic shifts offering a positive narrative."
       }
     },
     {
@@ -139,10 +127,10 @@
       "earnings_date": "2026-02-11",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "193.94",
-        "rationale": "Despite being oversold with good target upside, a direct earnings concern regarding declining medical membership creates a strong headwind for a pre-earnings run-up."
+        "confidence_score": 3,
+        "runup_percentage": 1.0,
+        "favorable_entry_price": 193.94,
+        "rationale": "While oversold (RSI 25.61), recent direct news highlights concerns about declining medical membership potentially impacting Q4 earnings, making a pre-earnings run-up highly unlikely."
       }
     },
     {
@@ -152,9 +140,9 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 8,
-        "runup_percentage": 4.5,
-        "favorable_entry_price": "348.35",
-        "rationale": "Highly oversold RSI, massive target upside, and positive analyst sentiment regarding expected earnings growth make a pre-earnings run-up plausible."
+        "runup_percentage": 7.0,
+        "favorable_entry_price": 348.35,
+        "rationale": "Deeply oversold (RSI 26.18) with massive target upside (75.0%) and positive institutional investment, along with analyst sentiment, positions it well for a pre-earnings run-up."
       }
     },
     {
@@ -164,9 +152,9 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 3.0,
-        "favorable_entry_price": "159.32",
-        "rationale": "Low RSI, significant target upside, and strategic news before earnings in a strong sector could fuel a pre-earnings run-up."
+        "runup_percentage": 5.5,
+        "favorable_entry_price": 159.32,
+        "rationale": "Oversold RSI (28.11) and good target upside (42.2%) are complemented by news of a strategic overhaul leading to a 'snap back,' creating positive momentum for a pre-earnings bounce."
       }
     },
     {
@@ -174,11 +162,23 @@
       "company_name": "Coinbase Global Inc",
       "earnings_date": "2026-02-12",
       "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "165.12",
-        "rationale": "While possessing a low RSI and significant target upside, the lack of relevant news or specific positive earnings catalysts makes a pre-earnings run-up speculative."
+        "runup_percentage": 6.5,
+        "favorable_entry_price": 165.12,
+        "rationale": "Oversold RSI (28.36) and substantial target upside (100.7%) are attractive, but the lack of direct company-specific news means the pre-earnings run-up is heavily influenced by broader crypto market sentiment."
+      }
+    },
+    {
+      "ticker": "TOST",
+      "company_name": "Toast Inc",
+      "earnings_date": "2026-02-12",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 5,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": 27.73,
+        "rationale": "Oversold RSI (28.52) and significant target upside (67.2%) offer potential, but recent bearish sentiment stemming from competitor earnings may limit the pre-earnings run-up despite its own recurring revenue strengths."
       }
     }
   ]
