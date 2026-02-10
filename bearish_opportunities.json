@@ -1,18 +1,44 @@
 {
-  "scan_timestamp": "2026-02-10 13:32:16",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-10 14:32:35",
+  "matches_found": 11,
   "data": [
     {
-      "symbol": "JNJ",
-      "price": 238.64,
-      "rsi": 91.74,
-      "stoch_k": 94.4,
-      "extension": "+11.6%",
-      "volume": 9378548,
+      "symbol": "DOW",
+      "price": 32.08,
+      "rsi": 73.71,
+      "stoch_k": 80.61,
+      "extension": "+24.6%",
+      "volume": 10275426,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "price": 151.68,
+      "rsi": 93.0,
+      "stoch_k": 96.41,
+      "extension": "+18.7%",
+      "volume": 7431212,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (91)"
+        "Extreme RSI (93)"
+      ]
+    },
+    {
+      "symbol": "VTRS",
+      "price": 15.56,
+      "rsi": 91.67,
+      "stoch_k": 96.56,
+      "extension": "+25.3%",
+      "volume": 19836988,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (91)",
+        "Parabolic (+20% vs SMA)"
       ]
     },
     {
@@ -29,16 +55,29 @@
       ]
     },
     {
-      "symbol": "AOS",
-      "price": 79.08,
-      "rsi": 76.78,
-      "stoch_k": 94.16,
-      "extension": "+13.3%",
-      "volume": 1125137,
+      "symbol": "TFC",
+      "price": 54.78,
+      "rsi": 77.33,
+      "stoch_k": 90.28,
+      "extension": "+9.2%",
+      "volume": 11304965,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (76)"
+        "Extreme RSI (77)"
+      ]
+    },
+    {
+      "symbol": "CMCSA",
+      "price": 31.61,
+      "rsi": 79.69,
+      "stoch_k": 96.34,
+      "extension": "+17.4%",
+      "volume": 24316867,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (79)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -55,52 +94,51 @@
       ]
     },
     {
-      "symbol": "CHD",
-      "price": 98.42,
-      "rsi": 70.69,
-      "stoch_k": 80.3,
-      "extension": "+11.6%",
-      "volume": 2061405,
+      "symbol": "BKR",
+      "price": 59.55,
+      "rsi": 78.84,
+      "stoch_k": 88.3,
+      "extension": "+18.1%",
+      "volume": 8813333,
+      "score": 2,
+      "bonus_factors": [
+        "Extreme RSI (78)",
+        "Bearish RSI Divergence"
+      ]
+    },
+    {
+      "symbol": "KR",
+      "price": 70.1,
+      "rsi": 73.56,
+      "stoch_k": 85.78,
+      "extension": "+10.7%",
+      "volume": 16070149,
       "score": 2,
       "bonus_factors": [
         "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "CHTR",
-      "price": 238.25,
-      "rsi": 83.36,
-      "stoch_k": 96.85,
-      "extension": "+16.3%",
-      "volume": 2145589,
+      "symbol": "AES",
+      "price": 16.06,
+      "rsi": 75.12,
+      "stoch_k": 87.3,
+      "extension": "+13.1%",
+      "volume": 7516206,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (83)"
+        "Extreme RSI (75)"
       ]
     },
     {
-      "symbol": "RF",
-      "price": 30.76,
-      "rsi": 76.84,
-      "stoch_k": 91.32,
-      "extension": "+10.6%",
-      "volume": 8744973,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (76)"
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "price": 801.54,
-      "rsi": 72.76,
-      "stoch_k": 80.94,
-      "extension": "+19.7%",
-      "volume": 3105772,
-      "score": 1,
-      "bonus_factors": [
-        "Bearish RSI Divergence"
-      ]
+      "symbol": "TSN",
+      "price": 65.4,
+      "rsi": 71.27,
+      "stoch_k": 84.48,
+      "extension": "+9.2%",
+      "volume": 2358154,
+      "score": 0,
+      "bonus_factors": []
     }
   ]
 }
