@@ -1,31 +1,18 @@
 {
-  "scan_timestamp": "2026-02-10 09:31:16",
-  "matches_found": 8,
+  "scan_timestamp": "2026-02-10 10:31:28",
+  "matches_found": 9,
   "data": [
     {
-      "symbol": "VTRS",
-      "price": 15.56,
-      "rsi": 91.67,
-      "stoch_k": 96.56,
-      "extension": "+25.3%",
-      "volume": 19836988,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (91)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "VZ",
-      "price": 47.02,
-      "rsi": 89.23,
-      "stoch_k": 91.33,
-      "extension": "+15.7%",
-      "volume": 26954792,
+      "symbol": "PSX",
+      "price": 157.5,
+      "rsi": 84.39,
+      "stoch_k": 92.5,
+      "extension": "+13.2%",
+      "volume": 2118541,
       "score": 3,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (89)"
+        "Extreme RSI (84)"
       ]
     },
     {
@@ -42,6 +29,19 @@
       ]
     },
     {
+      "symbol": "TPR",
+      "price": 154.65,
+      "rsi": 76.64,
+      "stoch_k": 94.66,
+      "extension": "+21.7%",
+      "volume": 2904317,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (76)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
       "symbol": "KMI",
       "price": 30.99,
       "rsi": 79.08,
@@ -55,36 +55,48 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "price": 204.26,
-      "rsi": 85.88,
-      "stoch_k": 94.54,
-      "extension": "+13.9%",
-      "volume": 2004808,
-      "score": 1,
+      "symbol": "PNC",
+      "price": 240.95,
+      "rsi": 73.69,
+      "stoch_k": 91.69,
+      "extension": "+12.9%",
+      "volume": 2272881,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (85)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "RF",
-      "price": 30.76,
-      "rsi": 76.84,
-      "stoch_k": 91.32,
-      "extension": "+10.6%",
-      "volume": 8744973,
-      "score": 1,
+      "symbol": "OXY",
+      "price": 46.66,
+      "rsi": 68.51,
+      "stoch_k": 80.88,
+      "extension": "+9.9%",
+      "volume": 6827824,
+      "score": 2,
       "bonus_factors": [
-        "Extreme RSI (76)"
+        "Stoch Hook Down"
       ]
     },
     {
-      "symbol": "UPS",
-      "price": 117.92,
-      "rsi": 74.3,
-      "stoch_k": 97.94,
-      "extension": "+13.6%",
-      "volume": 5220958,
+      "symbol": "CME",
+      "price": 307.24,
+      "rsi": 94.73,
+      "stoch_k": 93.57,
+      "extension": "+10.7%",
+      "volume": 2350616,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (94)"
+      ]
+    },
+    {
+      "symbol": "RMD",
+      "price": 275.96,
+      "rsi": 72.5,
+      "stoch_k": 96.79,
+      "extension": "+9.2%",
+      "volume": 1479277,
       "score": 0,
       "bonus_factors": []
     },
