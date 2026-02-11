@@ -1,102 +1,111 @@
 {
-  "scan_timestamp": "2026-02-11 12:34:19",
-  "matches_found": 9,
+  "scan_timestamp": "2026-02-11 13:34:31",
+  "matches_found": 10,
   "data": [
     {
-      "symbol": "DD",
-      "price": 49.43,
-      "rsi": 75.7,
-      "stoch_k": 86.52,
-      "extension": "+16.1%",
-      "volume": 8179949,
-      "score": 2,
+      "symbol": "FDX",
+      "price": 367.95,
+      "rsi": 87.44,
+      "stoch_k": 94.94,
+      "extension": "+21.0%",
+      "volume": 1478802,
+      "score": 5,
       "bonus_factors": [
-        "Extreme RSI (75)",
+        "Stoch Hook Down",
+        "Extreme RSI (87)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    },
+    {
+      "symbol": "BAX",
+      "price": 21.94,
+      "rsi": 80.05,
+      "stoch_k": 90.9,
+      "extension": "+11.6%",
+      "volume": 8142875,
+      "score": 4,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "CHRW",
-      "price": 196.61,
-      "rsi": 74.5,
-      "stoch_k": 85.4,
-      "extension": "+14.4%",
-      "volume": 1733540,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "MDLZ",
-      "price": 60.65,
-      "rsi": 71.71,
-      "stoch_k": 86.86,
-      "extension": "+8.5%",
-      "volume": 12195996,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    },
-    {
-      "symbol": "DLR",
-      "price": 172.53,
-      "rsi": 77.76,
-      "stoch_k": 89.21,
-      "extension": "+8.5%",
-      "volume": 2153071,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (77)"
-      ]
-    },
-    {
-      "symbol": "EIX",
-      "price": 65.46,
+      "symbol": "KMI",
+      "price": 31.01,
       "rsi": 76.64,
-      "stoch_k": 87.83,
-      "extension": "+9.4%",
-      "volume": 2450014,
-      "score": 1,
+      "stoch_k": 90.68,
+      "extension": "+11.5%",
+      "volume": 12322445,
+      "score": 4,
       "bonus_factors": [
-        "Extreme RSI (76)"
+        "Stoch Hook Down",
+        "Extreme RSI (76)",
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "DGX",
-      "price": 205.35,
-      "rsi": 76.55,
-      "stoch_k": 85.33,
-      "extension": "+13.0%",
-      "volume": 2307873,
-      "score": 1,
+      "symbol": "JNJ",
+      "price": 238.35,
+      "rsi": 91.41,
+      "stoch_k": 92.72,
+      "extension": "+11.1%",
+      "volume": 6723253,
+      "score": 3,
       "bonus_factors": [
-        "Extreme RSI (76)"
+        "Stoch Hook Down",
+        "Extreme RSI (91)"
       ]
     },
     {
-      "symbol": "OKE",
-      "price": 83.46,
-      "rsi": 74.59,
-      "stoch_k": 96.02,
+      "symbol": "PEP",
+      "price": 166.97,
+      "rsi": 80.19,
+      "stoch_k": 89.98,
       "extension": "+12.4%",
-      "volume": 3225020,
-      "score": 1,
+      "volume": 10352922,
+      "score": 3,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
       ]
     },
     {
-      "symbol": "SWK",
-      "price": 91.76,
-      "rsi": 72.39,
-      "stoch_k": 91.34,
-      "extension": "+17.1%",
-      "volume": 1755198,
+      "symbol": "PG",
+      "price": 159.08,
+      "rsi": 80.08,
+      "stoch_k": 89.7,
+      "extension": "+9.2%",
+      "volume": 9910099,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (80)"
+      ]
+    },
+    {
+      "symbol": "CTRA",
+      "price": 30.56,
+      "rsi": 78.82,
+      "stoch_k": 91.92,
+      "extension": "+13.8%",
+      "volume": 4192756,
+      "score": 3,
+      "bonus_factors": [
+        "Stoch Hook Down",
+        "Extreme RSI (78)"
+      ]
+    },
+    {
+      "symbol": "USB",
+      "price": 60.55,
+      "rsi": 75.87,
+      "stoch_k": 93.4,
+      "extension": "+11.1%",
+      "volume": 8501764,
       "score": 1,
       "bonus_factors": [
-        "Bearish RSI Divergence"
+        "Extreme RSI (75)"
       ]
     },
     {
@@ -106,6 +115,16 @@
       "stoch_k": 89.07,
       "extension": "+17.4%",
       "volume": 2458281,
+      "score": 0,
+      "bonus_factors": []
+    },
+    {
+      "symbol": "PLD",
+      "price": 140.48,
+      "rsi": 68.97,
+      "stoch_k": 96.89,
+      "extension": "+8.4%",
+      "volume": 2831245,
       "score": 0,
       "bonus_factors": []
     }
