@@ -1,19 +1,19 @@
 {
-  "scan_timestamp": "2026-02-11 14:34:44",
-  "matches_found": 10,
+  "scan_timestamp": "2026-02-11 15:34:57",
+  "matches_found": 7,
   "data": [
     {
-      "symbol": "LUV",
-      "price": 54.07,
-      "rsi": 79.1,
-      "stoch_k": 94.28,
-      "extension": "+26.6%",
-      "volume": 8464876,
-      "score": 5,
+      "symbol": "BAX",
+      "price": 21.94,
+      "rsi": 80.05,
+      "stoch_k": 90.9,
+      "extension": "+11.6%",
+      "volume": 8142875,
+      "score": 4,
       "bonus_factors": [
         "Stoch Hook Down",
-        "Extreme RSI (79)",
-        "Parabolic (+20% vs SMA)"
+        "Extreme RSI (80)",
+        "Bearish RSI Divergence"
       ]
     },
     {
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "symbol": "PEP",
-      "price": 166.97,
-      "rsi": 80.19,
-      "stoch_k": 89.98,
-      "extension": "+12.4%",
-      "volume": 10352922,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)"
-      ]
-    },
-    {
       "symbol": "PG",
       "price": 159.08,
       "rsi": 80.08,
@@ -57,75 +44,50 @@
       ]
     },
     {
-      "symbol": "GILD",
-      "price": 147.23,
-      "rsi": 78.76,
-      "stoch_k": 89.58,
-      "extension": "+14.8%",
-      "volume": 10774639,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (78)"
-      ]
-    },
-    {
-      "symbol": "CMCSA",
-      "price": 32.31,
-      "rsi": 79.58,
-      "stoch_k": 98.43,
-      "extension": "+19.2%",
-      "volume": 32111381,
+      "symbol": "UNP",
+      "price": 261.32,
+      "rsi": 85.44,
+      "stoch_k": 98.47,
+      "extension": "+11.3%",
+      "volume": 4828071,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (79)",
+        "Extreme RSI (85)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "AOS",
-      "price": 80.47,
-      "rsi": 76.38,
-      "stoch_k": 96.43,
-      "extension": "+14.8%",
-      "volume": 1348645,
+      "symbol": "HON",
+      "price": 243.34,
+      "rsi": 81.01,
+      "stoch_k": 95.93,
+      "extension": "+17.0%",
+      "volume": 3888757,
       "score": 2,
       "bonus_factors": [
-        "Extreme RSI (76)",
+        "Extreme RSI (81)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "DLR",
-      "price": 172.53,
-      "rsi": 77.76,
-      "stoch_k": 89.21,
-      "extension": "+8.5%",
-      "volume": 2153071,
+      "symbol": "BEN",
+      "price": 28.16,
+      "rsi": 73.64,
+      "stoch_k": 88.32,
+      "extension": "+13.9%",
+      "volume": 5822051,
       "score": 1,
       "bonus_factors": [
-        "Extreme RSI (77)"
+        "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "USB",
-      "price": 60.55,
-      "rsi": 75.87,
-      "stoch_k": 93.4,
-      "extension": "+11.1%",
-      "volume": 8501764,
-      "score": 1,
-      "bonus_factors": [
-        "Extreme RSI (75)"
-      ]
-    },
-    {
-      "symbol": "PLD",
-      "price": 140.48,
-      "rsi": 68.97,
-      "stoch_k": 96.89,
-      "extension": "+8.4%",
-      "volume": 2831245,
+      "symbol": "GEV",
+      "price": 790.79,
+      "rsi": 74.57,
+      "stoch_k": 89.07,
+      "extension": "+17.4%",
+      "volume": 2458281,
       "score": 0,
       "bonus_factors": []
     }
