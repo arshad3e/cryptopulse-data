@@ -1,6 +1,6 @@
 {
-  "scan_timestamp": "2026-02-11 09:33:41",
-  "matches_found": 12,
+  "scan_timestamp": "2026-02-11 10:33:54",
+  "matches_found": 8,
   "data": [
     {
       "symbol": "KMI",
@@ -17,19 +17,6 @@
       ]
     },
     {
-      "symbol": "VTRS",
-      "price": 15.95,
-      "rsi": 91.67,
-      "stoch_k": 98.3,
-      "extension": "+27.4%",
-      "volume": 17429836,
-      "score": 3,
-      "bonus_factors": [
-        "Extreme RSI (91)",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
       "symbol": "HAS",
       "price": 104.0,
       "rsi": 83.49,
@@ -40,19 +27,6 @@
       "bonus_factors": [
         "Extreme RSI (83)",
         "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "PSX",
-      "price": 157.31,
-      "rsi": 81.73,
-      "stoch_k": 92.11,
-      "extension": "+12.7%",
-      "volume": 1536992,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (81)"
       ]
     },
     {
@@ -69,54 +43,40 @@
       ]
     },
     {
-      "symbol": "UPS",
-      "price": 118.7,
-      "rsi": 72.96,
-      "stoch_k": 97.08,
-      "extension": "+13.9%",
-      "volume": 5845184,
-      "score": 3,
+      "symbol": "FTV",
+      "price": 61.92,
+      "rsi": 80.31,
+      "stoch_k": 94.2,
+      "extension": "+12.3%",
+      "volume": 3182199,
+      "score": 2,
       "bonus_factors": [
-        "Stoch Hook Down",
+        "Extreme RSI (80)",
         "Bearish RSI Divergence"
       ]
     },
     {
-      "symbol": "VZ",
-      "price": 47.39,
-      "rsi": 89.45,
-      "stoch_k": 91.59,
-      "extension": "+16.2%",
-      "volume": 32146953,
-      "score": 2,
+      "symbol": "SYY",
+      "price": 87.62,
+      "rsi": 81.83,
+      "stoch_k": 94.97,
+      "extension": "+14.2%",
+      "volume": 3747993,
+      "score": 1,
       "bonus_factors": [
-        "Extreme RSI (89)",
-        "Bearish RSI Divergence"
+        "Extreme RSI (81)"
       ]
     },
     {
-      "symbol": "HON",
-      "price": 243.34,
-      "rsi": 81.01,
-      "stoch_k": 95.93,
-      "extension": "+17.0%",
-      "volume": 3888757,
-      "score": 2,
+      "symbol": "ETN",
+      "price": 377.47,
+      "rsi": 74.83,
+      "stoch_k": 92.73,
+      "extension": "+11.9%",
+      "volume": 1795277,
+      "score": 1,
       "bonus_factors": [
-        "Extreme RSI (81)",
         "Bearish RSI Divergence"
-      ]
-    },
-    {
-      "symbol": "PNC",
-      "price": 240.33,
-      "rsi": 69.38,
-      "stoch_k": 89.84,
-      "extension": "+12.1%",
-      "volume": 2342538,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
       ]
     },
     {
@@ -130,22 +90,12 @@
       "bonus_factors": []
     },
     {
-      "symbol": "RF",
-      "price": 30.82,
-      "rsi": 72.28,
-      "stoch_k": 91.5,
-      "extension": "+10.3%",
-      "volume": 10145525,
-      "score": 0,
-      "bonus_factors": []
-    },
-    {
-      "symbol": "PLD",
-      "price": 140.48,
-      "rsi": 68.97,
-      "stoch_k": 96.89,
-      "extension": "+8.4%",
-      "volume": 2831245,
+      "symbol": "MAS",
+      "price": 77.82,
+      "rsi": 70.17,
+      "stoch_k": 86.92,
+      "extension": "+16.7%",
+      "volume": 6919688,
       "score": 0,
       "bonus_factors": []
     }
