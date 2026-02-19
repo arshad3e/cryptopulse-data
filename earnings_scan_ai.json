@@ -1,184 +1,52 @@
 {
-  "lastUpdated": "2026-02-10T19:20:51.541322",
+  "lastUpdated": "2026-02-19T15:44:12.419006",
   "stocks": [
-    {
-      "ticker": "RELX",
-      "company_name": "Relx PLC ADR",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": 29.28,
-        "rationale": "Extremely oversold RSI (12.88) and recent 12-month low suggest strong potential for a pre-earnings bounce, with news indicating results are imminent."
-      }
-    },
-    {
-      "ticker": "VRSK",
-      "company_name": "Verisk Analytics Inc",
-      "earnings_date": "2026-02-18",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 5.5,
-        "favorable_entry_price": 169.47,
-        "rationale": "Heavily oversold RSI (13.12) combined with recent bullish management news for a key business supports a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "MCO",
-      "company_name": "Moodys Corporation",
-      "earnings_date": "2026-02-18",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 4.5,
-        "favorable_entry_price": 418.96,
-        "rationale": "Deeply oversold RSI (15.71) provides room for a bounce, despite some mixed news sentiment regarding sector performance."
-      }
-    },
-    {
-      "ticker": "SPGI",
-      "company_name": "S&P Global Inc",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": 401.12,
-        "rationale": "Despite a deeply oversold RSI (16.47), explicit negative market sentiment and analyst commentary make a pre-earnings run-up unlikely."
-      }
-    },
-    {
-      "ticker": "HUM",
-      "company_name": "Humana Inc",
-      "earnings_date": "2026-02-11",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": 181.37,
-        "rationale": "Oversold RSI (21.87) and a 52-week low suggest a potential bounce, supported by mixed regulatory news that could benefit established players."
-      }
-    },
     {
       "ticker": "BKNG",
       "company_name": "Booking Holdings Inc",
       "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 3.0,
-        "favorable_entry_price": 4281.14,
-        "rationale": "The stock is oversold with an RSI of 23.78, potentially setting up for a pre-earnings bounce despite a noted bearish chart pattern."
+        "confidence_score": 9,
+        "runup_percentage": 7.5,
+        "favorable_entry_price": "4260.00",
+        "rationale": "Extremely low RSI and strong bullish news provide ample room for a pre-earnings rally."
       }
     },
     {
-      "ticker": "FIS",
-      "company_name": "Fidelity National Information Services Inc",
-      "earnings_date": "2026-02-10",
+      "ticker": "AGI",
+      "company_name": "Alamos Gold Inc",
+      "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 4.5,
-        "favorable_entry_price": 50.53,
-        "rationale": "A deeply oversold RSI (22.92) and an absence of negative news create a favorable setup for a short-term bounce, assuming near-term earnings relevance."
-      }
-    },
-    {
-      "ticker": "WAT",
-      "company_name": "Waters Corporation",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 5,
-        "runup_percentage": -0.5,
-        "favorable_entry_price": 327.02,
-        "rationale": "While oversold (RSI 24.46), a recent price target downgrade by UBS presents a significant headwind against a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "WDAY",
-      "company_name": "Workday Inc",
-      "earnings_date": "2026-02-24",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
+        "confidence_score": 8,
         "runup_percentage": 4.0,
-        "favorable_entry_price": 153.23,
-        "rationale": "The stock's oversold RSI (26.07) and lack of direct negative news provide a favorable technical setup for a pre-earnings run-up."
+        "favorable_entry_price": "43.70",
+        "rationale": "Neutral RSI combined with consistently bullish sentiment and strong growth indicators suggests a likely pre-earnings ascent."
       }
     },
     {
-      "ticker": "CSGP",
-      "company_name": "CoStar Group Inc",
-      "earnings_date": "2026-02-24",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 5,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": 50.85,
-        "rationale": "While oversold (RSI 26.02), indications of bearish options activity make a significant pre-earnings run-up less probable."
-      }
-    },
-    {
-      "ticker": "DASH",
-      "company_name": "DoorDash, Inc. Class A Common Stock",
+      "ticker": "AWK",
+      "company_name": "American Water Works",
       "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 6,
-        "runup_percentage": 3.0,
-        "favorable_entry_price": 185.64,
-        "rationale": "The stock's RSI (28.61) is in oversold territory with significant target upside and no direct negative catalysts."
+        "runup_percentage": 2.5,
+        "favorable_entry_price": "131.00",
+        "rationale": "Decent RSI and positive recent performance create a favorable environment, but limited target upside caps the potential pre-earnings rally."
       }
     },
     {
-      "ticker": "COIN",
-      "company_name": "Coinbase Global Inc",
-      "earnings_date": "2026-02-12",
+      "ticker": "ADI",
+      "company_name": "Analog Devices Inc",
+      "earnings_date": "2026-02-18",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": -1.5,
-        "favorable_entry_price": 162.51,
-        "rationale": "Despite being oversold (RSI 28.42), the direct negative impact from a Bitcoin sell-off makes a pre-earnings run-up highly improbable."
-      }
-    },
-    {
-      "ticker": "ALNY",
-      "company_name": "Alnylam Pharmaceuticals Inc",
-      "earnings_date": "2026-02-12",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": 322.98,
-        "rationale": "Borderline oversold RSI (29.61) and a recent positive bounce suggest limited further upside for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "WTW",
-      "company_name": "Willis Towers Watson PLC",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": 289.77,
-        "rationale": "The RSI (30.57) is not in oversold territory, which is a key requirement for a 'Pre-Earnings Run-up' trade from a technical bounce perspective."
-      }
-    },
-    {
-      "ticker": "EW",
-      "company_name": "Edwards Lifesciences Corp",
-      "earnings_date": "2026-02-10",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": 77.05,
-        "rationale": "The RSI (30.78) is not in oversold territory, negating the primary technical condition for this type of trade, despite positive earnings sentiment."
+        "confidence_score": 10,
+        "runup_percentage": -2.0,
+        "favorable_entry_price": "346.37",
+        "rationale": "Severely overbought RSI and an analyst target price below the current market price make a pre-earnings run-up highly unlikely; a pullback is more probable."
       }
     }
   ]
