@@ -1,52 +1,16 @@
 {
-  "lastUpdated": "2026-02-19T15:44:12.419006",
+  "lastUpdated": "2026-02-24T11:58:56.108990",
   "stocks": [
     {
-      "ticker": "BKNG",
-      "company_name": "Booking Holdings Inc",
-      "earnings_date": "2026-02-18",
+      "ticker": "TLN",
+      "company_name": "Talen Energy Corporation",
+      "earnings_date": "2026-02-26",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 9,
+        "confidence_score": 7,
         "runup_percentage": 7.5,
-        "favorable_entry_price": "4260.00",
-        "rationale": "Extremely low RSI and strong bullish news provide ample room for a pre-earnings rally."
-      }
-    },
-    {
-      "ticker": "AGI",
-      "company_name": "Alamos Gold Inc",
-      "earnings_date": "2026-02-18",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": "43.70",
-        "rationale": "Neutral RSI combined with consistently bullish sentiment and strong growth indicators suggests a likely pre-earnings ascent."
-      }
-    },
-    {
-      "ticker": "AWK",
-      "company_name": "American Water Works",
-      "earnings_date": "2026-02-18",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 2.5,
-        "favorable_entry_price": "131.00",
-        "rationale": "Decent RSI and positive recent performance create a favorable environment, but limited target upside caps the potential pre-earnings rally."
-      }
-    },
-    {
-      "ticker": "ADI",
-      "company_name": "Analog Devices Inc",
-      "earnings_date": "2026-02-18",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 10,
-        "runup_percentage": -2.0,
-        "favorable_entry_price": "346.37",
-        "rationale": "Severely overbought RSI and an analyst target price below the current market price make a pre-earnings run-up highly unlikely; a pullback is more probable."
+        "favorable_entry_price": "367.84",
+        "rationale": "Neutral RSI at 50.7 allows significant room for upside, while the substantial gap to the target price of 466.44 provides a strong catalyst for speculative pre-earnings accumulation."
       }
     }
   ]
