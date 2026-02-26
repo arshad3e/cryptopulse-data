@@ -1,16 +1,28 @@
 {
-  "lastUpdated": "2026-02-24T11:58:56.108990",
+  "lastUpdated": "2026-02-26T10:53:09.295967",
   "stocks": [
     {
-      "ticker": "TLN",
-      "company_name": "Talen Energy Corporation",
-      "earnings_date": "2026-02-26",
+      "ticker": "A",
+      "company_name": "Agilent Technologies Inc",
+      "earnings_date": "2026-02-25",
       "ai_decision": {
         "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 6.5,
+        "favorable_entry_price": "124.70",
+        "rationale": "Strong recent bullish Q1 FY2026 results and new product news, combined with a low RSI (36.9) and significant upside to target, provide ample room for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "ONON",
+      "company_name": "On Holding Ltd",
+      "earnings_date": "2026-03-03",
+      "ai_decision": {
+        "decision": "Bad Idea",
         "confidence_score": 7,
-        "runup_percentage": 7.5,
-        "favorable_entry_price": "367.84",
-        "rationale": "Neutral RSI at 50.7 allows significant room for upside, while the substantial gap to the target price of 466.44 provides a strong catalyst for speculative pre-earnings accumulation."
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "46.65",
+        "rationale": "Mixed news, particularly a 'somewhat-bearish' signal concerning rotational strategy timing, introduces too much uncertainty and potential headwinds for a reliable short-term pre-earnings run-up."
       }
     }
   ]
