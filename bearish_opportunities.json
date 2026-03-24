@@ -1,16 +1,5 @@
 {
-  "scan_timestamp": "2026-03-24 01:53:08",
-  "matches_found": 1,
-  "data": [
-    {
-      "symbol": "DOW",
-      "price": 36.04,
-      "rsi": 69.66,
-      "stoch_k": 77.82,
-      "extension": "+15.0%",
-      "volume": 14991549,
-      "score": 0,
-      "bonus_factors": []
-    }
-  ]
+  "scan_timestamp": "2026-03-24 09:31:03",
+  "matches_found": 0,
+  "data": []
 }
