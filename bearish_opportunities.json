@@ -1,5 +1,19 @@
 {
-  "scan_timestamp": "2026-03-28 00:03:07",
-  "matches_found": 0,
-  "data": []
+  "scan_timestamp": "2026-03-28 01:50:11",
+  "matches_found": 1,
+  "data": [
+    {
+      "symbol": "APA",
+      "price": 44.39,
+      "rsi": 93.7,
+      "stoch_k": 97.24,
+      "extension": "+44.8%",
+      "volume": 11177743,
+      "score": 3,
+      "bonus_factors": [
+        "Extreme RSI (93)",
+        "Parabolic (+20% vs SMA)"
+      ]
+    }
+  ]
 }
