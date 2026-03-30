@@ -1,16 +1,5 @@
 {
-  "scan_timestamp": "2026-03-30 11:17:04",
-  "matches_found": 1,
-  "data": [
-    {
-      "symbol": "EQT",
-      "price": 67.55,
-      "rsi": 74.72,
-      "stoch_k": 92.7,
-      "extension": "+13.6%",
-      "volume": 5862456,
-      "score": 0,
-      "bonus_factors": []
-    }
-  ]
+  "scan_timestamp": "2026-03-30 11:34:45",
+  "matches_found": 0,
+  "data": []
 }
