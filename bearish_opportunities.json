@@ -1,18 +1,5 @@
 {
-  "scan_timestamp": "2026-03-31 11:17:06",
-  "matches_found": 1,
-  "data": [
-    {
-      "symbol": "PSX",
-      "price": 184.81,
-      "rsi": 74.85,
-      "stoch_k": 88.39,
-      "extension": "+15.7%",
-      "volume": 2805294,
-      "score": 2,
-      "bonus_factors": [
-        "Stoch Hook Down"
-      ]
-    }
-  ]
+  "scan_timestamp": "2026-03-31 11:32:06",
+  "matches_found": 0,
+  "data": []
 }
