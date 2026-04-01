@@ -1,45 +1,5 @@
 {
-  "scan_timestamp": "2026-04-01 11:19:47",
-  "matches_found": 3,
-  "data": [
-    {
-      "symbol": "LYB",
-      "price": 80.56,
-      "rsi": 71.42,
-      "stoch_k": 88.2,
-      "extension": "+30.4%",
-      "volume": 10861014,
-      "score": 4,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Parabolic (+20% vs SMA)"
-      ]
-    },
-    {
-      "symbol": "XOM",
-      "price": 169.66,
-      "rsi": 81.85,
-      "stoch_k": 84.85,
-      "extension": "+12.7%",
-      "volume": 32006724,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (81)"
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "price": 144.57,
-      "rsi": 76.35,
-      "stoch_k": 83.9,
-      "extension": "+16.0%",
-      "volume": 6302489,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (76)"
-      ]
-    }
-  ]
+  "scan_timestamp": "2026-04-01 11:34:37",
+  "matches_found": 0,
+  "data": []
 }
