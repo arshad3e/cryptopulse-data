@@ -1,5 +1,18 @@
 {
-  "scan_timestamp": "2026-04-09 10:32:05",
-  "matches_found": 0,
-  "data": []
+  "scan_timestamp": "2026-04-09 11:21:45",
+  "matches_found": 1,
+  "data": [
+    {
+      "symbol": "HUM",
+      "price": 198.39,
+      "rsi": 75.81,
+      "stoch_k": 87.38,
+      "extension": "+9.4%",
+      "volume": 1985240,
+      "score": 1,
+      "bonus_factors": [
+        "Extreme RSI (75)"
+      ]
+    }
+  ]
 }
