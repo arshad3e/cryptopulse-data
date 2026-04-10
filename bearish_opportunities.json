@@ -1,19 +1,5 @@
 {
-  "scan_timestamp": "2026-04-10 11:20:09",
-  "matches_found": 1,
-  "data": [
-    {
-      "symbol": "HUM",
-      "price": 197.32,
-      "rsi": 80.09,
-      "stoch_k": 85.44,
-      "extension": "+8.9%",
-      "volume": 1319987,
-      "score": 3,
-      "bonus_factors": [
-        "Stoch Hook Down",
-        "Extreme RSI (80)"
-      ]
-    }
-  ]
+  "scan_timestamp": "2026-04-10 11:34:44",
+  "matches_found": 0,
+  "data": []
 }
