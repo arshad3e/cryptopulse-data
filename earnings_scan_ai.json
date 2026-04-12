@@ -1,40 +1,26 @@
 {
-  "lastUpdated": "2026-03-14T02:25:01.827611",
+  "lastUpdated": "2026-04-12T01:37:21.176187",
   "stocks": [
     {
-      "ticker": "LULU",
-      "company_name": "Lululemon Athletica Inc.",
-      "earnings_date": "2026-03-17",
+      "ticker": "GS",
+      "company_name": "Goldman Sachs Group Inc",
+      "earnings_date": "2026-04-13",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 7.0,
-        "favorable_entry_price": "157.50",
-        "rationale": "A low RSI nearing oversold territory, coupled with significant upside to target and positive product sentiment, presents an attractive pre-earnings run-up opportunity."
+        "confidence_score": 7,
+        "runup_percentage": 2.5,
+        "rationale": "The RSI allows for some upward movement, and the analyst target price indicates a reasonable upside potential for a pre-earnings run-up."
       }
     },
     {
-      "ticker": "TME",
-      "company_name": "Tencent Music Entertainment Group",
-      "earnings_date": "2026-03-17",
+      "ticker": "FAST",
+      "company_name": "Fastenal Company",
+      "earnings_date": "2026-04-13",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "14.00",
-        "rationale": "Despite a high price target, significant recent institutional selling indicates strong negative sentiment or anticipated headwinds, overshadowing potential upside for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "AXIA",
-      "company_name": "AXIA Energia",
-      "earnings_date": "2026-03-13",
-      "ai_decision": {
-        "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": 8.0,
-        "favorable_entry_price": "10.90",
-        "rationale": "Exceptional recent earnings performance (Q4 net income surge) and positive outlook for future growth provide strong fundamental momentum for a pre-earnings run-up."
+        "runup_percentage": -2.0,
+        "rationale": "The stock is currently trading above its analyst target price with a high RSI, suggesting it is already extended and likely to consolidate or pull back."
       }
     }
   ]
