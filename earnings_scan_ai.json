@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T01:37:21.176187",
+  "lastUpdated": "2026-04-13T01:42:58.653569",
   "stocks": [
     {
       "ticker": "GS",
@@ -8,8 +8,8 @@
       "ai_decision": {
         "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 2.5,
-        "rationale": "The RSI allows for some upward movement, and the analyst target price indicates a reasonable upside potential for a pre-earnings run-up."
+        "runup_percentage": 2.2,
+        "rationale": "RSI shows some room for upward movement, and the analyst target provides a reasonable short-term upside potential ahead of earnings."
       }
     },
     {
@@ -19,8 +19,8 @@
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 9,
-        "runup_percentage": -2.0,
-        "rationale": "The stock is currently trading above its analyst target price with a high RSI, suggesting it is already extended and likely to consolidate or pull back."
+        "runup_percentage": 0.0,
+        "rationale": "Earnings are scheduled for tomorrow, eliminating the pre-earnings run-up window, and the high RSI combined with a target price below current levels suggests no further upside for this strategy."
       }
     }
   ]
