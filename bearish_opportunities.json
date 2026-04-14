@@ -1,5 +1,16 @@
 {
-  "scan_timestamp": "2026-04-14 00:01:40",
+  "scan_timestamp": "2026-04-14 01:54:23",
+  "market_open": false,
+  "total_scanned": 550,
   "matches_found": 0,
+  "summary": {
+    "calls": 0,
+    "puts": 0,
+    "top10_calls": 0,
+    "top10_puts": 0,
+    "strong_signals": 0
+  },
+  "top_calls": [],
+  "top_puts": [],
   "data": []
 }
