@@ -6,13 +6,18 @@
       "entry_date": "2026-04-14 11:39:13",
       "expiry_date": "2026-04-28",
       "entry_price": 142.61,
-      "current_price": 142.61,
+      "current_price": 136.3,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-04-14 11:39:13",
           "price": 142.61,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-14 13:04:23",
+          "price": 136.3,
+          "pnl_pct": 4.42
         }
       ]
     },
@@ -76,6 +81,22 @@
         {
           "timestamp": "2026-04-14 11:39:13",
           "price": 938.12,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NOK_2026-04-14": {
+      "trade_id": "NOK_2026-04-14",
+      "symbol": "NOK",
+      "entry_date": "2026-04-14 12:40:13",
+      "expiry_date": "2026-04-28",
+      "entry_price": 10.36,
+      "current_price": 10.36,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-14 12:40:13",
+          "price": 10.36,
           "pnl_pct": 0.0
         }
       ]
