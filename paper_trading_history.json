@@ -110,6 +110,22 @@
           "pnl_pct": -0.1
         }
       ]
+    },
+    "AMZN_2026-04-14": {
+      "trade_id": "AMZN_2026-04-14",
+      "symbol": "AMZN",
+      "entry_date": "2026-04-14 14:41:12",
+      "expiry_date": "2026-04-28",
+      "entry_price": 249.35,
+      "current_price": 249.35,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-14 14:41:12",
+          "price": 249.35,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
