@@ -146,6 +146,86 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CAR_2026-04-15": {
+      "trade_id": "CAR_2026-04-15",
+      "symbol": "CAR",
+      "entry_date": "2026-04-15 00:02:59",
+      "expiry_date": "2026-04-29",
+      "entry_price": 411.56,
+      "current_price": 411.56,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-15 00:02:59",
+          "price": 411.56,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "RVMD_2026-04-15": {
+      "trade_id": "RVMD_2026-04-15",
+      "symbol": "RVMD",
+      "entry_date": "2026-04-15 00:02:59",
+      "expiry_date": "2026-04-29",
+      "entry_price": 147.01,
+      "current_price": 147.01,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-15 00:02:59",
+          "price": 147.01,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CRDO_2026-04-15": {
+      "trade_id": "CRDO_2026-04-15",
+      "symbol": "CRDO",
+      "entry_date": "2026-04-15 00:02:59",
+      "expiry_date": "2026-04-29",
+      "entry_price": 159.52,
+      "current_price": 159.52,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-15 00:02:59",
+          "price": 159.52,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MRVL_2026-04-15": {
+      "trade_id": "MRVL_2026-04-15",
+      "symbol": "MRVL",
+      "entry_date": "2026-04-15 00:02:59",
+      "expiry_date": "2026-04-29",
+      "entry_price": 133.83,
+      "current_price": 133.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-15 00:02:59",
+          "price": 133.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "AMZN_2026-04-15": {
+      "trade_id": "AMZN_2026-04-15",
+      "symbol": "AMZN",
+      "entry_date": "2026-04-15 00:02:59",
+      "expiry_date": "2026-04-29",
+      "entry_price": 249.02,
+      "current_price": 249.02,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-15 00:02:59",
+          "price": 249.02,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
