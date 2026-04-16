@@ -288,6 +288,86 @@
           "pnl_pct": 9.35
         }
       ]
+    },
+    "CAR_2026-04-16": {
+      "trade_id": "CAR_2026-04-16",
+      "symbol": "CAR",
+      "entry_date": "2026-04-16 13:35:22",
+      "expiry_date": "2026-04-30",
+      "entry_price": 434.91,
+      "current_price": 434.91,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-16 13:35:22",
+          "price": 434.91,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "RVMD_2026-04-16": {
+      "trade_id": "RVMD_2026-04-16",
+      "symbol": "RVMD",
+      "entry_date": "2026-04-16 13:35:22",
+      "expiry_date": "2026-04-30",
+      "entry_price": 149.73,
+      "current_price": 149.73,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-16 13:35:22",
+          "price": 149.73,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "AMD_2026-04-16": {
+      "trade_id": "AMD_2026-04-16",
+      "symbol": "AMD",
+      "entry_date": "2026-04-16 13:35:22",
+      "expiry_date": "2026-04-30",
+      "entry_price": 276.1,
+      "current_price": 276.1,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-16 13:35:22",
+          "price": 276.1,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ON_2026-04-16": {
+      "trade_id": "ON_2026-04-16",
+      "symbol": "ON",
+      "entry_date": "2026-04-16 13:35:22",
+      "expiry_date": "2026-04-30",
+      "entry_price": 78.64,
+      "current_price": 78.64,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-16 13:35:22",
+          "price": 78.64,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ORCL_2026-04-16": {
+      "trade_id": "ORCL_2026-04-16",
+      "symbol": "ORCL",
+      "entry_date": "2026-04-16 13:35:22",
+      "expiry_date": "2026-04-30",
+      "entry_price": 178.37,
+      "current_price": 178.37,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-16 13:35:22",
+          "price": 178.37,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
