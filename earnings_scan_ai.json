@@ -1,16 +1,37 @@
 {
-  "lastUpdated": "2026-04-15T05:04:35.288016",
+  "lastUpdated": "2026-04-16T08:21:12.893266",
   "stocks": [
     {
-      "ticker": "BLK",
-      "company_name": "BlackRock Inc",
-      "earnings_date": "2026-04-14",
+      "ticker": "ASML",
+      "company_name": "ASML Holding NV ADR",
+      "earnings_date": "2026-04-15",
       "ai_decision": {
         "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 3.5,
+        "rationale": "Strong upside options sentiment pricing a 6% move and a healthy RSI suggest a pre-earnings surge despite a cautious analyst reiteration."
+      }
+    },
+    {
+      "ticker": "SOFI",
+      "company_name": "SoFi Technologies Inc.",
+      "earnings_date": "2026-04-29",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.0,
+        "rationale": "Despite significant target price upside, recent 'analyst cuts' create uncertainty and dampen strong pre-earnings run-up potential."
+      }
+    },
+    {
+      "ticker": "BAC",
+      "company_name": "Bank of America Corp",
+      "earnings_date": "2026-04-15",
+      "ai_decision": {
+        "decision": "Bad Idea",
         "confidence_score": 8,
-        "runup_percentage": 4.5,
-        "favorable_entry_price": "1055.03",
-        "rationale": "Strong target upside and positive strategic news for BlackRock, coupled with bullish sector sentiment, provide a catalyst despite a moderately high RSI."
+        "runup_percentage": 0.5,
+        "rationale": "The stock is significantly overbought with an RSI above 70, limiting pre-earnings run-up potential and increasing pullback risk."
       }
     }
   ]
