@@ -59,6 +59,11 @@
           "timestamp": "2026-04-17 12:22:04",
           "price": 158.93,
           "pnl_pct": 1.04
+        },
+        {
+          "timestamp": "2026-04-17 14:33:08",
+          "price": 158.93,
+          "pnl_pct": 1.04
         }
       ]
     },
@@ -68,7 +73,7 @@
       "entry_date": "2026-04-14 11:39:13",
       "expiry_date": "2026-04-28",
       "entry_price": 355.11,
-      "current_price": 371.01,
+      "current_price": 448.98,
       "status": "OPEN",
       "timeline": [
         {
@@ -80,6 +85,11 @@
           "timestamp": "2026-04-14 16:05:59",
           "price": 371.01,
           "pnl_pct": -4.48
+        },
+        {
+          "timestamp": "2026-04-17 14:33:13",
+          "price": 448.98,
+          "pnl_pct": -26.43
         }
       ]
     },
@@ -111,6 +121,11 @@
           "timestamp": "2026-04-17 12:53:02",
           "price": 133.37,
           "pnl_pct": 0.5
+        },
+        {
+          "timestamp": "2026-04-17 14:33:17",
+          "price": 133.37,
+          "pnl_pct": 0.5
         }
       ]
     },
@@ -120,13 +135,18 @@
       "entry_date": "2026-04-14 11:39:13",
       "expiry_date": "2026-04-28",
       "entry_price": 938.12,
-      "current_price": 938.12,
+      "current_price": 919.47,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-04-14 11:39:13",
           "price": 938.12,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-17 14:33:20",
+          "price": 919.47,
+          "pnl_pct": 1.99
         }
       ]
     },
@@ -182,6 +202,11 @@
         },
         {
           "timestamp": "2026-04-17 12:22:17",
+          "price": 249.7,
+          "pnl_pct": -0.14
+        },
+        {
+          "timestamp": "2026-04-17 14:33:30",
           "price": 249.7,
           "pnl_pct": -0.14
         }
@@ -240,6 +265,11 @@
         },
         {
           "timestamp": "2026-04-17 12:22:23",
+          "price": 158.93,
+          "pnl_pct": 0.37
+        },
+        {
+          "timestamp": "2026-04-17 14:33:41",
           "price": 158.93,
           "pnl_pct": 0.37
         }
