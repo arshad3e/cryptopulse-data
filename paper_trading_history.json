@@ -166,7 +166,7 @@
       "entry_date": "2026-04-14 12:40:13",
       "expiry_date": "2026-04-28",
       "entry_price": 10.36,
-      "current_price": 10.35,
+      "current_price": 10.31,
       "status": "OPEN",
       "timeline": [
         {
@@ -188,6 +188,11 @@
           "timestamp": "2026-04-15 08:07:19",
           "price": 10.35,
           "pnl_pct": 0.1
+        },
+        {
+          "timestamp": "2026-04-18 08:15:39",
+          "price": 10.31,
+          "pnl_pct": 0.48
         }
       ]
     },
@@ -354,7 +359,7 @@
       "entry_date": "2026-04-15 14:35:52",
       "expiry_date": "2026-04-29",
       "entry_price": 87.25,
-      "current_price": 86.85,
+      "current_price": 90.75,
       "status": "OPEN",
       "timeline": [
         {
@@ -371,6 +376,11 @@
           "timestamp": "2026-04-17 12:22:32",
           "price": 86.85,
           "pnl_pct": 0.46
+        },
+        {
+          "timestamp": "2026-04-18 08:15:56",
+          "price": 90.75,
+          "pnl_pct": -4.01
         }
       ]
     },
@@ -417,13 +427,18 @@
       "entry_date": "2026-04-16 13:35:22",
       "expiry_date": "2026-04-30",
       "entry_price": 276.1,
-      "current_price": 276.1,
+      "current_price": 278.39,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-04-16 13:35:22",
           "price": 276.1,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 08:16:05",
+          "price": 278.39,
+          "pnl_pct": -0.83
         }
       ]
     },
@@ -608,6 +623,11 @@
       "timeline": [
         {
           "timestamp": "2026-04-18 00:05:03",
+          "price": 64.5,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 08:16:24",
           "price": 64.5,
           "pnl_pct": 0.0
         }
