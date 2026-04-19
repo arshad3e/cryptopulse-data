@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-19 16:42:44",
-  "scan_timestamp": "2026-04-19 16:42:44",
-  "balance_dollars": 43.42,
+  "last_updated": "2026-04-19 16:59:25",
+  "scan_timestamp": "2026-04-19 16:59:25",
+  "balance_dollars": 33.72,
   "summary": {
     "total_trades": 3631,
     "wins": 3112,
     "losses": 519,
-    "open_positions": 0,
+    "open_positions": 1,
     "win_rate_pct": 85.71,
     "total_pnl_dollars": -423.21,
     "total_fees_dollars": 1.26,
@@ -15009,6 +15009,20 @@
     }
   ],
   "data": [
+    {
+      "market_ticker": "KXBTCD-26APR1917-T74749.99",
+      "side": "no",
+      "qty": 10,
+      "entry_cents": 97,
+      "exit_cents": null,
+      "pnl_dollars": 0.0,
+      "pnl_pct": 0.0,
+      "fees_dollars": 0.0,
+      "outcome": "OPEN",
+      "close_reason": "open",
+      "opened_at": "2026-04-19T20:58:31.11333Z",
+      "closed_at": null
+    },
     {
       "market_ticker": "KXBTCD-26APR1916-T74899.99",
       "side": "yes",
