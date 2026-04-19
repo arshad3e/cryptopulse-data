@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-19 17:01:34",
-  "scan_timestamp": "2026-04-19 17:01:34",
-  "balance_dollars": 33.72,
+  "last_updated": "2026-04-19 17:03:43",
+  "scan_timestamp": "2026-04-19 17:03:43",
+  "balance_dollars": 43.72,
   "summary": {
-    "total_trades": 3631,
-    "wins": 3112,
+    "total_trades": 3632,
+    "wins": 3113,
     "losses": 519,
-    "open_positions": 1,
+    "open_positions": 0,
     "win_rate_pct": 85.71,
-    "total_pnl_dollars": -423.21,
+    "total_pnl_dollars": -422.91,
     "total_fees_dollars": 1.26,
     "roi_pct": -1.7,
-    "avg_win_dollars": 0.5609,
+    "avg_win_dollars": 0.5608,
     "avg_loss_dollars": -4.1785,
     "profit_factor": 0.8,
-    "current_streak": 336,
-    "best_streak": 336,
+    "current_streak": 337,
+    "best_streak": 337,
     "worst_streak": 53
   },
   "by_series": {
@@ -386,10 +386,10 @@
       "count": 40
     },
     "KXBTCD": {
-      "wins": 1042,
+      "wins": 1043,
       "losses": 96,
-      "pnl": -383.41,
-      "count": 1138
+      "pnl": -383.11,
+      "count": 1139
     },
     "KXETH": {
       "wins": 28,
@@ -15006,6 +15006,10 @@
     {
       "ts": "2026-04-19T20:02:44.950214Z",
       "cumulative_pnl": -423.212
+    },
+    {
+      "ts": "2026-04-19T21:02:34.979996Z",
+      "cumulative_pnl": -422.912
     }
   ],
   "data": [
@@ -15014,14 +15018,14 @@
       "side": "no",
       "qty": 10,
       "entry_cents": 97,
-      "exit_cents": null,
-      "pnl_dollars": 0.0,
-      "pnl_pct": 0.0,
+      "exit_cents": 100,
+      "pnl_dollars": 0.3,
+      "pnl_pct": 3.09,
       "fees_dollars": 0.0,
-      "outcome": "OPEN",
-      "close_reason": "open",
+      "outcome": "WIN",
+      "close_reason": "settled",
       "opened_at": "2026-04-19T20:58:31.11333Z",
-      "closed_at": null
+      "closed_at": "2026-04-19T21:02:34.979996Z"
     },
     {
       "market_ticker": "KXBTCD-26APR1916-T74899.99",
