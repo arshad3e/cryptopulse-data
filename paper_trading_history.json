@@ -1005,6 +1005,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "LCID_2026-04-20": {
+      "trade_id": "LCID_2026-04-20",
+      "symbol": "LCID",
+      "entry_date": "2026-04-20 12:36:31",
+      "expiry_date": "2026-05-04",
+      "entry_price": 6.9,
+      "current_price": 6.9,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 12:36:31",
+          "price": 6.9,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
