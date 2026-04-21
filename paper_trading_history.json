@@ -1101,6 +1101,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "HPE_2026-04-21": {
+      "trade_id": "HPE_2026-04-21",
+      "symbol": "HPE",
+      "entry_date": "2026-04-21 11:34:39",
+      "expiry_date": "2026-05-05",
+      "entry_price": 28.98,
+      "current_price": 28.98,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-21 11:34:39",
+          "price": 28.98,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "UNH_2026-04-21": {
+      "trade_id": "UNH_2026-04-21",
+      "symbol": "UNH",
+      "entry_date": "2026-04-21 11:34:39",
+      "expiry_date": "2026-05-05",
+      "entry_price": 347.97,
+      "current_price": 347.97,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-21 11:34:39",
+          "price": 347.97,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DELL_2026-04-21": {
+      "trade_id": "DELL_2026-04-21",
+      "symbol": "DELL",
+      "entry_date": "2026-04-21 11:34:39",
+      "expiry_date": "2026-05-05",
+      "entry_price": 209.84,
+      "current_price": 209.84,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-21 11:34:39",
+          "price": 209.84,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
