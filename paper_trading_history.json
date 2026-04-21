@@ -1165,6 +1165,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "TSCO_2026-04-21": {
+      "trade_id": "TSCO_2026-04-21",
+      "symbol": "TSCO",
+      "entry_date": "2026-04-21 14:35:55",
+      "expiry_date": "2026-05-05",
+      "entry_price": 39.42,
+      "current_price": 39.42,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-21 14:35:55",
+          "price": 39.42,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
