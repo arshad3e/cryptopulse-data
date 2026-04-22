@@ -1,4 +1,60 @@
 {
-  "lastUpdated": "2026-04-20T10:23:08.671357",
-  "stocks": []
+  "lastUpdated": "2026-04-22T14:09:19.894709",
+  "stocks": [
+    {
+      "ticker": "CAH",
+      "company_name": "Cardinal Health Inc",
+      "earnings_date": "2026-04-30",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 4.5,
+        "rationale": "Strong bullish earnings preview, low RSI, and significant target upside suggest a favorable pre-earnings trade opportunity."
+      }
+    },
+    {
+      "ticker": "BSAC",
+      "company_name": "Banco Santander Chile",
+      "earnings_date": "2026-04-30",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 9,
+        "runup_percentage": -1.0,
+        "rationale": "The target price is below the current market price, indicating potential downside rather than a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "BMY",
+      "company_name": "Bristol-Myers Squibb Company",
+      "earnings_date": "2026-04-30",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 6,
+        "runup_percentage": 1.0,
+        "rationale": "Lacks explicit earnings preview news, and despite some positive buying sentiment, the modest target upside doesn't support a strong pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "AMX",
+      "company_name": "America Movil SAB de CV ADR",
+      "earnings_date": "2026-04-21",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 8,
+        "runup_percentage": 0.5,
+        "rationale": "Minimal target price upside and mixed earnings sentiment do not justify a significant pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "CARR",
+      "company_name": "Carrier Global\u00a0Corp",
+      "earnings_date": "2026-04-30",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 9,
+        "runup_percentage": 0.0,
+        "rationale": "Absence of any explicit earnings preview or related bullish catalysts makes a pre-earnings run-up trade unsupported."
+      }
+    }
+  ]
 }
