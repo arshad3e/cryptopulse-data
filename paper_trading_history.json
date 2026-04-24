@@ -1457,6 +1457,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CHTR_2026-04-24": {
+      "trade_id": "CHTR_2026-04-24",
+      "symbol": "CHTR",
+      "entry_date": "2026-04-24 14:36:30",
+      "expiry_date": "2026-05-08",
+      "entry_price": 179.71,
+      "current_price": 179.71,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-24 14:36:30",
+          "price": 179.71,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": []
