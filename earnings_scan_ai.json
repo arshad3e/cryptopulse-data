@@ -1,59 +1,76 @@
 {
-  "lastUpdated": "2026-04-22T14:09:19.894709",
+  "lastUpdated": "2026-04-24T19:26:00.426609",
   "stocks": [
     {
-      "ticker": "CAH",
-      "company_name": "Cardinal Health Inc",
-      "earnings_date": "2026-04-30",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 4.5,
-        "rationale": "Strong bullish earnings preview, low RSI, and significant target upside suggest a favorable pre-earnings trade opportunity."
-      }
-    },
-    {
-      "ticker": "BSAC",
-      "company_name": "Banco Santander Chile",
+      "ticker": "RMD",
+      "company_name": "ResMed Inc",
       "earnings_date": "2026-04-30",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": -1.0,
-        "rationale": "The target price is below the current market price, indicating potential downside rather than a pre-earnings run-up."
+        "confidence_score": 8,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "219.51",
+        "rationale": "Overwhelmingly bearish news of 52-week lows and underperformance makes a short-term pre-earnings run-up highly unlikely despite low RSI."
       }
     },
     {
-      "ticker": "BMY",
-      "company_name": "Bristol-Myers Squibb Company",
+      "ticker": "MPLX",
+      "company_name": "MPLX LP",
+      "earnings_date": "2026-05-05",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 5.0,
+        "favorable_entry_price": "55.61",
+        "rationale": "Favorable RSI, strong institutional buying, and positive news sentiment suggest potential for a pre-earnings run-up towards its target."
+      }
+    },
+    {
+      "ticker": "MPC",
+      "company_name": "Marathon Petroleum Corp",
+      "earnings_date": "2026-05-05",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "221.10",
+        "rationale": "Strong institutional purchases and a healthy RSI point to positive momentum for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "RIVN",
+      "company_name": "Rivian Automotive Inc",
       "earnings_date": "2026-04-30",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 6,
-        "runup_percentage": 1.0,
-        "rationale": "Lacks explicit earnings preview news, and despite some positive buying sentiment, the modest target upside doesn't support a strong pre-earnings run-up."
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "16.95",
+        "rationale": "All news is neutral, and without clear positive catalysts or strong technical signals, a pre-earnings run-up is speculative."
       }
     },
     {
-      "ticker": "AMX",
-      "company_name": "America Movil SAB de CV ADR",
-      "earnings_date": "2026-04-21",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.5,
-        "rationale": "Minimal target price upside and mixed earnings sentiment do not justify a significant pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "CARR",
-      "company_name": "Carrier Global\u00a0Corp",
+      "ticker": "ROKU",
+      "company_name": "Roku Inc",
       "earnings_date": "2026-04-30",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
+        "confidence_score": 8,
         "runup_percentage": 0.0,
-        "rationale": "Absence of any explicit earnings preview or related bullish catalysts makes a pre-earnings run-up trade unsupported."
+        "favorable_entry_price": "114.96",
+        "rationale": "Significant insider selling and an elevated RSI suggest limited upside potential for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "MSTR",
+      "company_name": "MicroStrategy Incorporated",
+      "earnings_date": "2026-05-05",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 7,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "172.47",
+        "rationale": "An already elevated RSI and recent significant price increase limit the likelihood of further sustained pre-earnings upside."
       }
     }
   ]
