@@ -1,76 +1,64 @@
 {
-  "lastUpdated": "2026-04-24T19:26:00.426609",
+  "lastUpdated": "2026-04-26T18:26:29.218214",
   "stocks": [
     {
-      "ticker": "RMD",
-      "company_name": "ResMed Inc",
-      "earnings_date": "2026-04-30",
+      "ticker": "ADM",
+      "company_name": "Archer-Daniels-Midland Company",
+      "earnings_date": "2026-05-05",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "219.51",
-        "rationale": "Overwhelmingly bearish news of 52-week lows and underperformance makes a short-term pre-earnings run-up highly unlikely despite low RSI."
-      }
-    },
-    {
-      "ticker": "MPLX",
-      "company_name": "MPLX LP",
-      "earnings_date": "2026-05-05",
-      "ai_decision": {
-        "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 5.0,
-        "favorable_entry_price": "55.61",
-        "rationale": "Favorable RSI, strong institutional buying, and positive news sentiment suggest potential for a pre-earnings run-up towards its target."
+        "runup_percentage": -1.0,
+        "favorable_entry_price": "N/A",
+        "rationale": "Current price is above the target, and recent news indicates underperformance despite broader market gains, limiting pre-earnings upside."
       }
     },
     {
-      "ticker": "MPC",
-      "company_name": "Marathon Petroleum Corp",
-      "earnings_date": "2026-05-05",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 6.0,
-        "favorable_entry_price": "221.10",
-        "rationale": "Strong institutional purchases and a healthy RSI point to positive momentum for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "RIVN",
-      "company_name": "Rivian Automotive Inc",
-      "earnings_date": "2026-04-30",
+      "ticker": "WMB",
+      "company_name": "Williams Companies Inc",
+      "earnings_date": "2026-05-04",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 6,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "16.95",
-        "rationale": "All news is neutral, and without clear positive catalysts or strong technical signals, a pre-earnings run-up is speculative."
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "N/A",
+        "rationale": "While the target price suggests upside and RSI is healthy, the lack of recent specific bullish news indicates no immediate catalyst for a pre-earnings run-up."
       }
     },
     {
-      "ticker": "ROKU",
-      "company_name": "Roku Inc",
-      "earnings_date": "2026-04-30",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "114.96",
-        "rationale": "Significant insider selling and an elevated RSI suggest limited upside potential for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "MSTR",
-      "company_name": "MicroStrategy Incorporated",
+      "ticker": "AEE",
+      "company_name": "Ameren Corp",
       "earnings_date": "2026-05-05",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "172.47",
-        "rationale": "An already elevated RSI and recent significant price increase limit the likelihood of further sustained pre-earnings upside."
+        "confidence_score": 6,
+        "runup_percentage": 0.8,
+        "favorable_entry_price": "N/A",
+        "rationale": "Despite a healthy RSI and price below target, the complete absence of recent news makes it difficult to ascertain positive sentiment required for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "ACGLN",
+      "company_name": "Arch Capital Group Ltd",
+      "earnings_date": "2026-04-27",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 8,
+        "runup_percentage": 0.3,
+        "favorable_entry_price": "N/A",
+        "rationale": "As a preferred stock (ACGLN), it is less susceptible to speculative pre-earnings run-ups compared to common shares, despite generally positive sentiment for the parent company."
+      }
+    },
+    {
+      "ticker": "AMKR",
+      "company_name": "Amkor Technology Inc",
+      "earnings_date": "2026-04-27",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 9,
+        "runup_percentage": -3.0,
+        "favorable_entry_price": "N/A",
+        "rationale": "The stock is heavily overbought (RSI 83) and trading significantly above its target price, suggesting recent gains have been fully priced in, making further pre-earnings upside unlikely."
       }
     }
   ]
