@@ -1418,6 +1418,86 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CNC_2026-04-29": {
+      "trade_id": "CNC_2026-04-29",
+      "symbol": "CNC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 53.24,
+      "current_price": 53.24,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 53.24,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NXPI_2026-04-29": {
+      "trade_id": "NXPI_2026-04-29",
+      "symbol": "NXPI",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 285.58,
+      "current_price": 285.58,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 285.58,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "INTC_2026-04-29": {
+      "trade_id": "INTC_2026-04-29",
+      "symbol": "INTC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 93.72,
+      "current_price": 93.72,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 93.72,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "GEHC_2026-04-29": {
+      "trade_id": "GEHC_2026-04-29",
+      "symbol": "GEHC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 59.4,
+      "current_price": 59.4,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 59.4,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "STX_2026-04-29": {
+      "trade_id": "STX_2026-04-29",
+      "symbol": "STX",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 666.43,
+      "current_price": 666.43,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 666.43,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
