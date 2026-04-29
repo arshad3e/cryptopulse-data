@@ -1514,6 +1514,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "PODD_2026-04-29": {
+      "trade_id": "PODD_2026-04-29",
+      "symbol": "PODD",
+      "entry_date": "2026-04-29 14:33:30",
+      "expiry_date": "2026-05-13",
+      "entry_price": 161.72,
+      "current_price": 161.72,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 14:33:30",
+          "price": 161.72,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
