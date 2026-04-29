@@ -1498,6 +1498,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "NOK_2026-04-29": {
+      "trade_id": "NOK_2026-04-29",
+      "symbol": "NOK",
+      "entry_date": "2026-04-29 12:32:37",
+      "expiry_date": "2026-05-13",
+      "entry_price": 12.27,
+      "current_price": 12.27,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 12:32:37",
+          "price": 12.27,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
