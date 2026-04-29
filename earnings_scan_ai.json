@@ -1,40 +1,16 @@
 {
-  "lastUpdated": "2026-04-26T18:26:29.218214",
+  "lastUpdated": "2026-04-28T21:12:23.634851",
   "stocks": [
     {
-      "ticker": "ADM",
-      "company_name": "Archer-Daniels-Midland Company",
-      "earnings_date": "2026-05-05",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": -1.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "Current price is above the target, and recent news indicates underperformance despite broader market gains, limiting pre-earnings upside."
-      }
-    },
-    {
-      "ticker": "WMB",
-      "company_name": "Williams Companies Inc",
+      "ticker": "CTRA",
+      "company_name": "Coterra Energy Inc",
       "earnings_date": "2026-05-04",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 0.5,
+        "confidence_score": 7,
+        "runup_percentage": 1.0,
         "favorable_entry_price": "N/A",
-        "rationale": "While the target price suggests upside and RSI is healthy, the lack of recent specific bullish news indicates no immediate catalyst for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "AEE",
-      "company_name": "Ameren Corp",
-      "earnings_date": "2026-05-05",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 6,
-        "runup_percentage": 0.8,
-        "favorable_entry_price": "N/A",
-        "rationale": "Despite a healthy RSI and price below target, the complete absence of recent news makes it difficult to ascertain positive sentiment required for a pre-earnings run-up."
+        "rationale": "Lack of current positive news or strong catalysts makes a significant pre-earnings run-up unlikely."
       }
     },
     {
@@ -43,22 +19,22 @@
       "earnings_date": "2026-04-27",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.3,
+        "confidence_score": 7,
+        "runup_percentage": 2.0,
         "favorable_entry_price": "N/A",
-        "rationale": "As a preferred stock (ACGLN), it is less susceptible to speculative pre-earnings run-ups compared to common shares, despite generally positive sentiment for the parent company."
+        "rationale": "Weak bullish sentiment and absence of an analyst target provide no clear driver for a pre-earnings run-up."
       }
     },
     {
-      "ticker": "AMKR",
-      "company_name": "Amkor Technology Inc",
-      "earnings_date": "2026-04-27",
+      "ticker": "FANG",
+      "company_name": "Diamondback Energy Inc",
+      "earnings_date": "2026-05-04",
       "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 9,
-        "runup_percentage": -3.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "The stock is heavily overbought (RSI 83) and trading significantly above its target price, suggesting recent gains have been fully priced in, making further pre-earnings upside unlikely."
+        "runup_percentage": 5.5,
+        "favorable_entry_price": "196.42",
+        "rationale": "Strong bullish analyst rating and a recently raised target price by Raymond James provide a clear catalyst."
       }
     }
   ]
