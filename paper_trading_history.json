@@ -1548,6 +1548,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "GOOGL_2026-04-30": {
+      "trade_id": "GOOGL_2026-04-30",
+      "symbol": "GOOGL",
+      "entry_date": "2026-04-30 14:41:40",
+      "expiry_date": "2026-05-14",
+      "entry_price": 383.21,
+      "current_price": 383.21,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-30 14:41:40",
+          "price": 383.21,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
