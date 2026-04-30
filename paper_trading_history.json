@@ -1500,6 +1500,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "QCOM_2026-04-30": {
+      "trade_id": "QCOM_2026-04-30",
+      "symbol": "QCOM",
+      "entry_date": "2026-04-30 11:40:16",
+      "expiry_date": "2026-05-14",
+      "entry_price": 182.63,
+      "current_price": 182.63,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-30 11:40:16",
+          "price": 182.63,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PWR_2026-04-30": {
+      "trade_id": "PWR_2026-04-30",
+      "symbol": "PWR",
+      "entry_date": "2026-04-30 11:40:16",
+      "expiry_date": "2026-05-14",
+      "entry_price": 707.3,
+      "current_price": 707.3,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-30 11:40:16",
+          "price": 707.3,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NOK_2026-04-30": {
+      "trade_id": "NOK_2026-04-30",
+      "symbol": "NOK",
+      "entry_date": "2026-04-30 11:40:16",
+      "expiry_date": "2026-05-14",
+      "entry_price": 12.47,
+      "current_price": 12.47,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-04-30 11:40:16",
+          "price": 12.47,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
