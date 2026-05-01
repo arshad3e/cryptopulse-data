@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-28T21:12:23.634851",
+  "lastUpdated": "2026-04-30T23:04:36.425464",
   "stocks": [
     {
-      "ticker": "CTRA",
-      "company_name": "Coterra Energy Inc",
-      "earnings_date": "2026-05-04",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "Lack of current positive news or strong catalysts makes a significant pre-earnings run-up unlikely."
-      }
-    },
-    {
-      "ticker": "ACGLN",
-      "company_name": "Arch Capital Group Ltd",
-      "earnings_date": "2026-04-27",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "Weak bullish sentiment and absence of an analyst target provide no clear driver for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "FANG",
-      "company_name": "Diamondback Energy Inc",
-      "earnings_date": "2026-05-04",
+      "ticker": "XYL",
+      "company_name": "Xylem Inc",
+      "earnings_date": "2026-05-05",
       "ai_decision": {
         "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 6.5,
+        "favorable_entry_price": "115.40",
+        "rationale": "Low RSI and bullish market outlook for the water pump sector provide technical and fundamental tailwinds for a pre-earnings bounce, despite recent underperformance."
+      }
+    },
+    {
+      "ticker": "ACGL",
+      "company_name": "Arch Capital Group Ltd",
+      "earnings_date": "2026-04-29",
+      "ai_decision": {
+        "decision": "Bad Idea",
         "confidence_score": 9,
-        "runup_percentage": 5.5,
-        "favorable_entry_price": "196.42",
-        "rationale": "Strong bullish analyst rating and a recently raised target price by Raymond James provide a clear catalyst."
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "92.72",
+        "rationale": "Lacks any specific news or catalysts to drive a pre-earnings run-up, making it a pure speculative gamble without a clear investment thesis for this trade type."
+      }
+    },
+    {
+      "ticker": "ABBV",
+      "company_name": "AbbVie Inc",
+      "earnings_date": "2026-04-29",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 7,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "204.14",
+        "rationale": "Positive news regarding its strong immunology and neuroscience portfolios, coupled with a healthy RSI, suggests potential for a pre-earnings upward trend."
       }
     }
   ]
