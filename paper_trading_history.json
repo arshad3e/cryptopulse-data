@@ -1,130 +1,5 @@
 {
   "active_trades": {
-    "CAR_2026-04-18": {
-      "trade_id": "CAR_2026-04-18",
-      "symbol": "CAR",
-      "entry_date": "2026-04-18 00:05:03",
-      "expiry_date": "2026-05-02",
-      "entry_price": 493.86,
-      "current_price": 493.86,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-18 00:05:03",
-          "price": 493.86,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-18 16:21:57",
-          "price": 493.86,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "AFRM_2026-04-18": {
-      "trade_id": "AFRM_2026-04-18",
-      "symbol": "AFRM",
-      "entry_date": "2026-04-18 00:05:03",
-      "expiry_date": "2026-05-02",
-      "entry_price": 64.5,
-      "current_price": 66.58,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-18 00:05:03",
-          "price": 64.5,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-18 08:16:24",
-          "price": 64.5,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-18 16:22:00",
-          "price": 64.5,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-23 14:22:26",
-          "price": 66.58,
-          "pnl_pct": -3.22
-        }
-      ]
-    },
-    "MSTR_2026-04-18": {
-      "trade_id": "MSTR_2026-04-18",
-      "symbol": "MSTR",
-      "entry_date": "2026-04-18 00:05:03",
-      "expiry_date": "2026-05-02",
-      "entry_price": 166.52,
-      "current_price": 166.52,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-18 00:05:03",
-          "price": 166.52,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-18 16:22:03",
-          "price": 166.52,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-19 00:25:41",
-          "price": 166.52,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ON_2026-04-18": {
-      "trade_id": "ON_2026-04-18",
-      "symbol": "ON",
-      "entry_date": "2026-04-18 00:05:03",
-      "expiry_date": "2026-05-02",
-      "entry_price": 83.01,
-      "current_price": 83.01,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-18 00:05:03",
-          "price": 83.01,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-18 16:22:07",
-          "price": 83.01,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-19 00:25:46",
-          "price": 83.01,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-19 08:33:59",
-          "price": 83.01,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "RVMD_2026-04-18": {
-      "trade_id": "RVMD_2026-04-18",
-      "symbol": "RVMD",
-      "entry_date": "2026-04-18 00:05:03",
-      "expiry_date": "2026-05-02",
-      "entry_price": 148.63,
-      "current_price": 148.63,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-18 00:05:03",
-          "price": 148.63,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CAR_2026-04-20": {
       "trade_id": "CAR_2026-04-20",
       "symbol": "CAR",
@@ -2218,6 +2093,131 @@
           "timestamp": "2026-04-19 12:34:50",
           "price": 166.52,
           "pnl_pct": 0.63
+        }
+      ]
+    },
+    {
+      "trade_id": "CAR_2026-04-18",
+      "symbol": "CAR",
+      "entry_date": "2026-04-18 00:05:03",
+      "expiry_date": "2026-05-02",
+      "entry_price": 493.86,
+      "current_price": 493.86,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-18 00:05:03",
+          "price": 493.86,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 16:21:57",
+          "price": 493.86,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "AFRM_2026-04-18",
+      "symbol": "AFRM",
+      "entry_date": "2026-04-18 00:05:03",
+      "expiry_date": "2026-05-02",
+      "entry_price": 64.5,
+      "current_price": 66.58,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-18 00:05:03",
+          "price": 64.5,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 08:16:24",
+          "price": 64.5,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 16:22:00",
+          "price": 64.5,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-23 14:22:26",
+          "price": 66.58,
+          "pnl_pct": -3.22
+        }
+      ]
+    },
+    {
+      "trade_id": "MSTR_2026-04-18",
+      "symbol": "MSTR",
+      "entry_date": "2026-04-18 00:05:03",
+      "expiry_date": "2026-05-02",
+      "entry_price": 166.52,
+      "current_price": 166.52,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-18 00:05:03",
+          "price": 166.52,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 16:22:03",
+          "price": 166.52,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-19 00:25:41",
+          "price": 166.52,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ON_2026-04-18",
+      "symbol": "ON",
+      "entry_date": "2026-04-18 00:05:03",
+      "expiry_date": "2026-05-02",
+      "entry_price": 83.01,
+      "current_price": 83.01,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-18 00:05:03",
+          "price": 83.01,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-18 16:22:07",
+          "price": 83.01,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-19 00:25:46",
+          "price": 83.01,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-19 08:33:59",
+          "price": 83.01,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "RVMD_2026-04-18",
+      "symbol": "RVMD",
+      "entry_date": "2026-04-18 00:05:03",
+      "expiry_date": "2026-05-02",
+      "entry_price": 148.63,
+      "current_price": 148.63,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-18 00:05:03",
+          "price": 148.63,
+          "pnl_pct": 0.0
         }
       ]
     }
