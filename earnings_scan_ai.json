@@ -1,40 +1,27 @@
 {
-  "lastUpdated": "2026-04-30T23:04:36.425464",
+  "lastUpdated": "2026-05-03T01:46:11.476524",
   "stocks": [
     {
-      "ticker": "XYL",
-      "company_name": "Xylem Inc",
-      "earnings_date": "2026-05-05",
+      "ticker": "ARES",
+      "company_name": "Ares Management LP",
+      "earnings_date": "2026-05-01",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": "115.40",
-        "rationale": "Low RSI and bullish market outlook for the water pump sector provide technical and fundamental tailwinds for a pre-earnings bounce, despite recent underperformance."
+        "confidence_score": 7,
+        "runup_percentage": 7.5,
+        "favorable_entry_price": "119.04",
+        "rationale": "Strong recent fundraising news provides a positive catalyst, coupled with a healthy RSI and significant upside potential to the target price."
       }
     },
     {
-      "ticker": "ACGL",
-      "company_name": "Arch Capital Group Ltd",
-      "earnings_date": "2026-04-29",
+      "ticker": "CBOE",
+      "company_name": "Cboe Global Markets Inc",
+      "earnings_date": "2026-05-01",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 9,
         "runup_percentage": 0.0,
-        "favorable_entry_price": "92.72",
-        "rationale": "Lacks any specific news or catalysts to drive a pre-earnings run-up, making it a pure speculative gamble without a clear investment thesis for this trade type."
-      }
-    },
-    {
-      "ticker": "ABBV",
-      "company_name": "AbbVie Inc",
-      "earnings_date": "2026-04-29",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": "204.14",
-        "rationale": "Positive news regarding its strong immunology and neuroscience portfolios, coupled with a healthy RSI, suggests potential for a pre-earnings upward trend."
+        "rationale": "The stock is currently trading above its analyst target price, and the RSI is nearing overbought levels with no identifiable positive news catalyst for a pre-earnings run-up."
       }
     }
   ]
