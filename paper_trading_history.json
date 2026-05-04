@@ -1,101 +1,5 @@
 {
   "active_trades": {
-    "CAR_2026-04-20": {
-      "trade_id": "CAR_2026-04-20",
-      "symbol": "CAR",
-      "entry_date": "2026-04-20 00:04:56",
-      "expiry_date": "2026-05-04",
-      "entry_price": 493.86,
-      "current_price": 493.86,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 00:04:56",
-          "price": 493.86,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "AFRM_2026-04-20": {
-      "trade_id": "AFRM_2026-04-20",
-      "symbol": "AFRM",
-      "entry_date": "2026-04-20 00:04:56",
-      "expiry_date": "2026-05-04",
-      "entry_price": 64.5,
-      "current_price": 64.5,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 00:04:56",
-          "price": 64.5,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "MSTR_2026-04-20": {
-      "trade_id": "MSTR_2026-04-20",
-      "symbol": "MSTR",
-      "entry_date": "2026-04-20 00:04:56",
-      "expiry_date": "2026-05-04",
-      "entry_price": 166.52,
-      "current_price": 166.52,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 00:04:56",
-          "price": 166.52,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ON_2026-04-20": {
-      "trade_id": "ON_2026-04-20",
-      "symbol": "ON",
-      "entry_date": "2026-04-20 00:04:56",
-      "expiry_date": "2026-05-04",
-      "entry_price": 83.01,
-      "current_price": 83.01,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 00:04:56",
-          "price": 83.01,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "RVMD_2026-04-20": {
-      "trade_id": "RVMD_2026-04-20",
-      "symbol": "RVMD",
-      "entry_date": "2026-04-20 00:04:56",
-      "expiry_date": "2026-05-04",
-      "entry_price": 148.63,
-      "current_price": 148.63,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 00:04:56",
-          "price": 148.63,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "LCID_2026-04-20": {
-      "trade_id": "LCID_2026-04-20",
-      "symbol": "LCID",
-      "entry_date": "2026-04-20 12:36:31",
-      "expiry_date": "2026-05-04",
-      "entry_price": 6.9,
-      "current_price": 6.9,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-20 12:36:31",
-          "price": 6.9,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CAR_2026-04-21": {
       "trade_id": "CAR_2026-04-21",
       "symbol": "CAR",
@@ -287,7 +191,7 @@
       "entry_date": "2026-04-22 13:33:59",
       "expiry_date": "2026-05-06",
       "entry_price": 88.43,
-      "current_price": 98.4,
+      "current_price": 103.03,
       "status": "OPEN",
       "timeline": [
         {
@@ -299,6 +203,11 @@
           "timestamp": "2026-04-27 14:16:59",
           "price": 98.4,
           "pnl_pct": -11.27
+        },
+        {
+          "timestamp": "2026-05-04 00:19:57",
+          "price": 103.03,
+          "pnl_pct": -16.51
         }
       ]
     },
@@ -557,13 +466,18 @@
       "entry_date": "2026-04-24 13:36:02",
       "expiry_date": "2026-05-08",
       "entry_price": 81.34,
-      "current_price": 81.34,
+      "current_price": 99.62,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-04-24 13:36:02",
           "price": 81.34,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-04 00:20:19",
+          "price": 99.62,
+          "pnl_pct": -22.47
         }
       ]
     },
@@ -2297,6 +2211,102 @@
         {
           "timestamp": "2026-04-18 00:05:03",
           "price": 148.63,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CAR_2026-04-20",
+      "symbol": "CAR",
+      "entry_date": "2026-04-20 00:04:56",
+      "expiry_date": "2026-05-04",
+      "entry_price": 493.86,
+      "current_price": 493.86,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 00:04:56",
+          "price": 493.86,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "AFRM_2026-04-20",
+      "symbol": "AFRM",
+      "entry_date": "2026-04-20 00:04:56",
+      "expiry_date": "2026-05-04",
+      "entry_price": 64.5,
+      "current_price": 64.5,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 00:04:56",
+          "price": 64.5,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "MSTR_2026-04-20",
+      "symbol": "MSTR",
+      "entry_date": "2026-04-20 00:04:56",
+      "expiry_date": "2026-05-04",
+      "entry_price": 166.52,
+      "current_price": 166.52,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 00:04:56",
+          "price": 166.52,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ON_2026-04-20",
+      "symbol": "ON",
+      "entry_date": "2026-04-20 00:04:56",
+      "expiry_date": "2026-05-04",
+      "entry_price": 83.01,
+      "current_price": 83.01,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 00:04:56",
+          "price": 83.01,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "RVMD_2026-04-20",
+      "symbol": "RVMD",
+      "entry_date": "2026-04-20 00:04:56",
+      "expiry_date": "2026-05-04",
+      "entry_price": 148.63,
+      "current_price": 148.63,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 00:04:56",
+          "price": 148.63,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "LCID_2026-04-20",
+      "symbol": "LCID",
+      "entry_date": "2026-04-20 12:36:31",
+      "expiry_date": "2026-05-04",
+      "entry_price": 6.9,
+      "current_price": 6.9,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-20 12:36:31",
+          "price": 6.9,
           "pnl_pct": 0.0
         }
       ]
