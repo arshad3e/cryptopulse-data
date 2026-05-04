@@ -1,11 +1,11 @@
 {
-  "scan_timestamp": "2026-05-03 01:28:10",
+  "scan_timestamp": "2026-05-04 00:15:33",
   "market_open": false,
   "total_scanned": 548,
   "matches_found": 14,
   "summary": {
     "calls": 4,
-    "puts": 22,
+    "puts": 23,
     "top10_calls": 4,
     "top10_puts": 10,
     "strong_signals": 14
