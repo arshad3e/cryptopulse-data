@@ -1,28 +1,4 @@
 {
-  "lastUpdated": "2026-05-03T01:46:11.476524",
-  "stocks": [
-    {
-      "ticker": "ARES",
-      "company_name": "Ares Management LP",
-      "earnings_date": "2026-05-01",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 7.5,
-        "favorable_entry_price": "119.04",
-        "rationale": "Strong recent fundraising news provides a positive catalyst, coupled with a healthy RSI and significant upside potential to the target price."
-      }
-    },
-    {
-      "ticker": "CBOE",
-      "company_name": "Cboe Global Markets Inc",
-      "earnings_date": "2026-05-01",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": 0.0,
-        "rationale": "The stock is currently trading above its analyst target price, and the RSI is nearing overbought levels with no identifiable positive news catalyst for a pre-earnings run-up."
-      }
-    }
-  ]
+  "lastUpdated": "2026-05-06T04:33:15.767069",
+  "stocks": []
 }
