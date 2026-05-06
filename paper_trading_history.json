@@ -1056,6 +1056,86 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "AMD_2026-05-06": {
+      "trade_id": "AMD_2026-05-06",
+      "symbol": "AMD",
+      "entry_date": "2026-05-06 14:44:50",
+      "expiry_date": "2026-05-20",
+      "entry_price": 422.75,
+      "current_price": 422.75,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-06 14:44:50",
+          "price": 422.75,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DVA_2026-05-06": {
+      "trade_id": "DVA_2026-05-06",
+      "symbol": "DVA",
+      "entry_date": "2026-05-06 14:44:50",
+      "expiry_date": "2026-05-20",
+      "entry_price": 189.35,
+      "current_price": 189.35,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-06 14:44:50",
+          "price": 189.35,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MU_2026-05-06": {
+      "trade_id": "MU_2026-05-06",
+      "symbol": "MU",
+      "entry_date": "2026-05-06 14:44:50",
+      "expiry_date": "2026-05-20",
+      "entry_price": 657.58,
+      "current_price": 657.58,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-06 14:44:50",
+          "price": 657.58,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "COR_2026-05-06": {
+      "trade_id": "COR_2026-05-06",
+      "symbol": "COR",
+      "entry_date": "2026-05-06 14:44:50",
+      "expiry_date": "2026-05-20",
+      "entry_price": 251.82,
+      "current_price": 251.82,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-06 14:44:50",
+          "price": 251.82,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "RIOT_2026-05-06": {
+      "trade_id": "RIOT_2026-05-06",
+      "symbol": "RIOT",
+      "entry_date": "2026-05-06 14:44:50",
+      "expiry_date": "2026-05-20",
+      "entry_price": 23.55,
+      "current_price": 23.55,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-06 14:44:50",
+          "price": 23.55,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
