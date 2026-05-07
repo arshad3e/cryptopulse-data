@@ -935,13 +935,18 @@
       "entry_date": "2026-05-03 01:28:10",
       "expiry_date": "2026-05-17",
       "entry_price": 726.93,
-      "current_price": 726.93,
+      "current_price": 786.42,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-03 01:28:10",
           "price": 726.93,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-06 23:12:56",
+          "price": 786.42,
+          "pnl_pct": -8.18
         }
       ]
     },
