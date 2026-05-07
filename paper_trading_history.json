@@ -1131,6 +1131,70 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "ZTS_2026-05-07": {
+      "trade_id": "ZTS_2026-05-07",
+      "symbol": "ZTS",
+      "entry_date": "2026-05-07 15:02:25",
+      "expiry_date": "2026-05-21",
+      "entry_price": 89.11,
+      "current_price": 89.11,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-07 15:02:25",
+          "price": 89.11,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "FTNT_2026-05-07": {
+      "trade_id": "FTNT_2026-05-07",
+      "symbol": "FTNT",
+      "entry_date": "2026-05-07 15:02:25",
+      "expiry_date": "2026-05-21",
+      "entry_price": 107.46,
+      "current_price": 107.46,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-07 15:02:25",
+          "price": 107.46,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DDOG_2026-05-07": {
+      "trade_id": "DDOG_2026-05-07",
+      "symbol": "DDOG",
+      "entry_date": "2026-05-07 15:02:25",
+      "expiry_date": "2026-05-21",
+      "entry_price": 184.92,
+      "current_price": 184.92,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-07 15:02:25",
+          "price": 184.92,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "INSM_2026-05-07": {
+      "trade_id": "INSM_2026-05-07",
+      "symbol": "INSM",
+      "entry_date": "2026-05-07 15:02:25",
+      "expiry_date": "2026-05-21",
+      "entry_price": 108.8,
+      "current_price": 108.8,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-07 15:02:25",
+          "price": 108.8,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
