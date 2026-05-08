@@ -1169,6 +1169,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "INTC_2026-05-08": {
+      "trade_id": "INTC_2026-05-08",
+      "symbol": "INTC",
+      "entry_date": "2026-05-08 15:56:28",
+      "expiry_date": "2026-05-22",
+      "entry_price": 124.85,
+      "current_price": 124.85,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-08 15:56:28",
+          "price": 124.85,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
