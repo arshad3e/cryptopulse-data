@@ -1,4 +1,17 @@
 {
-  "lastUpdated": "2026-05-06T04:33:15.767069",
-  "stocks": []
+  "lastUpdated": "2026-05-09T06:07:29.989134",
+  "stocks": [
+    {
+      "ticker": "ABNB",
+      "company_name": "Airbnb\u00a0Inc",
+      "earnings_date": "2026-05-07",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 9,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "140.46",
+        "rationale": "Significant insider selling from both the CFO and a major trust creates strong bearish sentiment likely to negate any pre-earnings run-up."
+      }
+    }
+  ]
 }
