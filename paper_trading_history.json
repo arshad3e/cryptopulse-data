@@ -1,164 +1,5 @@
 {
   "active_trades": {
-    "ARM_2026-04-27": {
-      "trade_id": "ARM_2026-04-27",
-      "symbol": "ARM",
-      "entry_date": "2026-04-27 00:03:22",
-      "expiry_date": "2026-05-11",
-      "entry_price": 234.81,
-      "current_price": 234.81,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 00:03:22",
-          "price": 234.81,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "AMD_2026-04-27": {
-      "trade_id": "AMD_2026-04-27",
-      "symbol": "AMD",
-      "entry_date": "2026-04-27 00:03:22",
-      "expiry_date": "2026-05-11",
-      "entry_price": 347.81,
-      "current_price": 347.81,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 00:03:22",
-          "price": 347.81,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "LMT_2026-04-27": {
-      "trade_id": "LMT_2026-04-27",
-      "symbol": "LMT",
-      "entry_date": "2026-04-27 00:03:22",
-      "expiry_date": "2026-05-11",
-      "entry_price": 513.45,
-      "current_price": 513.45,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 00:03:22",
-          "price": 513.45,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ON_2026-04-27": {
-      "trade_id": "ON_2026-04-27",
-      "symbol": "ON",
-      "entry_date": "2026-04-27 00:03:22",
-      "expiry_date": "2026-05-11",
-      "entry_price": 98.4,
-      "current_price": 103.2,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 00:03:22",
-          "price": 98.4,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:57:42",
-          "price": 103.2,
-          "pnl_pct": -4.88
-        }
-      ]
-    },
-    "NOC_2026-04-27": {
-      "trade_id": "NOC_2026-04-27",
-      "symbol": "NOC",
-      "entry_date": "2026-04-27 00:03:22",
-      "expiry_date": "2026-05-11",
-      "entry_price": 575.11,
-      "current_price": 575.11,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 00:03:22",
-          "price": 575.11,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "TSCO_2026-04-27": {
-      "trade_id": "TSCO_2026-04-27",
-      "symbol": "TSCO",
-      "entry_date": "2026-04-27 12:35:42",
-      "expiry_date": "2026-05-11",
-      "entry_price": 35.89,
-      "current_price": 30.65,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 12:35:42",
-          "price": 35.89,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:57:49",
-          "price": 30.65,
-          "pnl_pct": 14.6
-        }
-      ]
-    },
-    "INTC_2026-04-27": {
-      "trade_id": "INTC_2026-04-27",
-      "symbol": "INTC",
-      "entry_date": "2026-04-27 12:35:42",
-      "expiry_date": "2026-05-11",
-      "entry_price": 83.83,
-      "current_price": 124.92,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 12:35:42",
-          "price": 83.83,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:57:55",
-          "price": 124.92,
-          "pnl_pct": -49.02
-        }
-      ]
-    },
-    "DPZ_2026-04-27": {
-      "trade_id": "DPZ_2026-04-27",
-      "symbol": "DPZ",
-      "entry_date": "2026-04-27 12:35:42",
-      "expiry_date": "2026-05-11",
-      "entry_price": 331.96,
-      "current_price": 331.96,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 12:35:42",
-          "price": 331.96,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "RTX_2026-04-27": {
-      "trade_id": "RTX_2026-04-27",
-      "symbol": "RTX",
-      "entry_date": "2026-04-27 12:35:42",
-      "expiry_date": "2026-05-11",
-      "entry_price": 174.3,
-      "current_price": 174.3,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-27 12:35:42",
-          "price": 174.3,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CNC_2026-04-28": {
       "trade_id": "CNC_2026-04-28",
       "symbol": "CNC",
@@ -2999,6 +2840,165 @@
           "timestamp": "2026-04-29 08:23:07",
           "price": 577.82,
           "pnl_pct": -0.47
+        }
+      ]
+    },
+    {
+      "trade_id": "ARM_2026-04-27",
+      "symbol": "ARM",
+      "entry_date": "2026-04-27 00:03:22",
+      "expiry_date": "2026-05-11",
+      "entry_price": 234.81,
+      "current_price": 234.81,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 00:03:22",
+          "price": 234.81,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "AMD_2026-04-27",
+      "symbol": "AMD",
+      "entry_date": "2026-04-27 00:03:22",
+      "expiry_date": "2026-05-11",
+      "entry_price": 347.81,
+      "current_price": 347.81,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 00:03:22",
+          "price": 347.81,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "LMT_2026-04-27",
+      "symbol": "LMT",
+      "entry_date": "2026-04-27 00:03:22",
+      "expiry_date": "2026-05-11",
+      "entry_price": 513.45,
+      "current_price": 513.45,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 00:03:22",
+          "price": 513.45,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ON_2026-04-27",
+      "symbol": "ON",
+      "entry_date": "2026-04-27 00:03:22",
+      "expiry_date": "2026-05-11",
+      "entry_price": 98.4,
+      "current_price": 103.2,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 00:03:22",
+          "price": 98.4,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:57:42",
+          "price": 103.2,
+          "pnl_pct": -4.88
+        }
+      ]
+    },
+    {
+      "trade_id": "NOC_2026-04-27",
+      "symbol": "NOC",
+      "entry_date": "2026-04-27 00:03:22",
+      "expiry_date": "2026-05-11",
+      "entry_price": 575.11,
+      "current_price": 575.11,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 00:03:22",
+          "price": 575.11,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "TSCO_2026-04-27",
+      "symbol": "TSCO",
+      "entry_date": "2026-04-27 12:35:42",
+      "expiry_date": "2026-05-11",
+      "entry_price": 35.89,
+      "current_price": 30.65,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 12:35:42",
+          "price": 35.89,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:57:49",
+          "price": 30.65,
+          "pnl_pct": 14.6
+        }
+      ]
+    },
+    {
+      "trade_id": "INTC_2026-04-27",
+      "symbol": "INTC",
+      "entry_date": "2026-04-27 12:35:42",
+      "expiry_date": "2026-05-11",
+      "entry_price": 83.83,
+      "current_price": 124.92,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 12:35:42",
+          "price": 83.83,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:57:55",
+          "price": 124.92,
+          "pnl_pct": -49.02
+        }
+      ]
+    },
+    {
+      "trade_id": "DPZ_2026-04-27",
+      "symbol": "DPZ",
+      "entry_date": "2026-04-27 12:35:42",
+      "expiry_date": "2026-05-11",
+      "entry_price": 331.96,
+      "current_price": 331.96,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 12:35:42",
+          "price": 331.96,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "RTX_2026-04-27",
+      "symbol": "RTX",
+      "entry_date": "2026-04-27 12:35:42",
+      "expiry_date": "2026-05-11",
+      "entry_price": 174.3,
+      "current_price": 174.3,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-27 12:35:42",
+          "price": 174.3,
+          "pnl_pct": 0.0
         }
       ]
     }
