@@ -1,90 +1,5 @@
 {
   "active_trades": {
-    "CNC_2026-04-28": {
-      "trade_id": "CNC_2026-04-28",
-      "symbol": "CNC",
-      "entry_date": "2026-04-28 13:34:30",
-      "expiry_date": "2026-05-12",
-      "entry_price": 49.28,
-      "current_price": 49.28,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-28 13:34:30",
-          "price": 49.28,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ZBH_2026-04-28": {
-      "trade_id": "ZBH_2026-04-28",
-      "symbol": "ZBH",
-      "entry_date": "2026-04-28 13:34:30",
-      "expiry_date": "2026-05-12",
-      "entry_price": 83.25,
-      "current_price": 83.25,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-28 13:34:30",
-          "price": 83.25,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "TSCO_2026-04-28": {
-      "trade_id": "TSCO_2026-04-28",
-      "symbol": "TSCO",
-      "entry_date": "2026-04-28 13:34:30",
-      "expiry_date": "2026-05-12",
-      "entry_price": 35.6,
-      "current_price": 35.6,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-28 13:34:30",
-          "price": 35.6,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "CHTR_2026-04-28": {
-      "trade_id": "CHTR_2026-04-28",
-      "symbol": "CHTR",
-      "entry_date": "2026-04-28 13:34:30",
-      "expiry_date": "2026-05-12",
-      "entry_price": 173.07,
-      "current_price": 173.11,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-28 13:34:30",
-          "price": 173.07,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-04-29 08:23:25",
-          "price": 173.11,
-          "pnl_pct": -0.02
-        }
-      ]
-    },
-    "LCID_2026-04-28": {
-      "trade_id": "LCID_2026-04-28",
-      "symbol": "LCID",
-      "entry_date": "2026-04-28 13:34:30",
-      "expiry_date": "2026-05-12",
-      "entry_price": 5.89,
-      "current_price": 5.89,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-28 13:34:30",
-          "price": 5.89,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CNC_2026-04-29": {
       "trade_id": "CNC_2026-04-29",
       "symbol": "CNC",
@@ -2998,6 +2913,91 @@
         {
           "timestamp": "2026-04-27 12:35:42",
           "price": 174.3,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CNC_2026-04-28",
+      "symbol": "CNC",
+      "entry_date": "2026-04-28 13:34:30",
+      "expiry_date": "2026-05-12",
+      "entry_price": 49.28,
+      "current_price": 49.28,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-28 13:34:30",
+          "price": 49.28,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ZBH_2026-04-28",
+      "symbol": "ZBH",
+      "entry_date": "2026-04-28 13:34:30",
+      "expiry_date": "2026-05-12",
+      "entry_price": 83.25,
+      "current_price": 83.25,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-28 13:34:30",
+          "price": 83.25,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "TSCO_2026-04-28",
+      "symbol": "TSCO",
+      "entry_date": "2026-04-28 13:34:30",
+      "expiry_date": "2026-05-12",
+      "entry_price": 35.6,
+      "current_price": 35.6,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-28 13:34:30",
+          "price": 35.6,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CHTR_2026-04-28",
+      "symbol": "CHTR",
+      "entry_date": "2026-04-28 13:34:30",
+      "expiry_date": "2026-05-12",
+      "entry_price": 173.07,
+      "current_price": 173.11,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-28 13:34:30",
+          "price": 173.07,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-04-29 08:23:25",
+          "price": 173.11,
+          "pnl_pct": -0.02
+        }
+      ]
+    },
+    {
+      "trade_id": "LCID_2026-04-28",
+      "symbol": "LCID",
+      "entry_date": "2026-04-28 13:34:30",
+      "expiry_date": "2026-05-12",
+      "entry_price": 5.89,
+      "current_price": 5.89,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-28 13:34:30",
+          "price": 5.89,
           "pnl_pct": 0.0
         }
       ]
