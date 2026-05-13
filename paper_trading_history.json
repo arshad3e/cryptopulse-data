@@ -1,122 +1,5 @@
 {
   "active_trades": {
-    "CNC_2026-04-29": {
-      "trade_id": "CNC_2026-04-29",
-      "symbol": "CNC",
-      "entry_date": "2026-04-29 11:32:13",
-      "expiry_date": "2026-05-13",
-      "entry_price": 53.24,
-      "current_price": 53.24,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 11:32:13",
-          "price": 53.24,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "NXPI_2026-04-29": {
-      "trade_id": "NXPI_2026-04-29",
-      "symbol": "NXPI",
-      "entry_date": "2026-04-29 11:32:13",
-      "expiry_date": "2026-05-13",
-      "entry_price": 285.58,
-      "current_price": 295.24,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 11:32:13",
-          "price": 285.58,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-04 05:32:20",
-          "price": 295.24,
-          "pnl_pct": -3.38
-        }
-      ]
-    },
-    "INTC_2026-04-29": {
-      "trade_id": "INTC_2026-04-29",
-      "symbol": "INTC",
-      "entry_date": "2026-04-29 11:32:13",
-      "expiry_date": "2026-05-13",
-      "entry_price": 93.72,
-      "current_price": 93.72,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 11:32:13",
-          "price": 93.72,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "GEHC_2026-04-29": {
-      "trade_id": "GEHC_2026-04-29",
-      "symbol": "GEHC",
-      "entry_date": "2026-04-29 11:32:13",
-      "expiry_date": "2026-05-13",
-      "entry_price": 59.4,
-      "current_price": 59.4,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 11:32:13",
-          "price": 59.4,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "STX_2026-04-29": {
-      "trade_id": "STX_2026-04-29",
-      "symbol": "STX",
-      "entry_date": "2026-04-29 11:32:13",
-      "expiry_date": "2026-05-13",
-      "entry_price": 666.43,
-      "current_price": 666.43,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 11:32:13",
-          "price": 666.43,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "NOK_2026-04-29": {
-      "trade_id": "NOK_2026-04-29",
-      "symbol": "NOK",
-      "entry_date": "2026-04-29 12:32:37",
-      "expiry_date": "2026-05-13",
-      "entry_price": 12.27,
-      "current_price": 12.27,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 12:32:37",
-          "price": 12.27,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "PODD_2026-04-29": {
-      "trade_id": "PODD_2026-04-29",
-      "symbol": "PODD",
-      "entry_date": "2026-04-29 14:33:30",
-      "expiry_date": "2026-05-13",
-      "entry_price": 161.72,
-      "current_price": 161.72,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-04-29 14:33:30",
-          "price": 161.72,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CNC_2026-04-30": {
       "trade_id": "CNC_2026-04-30",
       "symbol": "CNC",
@@ -2998,6 +2881,123 @@
         {
           "timestamp": "2026-04-28 13:34:30",
           "price": 5.89,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CNC_2026-04-29",
+      "symbol": "CNC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 53.24,
+      "current_price": 53.24,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 53.24,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "NXPI_2026-04-29",
+      "symbol": "NXPI",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 285.58,
+      "current_price": 295.24,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 285.58,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-04 05:32:20",
+          "price": 295.24,
+          "pnl_pct": -3.38
+        }
+      ]
+    },
+    {
+      "trade_id": "INTC_2026-04-29",
+      "symbol": "INTC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 93.72,
+      "current_price": 93.72,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 93.72,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "GEHC_2026-04-29",
+      "symbol": "GEHC",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 59.4,
+      "current_price": 59.4,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 59.4,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "STX_2026-04-29",
+      "symbol": "STX",
+      "entry_date": "2026-04-29 11:32:13",
+      "expiry_date": "2026-05-13",
+      "entry_price": 666.43,
+      "current_price": 666.43,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 11:32:13",
+          "price": 666.43,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "NOK_2026-04-29",
+      "symbol": "NOK",
+      "entry_date": "2026-04-29 12:32:37",
+      "expiry_date": "2026-05-13",
+      "entry_price": 12.27,
+      "current_price": 12.27,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 12:32:37",
+          "price": 12.27,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "PODD_2026-04-29",
+      "symbol": "PODD",
+      "entry_date": "2026-04-29 14:33:30",
+      "expiry_date": "2026-05-13",
+      "entry_price": 161.72,
+      "current_price": 161.72,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-04-29 14:33:30",
+          "price": 161.72,
           "pnl_pct": 0.0
         }
       ]
