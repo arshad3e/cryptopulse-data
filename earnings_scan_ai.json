@@ -1,76 +1,28 @@
 {
-  "lastUpdated": "2026-05-11T10:46:10.449964",
+  "lastUpdated": "2026-05-13T05:17:39.340201",
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company_name": "NVIDIA Corporation",
-      "earnings_date": "2026-05-20",
+      "ticker": "AMRZ",
+      "company_name": "Amrize Ltd",
+      "earnings_date": "2026-05-14",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": "215.20",
-        "rationale": "Strong target upside and a healthy RSI below overbought levels suggest significant room for a pre-earnings run-up, leveraging general tech momentum."
-      }
-    },
-    {
-      "ticker": "NTR",
-      "company_name": "Nutrien Ltd",
-      "earnings_date": "2026-05-13",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": 1.0,
-        "favorable_entry_price": "68.33",
-        "rationale": "A low RSI and recent news indicating underperformance suggest weak short-term momentum, making a pre-earnings run-up unlikely despite decent target upside."
-      }
-    },
-    {
-      "ticker": "WMT",
-      "company_name": "Walmart Inc.",
-      "earnings_date": "2026-05-21",
-      "ai_decision": {
-        "decision": "Bad Idea",
         "confidence_score": 6,
-        "runup_percentage": 2.0,
-        "favorable_entry_price": "130.43",
-        "rationale": "Modest target upside, neutral specific news, and the stable nature of consumer staples limit the potential for a significant pre-earnings run-up."
+        "runup_percentage": 6.0,
+        "favorable_entry_price": "52.34",
+        "rationale": "RSI shows significant room for upward movement, and the substantial target price offers considerable pre-earnings run-up potential, despite neutral recent news."
       }
     },
     {
-      "ticker": "WDAY",
-      "company_name": "Workday Inc",
-      "earnings_date": "2026-05-21",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 5.5,
-        "favorable_entry_price": "127.83",
-        "rationale": "Substantial target upside and a healthy RSI indicate strong potential for a pre-earnings re-rating or rebound, despite mixed sector-level sentiment."
-      }
-    },
-    {
-      "ticker": "TTWO",
-      "company_name": "Take-Two Interactive Software Inc",
-      "earnings_date": "2026-05-21",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 6.5,
-        "favorable_entry_price": "220.45",
-        "rationale": "Significant target upside, healthy RSI, and a 'Moderate Buy' rating from brokerages provide a solid foundation for a pre-earnings run-up in the gaming sector."
-      }
-    },
-    {
-      "ticker": "ZM",
-      "company_name": "Zoom Video Communications Inc",
-      "earnings_date": "2026-05-21",
+      "ticker": "AMAT",
+      "company_name": "Applied Materials Inc",
+      "earnings_date": "2026-05-14",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 9,
-        "runup_percentage": -5.0,
-        "favorable_entry_price": "109.21",
-        "rationale": "An overbought RSI and a target price significantly below the current price strongly indicate a potential pre-earnings pullback rather than a run-up."
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "431.20",
+        "rationale": "The extremely limited upside to the target price and recent explicitly bearish news make a pre-earnings run-up highly unlikely and unfavorable for a short-term trade."
       }
     }
   ]
