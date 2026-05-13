@@ -954,6 +954,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "PANW_2026-05-13": {
+      "trade_id": "PANW_2026-05-13",
+      "symbol": "PANW",
+      "entry_date": "2026-05-13 15:15:12",
+      "expiry_date": "2026-05-27",
+      "entry_price": 226.3,
+      "current_price": 226.3,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-13 15:15:12",
+          "price": 226.3,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
