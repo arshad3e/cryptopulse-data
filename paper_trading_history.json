@@ -891,6 +891,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "COHR_2026-05-14": {
+      "trade_id": "COHR_2026-05-14",
+      "symbol": "COHR",
+      "entry_date": "2026-05-14 13:15:39",
+      "expiry_date": "2026-05-28",
+      "entry_price": 405.75,
+      "current_price": 405.75,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-14 13:15:39",
+          "price": 405.75,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
