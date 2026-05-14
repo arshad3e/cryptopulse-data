@@ -907,6 +907,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CRWD_2026-05-14": {
+      "trade_id": "CRWD_2026-05-14",
+      "symbol": "CRWD",
+      "entry_date": "2026-05-14 13:17:43",
+      "expiry_date": "2026-05-28",
+      "entry_price": 576.87,
+      "current_price": 576.87,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-14 13:17:43",
+          "price": 576.87,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
