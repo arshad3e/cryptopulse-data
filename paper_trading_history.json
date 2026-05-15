@@ -132,13 +132,18 @@
       "entry_date": "2026-05-05 09:55:05",
       "expiry_date": "2026-05-19",
       "entry_price": 192.63,
-      "current_price": 192.63,
+      "current_price": 198.04,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-05 09:55:05",
           "price": 192.63,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 12:23:56",
+          "price": 198.04,
+          "pnl_pct": -2.81
         }
       ]
     },
@@ -714,13 +719,18 @@
       "entry_date": "2026-05-10 00:04:46",
       "expiry_date": "2026-05-24",
       "entry_price": 114.07,
-      "current_price": 114.07,
+      "current_price": 121.86,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-10 00:04:46",
           "price": 114.07,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 12:24:38",
+          "price": 121.86,
+          "pnl_pct": -6.83
         }
       ]
     },
@@ -1055,6 +1065,38 @@
         {
           "timestamp": "2026-05-15 00:05:22",
           "price": 242.41,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CNC_2026-05-15": {
+      "trade_id": "CNC_2026-05-15",
+      "symbol": "CNC",
+      "entry_date": "2026-05-15 11:43:09",
+      "expiry_date": "2026-05-29",
+      "entry_price": 58.48,
+      "current_price": 58.48,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-15 11:43:09",
+          "price": 58.48,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "TXN_2026-05-15": {
+      "trade_id": "TXN_2026-05-15",
+      "symbol": "TXN",
+      "entry_date": "2026-05-15 11:43:09",
+      "expiry_date": "2026-05-29",
+      "entry_price": 305.83,
+      "current_price": 305.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-15 11:43:09",
+          "price": 305.83,
           "pnl_pct": 0.0
         }
       ]
