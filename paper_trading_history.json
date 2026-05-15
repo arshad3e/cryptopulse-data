@@ -343,13 +343,18 @@
       "entry_date": "2026-05-07 00:48:46",
       "expiry_date": "2026-05-21",
       "entry_price": 1409.98,
-      "current_price": 1409.98,
+      "current_price": 1382.72,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-07 00:48:46",
           "price": 1409.98,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 13:59:11",
+          "price": 1382.72,
+          "pnl_pct": 1.93
         }
       ]
     },
@@ -1017,13 +1022,18 @@
       "entry_date": "2026-05-14 11:28:40",
       "expiry_date": "2026-05-28",
       "entry_price": 157.76,
-      "current_price": 157.76,
+      "current_price": 155.67,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-14 11:28:40",
           "price": 157.76,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 14:00:09",
+          "price": 155.67,
+          "pnl_pct": 1.32
         }
       ]
     },
@@ -1033,13 +1043,18 @@
       "entry_date": "2026-05-14 13:15:39",
       "expiry_date": "2026-05-28",
       "entry_price": 405.75,
-      "current_price": 405.75,
+      "current_price": 404.94,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-14 13:15:39",
           "price": 405.75,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 14:00:12",
+          "price": 404.94,
+          "pnl_pct": 0.2
         }
       ]
     },
@@ -1188,6 +1203,22 @@
         {
           "timestamp": "2026-05-15 12:44:00",
           "price": 589.66,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HUM_2026-05-15": {
+      "trade_id": "HUM_2026-05-15",
+      "symbol": "HUM",
+      "entry_date": "2026-05-15 13:44:22",
+      "expiry_date": "2026-05-29",
+      "entry_price": 307.29,
+      "current_price": 307.29,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-15 13:44:22",
+          "price": 307.29,
           "pnl_pct": 0.0
         }
       ]
