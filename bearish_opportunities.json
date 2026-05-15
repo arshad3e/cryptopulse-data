@@ -1,5 +1,5 @@
 {
-  "scan_timestamp": "2026-05-14 17:27:41",
+  "scan_timestamp": "2026-05-15 00:02:05",
   "market_open": false,
   "total_scanned": 547,
   "matches_found": 18,
@@ -39,13 +39,13 @@
       "dist_sma20_pct": -19.8,
       "dist_sma50_pct": -28.6,
       "dist_sma200_pct": -44.9,
-      "vol_ratio": 1.27,
+      "vol_ratio": 1.28,
       "atr_pct": 5.65,
       "consec_days": -10,
       "zscore_20d": -1.67,
       "one_week_chg_pct": -14.0,
       "one_month_chg_pct": -30.2,
-      "avg_volume": 1700308,
+      "avg_volume": 1701520,
       "data_source": "yfinance"
     },
     {
@@ -80,7 +80,7 @@
       "zscore_20d": -1.65,
       "one_week_chg_pct": -13.5,
       "one_month_chg_pct": -37.2,
-      "avg_volume": 7889043,
+      "avg_volume": 7889100,
       "data_source": "yfinance"
     },
     {
@@ -109,13 +109,13 @@
       "dist_sma20_pct": -5.0,
       "dist_sma50_pct": -16.0,
       "dist_sma200_pct": -11.2,
-      "vol_ratio": 0.59,
+      "vol_ratio": 0.62,
       "atr_pct": 2.28,
       "consec_days": -2,
       "zscore_20d": -0.88,
       "one_week_chg_pct": -0.7,
       "one_month_chg_pct": -19.1,
-      "avg_volume": 840215,
+      "avg_volume": 841480,
       "data_source": "yfinance"
     },
     {
@@ -144,13 +144,46 @@
       "dist_sma20_pct": -15.2,
       "dist_sma50_pct": -15.6,
       "dist_sma200_pct": -31.3,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.93,
       "atr_pct": 4.38,
       "consec_days": -5,
       "zscore_20d": -1.48,
       "one_week_chg_pct": -8.0,
       "one_month_chg_pct": -22.7,
-      "avg_volume": 967771,
+      "avg_volume": 969475,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "TSCO",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 3,
+      "price": 30.49,
+      "signals": [
+        "RSI oversold (21.1)",
+        "Stoch hook \u2191 from extreme (8)",
+        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
+      ],
+      "bonus_factors": [
+        "RSI oversold (21.1)",
+        "Stoch hook \u2191 from extreme (8)",
+        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
+      ],
+      "rsi": 21.05,
+      "stoch_k": 7.99,
+      "bb_position": 0.252,
+      "dist_sma20_pct": -12.8,
+      "dist_sma50_pct": -27.1,
+      "dist_sma200_pct": -40.9,
+      "vol_ratio": 0.72,
+      "atr_pct": 3.97,
+      "consec_days": 1,
+      "zscore_20d": -0.99,
+      "one_week_chg_pct": -3.9,
+      "one_month_chg_pct": -31.9,
+      "avg_volume": 14139885,
       "data_source": "yfinance"
     },
     {
@@ -183,46 +216,13 @@
       "dist_sma20_pct": -12.7,
       "dist_sma50_pct": -13.6,
       "dist_sma200_pct": -37.6,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.11,
       "atr_pct": 6.24,
       "consec_days": -5,
       "zscore_20d": -2.65,
       "one_week_chg_pct": -15.3,
       "one_month_chg_pct": -13.2,
-      "avg_volume": 2146302,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "TSCO",
-      "direction": "CALL",
-      "conviction": "MODERATE",
-      "probability_score": 71.1,
-      "score": 12,
-      "signal_count": 3,
-      "price": 30.49,
-      "signals": [
-        "RSI oversold (21.1)",
-        "Stoch hook \u2191 from extreme (8)",
-        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
-      ],
-      "bonus_factors": [
-        "RSI oversold (21.1)",
-        "Stoch hook \u2191 from extreme (8)",
-        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
-      ],
-      "rsi": 21.05,
-      "stoch_k": 7.99,
-      "bb_position": 0.252,
-      "dist_sma20_pct": -12.8,
-      "dist_sma50_pct": -27.1,
-      "dist_sma200_pct": -40.9,
-      "vol_ratio": 0.69,
-      "atr_pct": 3.97,
-      "consec_days": 1,
-      "zscore_20d": -0.99,
-      "one_week_chg_pct": -3.9,
-      "one_month_chg_pct": -31.9,
-      "avg_volume": 14116656,
+      "avg_volume": 2147480,
       "data_source": "yfinance"
     },
     {
@@ -253,13 +253,13 @@
       "dist_sma20_pct": -10.3,
       "dist_sma50_pct": -14.1,
       "dist_sma200_pct": -18.0,
-      "vol_ratio": 2.1,
+      "vol_ratio": 2.11,
       "atr_pct": 3.22,
       "consec_days": -2,
       "zscore_20d": -2.66,
       "one_week_chg_pct": -8.2,
       "one_month_chg_pct": -12.6,
-      "avg_volume": 1073077,
+      "avg_volume": 1073630,
       "data_source": "yfinance"
     },
     {
@@ -292,7 +292,7 @@
       "zscore_20d": -1.66,
       "one_week_chg_pct": -11.3,
       "one_month_chg_pct": -23.7,
-      "avg_volume": 7156157,
+      "avg_volume": 7158450,
       "data_source": "yfinance"
     }
   ],
@@ -335,13 +335,13 @@
       "dist_sma20_pct": 24.1,
       "dist_sma50_pct": 35.9,
       "dist_sma200_pct": 52.5,
-      "vol_ratio": 3.0,
+      "vol_ratio": 3.03,
       "atr_pct": 3.13,
       "consec_days": 6,
       "zscore_20d": 3.3,
       "one_week_chg_pct": 25.4,
       "one_month_chg_pct": 40.3,
-      "avg_volume": 23386423,
+      "avg_volume": 23417930,
       "data_source": "yfinance"
     },
     {
@@ -376,13 +376,13 @@
       "dist_sma20_pct": 17.5,
       "dist_sma50_pct": 20.8,
       "dist_sma200_pct": 17.8,
-      "vol_ratio": 3.16,
+      "vol_ratio": 3.19,
       "atr_pct": 3.69,
       "consec_days": 3,
       "zscore_20d": 3.1,
       "one_week_chg_pct": 20.4,
       "one_month_chg_pct": 15.4,
-      "avg_volume": 58522679,
+      "avg_volume": 58607775,
       "data_source": "yfinance"
     },
     {
@@ -423,7 +423,7 @@
       "zscore_20d": 2.06,
       "one_week_chg_pct": 17.7,
       "one_month_chg_pct": 63.4,
-      "avg_volume": 13952208,
+      "avg_volume": 13952350,
       "data_source": "yfinance"
     },
     {
@@ -458,13 +458,13 @@
       "dist_sma20_pct": 25.3,
       "dist_sma50_pct": 36.9,
       "dist_sma200_pct": 28.5,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.47,
       "atr_pct": 3.75,
       "consec_days": 6,
       "zscore_20d": 2.43,
       "one_week_chg_pct": 21.2,
       "one_month_chg_pct": 45.2,
-      "avg_volume": 7036158,
+      "avg_volume": 7048550,
       "data_source": "yfinance"
     },
     {
@@ -497,13 +497,13 @@
       "dist_sma20_pct": 20.7,
       "dist_sma50_pct": 32.1,
       "dist_sma200_pct": 26.1,
-      "vol_ratio": 0.99,
+      "vol_ratio": 1.01,
       "atr_pct": 3.66,
       "consec_days": 6,
       "zscore_20d": 2.15,
       "one_week_chg_pct": 14.7,
       "one_month_chg_pct": 41.1,
-      "avg_volume": 2777423,
+      "avg_volume": 2780920,
       "data_source": "yfinance"
     },
     {
@@ -518,7 +518,7 @@
         "RSI overbought (76.6)",
         "Above Bollinger upper band (1.18)",
         "PARABOLIC +32.9% above SMA50 \u2014 mean-reversion due",
-        "Elevated vol on up day (2.1x)",
+        "Elevated vol on up day (2.2x)",
         "Z-score +2.7\u03c3 above 20d mean",
         "Gap-up open +5.1%",
         "+46.0% above SMA200"
@@ -527,7 +527,7 @@
         "RSI overbought (76.6)",
         "Above Bollinger upper band (1.18)",
         "PARABOLIC +32.9% above SMA50 \u2014 mean-reversion due",
-        "Elevated vol on up day (2.1x)",
+        "Elevated vol on up day (2.2x)",
         "Z-score +2.7\u03c3 above 20d mean",
         "Gap-up open +5.1%",
         "+46.0% above SMA200"
@@ -538,13 +538,13 @@
       "dist_sma20_pct": 16.2,
       "dist_sma50_pct": 32.9,
       "dist_sma200_pct": 46.0,
-      "vol_ratio": 2.06,
+      "vol_ratio": 2.19,
       "atr_pct": 3.67,
       "consec_days": 2,
       "zscore_20d": 2.7,
       "one_week_chg_pct": 14.9,
       "one_month_chg_pct": 38.6,
-      "avg_volume": 15654812,
+      "avg_volume": 15777265,
       "data_source": "yfinance"
     },
     {
@@ -585,7 +585,7 @@
       "zscore_20d": 3.06,
       "one_week_chg_pct": 8.5,
       "one_month_chg_pct": 13.2,
-      "avg_volume": 1613556,
+      "avg_volume": 1613820,
       "data_source": "yfinance"
     },
     {
@@ -620,13 +620,13 @@
       "dist_sma20_pct": 17.9,
       "dist_sma50_pct": 37.0,
       "dist_sma200_pct": 113.0,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.73,
       "atr_pct": 6.84,
       "consec_days": 2,
       "zscore_20d": 2.19,
       "one_week_chg_pct": 26.9,
       "one_month_chg_pct": 31.4,
-      "avg_volume": 6555924,
+      "avg_volume": 6564150,
       "data_source": "yfinance"
     },
     {
@@ -650,18 +650,18 @@
         "Bearish RSI divergence \u2014 price high, momentum failing"
       ],
       "rsi": 80.62,
-      "stoch_k": 92.59,
+      "stoch_k": 92.58,
       "bb_position": 0.937,
       "dist_sma20_pct": 9.2,
       "dist_sma50_pct": 20.5,
       "dist_sma200_pct": 25.8,
-      "vol_ratio": 0.99,
+      "vol_ratio": 1.06,
       "atr_pct": 1.97,
       "consec_days": 2,
       "zscore_20d": 1.75,
       "one_week_chg_pct": 5.8,
       "one_month_chg_pct": 19.4,
-      "avg_volume": 10730090,
+      "avg_volume": 10768860,
       "data_source": "yfinance"
     },
     {
@@ -698,7 +698,7 @@
       "zscore_20d": 1.46,
       "one_week_chg_pct": 20.0,
       "one_month_chg_pct": 70.1,
-      "avg_volume": 46612097,
+      "avg_volume": 46603455,
       "data_source": "yfinance"
     }
   ],
@@ -741,13 +741,13 @@
       "dist_sma20_pct": 24.1,
       "dist_sma50_pct": 35.9,
       "dist_sma200_pct": 52.5,
-      "vol_ratio": 3.0,
+      "vol_ratio": 3.03,
       "atr_pct": 3.13,
       "consec_days": 6,
       "zscore_20d": 3.3,
       "one_week_chg_pct": 25.4,
       "one_month_chg_pct": 40.3,
-      "avg_volume": 23386423,
+      "avg_volume": 23417930,
       "data_source": "yfinance"
     },
     {
@@ -782,13 +782,13 @@
       "dist_sma20_pct": 17.5,
       "dist_sma50_pct": 20.8,
       "dist_sma200_pct": 17.8,
-      "vol_ratio": 3.16,
+      "vol_ratio": 3.19,
       "atr_pct": 3.69,
       "consec_days": 3,
       "zscore_20d": 3.1,
       "one_week_chg_pct": 20.4,
       "one_month_chg_pct": 15.4,
-      "avg_volume": 58522679,
+      "avg_volume": 58607775,
       "data_source": "yfinance"
     },
     {
@@ -829,7 +829,7 @@
       "zscore_20d": 2.06,
       "one_week_chg_pct": 17.7,
       "one_month_chg_pct": 63.4,
-      "avg_volume": 13952208,
+      "avg_volume": 13952350,
       "data_source": "yfinance"
     },
     {
@@ -864,13 +864,13 @@
       "dist_sma20_pct": 25.3,
       "dist_sma50_pct": 36.9,
       "dist_sma200_pct": 28.5,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.47,
       "atr_pct": 3.75,
       "consec_days": 6,
       "zscore_20d": 2.43,
       "one_week_chg_pct": 21.2,
       "one_month_chg_pct": 45.2,
-      "avg_volume": 7036158,
+      "avg_volume": 7048550,
       "data_source": "yfinance"
     },
     {
@@ -903,13 +903,13 @@
       "dist_sma20_pct": 20.7,
       "dist_sma50_pct": 32.1,
       "dist_sma200_pct": 26.1,
-      "vol_ratio": 0.99,
+      "vol_ratio": 1.01,
       "atr_pct": 3.66,
       "consec_days": 6,
       "zscore_20d": 2.15,
       "one_week_chg_pct": 14.7,
       "one_month_chg_pct": 41.1,
-      "avg_volume": 2777423,
+      "avg_volume": 2780920,
       "data_source": "yfinance"
     },
     {
@@ -924,7 +924,7 @@
         "RSI overbought (76.6)",
         "Above Bollinger upper band (1.18)",
         "PARABOLIC +32.9% above SMA50 \u2014 mean-reversion due",
-        "Elevated vol on up day (2.1x)",
+        "Elevated vol on up day (2.2x)",
         "Z-score +2.7\u03c3 above 20d mean",
         "Gap-up open +5.1%",
         "+46.0% above SMA200"
@@ -933,7 +933,7 @@
         "RSI overbought (76.6)",
         "Above Bollinger upper band (1.18)",
         "PARABOLIC +32.9% above SMA50 \u2014 mean-reversion due",
-        "Elevated vol on up day (2.1x)",
+        "Elevated vol on up day (2.2x)",
         "Z-score +2.7\u03c3 above 20d mean",
         "Gap-up open +5.1%",
         "+46.0% above SMA200"
@@ -944,13 +944,13 @@
       "dist_sma20_pct": 16.2,
       "dist_sma50_pct": 32.9,
       "dist_sma200_pct": 46.0,
-      "vol_ratio": 2.06,
+      "vol_ratio": 2.19,
       "atr_pct": 3.67,
       "consec_days": 2,
       "zscore_20d": 2.7,
       "one_week_chg_pct": 14.9,
       "one_month_chg_pct": 38.6,
-      "avg_volume": 15654812,
+      "avg_volume": 15777265,
       "data_source": "yfinance"
     },
     {
@@ -991,7 +991,7 @@
       "zscore_20d": 3.06,
       "one_week_chg_pct": 8.5,
       "one_month_chg_pct": 13.2,
-      "avg_volume": 1613556,
+      "avg_volume": 1613820,
       "data_source": "yfinance"
     },
     {
@@ -1026,13 +1026,13 @@
       "dist_sma20_pct": 17.9,
       "dist_sma50_pct": 37.0,
       "dist_sma200_pct": 113.0,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.73,
       "atr_pct": 6.84,
       "consec_days": 2,
       "zscore_20d": 2.19,
       "one_week_chg_pct": 26.9,
       "one_month_chg_pct": 31.4,
-      "avg_volume": 6555924,
+      "avg_volume": 6564150,
       "data_source": "yfinance"
     },
     {
@@ -1063,13 +1063,13 @@
       "dist_sma20_pct": -19.8,
       "dist_sma50_pct": -28.6,
       "dist_sma200_pct": -44.9,
-      "vol_ratio": 1.27,
+      "vol_ratio": 1.28,
       "atr_pct": 5.65,
       "consec_days": -10,
       "zscore_20d": -1.67,
       "one_week_chg_pct": -14.0,
       "one_month_chg_pct": -30.2,
-      "avg_volume": 1700308,
+      "avg_volume": 1701520,
       "data_source": "yfinance"
     },
     {
@@ -1104,7 +1104,7 @@
       "zscore_20d": -1.65,
       "one_week_chg_pct": -13.5,
       "one_month_chg_pct": -37.2,
-      "avg_volume": 7889043,
+      "avg_volume": 7889100,
       "data_source": "yfinance"
     },
     {
@@ -1128,18 +1128,18 @@
         "Bearish RSI divergence \u2014 price high, momentum failing"
       ],
       "rsi": 80.62,
-      "stoch_k": 92.59,
+      "stoch_k": 92.58,
       "bb_position": 0.937,
       "dist_sma20_pct": 9.2,
       "dist_sma50_pct": 20.5,
       "dist_sma200_pct": 25.8,
-      "vol_ratio": 0.99,
+      "vol_ratio": 1.06,
       "atr_pct": 1.97,
       "consec_days": 2,
       "zscore_20d": 1.75,
       "one_week_chg_pct": 5.8,
       "one_month_chg_pct": 19.4,
-      "avg_volume": 10730090,
+      "avg_volume": 10768860,
       "data_source": "yfinance"
     },
     {
@@ -1176,7 +1176,7 @@
       "zscore_20d": 1.46,
       "one_week_chg_pct": 20.0,
       "one_month_chg_pct": 70.1,
-      "avg_volume": 46612097,
+      "avg_volume": 46603455,
       "data_source": "yfinance"
     },
     {
@@ -1205,13 +1205,13 @@
       "dist_sma20_pct": -5.0,
       "dist_sma50_pct": -16.0,
       "dist_sma200_pct": -11.2,
-      "vol_ratio": 0.59,
+      "vol_ratio": 0.62,
       "atr_pct": 2.28,
       "consec_days": -2,
       "zscore_20d": -0.88,
       "one_week_chg_pct": -0.7,
       "one_month_chg_pct": -19.1,
-      "avg_volume": 840215,
+      "avg_volume": 841480,
       "data_source": "yfinance"
     },
     {
@@ -1240,13 +1240,46 @@
       "dist_sma20_pct": -15.2,
       "dist_sma50_pct": -15.6,
       "dist_sma200_pct": -31.3,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.93,
       "atr_pct": 4.38,
       "consec_days": -5,
       "zscore_20d": -1.48,
       "one_week_chg_pct": -8.0,
       "one_month_chg_pct": -22.7,
-      "avg_volume": 967771,
+      "avg_volume": 969475,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "TSCO",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 3,
+      "price": 30.49,
+      "signals": [
+        "RSI oversold (21.1)",
+        "Stoch hook \u2191 from extreme (8)",
+        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
+      ],
+      "bonus_factors": [
+        "RSI oversold (21.1)",
+        "Stoch hook \u2191 from extreme (8)",
+        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
+      ],
+      "rsi": 21.05,
+      "stoch_k": 7.99,
+      "bb_position": 0.252,
+      "dist_sma20_pct": -12.8,
+      "dist_sma50_pct": -27.1,
+      "dist_sma200_pct": -40.9,
+      "vol_ratio": 0.72,
+      "atr_pct": 3.97,
+      "consec_days": 1,
+      "zscore_20d": -0.99,
+      "one_week_chg_pct": -3.9,
+      "one_month_chg_pct": -31.9,
+      "avg_volume": 14139885,
       "data_source": "yfinance"
     },
     {
@@ -1279,46 +1312,13 @@
       "dist_sma20_pct": -12.7,
       "dist_sma50_pct": -13.6,
       "dist_sma200_pct": -37.6,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.11,
       "atr_pct": 6.24,
       "consec_days": -5,
       "zscore_20d": -2.65,
       "one_week_chg_pct": -15.3,
       "one_month_chg_pct": -13.2,
-      "avg_volume": 2146302,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "TSCO",
-      "direction": "CALL",
-      "conviction": "MODERATE",
-      "probability_score": 71.1,
-      "score": 12,
-      "signal_count": 3,
-      "price": 30.49,
-      "signals": [
-        "RSI oversold (21.1)",
-        "Stoch hook \u2191 from extreme (8)",
-        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
-      ],
-      "bonus_factors": [
-        "RSI oversold (21.1)",
-        "Stoch hook \u2191 from extreme (8)",
-        "WASHED OUT -27.1% below SMA50 \u2014 bounce setup"
-      ],
-      "rsi": 21.05,
-      "stoch_k": 7.99,
-      "bb_position": 0.252,
-      "dist_sma20_pct": -12.8,
-      "dist_sma50_pct": -27.1,
-      "dist_sma200_pct": -40.9,
-      "vol_ratio": 0.69,
-      "atr_pct": 3.97,
-      "consec_days": 1,
-      "zscore_20d": -0.99,
-      "one_week_chg_pct": -3.9,
-      "one_month_chg_pct": -31.9,
-      "avg_volume": 14116656,
+      "avg_volume": 2147480,
       "data_source": "yfinance"
     },
     {
@@ -1349,13 +1349,13 @@
       "dist_sma20_pct": -10.3,
       "dist_sma50_pct": -14.1,
       "dist_sma200_pct": -18.0,
-      "vol_ratio": 2.1,
+      "vol_ratio": 2.11,
       "atr_pct": 3.22,
       "consec_days": -2,
       "zscore_20d": -2.66,
       "one_week_chg_pct": -8.2,
       "one_month_chg_pct": -12.6,
-      "avg_volume": 1073077,
+      "avg_volume": 1073630,
       "data_source": "yfinance"
     },
     {
@@ -1388,7 +1388,7 @@
       "zscore_20d": -1.66,
       "one_week_chg_pct": -11.3,
       "one_month_chg_pct": -23.7,
-      "avg_volume": 7156157,
+      "avg_volume": 7158450,
       "data_source": "yfinance"
     }
   ]
