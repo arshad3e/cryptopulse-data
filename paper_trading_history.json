@@ -1222,6 +1222,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "JBHT_2026-05-16": {
+      "trade_id": "JBHT_2026-05-16",
+      "symbol": "JBHT",
+      "entry_date": "2026-05-16 00:25:34",
+      "expiry_date": "2026-05-30",
+      "entry_price": 262.21,
+      "current_price": 262.21,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-16 00:25:34",
+          "price": 262.21,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
