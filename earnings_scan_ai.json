@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-05-13T05:17:39.340201",
+  "lastUpdated": "2026-05-17T06:36:24.776465",
   "stocks": [
     {
-      "ticker": "AMRZ",
-      "company_name": "Amrize Ltd",
-      "earnings_date": "2026-05-14",
+      "ticker": "ZTO",
+      "company_name": "ZTO Express (Cayman) Inc",
+      "earnings_date": "2026-05-19",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 6,
+        "confidence_score": 8,
         "runup_percentage": 6.0,
-        "favorable_entry_price": "52.34",
-        "rationale": "RSI shows significant room for upward movement, and the substantial target price offers considerable pre-earnings run-up potential, despite neutral recent news."
+        "favorable_entry_price": "23.74",
+        "rationale": "Low RSI, significant upside to the analyst target, and positive investor focus on upcoming earnings suggest room for a pre-earnings climb from the current price."
       }
     },
     {
-      "ticker": "AMAT",
-      "company_name": "Applied Materials Inc",
-      "earnings_date": "2026-05-14",
+      "ticker": "ADI",
+      "company_name": "Analog Devices Inc",
+      "earnings_date": "2026-05-20",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 9,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "431.20",
-        "rationale": "The extremely limited upside to the target price and recent explicitly bearish news make a pre-earnings run-up highly unlikely and unfavorable for a short-term trade."
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "N/A",
+        "rationale": "No immediate earnings catalyst is mentioned, and the current price is already above the analyst target, making a pre-earnings run-up unlikely and risking a pullback."
       }
     }
   ]
