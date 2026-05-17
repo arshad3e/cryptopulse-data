@@ -1,120 +1,5 @@
 {
   "active_trades": {
-    "TWLO_2026-05-03": {
-      "trade_id": "TWLO_2026-05-03",
-      "symbol": "TWLO",
-      "entry_date": "2026-05-03 01:28:10",
-      "expiry_date": "2026-05-17",
-      "entry_price": 183.34,
-      "current_price": 198.04,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-03 01:28:10",
-          "price": 183.34,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:58:48",
-          "price": 201.7,
-          "pnl_pct": -10.01
-        },
-        {
-          "timestamp": "2026-05-15 03:11:44",
-          "price": 198.04,
-          "pnl_pct": -8.02
-        },
-        {
-          "timestamp": "2026-05-15 12:55:11",
-          "price": 198.04,
-          "pnl_pct": -8.02
-        }
-      ]
-    },
-    "NOK_2026-05-03": {
-      "trade_id": "NOK_2026-05-03",
-      "symbol": "NOK",
-      "entry_date": "2026-05-03 01:28:10",
-      "expiry_date": "2026-05-17",
-      "entry_price": 13.3,
-      "current_price": 13.95,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-03 01:28:10",
-          "price": 13.3,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:58:56",
-          "price": 12.82,
-          "pnl_pct": 3.61
-        },
-        {
-          "timestamp": "2026-05-16 10:02:33",
-          "price": 13.95,
-          "pnl_pct": -4.89
-        }
-      ]
-    },
-    "STX_2026-05-03": {
-      "trade_id": "STX_2026-05-03",
-      "symbol": "STX",
-      "entry_date": "2026-05-03 01:28:10",
-      "expiry_date": "2026-05-17",
-      "entry_price": 726.93,
-      "current_price": 782.64,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-03 01:28:10",
-          "price": 726.93,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-06 23:12:56",
-          "price": 786.42,
-          "pnl_pct": -8.18
-        },
-        {
-          "timestamp": "2026-05-09 08:59:06",
-          "price": 782.64,
-          "pnl_pct": -7.66
-        }
-      ]
-    },
-    "INTC_2026-05-03": {
-      "trade_id": "INTC_2026-05-03",
-      "symbol": "INTC",
-      "entry_date": "2026-05-03 01:28:10",
-      "expiry_date": "2026-05-17",
-      "entry_price": 99.62,
-      "current_price": 99.62,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-03 01:28:10",
-          "price": 99.62,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "TEAM_2026-05-03": {
-      "trade_id": "TEAM_2026-05-03",
-      "symbol": "TEAM",
-      "entry_date": "2026-05-03 01:28:10",
-      "expiry_date": "2026-05-17",
-      "entry_price": 88.88,
-      "current_price": 88.88,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-03 01:28:10",
-          "price": 88.88,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "STX_2026-05-05": {
       "trade_id": "STX_2026-05-05",
       "symbol": "STX",
@@ -1280,6 +1165,86 @@
         {
           "timestamp": "2026-05-16 00:25:34",
           "price": 262.21,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CSCO_2026-05-17": {
+      "trade_id": "CSCO_2026-05-17",
+      "symbol": "CSCO",
+      "entry_date": "2026-05-17 00:33:11",
+      "expiry_date": "2026-05-31",
+      "entry_price": 118.21,
+      "current_price": 118.21,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-17 00:33:11",
+          "price": 118.21,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PANW_2026-05-17": {
+      "trade_id": "PANW_2026-05-17",
+      "symbol": "PANW",
+      "entry_date": "2026-05-17 00:33:11",
+      "expiry_date": "2026-05-31",
+      "entry_price": 242.83,
+      "current_price": 242.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-17 00:33:11",
+          "price": 242.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CNC_2026-05-17": {
+      "trade_id": "CNC_2026-05-17",
+      "symbol": "CNC",
+      "entry_date": "2026-05-17 00:33:11",
+      "expiry_date": "2026-05-31",
+      "entry_price": 58.27,
+      "current_price": 58.27,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-17 00:33:11",
+          "price": 58.27,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CRWD_2026-05-17": {
+      "trade_id": "CRWD_2026-05-17",
+      "symbol": "CRWD",
+      "entry_date": "2026-05-17 00:33:11",
+      "expiry_date": "2026-05-31",
+      "entry_price": 594.08,
+      "current_price": 594.08,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-17 00:33:11",
+          "price": 594.08,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "TTWO_2026-05-17": {
+      "trade_id": "TTWO_2026-05-17",
+      "symbol": "TTWO",
+      "entry_date": "2026-05-17 00:33:11",
+      "expiry_date": "2026-05-31",
+      "entry_price": 242.44,
+      "current_price": 242.44,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-17 00:33:11",
+          "price": 242.44,
           "pnl_pct": 0.0
         }
       ]
@@ -3566,6 +3531,121 @@
         {
           "timestamp": "2026-04-30 14:41:40",
           "price": 383.21,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "TWLO_2026-05-03",
+      "symbol": "TWLO",
+      "entry_date": "2026-05-03 01:28:10",
+      "expiry_date": "2026-05-17",
+      "entry_price": 183.34,
+      "current_price": 198.04,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-03 01:28:10",
+          "price": 183.34,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:58:48",
+          "price": 201.7,
+          "pnl_pct": -10.01
+        },
+        {
+          "timestamp": "2026-05-15 03:11:44",
+          "price": 198.04,
+          "pnl_pct": -8.02
+        },
+        {
+          "timestamp": "2026-05-15 12:55:11",
+          "price": 198.04,
+          "pnl_pct": -8.02
+        }
+      ]
+    },
+    {
+      "trade_id": "NOK_2026-05-03",
+      "symbol": "NOK",
+      "entry_date": "2026-05-03 01:28:10",
+      "expiry_date": "2026-05-17",
+      "entry_price": 13.3,
+      "current_price": 13.95,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-03 01:28:10",
+          "price": 13.3,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:58:56",
+          "price": 12.82,
+          "pnl_pct": 3.61
+        },
+        {
+          "timestamp": "2026-05-16 10:02:33",
+          "price": 13.95,
+          "pnl_pct": -4.89
+        }
+      ]
+    },
+    {
+      "trade_id": "STX_2026-05-03",
+      "symbol": "STX",
+      "entry_date": "2026-05-03 01:28:10",
+      "expiry_date": "2026-05-17",
+      "entry_price": 726.93,
+      "current_price": 782.64,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-03 01:28:10",
+          "price": 726.93,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-06 23:12:56",
+          "price": 786.42,
+          "pnl_pct": -8.18
+        },
+        {
+          "timestamp": "2026-05-09 08:59:06",
+          "price": 782.64,
+          "pnl_pct": -7.66
+        }
+      ]
+    },
+    {
+      "trade_id": "INTC_2026-05-03",
+      "symbol": "INTC",
+      "entry_date": "2026-05-03 01:28:10",
+      "expiry_date": "2026-05-17",
+      "entry_price": 99.62,
+      "current_price": 99.62,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-03 01:28:10",
+          "price": 99.62,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "TEAM_2026-05-03",
+      "symbol": "TEAM",
+      "entry_date": "2026-05-03 01:28:10",
+      "expiry_date": "2026-05-17",
+      "entry_price": 88.88,
+      "current_price": 88.88,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-03 01:28:10",
+          "price": 88.88,
           "pnl_pct": 0.0
         }
       ]
