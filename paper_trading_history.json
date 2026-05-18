@@ -628,6 +628,11 @@
           "timestamp": "2026-05-16 16:45:02",
           "price": 201.49,
           "pnl_pct": 8.03
+        },
+        {
+          "timestamp": "2026-05-18 09:00:23",
+          "price": 201.49,
+          "pnl_pct": 8.03
         }
       ]
     },
@@ -994,7 +999,7 @@
       "entry_date": "2026-05-14 13:17:43",
       "expiry_date": "2026-05-28",
       "entry_price": 576.87,
-      "current_price": 579.95,
+      "current_price": 594.08,
       "status": "OPEN",
       "timeline": [
         {
@@ -1006,6 +1011,11 @@
           "timestamp": "2026-05-15 07:15:01",
           "price": 579.95,
           "pnl_pct": -0.53
+        },
+        {
+          "timestamp": "2026-05-18 09:01:01",
+          "price": 594.08,
+          "pnl_pct": -2.98
         }
       ]
     },
@@ -1079,13 +1089,18 @@
       "entry_date": "2026-05-15 00:05:22",
       "expiry_date": "2026-05-29",
       "entry_price": 242.41,
-      "current_price": 242.41,
+      "current_price": 242.44,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-15 00:05:22",
           "price": 242.41,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-18 09:01:12",
+          "price": 242.44,
+          "pnl_pct": -0.01
         }
       ]
     },
@@ -1095,13 +1110,18 @@
       "entry_date": "2026-05-15 11:43:09",
       "expiry_date": "2026-05-29",
       "entry_price": 58.48,
-      "current_price": 58.48,
+      "current_price": 58.27,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-15 11:43:09",
           "price": 58.48,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-18 09:01:14",
+          "price": 58.27,
+          "pnl_pct": 0.36
         }
       ]
     },
@@ -1143,13 +1163,18 @@
       "entry_date": "2026-05-15 13:44:22",
       "expiry_date": "2026-05-29",
       "entry_price": 307.29,
-      "current_price": 307.29,
+      "current_price": 305.12,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-15 13:44:22",
           "price": 307.29,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-18 09:01:20",
+          "price": 305.12,
+          "pnl_pct": 0.71
         }
       ]
     },
