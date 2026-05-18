@@ -1426,6 +1426,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "ZS_2026-05-18": {
+      "trade_id": "ZS_2026-05-18",
+      "symbol": "ZS",
+      "entry_date": "2026-05-18 15:34:49",
+      "expiry_date": "2026-06-01",
+      "entry_price": 174.95,
+      "current_price": 174.95,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-18 15:34:49",
+          "price": 174.95,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
