@@ -1405,6 +1405,22 @@
           "pnl_pct": -11.07
         }
       ]
+    },
+    "D_2026-05-18": {
+      "trade_id": "D_2026-05-18",
+      "symbol": "D",
+      "entry_date": "2026-05-18 13:33:58",
+      "expiry_date": "2026-06-01",
+      "entry_price": 67.21,
+      "current_price": 67.21,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-18 13:33:58",
+          "price": 67.21,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
