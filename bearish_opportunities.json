@@ -1,5 +1,5 @@
 {
-  "scan_timestamp": "2026-05-17 00:33:11",
+  "scan_timestamp": "2026-05-18 00:01:03",
   "market_open": false,
   "total_scanned": 547,
   "matches_found": 11,
@@ -279,6 +279,39 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "HUM",
+      "direction": "PUT",
+      "conviction": "HIGH",
+      "probability_score": 81.8,
+      "score": 14,
+      "signal_count": 3,
+      "price": 305.12,
+      "signals": [
+        "RSI extreme (86.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (94)",
+        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
+      ],
+      "bonus_factors": [
+        "RSI extreme (86.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (94)",
+        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
+      ],
+      "rsi": 86.05,
+      "stoch_k": 94.22,
+      "bb_position": 0.938,
+      "dist_sma20_pct": 22.8,
+      "dist_sma50_pct": 47.3,
+      "dist_sma200_pct": 26.7,
+      "vol_ratio": 0.96,
+      "atr_pct": 4.62,
+      "consec_days": 1,
+      "zscore_20d": 1.75,
+      "one_week_chg_pct": 11.0,
+      "one_month_chg_pct": 52.0,
+      "avg_volume": 2051480,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "TTWO",
       "direction": "PUT",
       "conviction": "HIGH",
@@ -315,39 +348,6 @@
       "one_week_chg_pct": 10.0,
       "one_month_chg_pct": 13.3,
       "avg_volume": 1622295,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "HUM",
-      "direction": "PUT",
-      "conviction": "HIGH",
-      "probability_score": 81.8,
-      "score": 14,
-      "signal_count": 3,
-      "price": 305.12,
-      "signals": [
-        "RSI extreme (86.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (94)",
-        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
-      ],
-      "bonus_factors": [
-        "RSI extreme (86.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (94)",
-        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
-      ],
-      "rsi": 86.05,
-      "stoch_k": 94.22,
-      "bb_position": 0.938,
-      "dist_sma20_pct": 22.8,
-      "dist_sma50_pct": 47.3,
-      "dist_sma200_pct": 26.7,
-      "vol_ratio": 0.96,
-      "atr_pct": 4.62,
-      "consec_days": 1,
-      "zscore_20d": 1.75,
-      "one_week_chg_pct": 11.0,
-      "one_month_chg_pct": 52.0,
-      "avg_volume": 2051480,
       "data_source": "yfinance"
     },
     {
@@ -589,6 +589,39 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "HUM",
+      "direction": "PUT",
+      "conviction": "HIGH",
+      "probability_score": 81.8,
+      "score": 14,
+      "signal_count": 3,
+      "price": 305.12,
+      "signals": [
+        "RSI extreme (86.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (94)",
+        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
+      ],
+      "bonus_factors": [
+        "RSI extreme (86.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (94)",
+        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
+      ],
+      "rsi": 86.05,
+      "stoch_k": 94.22,
+      "bb_position": 0.938,
+      "dist_sma20_pct": 22.8,
+      "dist_sma50_pct": 47.3,
+      "dist_sma200_pct": 26.7,
+      "vol_ratio": 0.96,
+      "atr_pct": 4.62,
+      "consec_days": 1,
+      "zscore_20d": 1.75,
+      "one_week_chg_pct": 11.0,
+      "one_month_chg_pct": 52.0,
+      "avg_volume": 2051480,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "TTWO",
       "direction": "PUT",
       "conviction": "HIGH",
@@ -625,39 +658,6 @@
       "one_week_chg_pct": 10.0,
       "one_month_chg_pct": 13.3,
       "avg_volume": 1622295,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "HUM",
-      "direction": "PUT",
-      "conviction": "HIGH",
-      "probability_score": 81.8,
-      "score": 14,
-      "signal_count": 3,
-      "price": 305.12,
-      "signals": [
-        "RSI extreme (86.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (94)",
-        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
-      ],
-      "bonus_factors": [
-        "RSI extreme (86.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (94)",
-        "PARABOLIC +47.3% above SMA50 \u2014 mean-reversion due"
-      ],
-      "rsi": 86.05,
-      "stoch_k": 94.22,
-      "bb_position": 0.938,
-      "dist_sma20_pct": 22.8,
-      "dist_sma50_pct": 47.3,
-      "dist_sma200_pct": 26.7,
-      "vol_ratio": 0.96,
-      "atr_pct": 4.62,
-      "consec_days": 1,
-      "zscore_20d": 1.75,
-      "one_week_chg_pct": 11.0,
-      "one_month_chg_pct": 52.0,
-      "avg_volume": 2051480,
       "data_source": "yfinance"
     },
     {
