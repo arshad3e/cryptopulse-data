@@ -952,7 +952,7 @@
       "entry_date": "2026-05-14 11:28:40",
       "expiry_date": "2026-05-28",
       "entry_price": 157.76,
-      "current_price": 155.67,
+      "current_price": 150.88,
       "status": "OPEN",
       "timeline": [
         {
@@ -964,6 +964,11 @@
           "timestamp": "2026-05-15 14:00:09",
           "price": 155.67,
           "pnl_pct": 1.32
+        },
+        {
+          "timestamp": "2026-05-18 13:02:43",
+          "price": 150.88,
+          "pnl_pct": 4.36
         }
       ]
     },
@@ -1356,6 +1361,43 @@
           "timestamp": "2026-05-18 00:01:53",
           "price": 242.44,
           "pnl_pct": 0.0
+        }
+      ]
+    },
+    "FTNT_2026-05-18": {
+      "trade_id": "FTNT_2026-05-18",
+      "symbol": "FTNT",
+      "entry_date": "2026-05-18 12:33:35",
+      "expiry_date": "2026-06-01",
+      "entry_price": 125.3,
+      "current_price": 125.3,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-18 12:33:35",
+          "price": 125.3,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "REGN_2026-05-18": {
+      "trade_id": "REGN_2026-05-18",
+      "symbol": "REGN",
+      "entry_date": "2026-05-18 12:33:35",
+      "expiry_date": "2026-06-01",
+      "entry_price": 628.67,
+      "current_price": 698.25,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-18 12:33:35",
+          "price": 628.67,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-18 13:03:23",
+          "price": 698.25,
+          "pnl_pct": -11.07
         }
       ]
     }
