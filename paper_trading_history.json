@@ -1,120 +1,5 @@
 {
   "active_trades": {
-    "STX_2026-05-05": {
-      "trade_id": "STX_2026-05-05",
-      "symbol": "STX",
-      "entry_date": "2026-05-05 09:55:05",
-      "expiry_date": "2026-05-19",
-      "entry_price": 786.24,
-      "current_price": 782.64,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-05 09:55:05",
-          "price": 786.24,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:59:14",
-          "price": 782.64,
-          "pnl_pct": 0.46
-        }
-      ]
-    },
-    "TWLO_2026-05-05": {
-      "trade_id": "TWLO_2026-05-05",
-      "symbol": "TWLO",
-      "entry_date": "2026-05-05 09:55:05",
-      "expiry_date": "2026-05-19",
-      "entry_price": 192.63,
-      "current_price": 198.04,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-05 09:55:05",
-          "price": 192.63,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-15 12:23:56",
-          "price": 198.04,
-          "pnl_pct": -2.81
-        }
-      ]
-    },
-    "MU_2026-05-05": {
-      "trade_id": "MU_2026-05-05",
-      "symbol": "MU",
-      "entry_date": "2026-05-05 09:55:05",
-      "expiry_date": "2026-05-19",
-      "entry_price": 629.78,
-      "current_price": 724.66,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-05 09:55:05",
-          "price": 629.78,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:59:21",
-          "price": 746.81,
-          "pnl_pct": -18.58
-        },
-        {
-          "timestamp": "2026-05-16 16:44:16",
-          "price": 724.66,
-          "pnl_pct": -15.07
-        }
-      ]
-    },
-    "SNDK_2026-05-05": {
-      "trade_id": "SNDK_2026-05-05",
-      "symbol": "SNDK",
-      "entry_date": "2026-05-05 09:55:05",
-      "expiry_date": "2026-05-19",
-      "entry_price": 1336.16,
-      "current_price": 1382.72,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-05 09:55:05",
-          "price": 1336.16,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:59:24",
-          "price": 1562.34,
-          "pnl_pct": -16.93
-        },
-        {
-          "timestamp": "2026-05-15 13:27:21",
-          "price": 1382.72,
-          "pnl_pct": -3.48
-        }
-      ]
-    },
-    "PWR_2026-05-05": {
-      "trade_id": "PWR_2026-05-05",
-      "symbol": "PWR",
-      "entry_date": "2026-05-05 09:55:05",
-      "expiry_date": "2026-05-19",
-      "entry_price": 759.34,
-      "current_price": 745.0,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-05 09:55:05",
-          "price": 759.34,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-09 08:59:27",
-          "price": 745.0,
-          "pnl_pct": 1.89
-        }
-      ]
-    },
     "AMD_2026-05-06": {
       "trade_id": "AMD_2026-05-06",
       "symbol": "AMD",
@@ -1439,6 +1324,86 @@
         {
           "timestamp": "2026-05-18 15:34:49",
           "price": 174.95,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CSCO_2026-05-19": {
+      "trade_id": "CSCO_2026-05-19",
+      "symbol": "CSCO",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 118.88,
+      "current_price": 118.88,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 118.88,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PANW_2026-05-19": {
+      "trade_id": "PANW_2026-05-19",
+      "symbol": "PANW",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 247.55,
+      "current_price": 247.55,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 247.55,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ZS_2026-05-19": {
+      "trade_id": "ZS_2026-05-19",
+      "symbol": "ZS",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 174.69,
+      "current_price": 174.69,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 174.69,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CRWD_2026-05-19": {
+      "trade_id": "CRWD_2026-05-19",
+      "symbol": "CRWD",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 618.83,
+      "current_price": 618.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 618.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "REGN_2026-05-19": {
+      "trade_id": "REGN_2026-05-19",
+      "symbol": "REGN",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 629.68,
+      "current_price": 629.68,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 629.68,
           "pnl_pct": 0.0
         }
       ]
@@ -3841,6 +3806,121 @@
           "timestamp": "2026-05-03 01:28:10",
           "price": 88.88,
           "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "STX_2026-05-05",
+      "symbol": "STX",
+      "entry_date": "2026-05-05 09:55:05",
+      "expiry_date": "2026-05-19",
+      "entry_price": 786.24,
+      "current_price": 782.64,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-05 09:55:05",
+          "price": 786.24,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:59:14",
+          "price": 782.64,
+          "pnl_pct": 0.46
+        }
+      ]
+    },
+    {
+      "trade_id": "TWLO_2026-05-05",
+      "symbol": "TWLO",
+      "entry_date": "2026-05-05 09:55:05",
+      "expiry_date": "2026-05-19",
+      "entry_price": 192.63,
+      "current_price": 198.04,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-05 09:55:05",
+          "price": 192.63,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-15 12:23:56",
+          "price": 198.04,
+          "pnl_pct": -2.81
+        }
+      ]
+    },
+    {
+      "trade_id": "MU_2026-05-05",
+      "symbol": "MU",
+      "entry_date": "2026-05-05 09:55:05",
+      "expiry_date": "2026-05-19",
+      "entry_price": 629.78,
+      "current_price": 724.66,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-05 09:55:05",
+          "price": 629.78,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:59:21",
+          "price": 746.81,
+          "pnl_pct": -18.58
+        },
+        {
+          "timestamp": "2026-05-16 16:44:16",
+          "price": 724.66,
+          "pnl_pct": -15.07
+        }
+      ]
+    },
+    {
+      "trade_id": "SNDK_2026-05-05",
+      "symbol": "SNDK",
+      "entry_date": "2026-05-05 09:55:05",
+      "expiry_date": "2026-05-19",
+      "entry_price": 1336.16,
+      "current_price": 1382.72,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-05 09:55:05",
+          "price": 1336.16,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:59:24",
+          "price": 1562.34,
+          "pnl_pct": -16.93
+        },
+        {
+          "timestamp": "2026-05-15 13:27:21",
+          "price": 1382.72,
+          "pnl_pct": -3.48
+        }
+      ]
+    },
+    {
+      "trade_id": "PWR_2026-05-05",
+      "symbol": "PWR",
+      "entry_date": "2026-05-05 09:55:05",
+      "expiry_date": "2026-05-19",
+      "entry_price": 759.34,
+      "current_price": 745.0,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-05 09:55:05",
+          "price": 759.34,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-09 08:59:27",
+          "price": 745.0,
+          "pnl_pct": 1.89
         }
       ]
     }
