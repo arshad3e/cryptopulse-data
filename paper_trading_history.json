@@ -1455,6 +1455,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CNC_2026-05-19": {
+      "trade_id": "CNC_2026-05-19",
+      "symbol": "CNC",
+      "entry_date": "2026-05-19 14:36:54",
+      "expiry_date": "2026-06-02",
+      "entry_price": 59.24,
+      "current_price": 59.24,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 14:36:54",
+          "price": 59.24,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
