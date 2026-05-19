@@ -1407,6 +1407,38 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "DDOG_2026-05-19": {
+      "trade_id": "DDOG_2026-05-19",
+      "symbol": "DDOG",
+      "entry_date": "2026-05-19 11:35:42",
+      "expiry_date": "2026-06-02",
+      "entry_price": 211.35,
+      "current_price": 211.35,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 11:35:42",
+          "price": 211.35,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "FTNT_2026-05-19": {
+      "trade_id": "FTNT_2026-05-19",
+      "symbol": "FTNT",
+      "entry_date": "2026-05-19 11:35:42",
+      "expiry_date": "2026-06-02",
+      "entry_price": 126.31,
+      "current_price": 126.31,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 11:35:42",
+          "price": 126.31,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
