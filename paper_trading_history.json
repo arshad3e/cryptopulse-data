@@ -1439,6 +1439,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CVNA_2026-05-19": {
+      "trade_id": "CVNA_2026-05-19",
+      "symbol": "CVNA",
+      "entry_date": "2026-05-19 13:36:30",
+      "expiry_date": "2026-06-02",
+      "entry_price": 63.75,
+      "current_price": 63.75,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 13:36:30",
+          "price": 63.75,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
