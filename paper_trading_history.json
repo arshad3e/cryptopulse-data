@@ -1471,6 +1471,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "MLM_2026-05-19": {
+      "trade_id": "MLM_2026-05-19",
+      "symbol": "MLM",
+      "entry_date": "2026-05-19 15:37:17",
+      "expiry_date": "2026-06-02",
+      "entry_price": 534.6,
+      "current_price": 534.6,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 15:37:17",
+          "price": 534.6,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
