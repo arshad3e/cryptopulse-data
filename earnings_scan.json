@@ -1,25 +1,45 @@
 {
-  "lastUpdated": "2026-05-18T18:28:59.520632",
+  "lastUpdated": "2026-05-19T18:24:11.288982",
   "stocks": [
     {
-      "ticker": "BIDU",
-      "company_name": "Baidu Inc",
-      "earnings_date": "2026-05-18",
-      "market_cap": "$46.0B",
-      "price": "137.7100",
-      "change_pct": "1.7587%",
-      "rsi": 55.48,
-      "move_score": 30.04
+      "ticker": "BEKE",
+      "company_name": "Ke Holdings\u00a0Inc",
+      "earnings_date": "2026-05-19",
+      "market_cap": "$19.1B",
+      "price": "17.8000",
+      "change_pct": "-2.0363%",
+      "rsi": 52.94,
+      "move_score": 27.42
     },
     {
-      "ticker": "BRC",
-      "company_name": "Brady Corporation",
-      "earnings_date": "2026-05-18",
-      "market_cap": "$3.4B",
-      "price": "70.9600",
-      "change_pct": "-0.2530%",
-      "rsi": 23.37,
-      "move_score": 11.85
+      "ticker": "AS",
+      "company_name": "Amer Sports, Inc.",
+      "earnings_date": "2026-05-19",
+      "market_cap": "$19.3B",
+      "price": "33.8200",
+      "change_pct": "2.0211%",
+      "rsi": 46.09,
+      "move_score": 24.01
+    },
+    {
+      "ticker": "CAVA",
+      "company_name": "CAVA Group, Inc.",
+      "earnings_date": "2026-05-19",
+      "market_cap": "$9.3B",
+      "price": "78.1400",
+      "change_pct": "-2.1905%",
+      "rsi": 41.1,
+      "move_score": 21.02
+    },
+    {
+      "ticker": "BILI",
+      "company_name": "Bilibili Inc",
+      "earnings_date": "2026-05-19",
+      "market_cap": "$8.2B",
+      "price": "20.0000",
+      "change_pct": "1.8849%",
+      "rsi": 36.89,
+      "move_score": 18.85
     }
   ]
 }
