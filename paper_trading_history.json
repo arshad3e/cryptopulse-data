@@ -1546,6 +1546,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CRWD_2026-05-20": {
+      "trade_id": "CRWD_2026-05-20",
+      "symbol": "CRWD",
+      "entry_date": "2026-05-20 15:36:31",
+      "expiry_date": "2026-06-03",
+      "entry_price": 649.39,
+      "current_price": 649.39,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 15:36:31",
+          "price": 649.39,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "LDOS_2026-05-20": {
+      "trade_id": "LDOS_2026-05-20",
+      "symbol": "LDOS",
+      "entry_date": "2026-05-20 15:36:31",
+      "expiry_date": "2026-06-03",
+      "entry_price": 123.97,
+      "current_price": 123.97,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 15:36:31",
+          "price": 123.97,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ARM_2026-05-20": {
+      "trade_id": "ARM_2026-05-20",
+      "symbol": "ARM",
+      "entry_date": "2026-05-20 15:36:31",
+      "expiry_date": "2026-06-03",
+      "entry_price": 255.12,
+      "current_price": 255.12,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 15:36:31",
+          "price": 255.12,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
