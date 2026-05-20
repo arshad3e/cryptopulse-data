@@ -1530,6 +1530,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "ALB_2026-05-20": {
+      "trade_id": "ALB_2026-05-20",
+      "symbol": "ALB",
+      "entry_date": "2026-05-20 13:35:43",
+      "expiry_date": "2026-06-03",
+      "entry_price": 168.14,
+      "current_price": 168.14,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 13:35:43",
+          "price": 168.14,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
