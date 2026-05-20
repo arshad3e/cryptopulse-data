@@ -1482,6 +1482,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "DDOG_2026-05-20": {
+      "trade_id": "DDOG_2026-05-20",
+      "symbol": "DDOG",
+      "entry_date": "2026-05-20 11:34:46",
+      "expiry_date": "2026-06-03",
+      "entry_price": 213.79,
+      "current_price": 213.79,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 11:34:46",
+          "price": 213.79,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PANW_2026-05-20": {
+      "trade_id": "PANW_2026-05-20",
+      "symbol": "PANW",
+      "entry_date": "2026-05-20 11:34:46",
+      "expiry_date": "2026-06-03",
+      "entry_price": 249.14,
+      "current_price": 249.14,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 11:34:46",
+          "price": 249.14,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "LI_2026-05-20": {
+      "trade_id": "LI_2026-05-20",
+      "symbol": "LI",
+      "entry_date": "2026-05-20 11:34:46",
+      "expiry_date": "2026-06-03",
+      "entry_price": 15.98,
+      "current_price": 15.98,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-20 11:34:46",
+          "price": 15.98,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
