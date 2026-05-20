@@ -1,5 +1,5 @@
 {
-  "scan_timestamp": "2026-05-20 00:02:44",
+  "scan_timestamp": "2026-05-20 00:03:25",
   "market_open": false,
   "total_scanned": 547,
   "matches_found": 13,
@@ -129,43 +129,6 @@
   ],
   "top_puts": [
     {
-      "symbol": "FTNT",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 95.3,
-      "score": 19,
-      "signal_count": 5,
-      "price": 127.64,
-      "signals": [
-        "RSI extreme (87.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (99)",
-        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Blow-off: +52.7% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI extreme (87.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (99)",
-        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Blow-off: +52.7% above SMA200 while RSI overbought"
-      ],
-      "rsi": 87.14,
-      "stoch_k": 99.06,
-      "bb_position": 0.892,
-      "dist_sma20_pct": 26.4,
-      "dist_sma50_pct": 42.7,
-      "dist_sma200_pct": 52.7,
-      "vol_ratio": 1.13,
-      "atr_pct": 4.29,
-      "consec_days": 5,
-      "zscore_20d": 1.57,
-      "one_week_chg_pct": 12.1,
-      "one_month_chg_pct": 54.5,
-      "avg_volume": 6220800,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "CNC",
       "direction": "PUT",
       "conviction": "VERY HIGH",
@@ -200,6 +163,43 @@
       "one_week_chg_pct": -0.3,
       "one_month_chg_pct": 54.4,
       "avg_volume": 7558070,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "FTNT",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 95.3,
+      "score": 19,
+      "signal_count": 5,
+      "price": 127.64,
+      "signals": [
+        "RSI extreme (87.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (99)",
+        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
+        "5 consecutive up days",
+        "Blow-off: +52.7% above SMA200 while RSI overbought"
+      ],
+      "bonus_factors": [
+        "RSI extreme (87.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (99)",
+        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
+        "5 consecutive up days",
+        "Blow-off: +52.7% above SMA200 while RSI overbought"
+      ],
+      "rsi": 87.14,
+      "stoch_k": 99.06,
+      "bb_position": 0.892,
+      "dist_sma20_pct": 26.4,
+      "dist_sma50_pct": 42.7,
+      "dist_sma200_pct": 52.7,
+      "vol_ratio": 1.13,
+      "atr_pct": 4.29,
+      "consec_days": 5,
+      "zscore_20d": 1.57,
+      "one_week_chg_pct": 12.1,
+      "one_month_chg_pct": 54.5,
+      "avg_volume": 6220800,
       "data_source": "yfinance"
     },
     {
@@ -281,41 +281,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CRWD",
-      "direction": "PUT",
-      "conviction": "HIGH",
-      "probability_score": 81.8,
-      "score": 14,
-      "signal_count": 4,
-      "price": 616.88,
-      "signals": [
-        "RSI very overbought (83.9)",
-        "Stoch hook \u2193 from extreme (96)",
-        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
-        "+33.5% above SMA200"
-      ],
-      "bonus_factors": [
-        "RSI very overbought (83.9)",
-        "Stoch hook \u2193 from extreme (96)",
-        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
-        "+33.5% above SMA200"
-      ],
-      "rsi": 83.9,
-      "stoch_k": 95.9,
-      "bb_position": 0.95,
-      "dist_sma20_pct": 21.8,
-      "dist_sma50_pct": 37.1,
-      "dist_sma200_pct": 33.5,
-      "vol_ratio": 1.51,
-      "atr_pct": 4.04,
-      "consec_days": -1,
-      "zscore_20d": 1.8,
-      "one_week_chg_pct": 12.9,
-      "one_month_chg_pct": 42.4,
-      "avg_volume": 2958930,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "ELV",
       "direction": "PUT",
       "conviction": "HIGH",
@@ -388,38 +353,38 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "FFIV",
+      "symbol": "CRWD",
       "direction": "PUT",
-      "conviction": "MODERATE",
-      "probability_score": 71.1,
-      "score": 12,
+      "conviction": "HIGH",
+      "probability_score": 81.8,
+      "score": 14,
       "signal_count": 4,
-      "price": 383.5,
+      "price": 616.88,
       "signals": [
-        "RSI overbought (79.6)",
-        "Stoch hook \u2193 from extreme (95)",
-        "Strongly extended +22.9% above SMA50",
-        "+31.6% above SMA200"
+        "RSI very overbought (83.9)",
+        "Stoch hook \u2193 from extreme (96)",
+        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
+        "+33.5% above SMA200"
       ],
       "bonus_factors": [
-        "RSI overbought (79.6)",
-        "Stoch hook \u2193 from extreme (95)",
-        "Strongly extended +22.9% above SMA50",
-        "+31.6% above SMA200"
+        "RSI very overbought (83.9)",
+        "Stoch hook \u2193 from extreme (96)",
+        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
+        "+33.5% above SMA200"
       ],
-      "rsi": 79.59,
-      "stoch_k": 94.78,
-      "bb_position": 0.929,
-      "dist_sma20_pct": 13.4,
-      "dist_sma50_pct": 22.9,
-      "dist_sma200_pct": 31.6,
-      "vol_ratio": 0.94,
-      "atr_pct": 2.67,
-      "consec_days": 2,
-      "zscore_20d": 1.72,
-      "one_week_chg_pct": 8.0,
-      "one_month_chg_pct": 22.1,
-      "avg_volume": 829390,
+      "rsi": 83.9,
+      "stoch_k": 95.9,
+      "bb_position": 0.95,
+      "dist_sma20_pct": 21.8,
+      "dist_sma50_pct": 37.1,
+      "dist_sma200_pct": 33.5,
+      "vol_ratio": 1.51,
+      "atr_pct": 4.04,
+      "consec_days": -1,
+      "zscore_20d": 1.8,
+      "one_week_chg_pct": 12.9,
+      "one_month_chg_pct": 42.4,
+      "avg_volume": 2958930,
       "data_source": "yfinance"
     },
     {
@@ -489,46 +454,44 @@
       "one_month_chg_pct": 41.6,
       "avg_volume": 7726705,
       "data_source": "yfinance"
+    },
+    {
+      "symbol": "FFIV",
+      "direction": "PUT",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 4,
+      "price": 383.5,
+      "signals": [
+        "RSI overbought (79.6)",
+        "Stoch hook \u2193 from extreme (95)",
+        "Strongly extended +22.9% above SMA50",
+        "+31.6% above SMA200"
+      ],
+      "bonus_factors": [
+        "RSI overbought (79.6)",
+        "Stoch hook \u2193 from extreme (95)",
+        "Strongly extended +22.9% above SMA50",
+        "+31.6% above SMA200"
+      ],
+      "rsi": 79.59,
+      "stoch_k": 94.78,
+      "bb_position": 0.929,
+      "dist_sma20_pct": 13.4,
+      "dist_sma50_pct": 22.9,
+      "dist_sma200_pct": 31.6,
+      "vol_ratio": 0.94,
+      "atr_pct": 2.67,
+      "consec_days": 2,
+      "zscore_20d": 1.72,
+      "one_week_chg_pct": 8.0,
+      "one_month_chg_pct": 22.1,
+      "avg_volume": 829390,
+      "data_source": "yfinance"
     }
   ],
   "data": [
-    {
-      "symbol": "FTNT",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 95.3,
-      "score": 19,
-      "signal_count": 5,
-      "price": 127.64,
-      "signals": [
-        "RSI extreme (87.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (99)",
-        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Blow-off: +52.7% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI extreme (87.1) \u2014 blow-off zone",
-        "Stoch hook \u2193 from extreme (99)",
-        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Blow-off: +52.7% above SMA200 while RSI overbought"
-      ],
-      "rsi": 87.14,
-      "stoch_k": 99.06,
-      "bb_position": 0.892,
-      "dist_sma20_pct": 26.4,
-      "dist_sma50_pct": 42.7,
-      "dist_sma200_pct": 52.7,
-      "vol_ratio": 1.13,
-      "atr_pct": 4.29,
-      "consec_days": 5,
-      "zscore_20d": 1.57,
-      "one_week_chg_pct": 12.1,
-      "one_month_chg_pct": 54.5,
-      "avg_volume": 6220800,
-      "data_source": "yfinance"
-    },
     {
       "symbol": "CNC",
       "direction": "PUT",
@@ -564,6 +527,43 @@
       "one_week_chg_pct": -0.3,
       "one_month_chg_pct": 54.4,
       "avg_volume": 7558070,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "FTNT",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 95.3,
+      "score": 19,
+      "signal_count": 5,
+      "price": 127.64,
+      "signals": [
+        "RSI extreme (87.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (99)",
+        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
+        "5 consecutive up days",
+        "Blow-off: +52.7% above SMA200 while RSI overbought"
+      ],
+      "bonus_factors": [
+        "RSI extreme (87.1) \u2014 blow-off zone",
+        "Stoch hook \u2193 from extreme (99)",
+        "PARABOLIC +42.7% above SMA50 \u2014 mean-reversion due",
+        "5 consecutive up days",
+        "Blow-off: +52.7% above SMA200 while RSI overbought"
+      ],
+      "rsi": 87.14,
+      "stoch_k": 99.06,
+      "bb_position": 0.892,
+      "dist_sma20_pct": 26.4,
+      "dist_sma50_pct": 42.7,
+      "dist_sma200_pct": 52.7,
+      "vol_ratio": 1.13,
+      "atr_pct": 4.29,
+      "consec_days": 5,
+      "zscore_20d": 1.57,
+      "one_week_chg_pct": 12.1,
+      "one_month_chg_pct": 54.5,
+      "avg_volume": 6220800,
       "data_source": "yfinance"
     },
     {
@@ -723,41 +723,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CRWD",
-      "direction": "PUT",
-      "conviction": "HIGH",
-      "probability_score": 81.8,
-      "score": 14,
-      "signal_count": 4,
-      "price": 616.88,
-      "signals": [
-        "RSI very overbought (83.9)",
-        "Stoch hook \u2193 from extreme (96)",
-        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
-        "+33.5% above SMA200"
-      ],
-      "bonus_factors": [
-        "RSI very overbought (83.9)",
-        "Stoch hook \u2193 from extreme (96)",
-        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
-        "+33.5% above SMA200"
-      ],
-      "rsi": 83.9,
-      "stoch_k": 95.9,
-      "bb_position": 0.95,
-      "dist_sma20_pct": 21.8,
-      "dist_sma50_pct": 37.1,
-      "dist_sma200_pct": 33.5,
-      "vol_ratio": 1.51,
-      "atr_pct": 4.04,
-      "consec_days": -1,
-      "zscore_20d": 1.8,
-      "one_week_chg_pct": 12.9,
-      "one_month_chg_pct": 42.4,
-      "avg_volume": 2958930,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "ELV",
       "direction": "PUT",
       "conviction": "HIGH",
@@ -830,6 +795,41 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "CRWD",
+      "direction": "PUT",
+      "conviction": "HIGH",
+      "probability_score": 81.8,
+      "score": 14,
+      "signal_count": 4,
+      "price": 616.88,
+      "signals": [
+        "RSI very overbought (83.9)",
+        "Stoch hook \u2193 from extreme (96)",
+        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
+        "+33.5% above SMA200"
+      ],
+      "bonus_factors": [
+        "RSI very overbought (83.9)",
+        "Stoch hook \u2193 from extreme (96)",
+        "PARABOLIC +37.1% above SMA50 \u2014 mean-reversion due",
+        "+33.5% above SMA200"
+      ],
+      "rsi": 83.9,
+      "stoch_k": 95.9,
+      "bb_position": 0.95,
+      "dist_sma20_pct": 21.8,
+      "dist_sma50_pct": 37.1,
+      "dist_sma200_pct": 33.5,
+      "vol_ratio": 1.51,
+      "atr_pct": 4.04,
+      "consec_days": -1,
+      "zscore_20d": 1.8,
+      "one_week_chg_pct": 12.9,
+      "one_month_chg_pct": 42.4,
+      "avg_volume": 2958930,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "CRH",
       "direction": "CALL",
       "conviction": "MODERATE",
@@ -864,41 +864,6 @@
       "one_week_chg_pct": -11.2,
       "one_month_chg_pct": -16.6,
       "avg_volume": 4788680,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "FFIV",
-      "direction": "PUT",
-      "conviction": "MODERATE",
-      "probability_score": 71.1,
-      "score": 12,
-      "signal_count": 4,
-      "price": 383.5,
-      "signals": [
-        "RSI overbought (79.6)",
-        "Stoch hook \u2193 from extreme (95)",
-        "Strongly extended +22.9% above SMA50",
-        "+31.6% above SMA200"
-      ],
-      "bonus_factors": [
-        "RSI overbought (79.6)",
-        "Stoch hook \u2193 from extreme (95)",
-        "Strongly extended +22.9% above SMA50",
-        "+31.6% above SMA200"
-      ],
-      "rsi": 79.59,
-      "stoch_k": 94.78,
-      "bb_position": 0.929,
-      "dist_sma20_pct": 13.4,
-      "dist_sma50_pct": 22.9,
-      "dist_sma200_pct": 31.6,
-      "vol_ratio": 0.94,
-      "atr_pct": 2.67,
-      "consec_days": 2,
-      "zscore_20d": 1.72,
-      "one_week_chg_pct": 8.0,
-      "one_month_chg_pct": 22.1,
-      "avg_volume": 829390,
       "data_source": "yfinance"
     },
     {
@@ -967,6 +932,41 @@
       "one_week_chg_pct": 11.4,
       "one_month_chg_pct": 41.6,
       "avg_volume": 7726705,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "FFIV",
+      "direction": "PUT",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 4,
+      "price": 383.5,
+      "signals": [
+        "RSI overbought (79.6)",
+        "Stoch hook \u2193 from extreme (95)",
+        "Strongly extended +22.9% above SMA50",
+        "+31.6% above SMA200"
+      ],
+      "bonus_factors": [
+        "RSI overbought (79.6)",
+        "Stoch hook \u2193 from extreme (95)",
+        "Strongly extended +22.9% above SMA50",
+        "+31.6% above SMA200"
+      ],
+      "rsi": 79.59,
+      "stoch_k": 94.78,
+      "bb_position": 0.929,
+      "dist_sma20_pct": 13.4,
+      "dist_sma50_pct": 22.9,
+      "dist_sma200_pct": 31.6,
+      "vol_ratio": 0.94,
+      "atr_pct": 2.67,
+      "consec_days": 2,
+      "zscore_20d": 1.72,
+      "one_week_chg_pct": 8.0,
+      "one_month_chg_pct": 22.1,
+      "avg_volume": 829390,
       "data_source": "yfinance"
     }
   ]
