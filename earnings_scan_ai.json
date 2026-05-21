@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-05-17T06:36:24.776465",
+  "lastUpdated": "2026-05-20T20:10:11.755343",
   "stocks": [
-    {
-      "ticker": "ZTO",
-      "company_name": "ZTO Express (Cayman) Inc",
-      "earnings_date": "2026-05-19",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 6.0,
-        "favorable_entry_price": "23.74",
-        "rationale": "Low RSI, significant upside to the analyst target, and positive investor focus on upcoming earnings suggest room for a pre-earnings climb from the current price."
-      }
-    },
     {
       "ticker": "ADI",
       "company_name": "Analog Devices Inc",
+      "earnings_date": "2026-05-20",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 8,
+        "runup_percentage": 2.5,
+        "favorable_entry_price": "398.05",
+        "rationale": "Strong bullish sentiment driven by AI momentum and a favorable analyst target, with RSI indicating room for upside."
+      }
+    },
+    {
+      "ticker": "EC",
+      "company_name": "Ecopetrol SA ADR",
       "earnings_date": "2026-05-20",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 9,
         "runup_percentage": 0.0,
         "favorable_entry_price": "N/A",
-        "rationale": "No immediate earnings catalyst is mentioned, and the current price is already above the analyst target, making a pre-earnings run-up unlikely and risking a pullback."
+        "rationale": "The current price is significantly above the provided target, indicating potential overvaluation despite some positive diversification news."
       }
     }
   ]
