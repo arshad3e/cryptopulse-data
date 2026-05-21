@@ -1543,6 +1543,38 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "DXCM_2026-05-21": {
+      "trade_id": "DXCM_2026-05-21",
+      "symbol": "DXCM",
+      "entry_date": "2026-05-21 14:34:29",
+      "expiry_date": "2026-06-04",
+      "entry_price": 71.56,
+      "current_price": 71.56,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-21 14:34:29",
+          "price": 71.56,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HCA_2026-05-21": {
+      "trade_id": "HCA_2026-05-21",
+      "symbol": "HCA",
+      "entry_date": "2026-05-21 14:34:29",
+      "expiry_date": "2026-06-04",
+      "entry_price": 391.07,
+      "current_price": 391.07,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-21 14:34:29",
+          "price": 391.07,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
