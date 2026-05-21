@@ -1495,6 +1495,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "INTU_2026-05-21": {
+      "trade_id": "INTU_2026-05-21",
+      "symbol": "INTU",
+      "entry_date": "2026-05-21 12:33:02",
+      "expiry_date": "2026-06-04",
+      "entry_price": 306.64,
+      "current_price": 306.64,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-21 12:33:02",
+          "price": 306.64,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ARM_2026-05-21": {
+      "trade_id": "ARM_2026-05-21",
+      "symbol": "ARM",
+      "entry_date": "2026-05-21 12:33:02",
+      "expiry_date": "2026-06-04",
+      "entry_price": 287.83,
+      "current_price": 287.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-21 12:33:02",
+          "price": 287.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PANW_2026-05-21": {
+      "trade_id": "PANW_2026-05-21",
+      "symbol": "PANW",
+      "entry_date": "2026-05-21 12:33:02",
+      "expiry_date": "2026-06-04",
+      "entry_price": 250.63,
+      "current_price": 250.63,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-21 12:33:02",
+          "price": 250.63,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
