@@ -1609,6 +1609,38 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CRDO_2026-05-22": {
+      "trade_id": "CRDO_2026-05-22",
+      "symbol": "CRDO",
+      "entry_date": "2026-05-22 14:07:30",
+      "expiry_date": "2026-06-05",
+      "entry_price": 215.2,
+      "current_price": 215.2,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 14:07:30",
+          "price": 215.2,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "F_2026-05-22": {
+      "trade_id": "F_2026-05-22",
+      "symbol": "F",
+      "entry_date": "2026-05-22 14:07:30",
+      "expiry_date": "2026-06-05",
+      "entry_price": 14.76,
+      "current_price": 14.76,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 14:07:30",
+          "price": 14.76,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
