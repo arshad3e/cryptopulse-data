@@ -1,15 +1,45 @@
 {
-  "lastUpdated": "2026-05-21T18:27:17.702894",
+  "lastUpdated": "2026-05-22T18:31:11.122573",
   "stocks": [
     {
-      "ticker": "AAP",
-      "company_name": "Advance Auto Parts Inc",
-      "earnings_date": "2026-05-21",
-      "market_cap": "$3.1B",
-      "price": "58.6100",
-      "change_pct": "14.3833%",
-      "rsi": 59.04,
-      "move_score": 29.67
+      "ticker": "BAH",
+      "company_name": "Booz Allen Hamilton Holding",
+      "earnings_date": "2026-05-22",
+      "market_cap": "$9.2B",
+      "price": "78.6950",
+      "change_pct": "3.0714%",
+      "rsi": 54.77,
+      "move_score": 27.84
+    },
+    {
+      "ticker": "FRO",
+      "company_name": "Frontline Ltd",
+      "earnings_date": "2026-05-22",
+      "market_cap": "$8.6B",
+      "price": "37.1100",
+      "change_pct": "-3.4599%",
+      "rsi": 50.0,
+      "move_score": 25.43
+    },
+    {
+      "ticker": "BKE",
+      "company_name": "Buckle Inc",
+      "earnings_date": "2026-05-22",
+      "market_cap": "$2.5B",
+      "price": "49.3200",
+      "change_pct": "0.6120%",
+      "rsi": 40.44,
+      "move_score": 20.34
+    },
+    {
+      "ticker": "BJ",
+      "company_name": "BJs Wholesale Club Holdings Inc",
+      "earnings_date": "2026-05-22",
+      "market_cap": "$12.2B",
+      "price": "86.6550",
+      "change_pct": "-8.2336%",
+      "rsi": 33.75,
+      "move_score": 17.48
     }
   ]
 }
