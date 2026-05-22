@@ -1513,6 +1513,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CSCO_2026-05-22": {
+      "trade_id": "CSCO_2026-05-22",
+      "symbol": "CSCO",
+      "entry_date": "2026-05-22 09:34:17",
+      "expiry_date": "2026-06-05",
+      "entry_price": 118.79,
+      "current_price": 118.79,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 09:34:17",
+          "price": 118.79,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DDOG_2026-05-22": {
+      "trade_id": "DDOG_2026-05-22",
+      "symbol": "DDOG",
+      "entry_date": "2026-05-22 09:34:17",
+      "expiry_date": "2026-06-05",
+      "entry_price": 221.71,
+      "current_price": 221.71,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 09:34:17",
+          "price": 221.71,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NIO_2026-05-22": {
+      "trade_id": "NIO_2026-05-22",
+      "symbol": "NIO",
+      "entry_date": "2026-05-22 09:34:17",
+      "expiry_date": "2026-06-05",
+      "entry_price": 5.24,
+      "current_price": 5.24,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 09:34:17",
+          "price": 5.24,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
