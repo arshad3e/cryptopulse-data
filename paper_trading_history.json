@@ -1561,6 +1561,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "DELL_2026-05-22": {
+      "trade_id": "DELL_2026-05-22",
+      "symbol": "DELL",
+      "entry_date": "2026-05-22 11:07:12",
+      "expiry_date": "2026-06-05",
+      "entry_price": 291.85,
+      "current_price": 291.85,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 11:07:12",
+          "price": 291.85,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPQ_2026-05-22": {
+      "trade_id": "HPQ_2026-05-22",
+      "symbol": "HPQ",
+      "entry_date": "2026-05-22 11:07:12",
+      "expiry_date": "2026-06-05",
+      "entry_price": 25.23,
+      "current_price": 25.23,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 11:07:12",
+          "price": 25.23,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPE_2026-05-22": {
+      "trade_id": "HPE_2026-05-22",
+      "symbol": "HPE",
+      "entry_date": "2026-05-22 11:07:12",
+      "expiry_date": "2026-06-05",
+      "entry_price": 36.98,
+      "current_price": 36.98,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-22 11:07:12",
+          "price": 36.98,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
