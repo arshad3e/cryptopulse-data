@@ -1,28 +1,26 @@
 {
-  "lastUpdated": "2026-05-20T20:10:11.755343",
+  "lastUpdated": "2026-05-23T19:39:40.843033",
   "stocks": [
     {
-      "ticker": "ADI",
-      "company_name": "Analog Devices Inc",
-      "earnings_date": "2026-05-20",
+      "ticker": "TCOM",
+      "company_name": "Trip.com Group Ltd ADR",
+      "earnings_date": "2026-05-25",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 8,
-        "runup_percentage": 2.5,
-        "favorable_entry_price": "398.05",
-        "rationale": "Strong bullish sentiment driven by AI momentum and a favorable analyst target, with RSI indicating room for upside."
+        "confidence_score": 9,
+        "runup_percentage": 7.5,
+        "rationale": "Extremely oversold RSI, significant upside to analyst target, and recent positive strategic news with Visa provide strong catalysts for a pre-earnings rebound."
       }
     },
     {
-      "ticker": "EC",
-      "company_name": "Ecopetrol SA ADR",
-      "earnings_date": "2026-05-20",
+      "ticker": "WDS",
+      "company_name": "Woodside Energy Group Ltd",
+      "earnings_date": "2026-05-25",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "The current price is significantly above the provided target, indicating potential overvaluation despite some positive diversification news."
+        "confidence_score": 7,
+        "runup_percentage": 1.0,
+        "rationale": "Neutral RSI, absence of a clear price target, and mixed news without a strong, immediate catalyst make a significant pre-earnings run-up unlikely."
       }
     }
   ]
