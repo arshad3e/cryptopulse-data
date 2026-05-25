@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T19:39:40.843033",
+  "lastUpdated": "2026-05-25T19:45:38.118379",
   "stocks": [
     {
       "ticker": "TCOM",
@@ -7,9 +7,10 @@
       "earnings_date": "2026-05-25",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 7.5,
-        "rationale": "Extremely oversold RSI, significant upside to analyst target, and recent positive strategic news with Visa provide strong catalysts for a pre-earnings rebound."
+        "confidence_score": 6,
+        "runup_percentage": 4.0,
+        "favorable_entry_price": "46.37",
+        "rationale": "Deeply oversold RSI and attractive valuation post-negative news offer a potential contrarian pre-earnings bounce opportunity."
       }
     },
     {
@@ -19,8 +20,9 @@
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 7,
-        "runup_percentage": 1.0,
-        "rationale": "Neutral RSI, absence of a clear price target, and mixed news without a strong, immediate catalyst make a significant pre-earnings run-up unlikely."
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "22.59",
+        "rationale": "Lack of clear bullish catalysts, absence of a target price, and neutral RSI make it a poor candidate for a short-term pre-earnings run-up."
       }
     }
   ]
