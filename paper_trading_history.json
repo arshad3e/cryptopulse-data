@@ -1980,6 +1980,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "FSLR_2026-05-26": {
+      "trade_id": "FSLR_2026-05-26",
+      "symbol": "FSLR",
+      "entry_date": "2026-05-26 13:38:32",
+      "expiry_date": "2026-06-09",
+      "entry_price": 269.08,
+      "current_price": 269.08,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 13:38:32",
+          "price": 269.08,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
