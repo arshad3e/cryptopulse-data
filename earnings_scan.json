@@ -1,45 +1,35 @@
 {
-  "lastUpdated": "2026-05-22T18:31:11.122573",
+  "lastUpdated": "2026-05-26T19:28:24.606731",
   "stocks": [
     {
-      "ticker": "BAH",
-      "company_name": "Booz Allen Hamilton Holding",
-      "earnings_date": "2026-05-22",
-      "market_cap": "$9.2B",
-      "price": "78.6950",
-      "change_pct": "3.0714%",
-      "rsi": 54.77,
-      "move_score": 27.84
+      "ticker": "SMTC",
+      "company_name": "Semtech Corporation",
+      "earnings_date": "2026-05-26",
+      "market_cap": "$14.6B",
+      "price": "164.4600",
+      "change_pct": "4.8986%",
+      "rsi": 79.34,
+      "move_score": 40.4
     },
     {
-      "ticker": "FRO",
-      "company_name": "Frontline Ltd",
-      "earnings_date": "2026-05-22",
-      "market_cap": "$8.6B",
-      "price": "37.1100",
-      "change_pct": "-3.4599%",
-      "rsi": 50.0,
-      "move_score": 25.43
+      "ticker": "SKY",
+      "company_name": "Skyline Corporation",
+      "earnings_date": "2026-05-26",
+      "market_cap": "$4.0B",
+      "price": "71.7900",
+      "change_pct": "1.1127%",
+      "rsi": 48.38,
+      "move_score": 24.39
     },
     {
-      "ticker": "BKE",
-      "company_name": "Buckle Inc",
-      "earnings_date": "2026-05-22",
-      "market_cap": "$2.5B",
-      "price": "49.3200",
-      "change_pct": "0.6120%",
-      "rsi": 40.44,
-      "move_score": 20.34
-    },
-    {
-      "ticker": "BJ",
-      "company_name": "BJs Wholesale Club Holdings Inc",
-      "earnings_date": "2026-05-22",
-      "market_cap": "$12.2B",
-      "price": "86.6550",
-      "change_pct": "-8.2336%",
-      "rsi": 33.75,
-      "move_score": 17.48
+      "ticker": "SQM",
+      "company_name": "Sociedad Quimica y Minera de Chile SA ADR B",
+      "earnings_date": "2026-05-26",
+      "market_cap": "$22.9B",
+      "price": "80.4300",
+      "change_pct": "0.3118%",
+      "rsi": 40.13,
+      "move_score": 21.21
     }
   ]
 }
