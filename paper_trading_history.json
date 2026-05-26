@@ -1842,6 +1842,86 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "DELL_2026-05-26": {
+      "trade_id": "DELL_2026-05-26",
+      "symbol": "DELL",
+      "entry_date": "2026-05-26 00:04:47",
+      "expiry_date": "2026-06-09",
+      "entry_price": 295.19,
+      "current_price": 295.19,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 00:04:47",
+          "price": 295.19,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ARM_2026-05-26": {
+      "trade_id": "ARM_2026-05-26",
+      "symbol": "ARM",
+      "entry_date": "2026-05-26 00:04:47",
+      "expiry_date": "2026-06-09",
+      "entry_price": 306.51,
+      "current_price": 306.51,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 00:04:47",
+          "price": 306.51,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPQ_2026-05-26": {
+      "trade_id": "HPQ_2026-05-26",
+      "symbol": "HPQ",
+      "entry_date": "2026-05-26 00:04:47",
+      "expiry_date": "2026-06-09",
+      "entry_price": 25.24,
+      "current_price": 25.24,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 00:04:47",
+          "price": 25.24,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NTAP_2026-05-26": {
+      "trade_id": "NTAP_2026-05-26",
+      "symbol": "NTAP",
+      "entry_date": "2026-05-26 00:04:47",
+      "expiry_date": "2026-06-09",
+      "entry_price": 139.36,
+      "current_price": 139.36,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 00:04:47",
+          "price": 139.36,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CRDO_2026-05-26": {
+      "trade_id": "CRDO_2026-05-26",
+      "symbol": "CRDO",
+      "entry_date": "2026-05-26 00:04:47",
+      "expiry_date": "2026-06-09",
+      "entry_price": 218.41,
+      "current_price": 218.41,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 00:04:47",
+          "price": 218.41,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
