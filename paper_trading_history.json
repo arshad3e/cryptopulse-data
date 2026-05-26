@@ -1996,6 +1996,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "MU_2026-05-26": {
+      "trade_id": "MU_2026-05-26",
+      "symbol": "MU",
+      "entry_date": "2026-05-26 15:20:27",
+      "expiry_date": "2026-06-09",
+      "entry_price": 914.49,
+      "current_price": 914.49,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 15:20:27",
+          "price": 914.49,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
