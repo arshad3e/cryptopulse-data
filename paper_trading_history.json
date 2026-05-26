@@ -1922,6 +1922,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "MRVL_2026-05-26": {
+      "trade_id": "MRVL_2026-05-26",
+      "symbol": "MRVL",
+      "entry_date": "2026-05-26 12:36:52",
+      "expiry_date": "2026-06-09",
+      "entry_price": 205.36,
+      "current_price": 205.36,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 12:36:52",
+          "price": 205.36,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ON_2026-05-26": {
+      "trade_id": "ON_2026-05-26",
+      "symbol": "ON",
+      "entry_date": "2026-05-26 12:36:52",
+      "expiry_date": "2026-06-09",
+      "entry_price": 126.84,
+      "current_price": 126.84,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 12:36:52",
+          "price": 126.84,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPE_2026-05-26": {
+      "trade_id": "HPE_2026-05-26",
+      "symbol": "HPE",
+      "entry_date": "2026-05-26 12:36:52",
+      "expiry_date": "2026-06-09",
+      "entry_price": 38.08,
+      "current_price": 38.08,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-26 12:36:52",
+          "price": 38.08,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
