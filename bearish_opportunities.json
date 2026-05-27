@@ -1,14 +1,14 @@
 {
-  "scan_timestamp": "2026-05-27 00:26:15",
+  "scan_timestamp": "2026-05-27 00:26:19",
   "market_open": false,
   "total_scanned": 547,
   "matches_found": 11,
   "summary": {
     "calls": 1,
-    "puts": 24,
+    "puts": 23,
     "top10_calls": 1,
     "top10_puts": 10,
-    "strong_signals": 12
+    "strong_signals": 11
   },
   "top_calls": [
     {
@@ -96,49 +96,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "MRVL",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 98.0,
-      "score": 22,
-      "signal_count": 8,
-      "price": 208.26,
-      "signals": [
-        "RSI overbought (75.1)",
-        "Above Bollinger upper band (1.13)",
-        "PARABOLIC +48.9% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Z-score +2.5\u03c3 above 20d mean",
-        "5-day run +23.3%",
-        "Gap-up open +7.6%",
-        "Blow-off: +115.8% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI overbought (75.1)",
-        "Above Bollinger upper band (1.13)",
-        "PARABOLIC +48.9% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Z-score +2.5\u03c3 above 20d mean",
-        "5-day run +23.3%",
-        "Gap-up open +7.6%",
-        "Blow-off: +115.8% above SMA200 while RSI overbought"
-      ],
-      "rsi": 75.08,
-      "stoch_k": 89.6,
-      "bb_position": 1.128,
-      "dist_sma20_pct": 19.9,
-      "dist_sma50_pct": 48.9,
-      "dist_sma200_pct": 115.8,
-      "vol_ratio": 1.75,
-      "atr_pct": 6.57,
-      "consec_days": 5,
-      "zscore_20d": 2.51,
-      "one_week_chg_pct": 23.3,
-      "one_month_chg_pct": 26.7,
-      "avg_volume": 24096280,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "DELL",
       "direction": "PUT",
       "conviction": "VERY HIGH",
@@ -179,6 +136,47 @@
       "one_week_chg_pct": 28.2,
       "one_month_chg_pct": 41.2,
       "avg_volume": 6503065,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "FSLR",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 96.4,
+      "score": 20,
+      "signal_count": 7,
+      "price": 269.95,
+      "signals": [
+        "RSI overbought (75.5)",
+        "Stoch hook \u2193 from extreme (91)",
+        "Above Bollinger upper band (1.06)",
+        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
+        "4 up-day streak",
+        "Z-score +2.3\u03c3 above 20d mean",
+        "5-day run +15.5%"
+      ],
+      "bonus_factors": [
+        "RSI overbought (75.5)",
+        "Stoch hook \u2193 from extreme (91)",
+        "Above Bollinger upper band (1.06)",
+        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
+        "4 up-day streak",
+        "Z-score +2.3\u03c3 above 20d mean",
+        "5-day run +15.5%"
+      ],
+      "rsi": 75.5,
+      "stoch_k": 90.54,
+      "bb_position": 1.063,
+      "dist_sma20_pct": 19.6,
+      "dist_sma50_pct": 30.3,
+      "dist_sma200_pct": 19.5,
+      "vol_ratio": 1.42,
+      "atr_pct": 4.9,
+      "consec_days": 4,
+      "zscore_20d": 2.25,
+      "one_week_chg_pct": 15.5,
+      "one_month_chg_pct": 39.3,
+      "avg_volume": 2787340,
       "data_source": "yfinance"
     },
     {
@@ -265,47 +263,6 @@
       "one_week_chg_pct": 15.3,
       "one_month_chg_pct": 35.2,
       "avg_volume": 16209320,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "FSLR",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 96.4,
-      "score": 20,
-      "signal_count": 7,
-      "price": 269.95,
-      "signals": [
-        "RSI overbought (75.5)",
-        "Stoch hook \u2193 from extreme (91)",
-        "Above Bollinger upper band (1.06)",
-        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
-        "4 up-day streak",
-        "Z-score +2.3\u03c3 above 20d mean",
-        "5-day run +15.5%"
-      ],
-      "bonus_factors": [
-        "RSI overbought (75.5)",
-        "Stoch hook \u2193 from extreme (91)",
-        "Above Bollinger upper band (1.06)",
-        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
-        "4 up-day streak",
-        "Z-score +2.3\u03c3 above 20d mean",
-        "5-day run +15.5%"
-      ],
-      "rsi": 75.5,
-      "stoch_k": 90.54,
-      "bb_position": 1.063,
-      "dist_sma20_pct": 19.6,
-      "dist_sma50_pct": 30.3,
-      "dist_sma200_pct": 19.5,
-      "vol_ratio": 1.42,
-      "atr_pct": 4.9,
-      "consec_days": 4,
-      "zscore_20d": 2.25,
-      "one_week_chg_pct": 15.5,
-      "one_month_chg_pct": 39.3,
-      "avg_volume": 2787340,
       "data_source": "yfinance"
     },
     {
@@ -463,6 +420,45 @@
       "one_month_chg_pct": 58.8,
       "avg_volume": 6199320,
       "data_source": "yfinance"
+    },
+    {
+      "symbol": "NTAP",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 89.1,
+      "score": 16,
+      "signal_count": 6,
+      "price": 138.95,
+      "signals": [
+        "RSI very overbought (82.8)",
+        "Stoch extreme (93)",
+        "Above Bollinger upper band (1.12)",
+        "Strongly extended +27.7% above SMA50",
+        "Z-score +2.5\u03c3 above 20d mean",
+        "5-day run +15.2%"
+      ],
+      "bonus_factors": [
+        "RSI very overbought (82.8)",
+        "Stoch extreme (93)",
+        "Above Bollinger upper band (1.12)",
+        "Strongly extended +27.7% above SMA50",
+        "Z-score +2.5\u03c3 above 20d mean",
+        "5-day run +15.2%"
+      ],
+      "rsi": 82.82,
+      "stoch_k": 93.2,
+      "bb_position": 1.117,
+      "dist_sma20_pct": 17.6,
+      "dist_sma50_pct": 27.7,
+      "dist_sma200_pct": 27.1,
+      "vol_ratio": 2.33,
+      "atr_pct": 3.78,
+      "consec_days": -1,
+      "zscore_20d": 2.47,
+      "one_week_chg_pct": 15.2,
+      "one_month_chg_pct": 27.8,
+      "avg_volume": 2600555,
+      "data_source": "yfinance"
     }
   ],
   "data": [
@@ -510,49 +506,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "MRVL",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 98.0,
-      "score": 22,
-      "signal_count": 8,
-      "price": 208.26,
-      "signals": [
-        "RSI overbought (75.1)",
-        "Above Bollinger upper band (1.13)",
-        "PARABOLIC +48.9% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Z-score +2.5\u03c3 above 20d mean",
-        "5-day run +23.3%",
-        "Gap-up open +7.6%",
-        "Blow-off: +115.8% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI overbought (75.1)",
-        "Above Bollinger upper band (1.13)",
-        "PARABOLIC +48.9% above SMA50 \u2014 mean-reversion due",
-        "5 consecutive up days",
-        "Z-score +2.5\u03c3 above 20d mean",
-        "5-day run +23.3%",
-        "Gap-up open +7.6%",
-        "Blow-off: +115.8% above SMA200 while RSI overbought"
-      ],
-      "rsi": 75.08,
-      "stoch_k": 89.6,
-      "bb_position": 1.128,
-      "dist_sma20_pct": 19.9,
-      "dist_sma50_pct": 48.9,
-      "dist_sma200_pct": 115.8,
-      "vol_ratio": 1.75,
-      "atr_pct": 6.57,
-      "consec_days": 5,
-      "zscore_20d": 2.51,
-      "one_week_chg_pct": 23.3,
-      "one_month_chg_pct": 26.7,
-      "avg_volume": 24096280,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "DELL",
       "direction": "PUT",
       "conviction": "VERY HIGH",
@@ -593,6 +546,47 @@
       "one_week_chg_pct": 28.2,
       "one_month_chg_pct": 41.2,
       "avg_volume": 6503065,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "FSLR",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 96.4,
+      "score": 20,
+      "signal_count": 7,
+      "price": 269.95,
+      "signals": [
+        "RSI overbought (75.5)",
+        "Stoch hook \u2193 from extreme (91)",
+        "Above Bollinger upper band (1.06)",
+        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
+        "4 up-day streak",
+        "Z-score +2.3\u03c3 above 20d mean",
+        "5-day run +15.5%"
+      ],
+      "bonus_factors": [
+        "RSI overbought (75.5)",
+        "Stoch hook \u2193 from extreme (91)",
+        "Above Bollinger upper band (1.06)",
+        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
+        "4 up-day streak",
+        "Z-score +2.3\u03c3 above 20d mean",
+        "5-day run +15.5%"
+      ],
+      "rsi": 75.5,
+      "stoch_k": 90.54,
+      "bb_position": 1.063,
+      "dist_sma20_pct": 19.6,
+      "dist_sma50_pct": 30.3,
+      "dist_sma200_pct": 19.5,
+      "vol_ratio": 1.42,
+      "atr_pct": 4.9,
+      "consec_days": 4,
+      "zscore_20d": 2.25,
+      "one_week_chg_pct": 15.5,
+      "one_month_chg_pct": 39.3,
+      "avg_volume": 2787340,
       "data_source": "yfinance"
     },
     {
@@ -679,47 +673,6 @@
       "one_week_chg_pct": 15.3,
       "one_month_chg_pct": 35.2,
       "avg_volume": 16209320,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "FSLR",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 96.4,
-      "score": 20,
-      "signal_count": 7,
-      "price": 269.95,
-      "signals": [
-        "RSI overbought (75.5)",
-        "Stoch hook \u2193 from extreme (91)",
-        "Above Bollinger upper band (1.06)",
-        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
-        "4 up-day streak",
-        "Z-score +2.3\u03c3 above 20d mean",
-        "5-day run +15.5%"
-      ],
-      "bonus_factors": [
-        "RSI overbought (75.5)",
-        "Stoch hook \u2193 from extreme (91)",
-        "Above Bollinger upper band (1.06)",
-        "PARABOLIC +30.3% above SMA50 \u2014 mean-reversion due",
-        "4 up-day streak",
-        "Z-score +2.3\u03c3 above 20d mean",
-        "5-day run +15.5%"
-      ],
-      "rsi": 75.5,
-      "stoch_k": 90.54,
-      "bb_position": 1.063,
-      "dist_sma20_pct": 19.6,
-      "dist_sma50_pct": 30.3,
-      "dist_sma200_pct": 19.5,
-      "vol_ratio": 1.42,
-      "atr_pct": 4.9,
-      "consec_days": 4,
-      "zscore_20d": 2.25,
-      "one_week_chg_pct": 15.5,
-      "one_month_chg_pct": 39.3,
-      "avg_volume": 2787340,
       "data_source": "yfinance"
     },
     {
@@ -915,6 +868,45 @@
       "one_week_chg_pct": -24.5,
       "one_month_chg_pct": -23.1,
       "avg_volume": 4549890,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "NTAP",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 89.1,
+      "score": 16,
+      "signal_count": 6,
+      "price": 138.95,
+      "signals": [
+        "RSI very overbought (82.8)",
+        "Stoch extreme (93)",
+        "Above Bollinger upper band (1.12)",
+        "Strongly extended +27.7% above SMA50",
+        "Z-score +2.5\u03c3 above 20d mean",
+        "5-day run +15.2%"
+      ],
+      "bonus_factors": [
+        "RSI very overbought (82.8)",
+        "Stoch extreme (93)",
+        "Above Bollinger upper band (1.12)",
+        "Strongly extended +27.7% above SMA50",
+        "Z-score +2.5\u03c3 above 20d mean",
+        "5-day run +15.2%"
+      ],
+      "rsi": 82.82,
+      "stoch_k": 93.2,
+      "bb_position": 1.117,
+      "dist_sma20_pct": 17.6,
+      "dist_sma50_pct": 27.7,
+      "dist_sma200_pct": 27.1,
+      "vol_ratio": 2.33,
+      "atr_pct": 3.78,
+      "consec_days": -1,
+      "zscore_20d": 2.47,
+      "one_week_chg_pct": 15.2,
+      "one_month_chg_pct": 27.8,
+      "avg_volume": 2600555,
       "data_source": "yfinance"
     }
   ]
