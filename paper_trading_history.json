@@ -1996,6 +1996,70 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "NTAP_2026-05-27": {
+      "trade_id": "NTAP_2026-05-27",
+      "symbol": "NTAP",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 142.74,
+      "current_price": 142.74,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 142.74,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MU_2026-05-27": {
+      "trade_id": "MU_2026-05-27",
+      "symbol": "MU",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 928.41,
+      "current_price": 928.41,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 928.41,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DAL_2026-05-27": {
+      "trade_id": "DAL_2026-05-27",
+      "symbol": "DAL",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 81.8,
+      "current_price": 81.8,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 81.8,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PDD_2026-05-27": {
+      "trade_id": "PDD_2026-05-27",
+      "symbol": "PDD",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 86.61,
+      "current_price": 86.61,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 86.61,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
