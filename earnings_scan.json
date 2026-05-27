@@ -1,35 +1,75 @@
 {
-  "lastUpdated": "2026-05-26T19:28:24.606731",
+  "lastUpdated": "2026-05-27T18:27:14.431646",
   "stocks": [
     {
-      "ticker": "SMTC",
-      "company_name": "Semtech Corporation",
-      "earnings_date": "2026-05-26",
-      "market_cap": "$14.6B",
-      "price": "164.4600",
-      "change_pct": "4.8986%",
-      "rsi": 79.34,
-      "move_score": 40.4
+      "ticker": "BMO",
+      "company_name": "Bank of Montreal",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$114.1B",
+      "price": "163.1500",
+      "change_pct": "0.8094%",
+      "rsi": 74.47,
+      "move_score": 42.94
     },
     {
-      "ticker": "SKY",
-      "company_name": "Skyline Corporation",
-      "earnings_date": "2026-05-26",
-      "market_cap": "$4.0B",
-      "price": "71.7900",
-      "change_pct": "1.1127%",
-      "rsi": 48.38,
-      "move_score": 24.39
+      "ticker": "BNS",
+      "company_name": "Bank of Nova Scotia",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$98.5B",
+      "price": "80.6700",
+      "change_pct": "0.3358%",
+      "rsi": 70.9,
+      "move_score": 40.37
     },
     {
-      "ticker": "SQM",
-      "company_name": "Sociedad Quimica y Minera de Chile SA ADR B",
-      "earnings_date": "2026-05-26",
-      "market_cap": "$22.9B",
-      "price": "80.4300",
-      "change_pct": "0.3118%",
-      "rsi": 40.13,
-      "move_score": 21.21
+      "ticker": "BMA",
+      "company_name": "Banco Macro SA B ADR",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$4.9B",
+      "price": "85.6700",
+      "change_pct": "7.3021%",
+      "rsi": 65.87,
+      "move_score": 33.18
+    },
+    {
+      "ticker": "ARXS",
+      "company_name": "Arxis, Inc. Class A Common Stock",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$14.3B",
+      "price": "39.7500",
+      "change_pct": "0.5565%",
+      "rsi": 62.05,
+      "move_score": 31.74
+    },
+    {
+      "ticker": "BBWI",
+      "company_name": "Bath & Body Works Inc.",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$3.6B",
+      "price": "19.4550",
+      "change_pct": "9.7293%",
+      "rsi": 57.15,
+      "move_score": 28.75
+    },
+    {
+      "ticker": "A",
+      "company_name": "Agilent Technologies Inc",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$32.5B",
+      "price": "115.0800",
+      "change_pct": "0.1044%",
+      "rsi": 51.0,
+      "move_score": 27.13
+    },
+    {
+      "ticker": "ANF",
+      "company_name": "Abercrombie & Fitch Company",
+      "earnings_date": "2026-05-27",
+      "market_cap": "$3.4B",
+      "price": "81.4700",
+      "change_pct": "8.9462%",
+      "rsi": 53.34,
+      "move_score": 26.84
     }
   ]
 }
