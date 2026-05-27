@@ -1,28 +1,37 @@
 {
-  "lastUpdated": "2026-05-25T19:45:38.118379",
+  "lastUpdated": "2026-05-26T22:36:39.654832",
   "stocks": [
     {
-      "ticker": "TCOM",
-      "company_name": "Trip.com Group Ltd ADR",
-      "earnings_date": "2026-05-25",
+      "ticker": "AZO",
+      "company_name": "AutoZone Inc",
+      "earnings_date": "2026-05-26",
       "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 6,
-        "runup_percentage": 4.0,
-        "favorable_entry_price": "46.37",
-        "rationale": "Deeply oversold RSI and attractive valuation post-negative news offer a potential contrarian pre-earnings bounce opportunity."
+        "decision": "Bad Idea",
+        "confidence_score": 8,
+        "runup_percentage": -2.0,
+        "rationale": "Recent news indicates strong selling pressure and negative sentiment, with the stock falling even after beating earnings, making a pre-earnings run-up unlikely."
       }
     },
     {
-      "ticker": "WDS",
-      "company_name": "Woodside Energy Group Ltd",
-      "earnings_date": "2026-05-25",
+      "ticker": "CCEP",
+      "company_name": "Coca-Cola European Partners PLC",
+      "earnings_date": "2026-05-26",
       "ai_decision": {
         "decision": "Bad Idea",
         "confidence_score": 7,
-        "runup_percentage": 0.5,
-        "favorable_entry_price": "22.59",
-        "rationale": "Lack of clear bullish catalysts, absence of a target price, and neutral RSI make it a poor candidate for a short-term pre-earnings run-up."
+        "runup_percentage": -1.0,
+        "rationale": "Despite a reasonable RSI and target, recent news and technical analysis are explicitly bearish, indicating a lack of positive momentum for a pre-earnings run-up."
+      }
+    },
+    {
+      "ticker": "EC",
+      "company_name": "Ecopetrol SA ADR",
+      "earnings_date": "2026-05-27",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 8,
+        "runup_percentage": -1.5,
+        "rationale": "Despite positive M&A news, the target price is significantly below the current trading price, suggesting overvaluation and limited room for a pre-earnings run-up."
       }
     }
   ]
