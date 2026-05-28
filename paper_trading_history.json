@@ -1963,6 +1963,70 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "BBY_2026-05-28": {
+      "trade_id": "BBY_2026-05-28",
+      "symbol": "BBY",
+      "entry_date": "2026-05-28 14:29:41",
+      "expiry_date": "2026-06-11",
+      "entry_price": 76.5,
+      "current_price": 76.5,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-28 14:29:41",
+          "price": 76.5,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "FSLR_2026-05-28": {
+      "trade_id": "FSLR_2026-05-28",
+      "symbol": "FSLR",
+      "entry_date": "2026-05-28 14:29:41",
+      "expiry_date": "2026-06-11",
+      "entry_price": 306.14,
+      "current_price": 306.14,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-28 14:29:41",
+          "price": 306.14,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ARM_2026-05-28": {
+      "trade_id": "ARM_2026-05-28",
+      "symbol": "ARM",
+      "entry_date": "2026-05-28 14:29:41",
+      "expiry_date": "2026-06-11",
+      "entry_price": 344.32,
+      "current_price": 344.32,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-28 14:29:41",
+          "price": 344.32,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "A_2026-05-28": {
+      "trade_id": "A_2026-05-28",
+      "symbol": "A",
+      "entry_date": "2026-05-28 14:29:41",
+      "expiry_date": "2026-06-11",
+      "entry_price": 138.68,
+      "current_price": 138.68,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-28 14:29:41",
+          "price": 138.68,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
