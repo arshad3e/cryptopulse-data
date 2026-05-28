@@ -1,75 +1,55 @@
 {
-  "lastUpdated": "2026-05-27T18:27:14.431646",
+  "lastUpdated": "2026-05-28T18:26:59.565173",
   "stocks": [
     {
-      "ticker": "BMO",
-      "company_name": "Bank of Montreal",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$114.1B",
-      "price": "163.1500",
-      "change_pct": "0.8094%",
-      "rsi": 74.47,
-      "move_score": 42.94
+      "ticker": "BBY",
+      "company_name": "Best Buy Co. Inc",
+      "earnings_date": "2026-05-28",
+      "market_cap": "$13.6B",
+      "price": "74.7300",
+      "change_pct": "15.7887%",
+      "rsi": 79.34,
+      "move_score": 40.35
     },
     {
-      "ticker": "BNS",
-      "company_name": "Bank of Nova Scotia",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$98.5B",
-      "price": "80.6700",
-      "change_pct": "0.3358%",
-      "rsi": 70.9,
-      "move_score": 40.37
+      "ticker": "AMBA",
+      "company_name": "Ambarella Inc",
+      "earnings_date": "2026-05-28",
+      "market_cap": "$4.1B",
+      "price": "91.8400",
+      "change_pct": "1.3910%",
+      "rsi": 73.63,
+      "move_score": 37.02
     },
     {
-      "ticker": "BMA",
-      "company_name": "Banco Macro SA B ADR",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$4.9B",
-      "price": "85.6700",
-      "change_pct": "7.3021%",
-      "rsi": 65.87,
-      "move_score": 33.18
+      "ticker": "AEO",
+      "company_name": "American Eagle Outfitters Inc",
+      "earnings_date": "2026-05-28",
+      "market_cap": "$2.9B",
+      "price": "17.9250",
+      "change_pct": "2.0786%",
+      "rsi": 60.3,
+      "move_score": 30.3
     },
     {
-      "ticker": "ARXS",
-      "company_name": "Arxis, Inc. Class A Common Stock",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$14.3B",
-      "price": "39.7500",
-      "change_pct": "0.5565%",
-      "rsi": 62.05,
-      "move_score": 31.74
+      "ticker": "ADSK",
+      "company_name": "Autodesk Inc",
+      "earnings_date": "2026-05-28",
+      "market_cap": "$50.0B",
+      "price": "240.9500",
+      "change_pct": "1.6667%",
+      "rsi": 51.1,
+      "move_score": 28.05
     },
     {
-      "ticker": "BBWI",
-      "company_name": "Bath & Body Works Inc.",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$3.6B",
-      "price": "19.4550",
-      "change_pct": "9.7293%",
-      "rsi": 57.15,
-      "move_score": 28.75
-    },
-    {
-      "ticker": "A",
-      "company_name": "Agilent Technologies Inc",
-      "earnings_date": "2026-05-27",
-      "market_cap": "$32.5B",
-      "price": "115.0800",
-      "change_pct": "0.1044%",
-      "rsi": 51.0,
-      "move_score": 27.13
-    },
-    {
-      "ticker": "ANF",
-      "company_name": "Abercrombie & Fitch Company",
-      "earnings_date": "2026-05-27",
+      "ticker": "ATS",
+      "company_name": "ATS Corporation",
+      "earnings_date": "2026-05-28",
       "market_cap": "$3.4B",
-      "price": "81.4700",
-      "change_pct": "8.9462%",
-      "rsi": 53.34,
-      "move_score": 26.84
+      "price": "30.4500",
+      "change_pct": "-13.6660%",
+      "rsi": 40.83,
+      "move_score": 20.59
     }
   ]
 }
