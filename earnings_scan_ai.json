@@ -1,37 +1,28 @@
 {
-  "lastUpdated": "2026-05-26T22:36:39.654832",
+  "lastUpdated": "2026-05-29T18:58:35.746311",
   "stocks": [
     {
-      "ticker": "AZO",
-      "company_name": "AutoZone Inc",
-      "earnings_date": "2026-05-26",
+      "ticker": "CRDO",
+      "company_name": "Credo Technology Group Holding Ltd",
+      "earnings_date": "2026-06-01",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": -2.0,
-        "rationale": "Recent news indicates strong selling pressure and negative sentiment, with the stock falling even after beating earnings, making a pre-earnings run-up unlikely."
+        "confidence_score": 9,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "236.03",
+        "rationale": "Despite recent bullish news, CRDO is trading significantly above its consensus target price with an RSI nearing overbought, suggesting limited upside and high risk for a pre-earnings run-up."
       }
     },
     {
-      "ticker": "CCEP",
-      "company_name": "Coca-Cola European Partners PLC",
-      "earnings_date": "2026-05-26",
+      "ticker": "HPE",
+      "company_name": "Hewlett Packard Enterprise Co",
+      "earnings_date": "2026-06-01",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 7,
-        "runup_percentage": -1.0,
-        "rationale": "Despite a reasonable RSI and target, recent news and technical analysis are explicitly bearish, indicating a lack of positive momentum for a pre-earnings run-up."
-      }
-    },
-    {
-      "ticker": "EC",
-      "company_name": "Ecopetrol SA ADR",
-      "earnings_date": "2026-05-27",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": -1.5,
-        "rationale": "Despite positive M&A news, the target price is significantly below the current trading price, suggesting overvaluation and limited room for a pre-earnings run-up."
+        "confidence_score": 10,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "43.06",
+        "rationale": "HPE is extremely overbought with an RSI well above 80 and trades substantially above its consensus target price, making a pre-earnings run-up highly improbable and risky."
       }
     }
   ]
