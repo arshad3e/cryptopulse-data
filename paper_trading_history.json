@@ -1997,6 +1997,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "SMCI_2026-05-29": {
+      "trade_id": "SMCI_2026-05-29",
+      "symbol": "SMCI",
+      "entry_date": "2026-05-29 17:21:16",
+      "expiry_date": "2026-06-12",
+      "entry_price": 45.69,
+      "current_price": 45.69,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-29 17:21:16",
+          "price": 45.69,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
