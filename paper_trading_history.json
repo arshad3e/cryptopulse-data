@@ -1,26 +1,5 @@
 {
   "active_trades": {
-    "JBHT_2026-05-16": {
-      "trade_id": "JBHT_2026-05-16",
-      "symbol": "JBHT",
-      "entry_date": "2026-05-16 00:25:34",
-      "expiry_date": "2026-05-30",
-      "entry_price": 262.21,
-      "current_price": 258.77,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-16 00:25:34",
-          "price": 262.21,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-24 17:47:46",
-          "price": 258.77,
-          "pnl_pct": 1.31
-        }
-      ]
-    },
     "CSCO_2026-05-17": {
       "trade_id": "CSCO_2026-05-17",
       "symbol": "CSCO",
@@ -2010,6 +1989,86 @@
         {
           "timestamp": "2026-05-29 17:21:16",
           "price": 45.69,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DELL_2026-05-30": {
+      "trade_id": "DELL_2026-05-30",
+      "symbol": "DELL",
+      "entry_date": "2026-05-30 00:03:01",
+      "expiry_date": "2026-06-13",
+      "entry_price": 420.91,
+      "current_price": 420.91,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-30 00:03:01",
+          "price": 420.91,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "NTAP_2026-05-30": {
+      "trade_id": "NTAP_2026-05-30",
+      "symbol": "NTAP",
+      "entry_date": "2026-05-30 00:03:01",
+      "expiry_date": "2026-06-13",
+      "entry_price": 174.29,
+      "current_price": 174.29,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-30 00:03:01",
+          "price": 174.29,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPE_2026-05-30": {
+      "trade_id": "HPE_2026-05-30",
+      "symbol": "HPE",
+      "entry_date": "2026-05-30 00:03:01",
+      "expiry_date": "2026-06-13",
+      "entry_price": 43.04,
+      "current_price": 43.04,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-30 00:03:01",
+          "price": 43.04,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "OKTA_2026-05-30": {
+      "trade_id": "OKTA_2026-05-30",
+      "symbol": "OKTA",
+      "entry_date": "2026-05-30 00:03:01",
+      "expiry_date": "2026-06-13",
+      "entry_price": 123.27,
+      "current_price": 123.27,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-30 00:03:01",
+          "price": 123.27,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "SMCI_2026-05-30": {
+      "trade_id": "SMCI_2026-05-30",
+      "symbol": "SMCI",
+      "entry_date": "2026-05-30 00:03:01",
+      "expiry_date": "2026-06-13",
+      "entry_price": 46.09,
+      "current_price": 46.09,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-05-30 00:03:01",
+          "price": 46.09,
           "pnl_pct": 0.0
         }
       ]
@@ -5675,6 +5734,27 @@
           "timestamp": "2026-05-24 17:47:43",
           "price": 307.95,
           "pnl_pct": -0.21
+        }
+      ]
+    },
+    {
+      "trade_id": "JBHT_2026-05-16",
+      "symbol": "JBHT",
+      "entry_date": "2026-05-16 00:25:34",
+      "expiry_date": "2026-05-30",
+      "entry_price": 262.21,
+      "current_price": 258.77,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-16 00:25:34",
+          "price": 262.21,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-24 17:47:46",
+          "price": 258.77,
+          "pnl_pct": 1.31
         }
       ]
     }
