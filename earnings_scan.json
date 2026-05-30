@@ -1,55 +1,35 @@
 {
-  "lastUpdated": "2026-05-28T18:26:59.565173",
+  "lastUpdated": "2026-05-30T18:49:40.891658",
   "stocks": [
     {
-      "ticker": "BBY",
-      "company_name": "Best Buy Co. Inc",
-      "earnings_date": "2026-05-28",
-      "market_cap": "$13.6B",
-      "price": "74.7300",
-      "change_pct": "15.7887%",
-      "rsi": 79.34,
-      "move_score": 40.35
+      "ticker": "HPE",
+      "company_name": "Hewlett Packard Enterprise Co",
+      "earnings_date": "2026-06-01",
+      "market_cap": "$48.8B",
+      "price": "43.0400",
+      "change_pct": "12.6407%",
+      "rsi": 83.15,
+      "move_score": 44.01
     },
     {
-      "ticker": "AMBA",
-      "company_name": "Ambarella Inc",
-      "earnings_date": "2026-05-28",
-      "market_cap": "$4.1B",
-      "price": "91.8400",
-      "change_pct": "1.3910%",
-      "rsi": 73.63,
-      "move_score": 37.02
+      "ticker": "CRDO",
+      "company_name": "Credo Technology Group Holding Ltd",
+      "earnings_date": "2026-06-01",
+      "market_cap": "$41.0B",
+      "price": "236.0300",
+      "change_pct": "6.1525%",
+      "rsi": 69.09,
+      "move_score": 36.6
     },
     {
-      "ticker": "AEO",
-      "company_name": "American Eagle Outfitters Inc",
-      "earnings_date": "2026-05-28",
-      "market_cap": "$2.9B",
-      "price": "17.9250",
-      "change_pct": "2.0786%",
-      "rsi": 60.3,
-      "move_score": 30.3
-    },
-    {
-      "ticker": "ADSK",
-      "company_name": "Autodesk Inc",
-      "earnings_date": "2026-05-28",
-      "market_cap": "$50.0B",
-      "price": "240.9500",
-      "change_pct": "1.6667%",
-      "rsi": 51.1,
-      "move_score": 28.05
-    },
-    {
-      "ticker": "ATS",
-      "company_name": "ATS Corporation",
-      "earnings_date": "2026-05-28",
-      "market_cap": "$3.4B",
-      "price": "30.4500",
-      "change_pct": "-13.6660%",
-      "rsi": 40.83,
-      "move_score": 20.59
+      "ticker": "SAIC",
+      "company_name": "Science Applications International Corporation Common Stock",
+      "earnings_date": "2026-06-01",
+      "market_cap": "$4.5B",
+      "price": "104.2000",
+      "change_pct": "0.4822%",
+      "rsi": 69.91,
+      "move_score": 35.18
     }
   ]
 }
