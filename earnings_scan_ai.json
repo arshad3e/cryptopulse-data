@@ -1,16 +1,37 @@
 {
-  "lastUpdated": "2026-05-30T19:51:12.429204",
+  "lastUpdated": "2026-05-31T19:13:01.245402",
   "stocks": [
+    {
+      "ticker": "TCOM",
+      "company_name": "Trip.com Group Ltd ADR",
+      "earnings_date": "2026-06-01",
+      "ai_decision": {
+        "decision": "Good Idea",
+        "confidence_score": 9,
+        "runup_percentage": 8.0,
+        "rationale": "Strong bullish news, low RSI indicating room to run, and significant upside to the target price make it attractive for a pre-earnings run."
+      }
+    },
     {
       "ticker": "CRDO",
       "company_name": "Credo Technology Group Holding Ltd",
       "earnings_date": "2026-06-01",
       "ai_decision": {
         "decision": "Bad Idea",
+        "confidence_score": 8,
+        "runup_percentage": -3.0,
+        "rationale": "Current price is significantly above the analyst target, and the RSI is nearing overbought, suggesting limited upside and potential for a pullback."
+      }
+    },
+    {
+      "ticker": "HPE",
+      "company_name": "Hewlett Packard Enterprise Co",
+      "earnings_date": "2026-06-01",
+      "ai_decision": {
+        "decision": "Bad Idea",
         "confidence_score": 9,
         "runup_percentage": -5.0,
-        "favorable_entry_price": "211.86",
-        "rationale": "Trading significantly above its analyst target price with a high RSI, limiting upside for a pre-earnings run-up and suggesting potential for correction."
+        "rationale": "The stock is severely overbought with an extremely high RSI and trading far above its analyst target, making a further pre-earnings run-up highly unlikely and risky."
       }
     }
   ]
