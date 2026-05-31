@@ -1388,13 +1388,18 @@
       "entry_date": "2026-05-26 12:36:52",
       "expiry_date": "2026-06-09",
       "entry_price": 38.08,
-      "current_price": 38.08,
+      "current_price": 43.04,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-05-26 12:36:52",
           "price": 38.08,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-31 14:22:25",
+          "price": 43.04,
+          "pnl_pct": -13.03
         }
       ]
     },
@@ -2000,6 +2005,11 @@
       "timeline": [
         {
           "timestamp": "2026-05-31 02:02:51",
+          "price": 174.29,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-31 14:23:22",
           "price": 174.29,
           "pnl_pct": 0.0
         }
