@@ -1,26 +1,16 @@
 {
-  "lastUpdated": "2026-05-31T19:13:01.245402",
+  "lastUpdated": "2026-06-01T19:18:01.998786",
   "stocks": [
-    {
-      "ticker": "TCOM",
-      "company_name": "Trip.com Group Ltd ADR",
-      "earnings_date": "2026-06-01",
-      "ai_decision": {
-        "decision": "Good Idea",
-        "confidence_score": 9,
-        "runup_percentage": 8.0,
-        "rationale": "Strong bullish news, low RSI indicating room to run, and significant upside to the target price make it attractive for a pre-earnings run."
-      }
-    },
     {
       "ticker": "CRDO",
       "company_name": "Credo Technology Group Holding Ltd",
       "earnings_date": "2026-06-01",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": -3.0,
-        "rationale": "Current price is significantly above the analyst target, and the RSI is nearing overbought, suggesting limited upside and potential for a pullback."
+        "confidence_score": 9,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "226.10",
+        "rationale": "The analyst target price is significantly below the current price, indicating overvaluation. Furthermore, the stock historically fell 14% despite beating Q4 earnings, suggesting a high risk of 'buy the rumor, sell the news' or profit-taking behavior pre-earnings."
       }
     },
     {
@@ -29,9 +19,10 @@
       "earnings_date": "2026-06-01",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
-        "runup_percentage": -5.0,
-        "rationale": "The stock is severely overbought with an extremely high RSI and trading far above its analyst target, making a further pre-earnings run-up highly unlikely and risky."
+        "confidence_score": 10,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": "47.07",
+        "rationale": "The stock is extremely overbought with an RSI of 86.64, indicating high probability of a pullback or consolidation. The analyst target price is also substantially below the current price, confirming an overvalued sentiment and limiting any potential pre-earnings upside."
       }
     }
   ]
