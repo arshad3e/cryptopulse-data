@@ -1,175 +1,5 @@
 {
   "active_trades": {
-    "CSCO_2026-05-19": {
-      "trade_id": "CSCO_2026-05-19",
-      "symbol": "CSCO",
-      "entry_date": "2026-05-19 00:05:14",
-      "expiry_date": "2026-06-02",
-      "entry_price": 118.88,
-      "current_price": 120.41,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 00:05:14",
-          "price": 118.88,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-22 17:30:19",
-          "price": 120.41,
-          "pnl_pct": -1.29
-        }
-      ]
-    },
-    "PANW_2026-05-19": {
-      "trade_id": "PANW_2026-05-19",
-      "symbol": "PANW",
-      "entry_date": "2026-05-19 00:05:14",
-      "expiry_date": "2026-06-02",
-      "entry_price": 247.55,
-      "current_price": 247.55,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 00:05:14",
-          "price": 247.55,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ZS_2026-05-19": {
-      "trade_id": "ZS_2026-05-19",
-      "symbol": "ZS",
-      "entry_date": "2026-05-19 00:05:14",
-      "expiry_date": "2026-06-02",
-      "entry_price": 174.69,
-      "current_price": 174.69,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 00:05:14",
-          "price": 174.69,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "CRWD_2026-05-19": {
-      "trade_id": "CRWD_2026-05-19",
-      "symbol": "CRWD",
-      "entry_date": "2026-05-19 00:05:14",
-      "expiry_date": "2026-06-02",
-      "entry_price": 618.83,
-      "current_price": 618.83,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 00:05:14",
-          "price": 618.83,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "REGN_2026-05-19": {
-      "trade_id": "REGN_2026-05-19",
-      "symbol": "REGN",
-      "entry_date": "2026-05-19 00:05:14",
-      "expiry_date": "2026-06-02",
-      "entry_price": 629.68,
-      "current_price": 629.68,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 00:05:14",
-          "price": 629.68,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "DDOG_2026-05-19": {
-      "trade_id": "DDOG_2026-05-19",
-      "symbol": "DDOG",
-      "entry_date": "2026-05-19 11:35:42",
-      "expiry_date": "2026-06-02",
-      "entry_price": 211.35,
-      "current_price": 222.32,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 11:35:42",
-          "price": 211.35,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-22 17:30:27",
-          "price": 222.32,
-          "pnl_pct": -5.19
-        }
-      ]
-    },
-    "FTNT_2026-05-19": {
-      "trade_id": "FTNT_2026-05-19",
-      "symbol": "FTNT",
-      "entry_date": "2026-05-19 11:35:42",
-      "expiry_date": "2026-06-02",
-      "entry_price": 126.31,
-      "current_price": 126.31,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 11:35:42",
-          "price": 126.31,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "CVNA_2026-05-19": {
-      "trade_id": "CVNA_2026-05-19",
-      "symbol": "CVNA",
-      "entry_date": "2026-05-19 13:36:30",
-      "expiry_date": "2026-06-02",
-      "entry_price": 63.75,
-      "current_price": 63.75,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 13:36:30",
-          "price": 63.75,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "CNC_2026-05-19": {
-      "trade_id": "CNC_2026-05-19",
-      "symbol": "CNC",
-      "entry_date": "2026-05-19 14:36:54",
-      "expiry_date": "2026-06-02",
-      "entry_price": 59.24,
-      "current_price": 59.24,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 14:36:54",
-          "price": 59.24,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "MLM_2026-05-19": {
-      "trade_id": "MLM_2026-05-19",
-      "symbol": "MLM",
-      "entry_date": "2026-05-19 15:37:17",
-      "expiry_date": "2026-06-02",
-      "entry_price": 534.6,
-      "current_price": 534.6,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-19 15:37:17",
-          "price": 534.6,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "CNC_2026-05-20": {
       "trade_id": "CNC_2026-05-20",
       "symbol": "CNC",
@@ -2020,6 +1850,86 @@
         {
           "timestamp": "2026-06-01 09:42:56",
           "price": 174.28,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MGM_2026-06-02": {
+      "trade_id": "MGM_2026-06-02",
+      "symbol": "MGM",
+      "entry_date": "2026-06-02 00:25:21",
+      "expiry_date": "2026-06-16",
+      "entry_price": 50.69,
+      "current_price": 50.69,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 00:25:21",
+          "price": 50.69,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DELL_2026-06-02": {
+      "trade_id": "DELL_2026-06-02",
+      "symbol": "DELL",
+      "entry_date": "2026-06-02 00:25:21",
+      "expiry_date": "2026-06-16",
+      "entry_price": 465.96,
+      "current_price": 465.96,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 00:25:21",
+          "price": 465.96,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "OKTA_2026-06-02": {
+      "trade_id": "OKTA_2026-06-02",
+      "symbol": "OKTA",
+      "entry_date": "2026-06-02 00:25:21",
+      "expiry_date": "2026-06-16",
+      "entry_price": 139.79,
+      "current_price": 139.79,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 00:25:21",
+          "price": 139.79,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HPE_2026-06-02": {
+      "trade_id": "HPE_2026-06-02",
+      "symbol": "HPE",
+      "entry_date": "2026-06-02 00:25:21",
+      "expiry_date": "2026-06-16",
+      "entry_price": 47.0,
+      "current_price": 47.0,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 00:25:21",
+          "price": 47.0,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "IBM_2026-06-02": {
+      "trade_id": "IBM_2026-06-02",
+      "symbol": "IBM",
+      "entry_date": "2026-06-02 00:25:21",
+      "expiry_date": "2026-06-16",
+      "entry_price": 320.42,
+      "current_price": 320.42,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 00:25:21",
+          "price": 320.42,
           "pnl_pct": 0.0
         }
       ]
@@ -6000,6 +5910,176 @@
           "timestamp": "2026-05-25 17:18:35",
           "price": 182.37,
           "pnl_pct": -4.24
+        }
+      ]
+    },
+    {
+      "trade_id": "CSCO_2026-05-19",
+      "symbol": "CSCO",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 118.88,
+      "current_price": 120.41,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 118.88,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-22 17:30:19",
+          "price": 120.41,
+          "pnl_pct": -1.29
+        }
+      ]
+    },
+    {
+      "trade_id": "PANW_2026-05-19",
+      "symbol": "PANW",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 247.55,
+      "current_price": 247.55,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 247.55,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ZS_2026-05-19",
+      "symbol": "ZS",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 174.69,
+      "current_price": 174.69,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 174.69,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CRWD_2026-05-19",
+      "symbol": "CRWD",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 618.83,
+      "current_price": 618.83,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 618.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "REGN_2026-05-19",
+      "symbol": "REGN",
+      "entry_date": "2026-05-19 00:05:14",
+      "expiry_date": "2026-06-02",
+      "entry_price": 629.68,
+      "current_price": 629.68,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 00:05:14",
+          "price": 629.68,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "DDOG_2026-05-19",
+      "symbol": "DDOG",
+      "entry_date": "2026-05-19 11:35:42",
+      "expiry_date": "2026-06-02",
+      "entry_price": 211.35,
+      "current_price": 222.32,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 11:35:42",
+          "price": 211.35,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-22 17:30:27",
+          "price": 222.32,
+          "pnl_pct": -5.19
+        }
+      ]
+    },
+    {
+      "trade_id": "FTNT_2026-05-19",
+      "symbol": "FTNT",
+      "entry_date": "2026-05-19 11:35:42",
+      "expiry_date": "2026-06-02",
+      "entry_price": 126.31,
+      "current_price": 126.31,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 11:35:42",
+          "price": 126.31,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CVNA_2026-05-19",
+      "symbol": "CVNA",
+      "entry_date": "2026-05-19 13:36:30",
+      "expiry_date": "2026-06-02",
+      "entry_price": 63.75,
+      "current_price": 63.75,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 13:36:30",
+          "price": 63.75,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CNC_2026-05-19",
+      "symbol": "CNC",
+      "entry_date": "2026-05-19 14:36:54",
+      "expiry_date": "2026-06-02",
+      "entry_price": 59.24,
+      "current_price": 59.24,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 14:36:54",
+          "price": 59.24,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "MLM_2026-05-19",
+      "symbol": "MLM",
+      "entry_date": "2026-05-19 15:37:17",
+      "expiry_date": "2026-06-02",
+      "entry_price": 534.6,
+      "current_price": 534.6,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-19 15:37:17",
+          "price": 534.6,
+          "pnl_pct": 0.0
         }
       ]
     }
