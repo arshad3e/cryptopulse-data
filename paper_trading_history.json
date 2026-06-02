@@ -1996,6 +1996,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CBOE_2026-06-02": {
+      "trade_id": "CBOE_2026-06-02",
+      "symbol": "CBOE",
+      "entry_date": "2026-06-02 13:40:30",
+      "expiry_date": "2026-06-16",
+      "entry_price": 274.77,
+      "current_price": 274.77,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 13:40:30",
+          "price": 274.77,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
