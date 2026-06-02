@@ -1938,6 +1938,38 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "NTAP_2026-06-02": {
+      "trade_id": "NTAP_2026-06-02",
+      "symbol": "NTAP",
+      "entry_date": "2026-06-02 09:32:23",
+      "expiry_date": "2026-06-16",
+      "entry_price": 185.83,
+      "current_price": 185.83,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 09:32:23",
+          "price": 185.83,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MRVL_2026-06-02": {
+      "trade_id": "MRVL_2026-06-02",
+      "symbol": "MRVL",
+      "entry_date": "2026-06-02 09:32:23",
+      "expiry_date": "2026-06-16",
+      "entry_price": 253.33,
+      "current_price": 253.33,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 09:32:23",
+          "price": 253.33,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
