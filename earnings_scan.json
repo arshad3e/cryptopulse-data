@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-01T18:29:55.704709",
+  "lastUpdated": "2026-06-02T18:28:10.415286",
   "stocks": [
     {
-      "ticker": "HPE",
-      "company_name": "Hewlett Packard Enterprise Co",
-      "earnings_date": "2026-06-01",
-      "market_cap": "$57.1B",
-      "price": "47.0700",
-      "change_pct": "9.3634%",
-      "rsi": 86.64,
-      "move_score": 46.18
+      "ticker": "BWLP",
+      "company_name": "BW LPG Limited",
+      "earnings_date": "2026-06-02",
+      "market_cap": "$3.0B",
+      "price": "20.2700",
+      "change_pct": "2.5291%",
+      "rsi": 49.94,
+      "move_score": 25.12
     },
     {
-      "ticker": "CRDO",
-      "company_name": "Credo Technology Group Holding Ltd",
-      "earnings_date": "2026-06-01",
-      "market_cap": "$43.5B",
-      "price": "226.1000",
-      "change_pct": "-4.2071%",
-      "rsi": 63.92,
-      "move_score": 34.14
+      "ticker": "CCEP",
+      "company_name": "Coca-Cola European Partners PLC",
+      "earnings_date": "2026-06-02",
+      "market_cap": "$39.7B",
+      "price": "91.0000",
+      "change_pct": "1.4606%",
+      "rsi": 44.52,
+      "move_score": 24.24
     }
   ]
 }
