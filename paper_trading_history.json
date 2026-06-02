@@ -2012,6 +2012,22 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "ARM_2026-06-02": {
+      "trade_id": "ARM_2026-06-02",
+      "symbol": "ARM",
+      "entry_date": "2026-06-02 14:42:35",
+      "expiry_date": "2026-06-16",
+      "entry_price": 405.0,
+      "current_price": 405.0,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-02 14:42:35",
+          "price": 405.0,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
