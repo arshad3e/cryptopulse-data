@@ -1931,6 +1931,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "NTAP_2026-06-03": {
+      "trade_id": "NTAP_2026-06-03",
+      "symbol": "NTAP",
+      "entry_date": "2026-06-03 14:35:44",
+      "expiry_date": "2026-06-17",
+      "entry_price": 181.67,
+      "current_price": 181.67,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-03 14:35:44",
+          "price": 181.67,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ARM_2026-06-03": {
+      "trade_id": "ARM_2026-06-03",
+      "symbol": "ARM",
+      "entry_date": "2026-06-03 14:35:44",
+      "expiry_date": "2026-06-17",
+      "entry_price": 414.28,
+      "current_price": 414.28,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-03 14:35:44",
+          "price": 414.28,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "APTV_2026-06-03": {
+      "trade_id": "APTV_2026-06-03",
+      "symbol": "APTV",
+      "entry_date": "2026-06-03 14:35:44",
+      "expiry_date": "2026-06-17",
+      "entry_price": 78.45,
+      "current_price": 78.45,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-03 14:35:44",
+          "price": 78.45,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
