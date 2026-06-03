@@ -1,25 +1,55 @@
 {
-  "lastUpdated": "2026-06-02T18:28:10.415286",
+  "lastUpdated": "2026-06-03T18:25:35.299027",
   "stocks": [
     {
-      "ticker": "BWLP",
-      "company_name": "BW LPG Limited",
-      "earnings_date": "2026-06-02",
-      "market_cap": "$3.0B",
-      "price": "20.2700",
-      "change_pct": "2.5291%",
-      "rsi": 49.94,
-      "move_score": 25.12
+      "ticker": "AVGO",
+      "company_name": "Broadcom Inc",
+      "earnings_date": "2026-06-03",
+      "market_cap": "$2280.1B",
+      "price": "479.2300",
+      "change_pct": "-0.4859%",
+      "rsi": 73.34,
+      "move_score": 150.67
     },
     {
-      "ticker": "CCEP",
-      "company_name": "Coca-Cola European Partners PLC",
-      "earnings_date": "2026-06-02",
-      "market_cap": "$39.7B",
-      "price": "91.0000",
-      "change_pct": "1.4606%",
-      "rsi": 44.52,
-      "move_score": 24.24
+      "ticker": "CRWD",
+      "company_name": "Crowdstrike Holdings Inc",
+      "earnings_date": "2026-06-03",
+      "market_cap": "$195.7B",
+      "price": "747.6100",
+      "change_pct": "-2.7752%",
+      "rsi": 76.32,
+      "move_score": 47.94
+    },
+    {
+      "ticker": "EC",
+      "company_name": "Ecopetrol SA ADR",
+      "earnings_date": "2026-06-03",
+      "market_cap": "$33.4B",
+      "price": "15.5950",
+      "change_pct": "-2.4093%",
+      "rsi": 63.9,
+      "move_score": 33.62
+    },
+    {
+      "ticker": "DSGX",
+      "company_name": "Descartes Systems Group Inc",
+      "earnings_date": "2026-06-03",
+      "market_cap": "$6.7B",
+      "price": "74.1100",
+      "change_pct": "-4.5097%",
+      "rsi": 53.89,
+      "move_score": 27.28
+    },
+    {
+      "ticker": "FIVE",
+      "company_name": "Five Below Inc",
+      "earnings_date": "2026-06-03",
+      "market_cap": "$12.5B",
+      "price": "220.3700",
+      "change_pct": "-2.5860%",
+      "rsi": 48.25,
+      "move_score": 24.75
     }
   ]
 }
