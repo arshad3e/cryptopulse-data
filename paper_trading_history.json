@@ -1844,6 +1844,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "TWLO_2026-06-04": {
+      "trade_id": "TWLO_2026-06-04",
+      "symbol": "TWLO",
+      "entry_date": "2026-06-04 13:01:00",
+      "expiry_date": "2026-06-18",
+      "entry_price": 236.26,
+      "current_price": 236.26,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-04 13:01:00",
+          "price": 236.26,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "DELL_2026-06-04": {
+      "trade_id": "DELL_2026-06-04",
+      "symbol": "DELL",
+      "entry_date": "2026-06-04 13:01:00",
+      "expiry_date": "2026-06-18",
+      "entry_price": 424.7,
+      "current_price": 424.7,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-04 13:01:00",
+          "price": 424.7,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "STLD_2026-06-04": {
+      "trade_id": "STLD_2026-06-04",
+      "symbol": "STLD",
+      "entry_date": "2026-06-04 13:01:00",
+      "expiry_date": "2026-06-18",
+      "entry_price": 278.38,
+      "current_price": 278.38,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-04 13:01:00",
+          "price": 278.38,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
