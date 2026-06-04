@@ -1,14 +1,14 @@
 {
-  "scan_timestamp": "2026-06-04 02:03:02",
+  "scan_timestamp": "2026-06-04 02:03:09",
   "market_open": false,
   "total_scanned": 547,
-  "matches_found": 19,
+  "matches_found": 20,
   "summary": {
-    "calls": 9,
-    "puts": 26,
-    "top10_calls": 9,
+    "calls": 10,
+    "puts": 27,
+    "top10_calls": 10,
     "top10_puts": 10,
-    "strong_signals": 14
+    "strong_signals": 15
   },
   "top_calls": [
     {
@@ -209,43 +209,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CBOE",
-      "direction": "CALL",
-      "conviction": "MODERATE",
-      "probability_score": 76.9,
-      "score": 13,
-      "signal_count": 5,
-      "price": 285.1,
-      "signals": [
-        "Stoch hook \u2191 from extreme (7)",
-        "Below Bollinger lower band",
-        "Below SMA50 -9.8%",
-        "Z-score -2.2\u03c3 below 20d mean",
-        "5-day drop -17.8%"
-      ],
-      "bonus_factors": [
-        "Stoch hook \u2191 from extreme (7)",
-        "Below Bollinger lower band",
-        "Below SMA50 -9.8%",
-        "Z-score -2.2\u03c3 below 20d mean",
-        "5-day drop -17.8%"
-      ],
-      "rsi": 31.57,
-      "stoch_k": 7.13,
-      "bb_position": -0.059,
-      "dist_sma20_pct": -16.8,
-      "dist_sma50_pct": -9.8,
-      "dist_sma200_pct": 5.0,
-      "vol_ratio": 1.76,
-      "atr_pct": 4.84,
-      "consec_days": 1,
-      "zscore_20d": -2.24,
-      "one_week_chg_pct": -17.8,
-      "one_month_chg_pct": -15.7,
-      "avg_volume": 1374780,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "HII",
       "direction": "CALL",
       "conviction": "MODERATE",
@@ -320,6 +283,43 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "CBOE",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 76.9,
+      "score": 13,
+      "signal_count": 5,
+      "price": 285.1,
+      "signals": [
+        "Stoch hook \u2191 from extreme (7)",
+        "Below Bollinger lower band",
+        "Below SMA50 -9.8%",
+        "Z-score -2.2\u03c3 below 20d mean",
+        "5-day drop -17.8%"
+      ],
+      "bonus_factors": [
+        "Stoch hook \u2191 from extreme (7)",
+        "Below Bollinger lower band",
+        "Below SMA50 -9.8%",
+        "Z-score -2.2\u03c3 below 20d mean",
+        "5-day drop -17.8%"
+      ],
+      "rsi": 31.57,
+      "stoch_k": 7.13,
+      "bb_position": -0.059,
+      "dist_sma20_pct": -16.8,
+      "dist_sma50_pct": -9.8,
+      "dist_sma200_pct": 5.0,
+      "vol_ratio": 1.76,
+      "atr_pct": 4.84,
+      "consec_days": 1,
+      "zscore_20d": -2.24,
+      "one_week_chg_pct": -17.8,
+      "one_month_chg_pct": -15.7,
+      "avg_volume": 1374780,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "MSTR",
       "direction": "CALL",
       "conviction": "MODERATE",
@@ -354,6 +354,43 @@
       "one_week_chg_pct": -17.9,
       "one_month_chg_pct": -31.1,
       "avg_volume": 15822465,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "CME",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 5,
+      "price": 252.64,
+      "signals": [
+        "RSI approaching oversold (25.3)",
+        "Stoch hook \u2191 from extreme (8)",
+        "Below Bollinger lower band",
+        "Below SMA50 -12.8%",
+        "Z-score -2.0\u03c3 below 20d mean"
+      ],
+      "bonus_factors": [
+        "RSI approaching oversold (25.3)",
+        "Stoch hook \u2191 from extreme (8)",
+        "Below Bollinger lower band",
+        "Below SMA50 -12.8%",
+        "Z-score -2.0\u03c3 below 20d mean"
+      ],
+      "rsi": 25.29,
+      "stoch_k": 7.74,
+      "bb_position": -0.002,
+      "dist_sma20_pct": -10.9,
+      "dist_sma50_pct": -12.8,
+      "dist_sma200_pct": -8.9,
+      "vol_ratio": 1.58,
+      "atr_pct": 3.22,
+      "consec_days": 1,
+      "zscore_20d": -2.01,
+      "one_week_chg_pct": -9.5,
+      "one_month_chg_pct": -13.0,
+      "avg_volume": 3221335,
       "data_source": "yfinance"
     }
   ],
@@ -607,40 +644,40 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CRWD",
+      "symbol": "DELL",
       "direction": "PUT",
       "conviction": "VERY HIGH",
-      "probability_score": 91.7,
-      "score": 17,
+      "probability_score": 93.7,
+      "score": 18,
       "signal_count": 5,
-      "price": 747.61,
+      "price": 421.08,
       "signals": [
         "RSI overbought (76.3)",
-        "Stoch hook \u2193 from extreme (92)",
-        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
-        "5-day run +15.8%",
-        "Blow-off: +57.3% above SMA200 while RSI overbought"
+        "Stoch hook \u2193 from overbought (88)",
+        "PARABOLIC +81.1% above SMA50 \u2014 mean-reversion due",
+        "5-day surge +37.9% \u2014 mean-reversion setup",
+        "Blow-off: +166.5% above SMA200 while RSI overbought"
       ],
       "bonus_factors": [
         "RSI overbought (76.3)",
-        "Stoch hook \u2193 from extreme (92)",
-        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
-        "5-day run +15.8%",
-        "Blow-off: +57.3% above SMA200 while RSI overbought"
+        "Stoch hook \u2193 from overbought (88)",
+        "PARABOLIC +81.1% above SMA50 \u2014 mean-reversion due",
+        "5-day surge +37.9% \u2014 mean-reversion setup",
+        "Blow-off: +166.5% above SMA200 while RSI overbought"
       ],
-      "rsi": 76.32,
-      "stoch_k": 91.79,
-      "bb_position": 0.842,
-      "dist_sma20_pct": 19.2,
-      "dist_sma50_pct": 48.5,
-      "dist_sma200_pct": 57.3,
-      "vol_ratio": 1.41,
-      "atr_pct": 4.63,
+      "rsi": 76.33,
+      "stoch_k": 88.16,
+      "bb_position": 0.909,
+      "dist_sma20_pct": 43.1,
+      "dist_sma50_pct": 81.1,
+      "dist_sma200_pct": 166.5,
+      "vol_ratio": 1.21,
+      "atr_pct": 6.82,
       "consec_days": -2,
-      "zscore_20d": 1.37,
-      "one_week_chg_pct": 15.8,
-      "one_month_chg_pct": 59.3,
-      "avg_volume": 3627965,
+      "zscore_20d": 1.64,
+      "one_week_chg_pct": 37.9,
+      "one_month_chg_pct": 99.0,
+      "avg_volume": 11644840,
       "data_source": "yfinance"
     },
     {
@@ -685,6 +722,43 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "CRWD",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 91.7,
+      "score": 17,
+      "signal_count": 5,
+      "price": 747.61,
+      "signals": [
+        "RSI overbought (76.3)",
+        "Stoch hook \u2193 from extreme (92)",
+        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
+        "5-day run +15.8%",
+        "Blow-off: +57.3% above SMA200 while RSI overbought"
+      ],
+      "bonus_factors": [
+        "RSI overbought (76.3)",
+        "Stoch hook \u2193 from extreme (92)",
+        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
+        "5-day run +15.8%",
+        "Blow-off: +57.3% above SMA200 while RSI overbought"
+      ],
+      "rsi": 76.32,
+      "stoch_k": 91.79,
+      "bb_position": 0.842,
+      "dist_sma20_pct": 19.2,
+      "dist_sma50_pct": 48.5,
+      "dist_sma200_pct": 57.3,
+      "vol_ratio": 1.41,
+      "atr_pct": 4.63,
+      "consec_days": -2,
+      "zscore_20d": 1.37,
+      "one_week_chg_pct": 15.8,
+      "one_month_chg_pct": 59.3,
+      "avg_volume": 3627965,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "RIVN",
       "direction": "PUT",
       "conviction": "VERY HIGH",
@@ -723,47 +797,6 @@
       "one_week_chg_pct": 24.3,
       "one_month_chg_pct": 25.9,
       "avg_volume": 32719950,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "STLD",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 89.1,
-      "score": 16,
-      "signal_count": 7,
-      "price": 275.13,
-      "signals": [
-        "RSI very overbought (80.5)",
-        "Stoch extreme (96)",
-        "Pressing Bollinger upper band",
-        "Strongly extended +26.4% above SMA50",
-        "3 up-day streak",
-        "Z-score +2.0\u03c3 above 20d mean",
-        "Blow-off: +56.7% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI very overbought (80.5)",
-        "Stoch extreme (96)",
-        "Pressing Bollinger upper band",
-        "Strongly extended +26.4% above SMA50",
-        "3 up-day streak",
-        "Z-score +2.0\u03c3 above 20d mean",
-        "Blow-off: +56.7% above SMA200 while RSI overbought"
-      ],
-      "rsi": 80.5,
-      "stoch_k": 96.05,
-      "bb_position": 1.007,
-      "dist_sma20_pct": 13.0,
-      "dist_sma50_pct": 26.4,
-      "dist_sma200_pct": 56.7,
-      "vol_ratio": 0.98,
-      "atr_pct": 3.13,
-      "consec_days": 3,
-      "zscore_20d": 2.03,
-      "one_week_chg_pct": 6.5,
-      "one_month_chg_pct": 19.7,
-      "avg_volume": 1078415,
       "data_source": "yfinance"
     }
   ],
@@ -1058,40 +1091,40 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CRWD",
+      "symbol": "DELL",
       "direction": "PUT",
       "conviction": "VERY HIGH",
-      "probability_score": 91.7,
-      "score": 17,
+      "probability_score": 93.7,
+      "score": 18,
       "signal_count": 5,
-      "price": 747.61,
+      "price": 421.08,
       "signals": [
         "RSI overbought (76.3)",
-        "Stoch hook \u2193 from extreme (92)",
-        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
-        "5-day run +15.8%",
-        "Blow-off: +57.3% above SMA200 while RSI overbought"
+        "Stoch hook \u2193 from overbought (88)",
+        "PARABOLIC +81.1% above SMA50 \u2014 mean-reversion due",
+        "5-day surge +37.9% \u2014 mean-reversion setup",
+        "Blow-off: +166.5% above SMA200 while RSI overbought"
       ],
       "bonus_factors": [
         "RSI overbought (76.3)",
-        "Stoch hook \u2193 from extreme (92)",
-        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
-        "5-day run +15.8%",
-        "Blow-off: +57.3% above SMA200 while RSI overbought"
+        "Stoch hook \u2193 from overbought (88)",
+        "PARABOLIC +81.1% above SMA50 \u2014 mean-reversion due",
+        "5-day surge +37.9% \u2014 mean-reversion setup",
+        "Blow-off: +166.5% above SMA200 while RSI overbought"
       ],
-      "rsi": 76.32,
-      "stoch_k": 91.79,
-      "bb_position": 0.842,
-      "dist_sma20_pct": 19.2,
-      "dist_sma50_pct": 48.5,
-      "dist_sma200_pct": 57.3,
-      "vol_ratio": 1.41,
-      "atr_pct": 4.63,
+      "rsi": 76.33,
+      "stoch_k": 88.16,
+      "bb_position": 0.909,
+      "dist_sma20_pct": 43.1,
+      "dist_sma50_pct": 81.1,
+      "dist_sma200_pct": 166.5,
+      "vol_ratio": 1.21,
+      "atr_pct": 6.82,
       "consec_days": -2,
-      "zscore_20d": 1.37,
-      "one_week_chg_pct": 15.8,
-      "one_month_chg_pct": 59.3,
-      "avg_volume": 3627965,
+      "zscore_20d": 1.64,
+      "one_week_chg_pct": 37.9,
+      "one_month_chg_pct": 99.0,
+      "avg_volume": 11644840,
       "data_source": "yfinance"
     },
     {
@@ -1133,6 +1166,43 @@
       "one_week_chg_pct": 16.3,
       "one_month_chg_pct": 87.3,
       "avg_volume": 55042220,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "CRWD",
+      "direction": "PUT",
+      "conviction": "VERY HIGH",
+      "probability_score": 91.7,
+      "score": 17,
+      "signal_count": 5,
+      "price": 747.61,
+      "signals": [
+        "RSI overbought (76.3)",
+        "Stoch hook \u2193 from extreme (92)",
+        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
+        "5-day run +15.8%",
+        "Blow-off: +57.3% above SMA200 while RSI overbought"
+      ],
+      "bonus_factors": [
+        "RSI overbought (76.3)",
+        "Stoch hook \u2193 from extreme (92)",
+        "PARABOLIC +48.5% above SMA50 \u2014 mean-reversion due",
+        "5-day run +15.8%",
+        "Blow-off: +57.3% above SMA200 while RSI overbought"
+      ],
+      "rsi": 76.32,
+      "stoch_k": 91.79,
+      "bb_position": 0.842,
+      "dist_sma20_pct": 19.2,
+      "dist_sma50_pct": 48.5,
+      "dist_sma200_pct": 57.3,
+      "vol_ratio": 1.41,
+      "atr_pct": 4.63,
+      "consec_days": -2,
+      "zscore_20d": 1.37,
+      "one_week_chg_pct": 15.8,
+      "one_month_chg_pct": 59.3,
+      "avg_volume": 3627965,
       "data_source": "yfinance"
     },
     {
@@ -1215,47 +1285,6 @@
       "one_week_chg_pct": 24.3,
       "one_month_chg_pct": 25.9,
       "avg_volume": 32719950,
-      "data_source": "yfinance"
-    },
-    {
-      "symbol": "STLD",
-      "direction": "PUT",
-      "conviction": "VERY HIGH",
-      "probability_score": 89.1,
-      "score": 16,
-      "signal_count": 7,
-      "price": 275.13,
-      "signals": [
-        "RSI very overbought (80.5)",
-        "Stoch extreme (96)",
-        "Pressing Bollinger upper band",
-        "Strongly extended +26.4% above SMA50",
-        "3 up-day streak",
-        "Z-score +2.0\u03c3 above 20d mean",
-        "Blow-off: +56.7% above SMA200 while RSI overbought"
-      ],
-      "bonus_factors": [
-        "RSI very overbought (80.5)",
-        "Stoch extreme (96)",
-        "Pressing Bollinger upper band",
-        "Strongly extended +26.4% above SMA50",
-        "3 up-day streak",
-        "Z-score +2.0\u03c3 above 20d mean",
-        "Blow-off: +56.7% above SMA200 while RSI overbought"
-      ],
-      "rsi": 80.5,
-      "stoch_k": 96.05,
-      "bb_position": 1.007,
-      "dist_sma20_pct": 13.0,
-      "dist_sma50_pct": 26.4,
-      "dist_sma200_pct": 56.7,
-      "vol_ratio": 0.98,
-      "atr_pct": 3.13,
-      "consec_days": 3,
-      "zscore_20d": 2.03,
-      "one_week_chg_pct": 6.5,
-      "one_month_chg_pct": 19.7,
-      "avg_volume": 1078415,
       "data_source": "yfinance"
     },
     {
@@ -1374,43 +1403,6 @@
       "data_source": "yfinance"
     },
     {
-      "symbol": "CBOE",
-      "direction": "CALL",
-      "conviction": "MODERATE",
-      "probability_score": 76.9,
-      "score": 13,
-      "signal_count": 5,
-      "price": 285.1,
-      "signals": [
-        "Stoch hook \u2191 from extreme (7)",
-        "Below Bollinger lower band",
-        "Below SMA50 -9.8%",
-        "Z-score -2.2\u03c3 below 20d mean",
-        "5-day drop -17.8%"
-      ],
-      "bonus_factors": [
-        "Stoch hook \u2191 from extreme (7)",
-        "Below Bollinger lower band",
-        "Below SMA50 -9.8%",
-        "Z-score -2.2\u03c3 below 20d mean",
-        "5-day drop -17.8%"
-      ],
-      "rsi": 31.57,
-      "stoch_k": 7.13,
-      "bb_position": -0.059,
-      "dist_sma20_pct": -16.8,
-      "dist_sma50_pct": -9.8,
-      "dist_sma200_pct": 5.0,
-      "vol_ratio": 1.76,
-      "atr_pct": 4.84,
-      "consec_days": 1,
-      "zscore_20d": -2.24,
-      "one_week_chg_pct": -17.8,
-      "one_month_chg_pct": -15.7,
-      "avg_volume": 1374780,
-      "data_source": "yfinance"
-    },
-    {
       "symbol": "HII",
       "direction": "CALL",
       "conviction": "MODERATE",
@@ -1485,6 +1477,43 @@
       "data_source": "yfinance"
     },
     {
+      "symbol": "CBOE",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 76.9,
+      "score": 13,
+      "signal_count": 5,
+      "price": 285.1,
+      "signals": [
+        "Stoch hook \u2191 from extreme (7)",
+        "Below Bollinger lower band",
+        "Below SMA50 -9.8%",
+        "Z-score -2.2\u03c3 below 20d mean",
+        "5-day drop -17.8%"
+      ],
+      "bonus_factors": [
+        "Stoch hook \u2191 from extreme (7)",
+        "Below Bollinger lower band",
+        "Below SMA50 -9.8%",
+        "Z-score -2.2\u03c3 below 20d mean",
+        "5-day drop -17.8%"
+      ],
+      "rsi": 31.57,
+      "stoch_k": 7.13,
+      "bb_position": -0.059,
+      "dist_sma20_pct": -16.8,
+      "dist_sma50_pct": -9.8,
+      "dist_sma200_pct": 5.0,
+      "vol_ratio": 1.76,
+      "atr_pct": 4.84,
+      "consec_days": 1,
+      "zscore_20d": -2.24,
+      "one_week_chg_pct": -17.8,
+      "one_month_chg_pct": -15.7,
+      "avg_volume": 1374780,
+      "data_source": "yfinance"
+    },
+    {
       "symbol": "MSTR",
       "direction": "CALL",
       "conviction": "MODERATE",
@@ -1519,6 +1548,43 @@
       "one_week_chg_pct": -17.9,
       "one_month_chg_pct": -31.1,
       "avg_volume": 15822465,
+      "data_source": "yfinance"
+    },
+    {
+      "symbol": "CME",
+      "direction": "CALL",
+      "conviction": "MODERATE",
+      "probability_score": 71.1,
+      "score": 12,
+      "signal_count": 5,
+      "price": 252.64,
+      "signals": [
+        "RSI approaching oversold (25.3)",
+        "Stoch hook \u2191 from extreme (8)",
+        "Below Bollinger lower band",
+        "Below SMA50 -12.8%",
+        "Z-score -2.0\u03c3 below 20d mean"
+      ],
+      "bonus_factors": [
+        "RSI approaching oversold (25.3)",
+        "Stoch hook \u2191 from extreme (8)",
+        "Below Bollinger lower band",
+        "Below SMA50 -12.8%",
+        "Z-score -2.0\u03c3 below 20d mean"
+      ],
+      "rsi": 25.29,
+      "stoch_k": 7.74,
+      "bb_position": -0.002,
+      "dist_sma20_pct": -10.9,
+      "dist_sma50_pct": -12.8,
+      "dist_sma200_pct": -8.9,
+      "vol_ratio": 1.58,
+      "atr_pct": 3.22,
+      "consec_days": 1,
+      "zscore_20d": -2.01,
+      "one_week_chg_pct": -9.5,
+      "one_month_chg_pct": -13.0,
+      "avg_volume": 3221335,
       "data_source": "yfinance"
     }
   ]
