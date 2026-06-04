@@ -1,28 +1,16 @@
 {
-  "lastUpdated": "2026-06-01T19:18:01.998786",
+  "lastUpdated": "2026-06-04T18:50:27.889959",
   "stocks": [
     {
-      "ticker": "CRDO",
-      "company_name": "Credo Technology Group Holding Ltd",
-      "earnings_date": "2026-06-01",
+      "ticker": "CIEN",
+      "company_name": "Ciena Corp",
+      "earnings_date": "2026-06-04",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 9,
+        "confidence_score": 8,
         "runup_percentage": 0.0,
-        "favorable_entry_price": "226.10",
-        "rationale": "The analyst target price is significantly below the current price, indicating overvaluation. Furthermore, the stock historically fell 14% despite beating Q4 earnings, suggesting a high risk of 'buy the rumor, sell the news' or profit-taking behavior pre-earnings."
-      }
-    },
-    {
-      "ticker": "HPE",
-      "company_name": "Hewlett Packard Enterprise Co",
-      "earnings_date": "2026-06-01",
-      "ai_decision": {
-        "decision": "Bad Idea",
-        "confidence_score": 10,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "47.07",
-        "rationale": "The stock is extremely overbought with an RSI of 86.64, indicating high probability of a pullback or consolidation. The analyst target price is also substantially below the current price, confirming an overvalued sentiment and limiting any potential pre-earnings upside."
+        "favorable_entry_price": "N/A",
+        "rationale": "The stock is trading significantly above its analyst consensus target, and news indicates 'somewhat-bearish' anticipation for earnings, making a pre-earnings run-up highly unlikely."
       }
     }
   ]
