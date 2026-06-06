@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-04T18:50:27.889959",
+  "lastUpdated": "2026-06-06T19:07:06.977268",
   "stocks": [
     {
-      "ticker": "CIEN",
-      "company_name": "Ciena Corp",
-      "earnings_date": "2026-06-04",
+      "ticker": "TCOM",
+      "company_name": "Trip.com Group Ltd ADR",
+      "earnings_date": "2026-06-08",
       "ai_decision": {
         "decision": "Bad Idea",
-        "confidence_score": 8,
-        "runup_percentage": 0.0,
-        "favorable_entry_price": "N/A",
-        "rationale": "The stock is trading significantly above its analyst consensus target, and news indicates 'somewhat-bearish' anticipation for earnings, making a pre-earnings run-up highly unlikely."
+        "confidence_score": 7,
+        "runup_percentage": 0.5,
+        "favorable_entry_price": "47.69",
+        "rationale": "Despite a low RSI and strong analyst target, recent news indicates TCOM has significantly underperformed the general market, making a strong pre-earnings run-up unlikely due to potential lingering negative sentiment."
       }
     }
   ]
