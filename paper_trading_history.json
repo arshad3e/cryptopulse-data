@@ -1,90 +1,5 @@
 {
   "active_trades": {
-    "DELL_2026-05-24": {
-      "trade_id": "DELL_2026-05-24",
-      "symbol": "DELL",
-      "entry_date": "2026-05-24 00:38:56",
-      "expiry_date": "2026-06-07",
-      "entry_price": 295.19,
-      "current_price": 295.19,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-24 00:38:56",
-          "price": 295.19,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ARM_2026-05-24": {
-      "trade_id": "ARM_2026-05-24",
-      "symbol": "ARM",
-      "entry_date": "2026-05-24 00:38:56",
-      "expiry_date": "2026-06-07",
-      "entry_price": 306.51,
-      "current_price": 306.51,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-24 00:38:56",
-          "price": 306.51,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-24 20:41:22",
-          "price": 306.51,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "HPQ_2026-05-24": {
-      "trade_id": "HPQ_2026-05-24",
-      "symbol": "HPQ",
-      "entry_date": "2026-05-24 00:38:56",
-      "expiry_date": "2026-06-07",
-      "entry_price": 25.24,
-      "current_price": 25.24,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-24 00:38:56",
-          "price": 25.24,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "NTAP_2026-05-24": {
-      "trade_id": "NTAP_2026-05-24",
-      "symbol": "NTAP",
-      "entry_date": "2026-05-24 00:38:56",
-      "expiry_date": "2026-06-07",
-      "entry_price": 139.36,
-      "current_price": 139.36,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-24 00:38:56",
-          "price": 139.36,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "CRDO_2026-05-24": {
-      "trade_id": "CRDO_2026-05-24",
-      "symbol": "CRDO",
-      "entry_date": "2026-05-24 00:38:56",
-      "expiry_date": "2026-06-07",
-      "entry_price": 218.41,
-      "current_price": 218.41,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-24 00:38:56",
-          "price": 218.41,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "DELL_2026-05-25": {
       "trade_id": "DELL_2026-05-25",
       "symbol": "DELL",
@@ -669,7 +584,7 @@
       "entry_date": "2026-05-28 16:07:26",
       "expiry_date": "2026-06-11",
       "entry_price": 16.67,
-      "current_price": 16.15,
+      "current_price": 14.9,
       "status": "OPEN",
       "timeline": [
         {
@@ -681,6 +596,11 @@
           "timestamp": "2026-06-03 00:16:18",
           "price": 16.15,
           "pnl_pct": 3.12
+        },
+        {
+          "timestamp": "2026-06-07 06:07:36",
+          "price": 14.9,
+          "pnl_pct": 10.62
         }
       ]
     },
@@ -1029,13 +949,18 @@
       "entry_date": "2026-06-01 09:42:56",
       "expiry_date": "2026-06-15",
       "entry_price": 459.21,
-      "current_price": 459.21,
+      "current_price": 394.39,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-06-01 09:42:56",
           "price": 459.21,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-06-07 06:08:02",
+          "price": 394.39,
+          "pnl_pct": 14.12
         }
       ]
     },
@@ -1306,13 +1231,18 @@
       "entry_date": "2026-06-03 00:06:48",
       "expiry_date": "2026-06-17",
       "entry_price": 135.32,
-      "current_price": 135.32,
+      "current_price": 118.72,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-06-03 00:06:48",
           "price": 135.32,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-06-07 06:08:25",
+          "price": 118.72,
+          "pnl_pct": 12.27
         }
       ]
     },
@@ -1759,6 +1689,86 @@
       "timeline": [
         {
           "timestamp": "2026-06-06 02:03:47",
+          "price": 350.08,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "LULU_2026-06-07": {
+      "trade_id": "LULU_2026-06-07",
+      "symbol": "LULU",
+      "entry_date": "2026-06-07 02:05:03",
+      "expiry_date": "2026-06-21",
+      "entry_price": 114.23,
+      "current_price": 114.23,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-07 02:05:03",
+          "price": 114.23,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "MSTR_2026-06-07": {
+      "trade_id": "MSTR_2026-06-07",
+      "symbol": "MSTR",
+      "entry_date": "2026-06-07 02:05:03",
+      "expiry_date": "2026-06-21",
+      "entry_price": 120.44,
+      "current_price": 120.44,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-07 02:05:03",
+          "price": 120.44,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "LCID_2026-06-07": {
+      "trade_id": "LCID_2026-06-07",
+      "symbol": "LCID",
+      "entry_date": "2026-06-07 02:05:03",
+      "expiry_date": "2026-06-21",
+      "entry_price": 5.11,
+      "current_price": 5.11,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-07 02:05:03",
+          "price": 5.11,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "COIN_2026-06-07": {
+      "trade_id": "COIN_2026-06-07",
+      "symbol": "COIN",
+      "entry_date": "2026-06-07 02:05:03",
+      "expiry_date": "2026-06-21",
+      "entry_price": 152.4,
+      "current_price": 152.4,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-07 02:05:03",
+          "price": 152.4,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HUM_2026-06-07": {
+      "trade_id": "HUM_2026-06-07",
+      "symbol": "HUM",
+      "entry_date": "2026-06-07 02:05:03",
+      "expiry_date": "2026-06-21",
+      "entry_price": 350.08,
+      "current_price": 350.08,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-07 02:05:03",
           "price": 350.08,
           "pnl_pct": 0.0
         }
@@ -6731,6 +6741,91 @@
           "timestamp": "2026-05-27 00:52:06",
           "price": 221.64,
           "pnl_pct": -1.48
+        }
+      ]
+    },
+    {
+      "trade_id": "DELL_2026-05-24",
+      "symbol": "DELL",
+      "entry_date": "2026-05-24 00:38:56",
+      "expiry_date": "2026-06-07",
+      "entry_price": 295.19,
+      "current_price": 295.19,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-24 00:38:56",
+          "price": 295.19,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ARM_2026-05-24",
+      "symbol": "ARM",
+      "entry_date": "2026-05-24 00:38:56",
+      "expiry_date": "2026-06-07",
+      "entry_price": 306.51,
+      "current_price": 306.51,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-24 00:38:56",
+          "price": 306.51,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-24 20:41:22",
+          "price": 306.51,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "HPQ_2026-05-24",
+      "symbol": "HPQ",
+      "entry_date": "2026-05-24 00:38:56",
+      "expiry_date": "2026-06-07",
+      "entry_price": 25.24,
+      "current_price": 25.24,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-24 00:38:56",
+          "price": 25.24,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "NTAP_2026-05-24",
+      "symbol": "NTAP",
+      "entry_date": "2026-05-24 00:38:56",
+      "expiry_date": "2026-06-07",
+      "entry_price": 139.36,
+      "current_price": 139.36,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-24 00:38:56",
+          "price": 139.36,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "CRDO_2026-05-24",
+      "symbol": "CRDO",
+      "entry_date": "2026-05-24 00:38:56",
+      "expiry_date": "2026-06-07",
+      "entry_price": 218.41,
+      "current_price": 218.41,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-24 00:38:56",
+          "price": 218.41,
+          "pnl_pct": 0.0
         }
       ]
     }
