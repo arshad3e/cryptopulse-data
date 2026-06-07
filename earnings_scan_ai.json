@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-06T19:07:06.977268",
+  "lastUpdated": "2026-06-07T18:52:26.570390",
   "stocks": [
     {
       "ticker": "TCOM",
       "company_name": "Trip.com Group Ltd ADR",
       "earnings_date": "2026-06-08",
       "ai_decision": {
-        "decision": "Bad Idea",
+        "decision": "Good Idea",
         "confidence_score": 7,
-        "runup_percentage": 0.5,
+        "runup_percentage": 6.0,
         "favorable_entry_price": "47.69",
-        "rationale": "Despite a low RSI and strong analyst target, recent news indicates TCOM has significantly underperformed the general market, making a strong pre-earnings run-up unlikely due to potential lingering negative sentiment."
+        "rationale": "Low RSI and substantial upside to the analyst target suggest room for positive pre-earnings sentiment and momentum."
       }
     }
   ]
