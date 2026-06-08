@@ -1808,6 +1808,70 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "MRVL_2026-06-08": {
+      "trade_id": "MRVL_2026-06-08",
+      "symbol": "MRVL",
+      "entry_date": "2026-06-08 14:33:53",
+      "expiry_date": "2026-06-22",
+      "entry_price": 299.01,
+      "current_price": 299.01,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-08 14:33:53",
+          "price": 299.01,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "T_2026-06-08": {
+      "trade_id": "T_2026-06-08",
+      "symbol": "T",
+      "entry_date": "2026-06-08 14:33:53",
+      "expiry_date": "2026-06-22",
+      "entry_price": 22.65,
+      "current_price": 22.65,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-08 14:33:53",
+          "price": 22.65,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "PYPL_2026-06-08": {
+      "trade_id": "PYPL_2026-06-08",
+      "symbol": "PYPL",
+      "entry_date": "2026-06-08 14:33:53",
+      "expiry_date": "2026-06-22",
+      "entry_price": 41.14,
+      "current_price": 41.14,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-08 14:33:53",
+          "price": 41.14,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CNC_2026-06-08": {
+      "trade_id": "CNC_2026-06-08",
+      "symbol": "CNC",
+      "entry_date": "2026-06-08 14:33:53",
+      "expiry_date": "2026-06-22",
+      "entry_price": 64.66,
+      "current_price": 64.66,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-08 14:33:53",
+          "price": 64.66,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
