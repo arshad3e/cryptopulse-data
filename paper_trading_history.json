@@ -1787,6 +1787,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CIEN_2026-06-09": {
+      "trade_id": "CIEN_2026-06-09",
+      "symbol": "CIEN",
+      "entry_date": "2026-06-09 15:09:31",
+      "expiry_date": "2026-06-23",
+      "entry_price": 428.79,
+      "current_price": 428.79,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-09 15:09:31",
+          "price": 428.79,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CPT_2026-06-09": {
+      "trade_id": "CPT_2026-06-09",
+      "symbol": "CPT",
+      "entry_date": "2026-06-09 15:09:31",
+      "expiry_date": "2026-06-23",
+      "entry_price": 115.14,
+      "current_price": 115.14,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-09 15:09:31",
+          "price": 115.14,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "CNC_2026-06-09": {
+      "trade_id": "CNC_2026-06-09",
+      "symbol": "CNC",
+      "entry_date": "2026-06-09 15:09:31",
+      "expiry_date": "2026-06-23",
+      "entry_price": 65.56,
+      "current_price": 65.56,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-09 15:09:31",
+          "price": 65.56,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
