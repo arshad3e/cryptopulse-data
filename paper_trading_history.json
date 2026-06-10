@@ -1,159 +1,5 @@
 {
   "active_trades": {
-    "ARM_2026-05-27": {
-      "trade_id": "ARM_2026-05-27",
-      "symbol": "ARM",
-      "entry_date": "2026-05-27 00:26:19",
-      "expiry_date": "2026-06-10",
-      "entry_price": 321.22,
-      "current_price": 321.22,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 00:26:19",
-          "price": 321.22,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "DELL_2026-05-27": {
-      "trade_id": "DELL_2026-05-27",
-      "symbol": "DELL",
-      "entry_date": "2026-05-27 00:26:19",
-      "expiry_date": "2026-06-10",
-      "entry_price": 305.08,
-      "current_price": 305.08,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 00:26:19",
-          "price": 305.08,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "FSLR_2026-05-27": {
-      "trade_id": "FSLR_2026-05-27",
-      "symbol": "FSLR",
-      "entry_date": "2026-05-27 00:26:19",
-      "expiry_date": "2026-06-10",
-      "entry_price": 269.95,
-      "current_price": 269.95,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 00:26:19",
-          "price": 269.95,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "ON_2026-05-27": {
-      "trade_id": "ON_2026-05-27",
-      "symbol": "ON",
-      "entry_date": "2026-05-27 00:26:19",
-      "expiry_date": "2026-06-10",
-      "entry_price": 127.0,
-      "current_price": 120.92,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 00:26:19",
-          "price": 127.0,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-06-02 16:09:41",
-          "price": 120.92,
-          "pnl_pct": 4.79
-        }
-      ]
-    },
-    "HPE_2026-05-27": {
-      "trade_id": "HPE_2026-05-27",
-      "symbol": "HPE",
-      "entry_date": "2026-05-27 00:26:19",
-      "expiry_date": "2026-06-10",
-      "entry_price": 38.06,
-      "current_price": 38.06,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 00:26:19",
-          "price": 38.06,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "NTAP_2026-05-27": {
-      "trade_id": "NTAP_2026-05-27",
-      "symbol": "NTAP",
-      "entry_date": "2026-05-27 17:51:02",
-      "expiry_date": "2026-06-10",
-      "entry_price": 142.74,
-      "current_price": 142.74,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 17:51:02",
-          "price": 142.74,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "MU_2026-05-27": {
-      "trade_id": "MU_2026-05-27",
-      "symbol": "MU",
-      "entry_date": "2026-05-27 17:51:02",
-      "expiry_date": "2026-06-10",
-      "entry_price": 928.41,
-      "current_price": 928.41,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 17:51:02",
-          "price": 928.41,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
-    "DAL_2026-05-27": {
-      "trade_id": "DAL_2026-05-27",
-      "symbol": "DAL",
-      "entry_date": "2026-05-27 17:51:02",
-      "expiry_date": "2026-06-10",
-      "entry_price": 81.8,
-      "current_price": 82.49,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 17:51:02",
-          "price": 81.8,
-          "pnl_pct": 0.0
-        },
-        {
-          "timestamp": "2026-05-28 22:33:42",
-          "price": 82.49,
-          "pnl_pct": -0.84
-        }
-      ]
-    },
-    "PDD_2026-05-27": {
-      "trade_id": "PDD_2026-05-27",
-      "symbol": "PDD",
-      "entry_date": "2026-05-27 17:51:02",
-      "expiry_date": "2026-06-10",
-      "entry_price": 86.61,
-      "current_price": 86.61,
-      "status": "OPEN",
-      "timeline": [
-        {
-          "timestamp": "2026-05-27 17:51:02",
-          "price": 86.61,
-          "pnl_pct": 0.0
-        }
-      ]
-    },
     "NTAP_2026-05-28": {
       "trade_id": "NTAP_2026-05-28",
       "symbol": "NTAP",
@@ -778,13 +624,18 @@
       "entry_date": "2026-06-01 09:42:56",
       "expiry_date": "2026-06-15",
       "entry_price": 174.28,
-      "current_price": 174.28,
+      "current_price": 165.0,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-06-01 09:42:56",
           "price": 174.28,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-06-10 04:14:38",
+          "price": 165.0,
+          "pnl_pct": 5.32
         }
       ]
     },
@@ -1485,13 +1336,18 @@
       "entry_date": "2026-06-07 02:05:03",
       "expiry_date": "2026-06-21",
       "entry_price": 114.23,
-      "current_price": 114.23,
+      "current_price": 121.36,
       "status": "OPEN",
       "timeline": [
         {
           "timestamp": "2026-06-07 02:05:03",
           "price": 114.23,
           "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-06-10 04:15:42",
+          "price": 121.36,
+          "pnl_pct": -6.24
         }
       ]
     },
@@ -1832,6 +1688,86 @@
         {
           "timestamp": "2026-06-09 15:09:31",
           "price": 65.56,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "LCID_2026-06-10": {
+      "trade_id": "LCID_2026-06-10",
+      "symbol": "LCID",
+      "entry_date": "2026-06-10 01:30:40",
+      "expiry_date": "2026-06-24",
+      "entry_price": 5.09,
+      "current_price": 5.09,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 01:30:40",
+          "price": 5.09,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HCA_2026-06-10": {
+      "trade_id": "HCA_2026-06-10",
+      "symbol": "HCA",
+      "entry_date": "2026-06-10 01:30:40",
+      "expiry_date": "2026-06-24",
+      "entry_price": 361.32,
+      "current_price": 361.32,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 01:30:40",
+          "price": 361.32,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "HUM_2026-06-10": {
+      "trade_id": "HUM_2026-06-10",
+      "symbol": "HUM",
+      "entry_date": "2026-06-10 01:30:40",
+      "expiry_date": "2026-06-24",
+      "entry_price": 355.98,
+      "current_price": 355.98,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 01:30:40",
+          "price": 355.98,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "T_2026-06-10": {
+      "trade_id": "T_2026-06-10",
+      "symbol": "T",
+      "entry_date": "2026-06-10 01:30:40",
+      "expiry_date": "2026-06-24",
+      "entry_price": 22.5,
+      "current_price": 22.5,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 01:30:40",
+          "price": 22.5,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "BXP_2026-06-10": {
+      "trade_id": "BXP_2026-06-10",
+      "symbol": "BXP",
+      "entry_date": "2026-06-10 01:30:40",
+      "expiry_date": "2026-06-24",
+      "entry_price": 64.53,
+      "current_price": 64.53,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 01:30:40",
+          "price": 64.53,
           "pnl_pct": 0.0
         }
       ]
@@ -7162,6 +7098,160 @@
         {
           "timestamp": "2026-05-26 15:20:27",
           "price": 914.49,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ARM_2026-05-27",
+      "symbol": "ARM",
+      "entry_date": "2026-05-27 00:26:19",
+      "expiry_date": "2026-06-10",
+      "entry_price": 321.22,
+      "current_price": 321.22,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 00:26:19",
+          "price": 321.22,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "DELL_2026-05-27",
+      "symbol": "DELL",
+      "entry_date": "2026-05-27 00:26:19",
+      "expiry_date": "2026-06-10",
+      "entry_price": 305.08,
+      "current_price": 305.08,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 00:26:19",
+          "price": 305.08,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "FSLR_2026-05-27",
+      "symbol": "FSLR",
+      "entry_date": "2026-05-27 00:26:19",
+      "expiry_date": "2026-06-10",
+      "entry_price": 269.95,
+      "current_price": 269.95,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 00:26:19",
+          "price": 269.95,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "ON_2026-05-27",
+      "symbol": "ON",
+      "entry_date": "2026-05-27 00:26:19",
+      "expiry_date": "2026-06-10",
+      "entry_price": 127.0,
+      "current_price": 120.92,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 00:26:19",
+          "price": 127.0,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-06-02 16:09:41",
+          "price": 120.92,
+          "pnl_pct": 4.79
+        }
+      ]
+    },
+    {
+      "trade_id": "HPE_2026-05-27",
+      "symbol": "HPE",
+      "entry_date": "2026-05-27 00:26:19",
+      "expiry_date": "2026-06-10",
+      "entry_price": 38.06,
+      "current_price": 38.06,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 00:26:19",
+          "price": 38.06,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "NTAP_2026-05-27",
+      "symbol": "NTAP",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 142.74,
+      "current_price": 142.74,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 142.74,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "MU_2026-05-27",
+      "symbol": "MU",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 928.41,
+      "current_price": 928.41,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 928.41,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    {
+      "trade_id": "DAL_2026-05-27",
+      "symbol": "DAL",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 81.8,
+      "current_price": 82.49,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 81.8,
+          "pnl_pct": 0.0
+        },
+        {
+          "timestamp": "2026-05-28 22:33:42",
+          "price": 82.49,
+          "pnl_pct": -0.84
+        }
+      ]
+    },
+    {
+      "trade_id": "PDD_2026-05-27",
+      "symbol": "PDD",
+      "entry_date": "2026-05-27 17:51:02",
+      "expiry_date": "2026-06-10",
+      "entry_price": 86.61,
+      "current_price": 86.61,
+      "status": "CLOSED_EXPIRED",
+      "timeline": [
+        {
+          "timestamp": "2026-05-27 17:51:02",
+          "price": 86.61,
           "pnl_pct": 0.0
         }
       ]
