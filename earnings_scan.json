@@ -1,115 +1,25 @@
 {
-  "lastUpdated": "2026-06-08T21:52:00.473661",
+  "lastUpdated": "2026-06-09T20:00:54.919864",
   "stocks": [
     {
-      "ticker": "MASI",
-      "company_name": "Masimo Corporation",
+      "ticker": "CASY",
+      "company_name": "Caseys General Stores Inc",
       "earnings_date": "2026-06-09",
-      "market_cap": "$9.4B",
-      "price": "179.9400",
-      "change_pct": "0.6263%",
-      "rsi": 74.75,
-      "move_score": 37.84
-    },
-    {
-      "ticker": "MTN",
-      "company_name": "Vail Resorts Inc",
-      "earnings_date": "2026-06-08",
-      "market_cap": "$4.8B",
-      "price": "137.4600",
-      "change_pct": "1.5439%",
-      "rsi": 67.17,
-      "move_score": 33.83
-    },
-    {
-      "ticker": "SAIL",
-      "company_name": "SailPoint, Inc. Common Stock",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$10.3B",
-      "price": "17.6900",
-      "change_pct": "-3.0154%",
-      "rsi": 63.43,
-      "move_score": 32.23
-    },
-    {
-      "ticker": "CYD",
-      "company_name": "China Yuchai International Limited",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$2.1B",
-      "price": "56.5600",
-      "change_pct": "-0.3524%",
-      "rsi": 62.57,
-      "move_score": 31.39
-    },
-    {
-      "ticker": "CCEP",
-      "company_name": "Coca-Cola European Partners PLC",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$41.9B",
-      "price": "95.2500",
-      "change_pct": "0.5383%",
-      "rsi": 57.16,
-      "move_score": 30.68
-    },
-    {
-      "ticker": "CPB",
-      "company_name": "Campbell\u2019s Co",
-      "earnings_date": "2026-06-08",
-      "market_cap": "$6.5B",
-      "price": "21.4900",
-      "change_pct": "-0.8764%",
-      "rsi": 59.81,
-      "move_score": 30.23
-    },
-    {
-      "ticker": "SJM",
-      "company_name": "The J. M. Smucker Company",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$11.0B",
-      "price": "101.7700",
-      "change_pct": "-1.7095%",
-      "rsi": 54.01,
-      "move_score": 27.55
-    },
-    {
-      "ticker": "TCOM",
-      "company_name": "Trip.com Group Ltd ADR",
-      "earnings_date": "2026-06-08",
-      "market_cap": "$30.0B",
-      "price": "47.2100",
-      "change_pct": "-1.0065%",
-      "rsi": 50.0,
-      "move_score": 26.5
-    },
-    {
-      "ticker": "UEC",
-      "company_name": "Uranium Energy Corp",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$6.2B",
-      "price": "0.00",
-      "change_pct": "0%",
-      "rsi": 50.0,
-      "move_score": 25.31
+      "market_cap": "$27.9B",
+      "price": "761.1800",
+      "change_pct": "1.2706%",
+      "rsi": 40.07,
+      "move_score": 21.43
     },
     {
       "ticker": "ASO",
       "company_name": "Academy Sports Outdoors\u00a0Inc",
       "earnings_date": "2026-06-09",
       "market_cap": "$3.3B",
-      "price": "51.6700",
-      "change_pct": "-0.1546%",
-      "rsi": 46.35,
-      "move_score": 23.34
-    },
-    {
-      "ticker": "CASY",
-      "company_name": "Caseys General Stores Inc",
-      "earnings_date": "2026-06-09",
-      "market_cap": "$28.2B",
-      "price": "751.6300",
-      "change_pct": "-1.3492%",
-      "rsi": 36.35,
-      "move_score": 19.58
+      "price": "50.3700",
+      "change_pct": "-2.5160%",
+      "rsi": 42.22,
+      "move_score": 21.28
     }
   ]
 }
