@@ -1778,6 +1778,38 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "PTC_2026-06-11": {
+      "trade_id": "PTC_2026-06-11",
+      "symbol": "PTC",
+      "entry_date": "2026-06-11 17:36:02",
+      "expiry_date": "2026-06-25",
+      "entry_price": 118.39,
+      "current_price": 118.39,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 17:36:02",
+          "price": 118.39,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "ADBE_2026-06-11": {
+      "trade_id": "ADBE_2026-06-11",
+      "symbol": "ADBE",
+      "entry_date": "2026-06-11 17:36:02",
+      "expiry_date": "2026-06-25",
+      "entry_price": 218.8,
+      "current_price": 218.8,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 17:36:02",
+          "price": 218.8,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
