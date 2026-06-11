@@ -1,16 +1,28 @@
 {
-  "lastUpdated": "2026-06-07T18:52:26.570390",
+  "lastUpdated": "2026-06-10T22:47:52.287822",
   "stocks": [
     {
-      "ticker": "TCOM",
-      "company_name": "Trip.com Group Ltd ADR",
-      "earnings_date": "2026-06-08",
+      "ticker": "KEP",
+      "company_name": "Korea Electric Power Corp ADR",
+      "earnings_date": "2026-06-16",
       "ai_decision": {
         "decision": "Good Idea",
-        "confidence_score": 7,
-        "runup_percentage": 6.0,
-        "favorable_entry_price": "47.69",
-        "rationale": "Low RSI and substantial upside to the analyst target suggest room for positive pre-earnings sentiment and momentum."
+        "confidence_score": 8,
+        "runup_percentage": 7.0,
+        "favorable_entry_price": "11.90",
+        "rationale": "Extremely oversold RSI (29.39) and significant implied analyst upside (35%), coupled with positive operational news, create a strong setup for a short-term pre-earnings bounce."
+      }
+    },
+    {
+      "ticker": "FER",
+      "company_name": "Ferrovial SE",
+      "earnings_date": "2026-06-10",
+      "ai_decision": {
+        "decision": "Bad Idea",
+        "confidence_score": 3,
+        "runup_percentage": 0.0,
+        "favorable_entry_price": null,
+        "rationale": "Lack of any recent news or catalysts to drive a pre-earnings run-up, despite a moderately low RSI, makes this a highly speculative and low-conviction trade."
       }
     }
   ]
