@@ -1714,6 +1714,70 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "KIM_2026-06-11": {
+      "trade_id": "KIM_2026-06-11",
+      "symbol": "KIM",
+      "entry_date": "2026-06-11 14:35:14",
+      "expiry_date": "2026-06-25",
+      "entry_price": 25.92,
+      "current_price": 25.92,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 14:35:14",
+          "price": 25.92,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "TRMB_2026-06-11": {
+      "trade_id": "TRMB_2026-06-11",
+      "symbol": "TRMB",
+      "entry_date": "2026-06-11 14:35:14",
+      "expiry_date": "2026-06-25",
+      "entry_price": 49.65,
+      "current_price": 49.65,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 14:35:14",
+          "price": 49.65,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "GLD_2026-06-11": {
+      "trade_id": "GLD_2026-06-11",
+      "symbol": "GLD",
+      "entry_date": "2026-06-11 14:35:14",
+      "expiry_date": "2026-06-25",
+      "entry_price": 374.9,
+      "current_price": 374.9,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 14:35:14",
+          "price": 374.9,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "AMAT_2026-06-11": {
+      "trade_id": "AMAT_2026-06-11",
+      "symbol": "AMAT",
+      "entry_date": "2026-06-11 14:35:14",
+      "expiry_date": "2026-06-25",
+      "entry_price": 530.42,
+      "current_price": 530.42,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-11 14:35:14",
+          "price": 530.42,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
