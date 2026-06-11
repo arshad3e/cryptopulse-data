@@ -1771,6 +1771,54 @@
           "pnl_pct": 0.0
         }
       ]
+    },
+    "CIEN_2026-06-10": {
+      "trade_id": "CIEN_2026-06-10",
+      "symbol": "CIEN",
+      "entry_date": "2026-06-10 10:59:49",
+      "expiry_date": "2026-06-24",
+      "entry_price": 437.35,
+      "current_price": 437.35,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 10:59:49",
+          "price": 437.35,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "KDP_2026-06-10": {
+      "trade_id": "KDP_2026-06-10",
+      "symbol": "KDP",
+      "entry_date": "2026-06-10 10:59:49",
+      "expiry_date": "2026-06-24",
+      "entry_price": 32.03,
+      "current_price": 32.03,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 10:59:49",
+          "price": 32.03,
+          "pnl_pct": 0.0
+        }
+      ]
+    },
+    "SJM_2026-06-10": {
+      "trade_id": "SJM_2026-06-10",
+      "symbol": "SJM",
+      "entry_date": "2026-06-10 10:59:49",
+      "expiry_date": "2026-06-24",
+      "entry_price": 115.64,
+      "current_price": 115.64,
+      "status": "OPEN",
+      "timeline": [
+        {
+          "timestamp": "2026-06-10 10:59:49",
+          "price": 115.64,
+          "pnl_pct": 0.0
+        }
+      ]
     }
   },
   "closed_history": [
